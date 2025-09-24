@@ -1,7 +1,7 @@
 "use client";
 
-import { Marker, Popup } from "react-leaflet";
 import L from "leaflet";
+import { Marker, Popup } from "react-leaflet";
 import type { UserLocation } from "@/entities/location";
 
 interface UserLocationMarkerProps {

@@ -1,1 +1,5 @@
-export type { Location, UserLocation, LocationCoordinates } from "./model/types";
+export type {
+  Location,
+  LocationCoordinates,
+  UserLocation,
+} from "./model/types";

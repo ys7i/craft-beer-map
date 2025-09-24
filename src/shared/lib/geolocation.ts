@@ -54,7 +54,7 @@ export const getCurrentPosition = (): Promise<GeolocationPosition> => {
         enableHighAccuracy: true,
         timeout: 10000,
         maximumAge: 60000,
-      }
+      },
     );
   });
 };

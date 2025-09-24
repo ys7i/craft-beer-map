@@ -2,7 +2,7 @@
 
 import type { LatLngTuple } from "leaflet";
 import { MapContainer, TileLayer } from "react-leaflet";
-import { useGeolocation, UserLocationMarker } from "@/features/geolocation";
+import { UserLocationMarker, useGeolocation } from "@/features/geolocation";
 import "leaflet/dist/leaflet.css";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 import "leaflet-defaulticon-compatibility";

@@ -1,8 +1,11 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { getCurrentPosition, type GeolocationError } from "@/shared/lib/geolocation";
+import { useCallback, useEffect, useState } from "react";
 import type { UserLocation } from "@/entities/location";
+import {
+  type GeolocationError,
+  getCurrentPosition,
+} from "@/shared/lib/geolocation";
 
 interface UseGeolocationReturn {
   userLocation: UserLocation | null;
@@ -16,7 +19,7 @@ export const useGeolocation = (): UseGeolocationReturn => {
   const [error, setError] = useState<GeolocationError | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
-  const fetchLocation = async () => {
+  const fetchLocation = useCallback(async () => {
     setIsLoading(true);
     setError(null);
 
@@ -36,11 +39,11 @@ export const useGeolocation = (): UseGeolocationReturn => {
     } finally {
       setIsLoading(false);
     }
-  };
+  }, []);
 
   useEffect(() => {
     fetchLocation();
-  }, []);
+  }, [fetchLocation]);
 
   return {
     userLocation,
