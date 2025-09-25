@@ -2,6 +2,7 @@
 
 import type { LatLngTuple } from "leaflet";
 import { MapContainer, TileLayer } from "react-leaflet";
+import { UserLocationMarker, useGeolocation } from "@/features/geolocation";
 import "leaflet/dist/leaflet.css";
 import "leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css";
 import "leaflet-defaulticon-compatibility";
@@ -20,6 +21,8 @@ export function LeafletMap({
   zoom = DEFAULT_ZOOM,
   className = "h-[600px] w-full",
 }: MapProps) {
+  const { userLocation } = useGeolocation();
+
   return (
     <MapContainer
       center={center}
@@ -31,6 +34,7 @@ export function LeafletMap({
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
+      {userLocation && <UserLocationMarker userLocation={userLocation} />}
     </MapContainer>
   );
 }
