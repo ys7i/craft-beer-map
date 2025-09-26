@@ -1,5 +1,6 @@
-import fs from "fs";
-import path from "path";
+import fs from "node:fs";
+import path from "node:path";
+import type { Restaurant } from "../src/entities/restaurant";
 import { placesApi } from "../src/shared/api/places";
 
 const OUTPUT_DIR = path.join(__dirname, "../public/data/restaurants");
@@ -59,7 +60,7 @@ interface PrefectureRestaurantData {
   prefecture: string;
   prefectureCode: string;
   center: { lat: number; lng: number };
-  restaurants: any[];
+  restaurants: Restaurant[];
   lastUpdated: string;
   count: number;
 }
@@ -70,11 +71,11 @@ async function delay(ms: number): Promise<void> {
 
 async function fetchRestaurantsForPrefecture(
   prefecture: string,
-  center: { lat: number; lng: number; code: string }
+  center: { lat: number; lng: number; code: string },
 ): Promise<PrefectureRestaurantData> {
   console.log(`Fetching restaurants for ${prefecture}...`);
 
-  const allRestaurants: any[] = [];
+  const allRestaurants: Restaurant[] = [];
   let nextPageToken: string | undefined;
 
   do {
@@ -86,14 +87,14 @@ async function fetchRestaurantsForPrefecture(
           radius: 15000,
           keyword: "クラフトビール専門店",
         },
-        nextPageToken
+        nextPageToken,
       );
 
       allRestaurants.push(...result.restaurants);
       nextPageToken = result.nextPageToken;
 
       console.log(
-        `Found ${result.restaurants.length} restaurants for ${prefecture} (total: ${allRestaurants.length})`
+        `Found ${result.restaurants.length} restaurants for ${prefecture} (total: ${allRestaurants.length})`,
       );
 
       if (nextPageToken) {

@@ -21,7 +21,7 @@ let prefecturesData: PrefectureCollection | null = null;
 // Alternative: Winding number algorithm for better accuracy
 function pointInPolygonWinding(
   point: [number, number],
-  polygon: number[][]
+  polygon: number[][],
 ): boolean {
   const [px, py] = point;
   let wn = 0; // winding number
@@ -62,7 +62,7 @@ function isLeft(
   x1: number,
   y1: number,
   x2: number,
-  y2: number
+  y2: number,
 ): number {
   return (x1 - x0) * (y2 - y0) - (x2 - x0) * (y1 - y0);
 }
@@ -70,7 +70,7 @@ function isLeft(
 // Check if point is in MultiPolygon
 function pointInMultiPolygon(
   point: [number, number],
-  multiPolygon: number[][][][]
+  multiPolygon: number[][][][],
 ): boolean {
   for (const polygon of multiPolygon) {
     // Check exterior ring (polygon[0])
@@ -101,11 +101,12 @@ async function loadPrefectureData(): Promise<PrefectureCollection> {
     const response = await fetch("/data/japan-prefectures.geojson");
     if (!response.ok) {
       throw new Error(
-        `Failed to load prefecture data: ${response.status} ${response.statusText}`
+        `Failed to load prefecture data: ${response.status} ${response.statusText}`,
       );
     }
-    prefecturesData = await response.json();
-    return prefecturesData!;
+    const data = await response.json();
+    prefecturesData = data;
+    return data;
   } catch (error) {
     throw new Error(`Failed to load prefecture data: ${error}`);
   }
@@ -114,7 +115,7 @@ async function loadPrefectureData(): Promise<PrefectureCollection> {
 // Get prefecture from coordinates
 export async function getPrefectureFromCoordinates(
   longitude: number,
-  latitude: number
+  latitude: number,
 ): Promise<string | null> {
   const data = await loadPrefectureData();
   const point: [number, number] = [longitude, latitude];

@@ -1,9 +1,9 @@
+import dotenv from "dotenv";
 import type {
   Restaurant,
   RestaurantSearchParams,
   RestaurantSearchResult,
 } from "@/entities/restaurant";
-import dotenv from "dotenv";
 
 // Load environment variables
 dotenv.config({ path: ".env" });
@@ -69,7 +69,7 @@ export class PlacesApiClient {
 
   async searchRestaurants(
     params: RestaurantSearchParams,
-    pageToken?: string
+    pageToken?: string,
   ): Promise<RestaurantSearchResult> {
     if (!API_KEY) {
       throw new Error("Google Places API key is not configured");
@@ -101,7 +101,7 @@ export class PlacesApiClient {
     }
 
     const response = await fetch(
-      `${this.baseUrl}/nearbysearch/json?${searchParams}`
+      `${this.baseUrl}/nearbysearch/json?${searchParams}`,
     );
 
     if (!response.ok) {
@@ -118,7 +118,7 @@ export class PlacesApiClient {
       .map((place) => this.transformToRestaurant(place))
       .filter(
         (restaurant) =>
-          !minRating || (restaurant.rating && restaurant.rating >= minRating)
+          !minRating || (restaurant.rating && restaurant.rating >= minRating),
       );
 
     return {

@@ -1,9 +1,10 @@
 "use client";
 
-import { Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import { Beer } from "lucide-react";
+import Image from "next/image";
 import { renderToString } from "react-dom/server";
+import { Marker, Popup } from "react-leaflet";
 import type { Restaurant } from "@/entities/restaurant";
 
 interface RestaurantMarkerProps {
@@ -14,12 +15,12 @@ const createBeerIcon = () => {
   const iconHtml = renderToString(
     <div className="w-8 h-8 bg-amber-500 rounded-full border-2 border-white shadow-lg flex items-center justify-center">
       <Beer size={18} color="white" strokeWidth={2.5} />
-    </div>
+    </div>,
   );
 
   return new L.DivIcon({
     html: iconHtml,
-    className: 'beer-marker',
+    className: "beer-marker",
     iconSize: [32, 32],
     iconAnchor: [16, 32],
     popupAnchor: [0, -32],
@@ -38,9 +39,11 @@ export function RestaurantMarker({ restaurant }: RestaurantMarkerProps) {
         <div className="min-w-[250px] p-2">
           <div className="flex items-start gap-3">
             {restaurant.photoUrl && (
-              <img
+              <Image
                 src={restaurant.photoUrl}
                 alt={restaurant.name}
+                width={64}
+                height={64}
                 className="w-16 h-16 object-cover rounded-md flex-shrink-0"
               />
             )}

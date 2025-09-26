@@ -1,7 +1,7 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
 import type { Map as LeafletMap } from "leaflet";
+import { useCallback, useState } from "react";
 import { getPrefecturesFromBounds } from "@/shared/lib/prefecture";
 
 interface UseMapPrefecturesReturn {
@@ -32,7 +32,8 @@ export const useMapPrefectures = (): UseMapPrefecturesReturn => {
       const foundPrefectures = await getPrefecturesFromBounds(boundsObj);
       setPrefectures(foundPrefectures);
     } catch (err) {
-      const errorMessage = err instanceof Error ? err.message : "Failed to detect prefectures";
+      const errorMessage =
+        err instanceof Error ? err.message : "Failed to detect prefectures";
       setError(errorMessage);
       setPrefectures([]);
     } finally {

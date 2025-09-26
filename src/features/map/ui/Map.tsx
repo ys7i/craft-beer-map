@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useRef } from "react";
-import type { LatLngTuple, Map } from "leaflet";
+import type { LatLngTuple, Map as LeafletMapType } from "leaflet";
+import { useEffect } from "react";
 import { MapContainer, TileLayer, useMap } from "react-leaflet";
 import { UserLocationMarker, useGeolocation } from "@/features/geolocation";
 import { useMapPrefectures } from "../model/useMapPrefectures";
@@ -25,7 +25,7 @@ const DEFAULT_ZOOM = 13;
 function MapEventHandler({
   updatePrefectureFromMap,
 }: {
-  updatePrefectureFromMap: (map: Map) => Promise<void>;
+  updatePrefectureFromMap: (map: LeafletMapType) => Promise<void>;
 }) {
   const map = useMap();
 

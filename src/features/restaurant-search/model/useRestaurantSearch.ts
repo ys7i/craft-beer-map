@@ -23,25 +23,31 @@ export const useRestaurantSearch = (): UseRestaurantSearchReturn => {
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [nextPageToken, setNextPageToken] = useState<string | undefined>();
-  const [lastSearchParams, setLastSearchParams] = useState<RestaurantSearchParams | null>(null);
+  const [lastSearchParams, setLastSearchParams] =
+    useState<RestaurantSearchParams | null>(null);
 
-  const searchRestaurants = useCallback(async (params: RestaurantSearchParams) => {
-    setIsLoading(true);
-    setError(null);
-    setLastSearchParams(params);
+  const searchRestaurants = useCallback(
+    async (params: RestaurantSearchParams) => {
+      setIsLoading(true);
+      setError(null);
+      setLastSearchParams(params);
 
-    try {
-      const result: RestaurantSearchResult = await placesApi.searchRestaurants(params);
-      setRestaurants(result.restaurants);
-      setNextPageToken(result.nextPageToken);
-    } catch (err) {
-      const errorMessage = err instanceof Error ? err.message : "Failed to search restaurants";
-      setError(errorMessage);
-      setRestaurants([]);
-    } finally {
-      setIsLoading(false);
-    }
-  }, []);
+      try {
+        const result: RestaurantSearchResult =
+          await placesApi.searchRestaurants(params);
+        setRestaurants(result.restaurants);
+        setNextPageToken(result.nextPageToken);
+      } catch (err) {
+        const errorMessage =
+          err instanceof Error ? err.message : "Failed to search restaurants";
+        setError(errorMessage);
+        setRestaurants([]);
+      } finally {
+        setIsLoading(false);
+      }
+    },
+    [],
+  );
 
   const loadMore = useCallback(async () => {
     if (!nextPageToken || !lastSearchParams || isLoading) return;
@@ -52,12 +58,13 @@ export const useRestaurantSearch = (): UseRestaurantSearchReturn => {
     try {
       const result: RestaurantSearchResult = await placesApi.searchRestaurants(
         lastSearchParams,
-        nextPageToken
+        nextPageToken,
       );
       setRestaurants((prev) => [...prev, ...result.restaurants]);
       setNextPageToken(result.nextPageToken);
     } catch (err) {
-      const errorMessage = err instanceof Error ? err.message : "Failed to load more restaurants";
+      const errorMessage =
+        err instanceof Error ? err.message : "Failed to load more restaurants";
       setError(errorMessage);
     } finally {
       setIsLoading(false);
