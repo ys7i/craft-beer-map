@@ -1,0 +1,124 @@
+{
+  "prefecture": "福島県",
+  "prefectureCode": "fukushima",
+  "center": {
+    "lat": 37.7503,
+    "lng": 140.4676
+  },
+  "restaurants": [
+    {
+      "id": "ChIJ46301wWFil8RehUVBpdfn9w",
+      "name": "Tsugaru Beer",
+      "latitude": 37.7560486,
+      "longitude": 140.4674346,
+      "address": "Fukushima, Shinmachi, 4−32 丸石ビル 1F",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cYydA6hdu8DLNGAC36ZPbIADoyIMeTj3Gb7pCh65-Uk5PEASAyvuKerGlNFcPOWf1edkDkvFoZYmfs4dDkcufSMpqj1LqM8I8Z9La_1N51LSSGBbLW7Of2waVtuyfCPzQCMqgpASpGl2ZLSbDBONt607k0R8ujnGU9IAaaZoDzq9N_z0E9IszTTdnpXqeTV2CWn-OG9ODId5kNtbyLvGFGODCBhTytuNQsldY7kl5mLCr7LMFKMerHHv_2ydRvSD6iHnXzJ811ImEdvBy1iteqI3xeuBDdcDC68mZhGQremwlQAGWfmp7xIGBkPq7jUuhBcNOJBf3GRR4veCDidoc_hDR4AzGBrYPNvwN8htFfk70LPJYo0d9kSa9WPIvtHOiqM3BQ_vo8nt1YknZFoC9afkPeyHBQIiOOLcxlHqjfGg8uWhHwTgux3sn5Ov8rN4GXMKq0-H1mBiEj4i05xhFPXba1ezFYVbp7DARxNVqO9sN8qRIKYf3v-UMXncLRmsehBPBdMjBxa5NkhULdn06QHsbLORFUP3dtnVxFGoDjW3E-gEgzSqU7ObY5qy4GLoAxaw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ4YxPN2Fjil8ROWcUKP4jLGk",
+      "name": "Uwamachi Cheers",
+      "latitude": 37.8521797,
+      "longitude": 140.518899,
+      "address": "72-1 Uwamachi, Koori",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c_-AtyFM5I14UiIS0KxZPAcuCo5gLNzBUpaQu1Vtxpd1vXzewZPVrFmbGKiWpTdzaeTprTUJvL0p0dsWczXVfjllpSDKrKQz5AJ5LrzAIqv5cjrGp3ArRcg5I8TZYc7-yEMZo8-EnReKFIER0mbwqHkAiubOHCSg-eu3tHhPYs9DdNBTvpiv3Qkx1_C62dv9mw3vWrkhBbDRfcMcqtnNbTCRTEGGAZg7-YkZ6dGW2GL7iQV7oTWU_gZ4z4Ank1rpzkyQRfQzKnJ5q_jddFOmJmHMryxOQRofmeB7stjFP1UyeMHo0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJNXNGeCuFil8R4rHEmPcQdpI",
+      "name": "Beer Bar RED",
+      "latitude": 37.75517869999999,
+      "longitude": 140.466669,
+      "address": "Fukushima, Shinmachi, 1−21 1階",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d3rdWaULCVj_J3MWDpg_3nQNGVgBwiGStt_D6-DhmidHF44H6EbJ-z4xOh_ImTyF1HN-T_wmMfIZohXpt-qpwHZXgQq-WcPe5GctNWJVw7w9jTGKm7PRGq359IGhApNX6AjWbjsVeZwcIXL-2CbQZPyqUZVUjcRybSB0Mzm8DTjjgMNLEvHe1PJI3ukSmnvMc4KS-JS8TQ-_LLc3lVGkWDiytDWhmsD4hkrAbMvAi0FEr15NesKbHXOBngqYLbfgoJTvQE-Ft-_e2VA5JesRi7QKcTWOWRQVhIGBWtDUUawkJLTWU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ36qVsJuFil8RAlYgSdYHtUw",
+      "name": "tachinomi kakato (タチノミ カカト)",
+      "latitude": 37.75486480000001,
+      "longitude": 140.4677902,
+      "address": "9-14 Omachi, Fukushima",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cZjieiFepHjzT5Rjo5NUAbVpSZ7HlGMhgPptJhJBH5MjvDKoZkfiZeHKYSFCu_qm_gYPlOpjtyeVKlrYStG-zvs278pJ4Uo5dYBAn-5cQEGTjaV0VMMvkFxe0Q_0LiEX5gm2FC2y4aWHMhwR3JRjbF9eVIQtGp4Lv1xL4xedeoBgOO8WWgto-oC4yfreXwxc-NKBvbXwN-4GzCWsDSNKBoAUFF9vQp-O10Nx-vcsX1tEpJTF8i7tK6ExLtVk1UWlYLVzPkluQF0mdbzE0-nHSXaz3c2SGPtBjxHQDk1LSYux-s7MG_JqxpFEQ76cGj0V2OZ6aTuwlP54trcNIY4Cuz8YXvZ2dxkxaWJ531XdH4H6cpFdaPLcDlKluMhiVsF1AOFv-CPtkxNoSUGA9jripEOVRAyCiXvOD3SQb3eCJmHmpcLaICQi3yk4qMy5Dd3u4Ox5wSygoy0oMAlBGQZ8dVgaCIxo44CFgierAmMSzb4-xnd6yKM7rUSkTviAjJON5aUS3-cRKTrzYV4dosU8dqvAMB1fH2MW_cdHnfrcpQSD-V-mzNPLi5e3UkaR_IYDXilQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJP8KUH8mFil8Rl-NurdXuqas",
+      "name": "Rosenkeller",
+      "latitude": 37.7549875,
+      "longitude": 140.4627185,
+      "address": "2f, 12-10 Sakaemachi, Fukushima",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cOg-OJOoExeFKVHAe31MI7ZdW-qdZPEfqSChzq4KNVhWGDWrZtHKzp3eZnllWI53tqkVB5Sm93G_stjBWGXlPPkibBiMXmwibVKq71rn2Wu1r4Kiw1JgPF_BlFCQMcuQGF4Fo85yVAFPoucSppCDZsilRWpfdPmX77tzo31jhU-F9J-W6hPpgpQIZ0rYOli1YRheWwA0OxnDutJ97wT4GNBiJ6BDxfnovhXHgFr8p_0s0j-iP-bCK-qE_6u88FHdrpy-SqC8252pPLx61NiQgyF8ATBdaWWjfE4sQXUnsIL15aBdm7jwomL-rBFX0zC_orYkcfHuc_C93qO9JDPoeNgOn2JpBiI-Ygs3eFkfVQ_TnszK0LOtreY8XpC6-MtsnutQLIsh3ds94_aSeEeF4U1h5QjWHFwZL769SrKczS6C_d6njK3s0uV0tyQ59HtMXA5hLAGfk5XPcKWl0kdsRNIx96F_l5lCrDwWh4zhIfPOITIpfVf8M_QujWX06GhqzPoQr3oFcJWMCXJGX_r6VSvNmswh9I_K6srHKL7UN2NH4mCDkP7V8Svdwdz22nBPYO30gUP5lNZA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJs-0YVb6Fil8RF0yvhLJaBpI",
+      "name": "くつろぎ納屋 森のキッチン",
+      "latitude": 37.7413857,
+      "longitude": 140.4530695,
+      "address": "Tanaka-10 Hokida, Fukushima",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cKxEjfuH6gm9J7pfvX2b4XSGj_dTUqh5ddfGxg10AwLxWK2GdYijl1-_efvOEiCDD-PdQRkfPYQSA4M2dvVv6jMM0cz5Vrax3Mujc8YpSh8zD6qhOJtjvbQB2h8a33WLvL2TihRmpbcclYUdTdcQ0-N9JHWRqPo-M7YTsgMpkITiqsK-M6mGAlDyt7tzZl2Dbf3qkFVWEz-9v8gK8qFn0eTPJtIEkza1qIS9UxA0DRyd2242w-oO7F_3eZXm1rOk_Jg9jmW2B5PFtWn0YuzFEAJw0N7v3cjTEDqoJ-5L610BkP1mA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJDfnmFAiGil8RyBTdQdrzPjc",
+      "name": "La Selvatica",
+      "latitude": 37.773812,
+      "longitude": 140.4610196,
+      "address": "Tosedo-9-1 Oyama, Fukushima",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cXq5AIw37EQD6V66yzw9v009AkNBMWdyXo4ia8g3fsHSOl34bbVRADumQlRKuOAJQX25eB3Vsyt8z0Iady8HHXPWRiFVeie1NXsLK8eo3htIhtbhRqjZbITqpnOdlKfiQLwD8rPbwLn4y90G4M2aVrgW_MEpDCFjExAkM-5fPe9PJDrnfYlNxfQGeO5B4okub72iajdad5sorSjJ2H9AoWk03nIYTmi9ftGRRTEX4CfQpkrR0Cn3Ss3sjmNktL9yATP1ZjOWHevbLKwKVWXMbZdljiUFtMDxzLmO5-yvRxhexDZuc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJB_0iy4uFil8RvWqLLdnFrfs",
+      "name": "文化通りスタンド わ",
+      "latitude": 37.7549752,
+      "longitude": 140.4655279,
+      "address": "7-14 Okitamacho, Fukushima",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cI0UP9Z2R5vTO94NgweTS-m0pZTDGdkW0OfdC7CjEx_RkvtWloHAPT467Q-A19VXlQgani2N5d54NEbBdJFUQDGBtaMkLFW-5gYcIZ12AY3mLKAwxCr2wWPuM_pjVakbkW2J7nhaPlwyfL65fWc7f-vf9AETo7I6JKZlPzdQ83BZg3cPe0fzTAifBUNnOalIqVDRSgGXO0XaeBnzSwNZ-X3nXWN0bPMXQVUL5jYkXfHTWu_mmRw5dOcqsL3bXkwT4XMS9v2xALq97Bi4flWvoAnkh9DliyFqJpIsLWMLZFhqLWcXFuXH6dip5sJs5x5t4AGIHOWhvFMVCkEa1BY8AWoVGotWieAo_DrCu6fmuj73iuNaip20U4HpMF3Erd5JFg1kz9BCvI77JXZrfan40AdQ-zrBu8vP6uYQeVB5uscVnCZJ72lT2O9glr83yOyzkJm7rWLZqGaaRf2ZAI_Gmxos1Qml3ju8EGhJt7o38J8tw7rBW23x9NGKE99o1y1sSSLXLDfXuLitHB4QtI0mlZhc_EFSriOW3dL8RoCaJ8sKBog76GGdf_hrujtnIhkdvHgi-j&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJMTgQKjaEil8RhEvzLehnqEA",
+      "name": "Kiku Sushi",
+      "latitude": 37.7455753,
+      "longitude": 140.4727513,
+      "address": "Yanagikoji-59-1 Watari, Fukushima",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f5XPR25V_zlsGpRf_lz1u15qpFUYYQ6Jd3oY8oWJ5Cann7FzBXDDpdWeT9e1Mt7rPupze2CDUow-ekshhAohi0MYsTGro2tAGizs_lOhmDWb05VggOiHBIMzd22bpwTFYWHL33QP8uSG4MKIW26IdSN4fE1qhGwUFPXP1H5A8GvjB2ofYOBHHb52l_T_Hm7vaJQVXijil81cbQIt0reTcRhXAxVSszdkaD3Mxs6pHmFvqwmSleIYv8_0tlcTh8tcKqQdDTBE_Aw7FkzmnhBlp-0ZfnHZzNowJdHJ6HnoNLk4e6n9nbg7HfeXOQCgqLcfzk242AbTbVrGHbsbccbAtUBgULS-55BQ03Vu1-7h7POgWV0PWO2Fw1H6y3WQT4FtrUkAXn91W5zillWXLuDfPyGeeEBvp4h_YR25pEGD5XrXyFIx_1hTRpSsKlGFNzWkXGTMUkIrBj2b_quOYqBd0uG_R7qtp2leJW1hSdXDkccgiI5IUzqCpEnqCpM6ByT-XkbdInlHVfJpByk0XI0_Px4P_YzNbcZamn2iAqH7Aq5Nx6RE5DYHwJhWNWT5gbDskXrvr3&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJD-ooXACFil8R_YT-Li65x14",
+      "name": "Sour＆Beer S Garden 福島駅ビアガーデン",
+      "latitude": 37.75455729999999,
+      "longitude": 140.460192,
+      "address": "1-1 Sakaemachi, Fukushima",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d_wGYxLMX1wISgaBYfIyAgkYAvVM0wiw_Hq4jT-ksDBWLBzVo9m9aYHoHyeQ02G17AiU9oLPQQXBu3hvzcfSDeo8MLXvou_dP_JNYh8CJT0K4pnm98a7gjYsE2GIf_ni-C-ggl3UP7L1I13Ft7fCVDg8tociBuPZvpgvTboM65uW2NjGX7s04r7j4rfEL3zNL6RFtxfZZdG371qiubMHYEM29KSoPSc_zB6YC2KqS0FgeoppylgmaZcFCwNyeZJ93JNpUjVnsud0HhX5yrcPpOxqQeaiVpR70LXSI5lKzdkjKKtBc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJh416VMmFil8R1Au_O42YxkI",
+      "name": "Grill Jamaica",
+      "latitude": 37.7541961,
+      "longitude": 140.4658489,
+      "address": "Fukushima, Omachi, 1−20 第三寿ビル 1F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ea_H_wdNcpYY1_OTh41nUfc_k-WO_4b-8mZUJyB4ePj8hz5m4ZmcMse5kJ_DaA646nuUCFbmVrsbSG2h_kMF-mu6xKHDErO8BpG08s12N4ncoNBTNRxb-gpue5vgTaTV6YbLQhdurYt3ghBtbXidm9-PvC_jizM2gariSFQTcXHj3RV7a90jJthF8RQ9syAyLgBEE-mc6U2hHw6tq5ihAjZLxJ5FBQwhsB2fFRC-K6ihLQA9zt4AAtMwpxPvjg9KzA9Lskt-A3nROLZNeHf48VJVE_AGnfcXC8pskRlY9RPsuTKe1YeuFpF_M7LfR2PckZJF5VkYeRFLqPxYvL4bc6NG5pe9iOhkIP0inxv7ktMxK5cQ_4qvoF4OiWoQISjTm_FaRCTew7FLv4fCsLzSmBTExa-iqARjp-4PZFMVymqArJe5tcI74SV7oKgdMH2dWPj_y3Yx_tIpjwNFTUtuVfR3HbGw8BRIcSjc54R_FezLOX57R4ZDQJPwxY7xTfWZuSteHe_kCTVP3uWumR74fodnXp-i1NxOhSmyGLHmCtX3Z_Nex-I3W3dkla61owGJb5d7aCsxzrvF3CCtiZiSH4dgk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQebjCwebil8RMvFk4M5Qieo",
+      "name": "St Anna's Garden",
+      "latitude": 37.7050244,
+      "longitude": 140.3705894,
+      "address": "Yokozuka-3-183 Arai, Fukushima",
+      "rating": 3.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d2Mtijc6RQPjqH5dF4RqgfOXRV8libO1erNbcl1-uWYuiv7271_HwFBrXuSpWriHKv69xkXonA-ONKWZTwV7F1EJrUh3VvFo0sR_IaHteLzGcQZ5QtA_fFNZEemY7G7kWJrllXN7RHS6c8vInNAnBlb-avlxiHKxQ_CPZh0UV0Iv2C3HL5YdfRmEvn32NLoCUX0CFYXvDqgRrvBmXhv2NKMxeYkJSlF9QxVDjNZeIqJCAvw2MbIfVQ6bBzXLQV3sm_WA-ow1-8HLMThpjjWWwZ-6F_GWKmhEv4BjksIB_5Uelnoug&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:17.664Z",
+  "count": 12
+}

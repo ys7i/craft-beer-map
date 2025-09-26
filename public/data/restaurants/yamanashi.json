@@ -1,0 +1,112 @@
+{
+  "prefecture": "山梨県",
+  "prefectureCode": "yamanashi",
+  "center": {
+    "lat": 35.6642,
+    "lng": 138.5684
+  },
+  "restaurants": [
+    {
+      "id": "ChIJY3q6BsX5G2ARm2I5x85xCX8",
+      "name": "Hops and Herbs",
+      "latitude": 35.6604738,
+      "longitude": 138.5710817,
+      "address": "1 Chome-1-5 Central, Kofu",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dK5tUfbKCKwc0vpF0wnUnMfNyzVFsZlcMjBOum9Yb8pDFpfiroZ2XDeG-YrHgxQy6kUZKLEgt-3sObH8GSYlJUi-4GLlJea8rsY0bO2_wxBtO_nDqOFV39OAK-ECYYps8Sru54EsEtEHoL9oDIUcn2TruEa2yOH114g05g2uug1Uuru2Uv22kVOzRGIQ01_C33T4su37ig9Ob0YPlcf6-eAjp4hSdpiUdepKHC0_u1wDjgSXDuKkZToN36fgvhp3siyPhbSJ-A0w0JtubDCP9yKY3EZTfk3TKdWy1zDv5bxBNnuNE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3aocxBD5G2AR0xr3L6bH1NU",
+      "name": "Persona Brewery",
+      "latitude": 35.6716852,
+      "longitude": 138.5656826,
+      "address": "2 Chome-18-4 Asahi, Kofu",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eOPlLfuFUEmT3IoSnj1HDaLxsLZLCLU4o2G3ZlHzbm5cm98YUtCOo2Ya4KLaYZbv8LiKcto8XMic94pF6PNqvl4RWi1w5aBBa0a3jISoHVriO0jWHcrnf1HasV_ughbg9CBbUR3z6HT_VdYceZJAVH1qFTsSv3Eh0WD1IbfuTBYbcMeyNZjDyt1SZrT2LyjhjGFDJxUTet5KjG5cgHW6PNyVWRHNgptd2aVPVch7xo2-AVZCfykDjqPchZAOznerPEEdoGWKillVgUu2KV32BVI8CkNSM1trbDtXtklXKdGPP3n1Li59E15CLn38DotYP36nOmytTM7IXyLUg3j2HX2XGJjetClCpwNUr4LMjs-YmnmklOiBMkZfR8a8-ZFL7uoM1yD46chVGAMwgMZEtf3YMrTWRAnmnkpcFC6K-0-i6JV33QsxcJ1qJ3qHLuf_akHvlt9KHpEi-nDFTXiqYInVUBK92noB1ziWRb1bkp1eRDl1JB-9qRtIdXldNYTKGTP13HMvt-rLGAEBp1h0SCPMItHY6SVHzHaTFiPw3MqhKF55eS5XPeU_aPcq3ihSVbVqEAW0Dmeg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJG94lYJv5G2ARif-zUy0pbZM",
+      "name": "漆參 シチサン",
+      "latitude": 35.6719709,
+      "longitude": 138.5665685,
+      "address": "Kofu, Asahi, 5 Chome−5−11 いせやビル 1F",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d7hWJEuAbXWcVm017_k9j1zZnkPmPcynUFqm44xpdezHB1k2C8rs7p8mQlT4L4RosDe7a01jRHbnbbWfNkzVn507c9KMvzztJgklEeGisCMcW_gJWFfiSpkPC9pGaE1_UTFT9JecqltXZsxKFcHxlkKcvuYCl2h8IgRCAcYdCo2JaB4OrfkjN98av12-4goRy-A39vvDIIpkTJE4x6ymnb68azUC96ry0GYxy17syJBEUH07YUKOjiO8UmQPs2V8tEd-uAfFZcrh07H0FRl359GpxSQW_ieZGtTuw-ia1yP-sHGi0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJi5H3Q-v5G2ARwPQCjV9oRBw",
+      "name": "craftbeer bar diagonal",
+      "latitude": 35.6524515,
+      "longitude": 138.5778262,
+      "address": "3 Chome-4-23 Aonuma, Kofu",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c16lN5z5eWekKd7HrpYMuMAXeTgjZ9UAHo6I7bgdSuJoowYcgIxN4wHEBWUc3euTFue7Ujn5xeaS7HqqU9K2EmWQ1moapZ5Yx93cszMn4PvXvh1ArRdLOLAIWdu_fBWrTvunoktRAika1LvjGLVIy-Qp24U0vMxbz3aq_KYBwYswr6gShvG7oZ6x9WnqgMOk5T-UDR1gNya04cZh0cDRkyOVWHn5hp-i899jIFjQp_ZLgiPhdgVLzi5RpsA2BKJt3hBk_GDtEMDv06LqvJ5DTPzgPeKJnXit8Z5VrPGMqqTIHtBfog1fPxmGmHMdyTxvoUO9Bf0qMO65cYcOkXCw1KlSKnBvWtnHi1Rw0H81FGamV2Waw9DndZ5REx37cc5xHCIuitBow4MFPu4N0A3tr904f9Uuy3ZuE5D4sJW8SJRO7jJPvD0zk_7_8MqaZj9-jy1GQsCvEzCIY8RIz80TCD4Ntc1C9U_oq3OI-mAVp8Y5HLe09TP0xEjAOFp6CapCFBNbmh6kOhqCFWnxoSc1CaLzkYxr0ZuqwmT8ZgXmnKBI6ex4fG_EqkRog0eoY5kr9ifdyQL2RJZw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJkVR0TlULHGARoOd1bEaN0bU",
+      "name": "TAP8 タップエイト",
+      "latitude": 35.7102514,
+      "longitude": 138.4501227,
+      "address": "Nirasaki, Chuocho, 1−14 2階",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cSWdJZfPXDuu3YOs_DIgA0O1xp2kPVgfLpRrXpN_X2JeiNPtI_QTMSFqV1dZ-oxpipGlsDkBSx69LGCuHF8KWnhfwKtBT0gri-ObUjai-qn5c1iR722c0pmM0WDBFV72YyeiJ3S-r9ymfdyDQXwztLRjNi6Z6kK7ambQosK6oo2wji2gibJeN2-N9x6bJl2A2qHBU8D-J91fl8RFKBMEyiioNjnliYA5gA2QdOmOEmU6rHXKVB3qVP2OSIMYXEpcTCwPEdqNspfU4FeMFkqMsj8bhUxeNsjwa66pBFNvuhTtIvkjE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJa7Et58_5G2ARmp_yzl_-wZ4",
+      "name": "Four Hearts Cafe",
+      "latitude": 35.6626444,
+      "longitude": 138.5691022,
+      "address": "Kofu, Marunouchi, 1 Chome−16−13 Yamasa Build, 1F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dhjoPhwAZIObzT9iD0qmcrkkhsy0uwxXwiN0FZ6RtBqLxRwZOJ1qAmm3RccaxgkcF9vNvsFrt7g2NTKrGPAkPF6xJmfj8cyuUdomF8axL884UJaBniDzZ0ZtfmVo9xAHZwk1Kd83an_ZyhoL46QSE1P2U2KvOu5yhl-IKJo5zZxqcUoRXQ1bpxcGZh4AaYeo8TBTU39TEVpF52pLyvp-6_i5vO3oBJsYZdrzb5RVXglMAxTlEejJTHU8jBjbuhtJsP68tpTSKwF_OBd5oRAtAKg7VYrVkyd4eqfFJSGPjP-Hj_hTg49kfQQUpNDS_osQpJON-jZxao86FvgVQO5Cat_M9OlxbpxDGTYUVA-iDksq3UhxF5W1B3lCNh6pSmgrp7sif6wwEQo8zZ_8mh3xRUwwJhPa9uvEtOIPXoEq7oODvIRZRXDN0AQ3FwcFhbb_r4ZhJWY4zOGHenTdgYY6LdqmKAW6xcImlnJrNrGmY0phakbwIkjz3UbzxdQEAihsE_nABWnGYXpqIJS_q39oWalrDDiWCV9GyFtD_lAp_Bp-eNkXqc2qhuJgenwOxClU09eRiu0chTcj5f1HC7-fa6j_2WZA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJPSiK77b3G2AR5-tp1z4x83o",
+      "name": "Nori's Beer Tap Room －ノリズビア タップルーム－",
+      "latitude": 35.6193128,
+      "longitude": 138.5212305,
+      "address": "1631-5 Kasai, Showa",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2degVMvTI-Lu0N5vFzyTgvJkycDgmdEgCzdaypLQDVkuNrlNJVxrkyautuqeY3bgf16f8OtLXG_3buPynwDw5lBU5Z-bt8bW2O0wdRZeP87eeanb5vOfX3QvKgNLdvv7ESwriu_2KsXuYrJ-44c4aIELQaW8apeQsChAy8o9s3nWtYKAub2vRZ7J6KVGZNmYeTK7x4R-JeTP1FtmhysqcAaZmj83reJk2VdyU2i7Z6qTf7h-d6yM_4if4r_nWYWarQip2ECERsZqM4dvPf2huE9EDbj3F6UvzGbBsCCc-R9MY4G5s4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJP6XcVR_8G2AR5fsqNk0EY4w",
+      "name": "Bier Krug",
+      "latitude": 35.6675592,
+      "longitude": 138.6588045,
+      "address": "43 Kasugaicho Komatsu, Fuefuki",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eQDXPJR2hovlmpCRJ8FvLwgL3t8F4Vv4cn6qgnZc0K7fpAv41NYJki60qncZEQ2HMt5rBpSJ7hnikTbJXRP_Ca0ALwy6CjwSnmRH1u6DZhfrzSUQczaqIvUXhqK8BZ8nNbGAObfyz7sczudF-AxpsLuAu85p36nCkR_bPGYw82NTrXEhdfHjfRSIE-5oAJoDjuKsigGVgBkZVpqbW_EmW0BqdRZ9-vqaCCZi33x6T5XZ02hIE280_sHVuBWbwcao4vritr0jFkyQ3ChMT55iNq2P0qi74QPB03CzOG146qTULQooMhzGtPaYKCh6nTdu26dNtxiLTwVnUdmMJ188MrqnyQ8xQYBcTl380rIFPhu6v-Y-2IoorS_gV425xhn3__J9QA7o0LFi1hzlZnMfvZGRJkxvrvnoCBfuPDjxfMBBWN7M_WjdaSHQWEKLSMQO8MlGbrfY5Y-J95wWcoiJ_zQZi19cc7AkLOatczLpqOJpjoa8D_8jXwsgUAGTyqiNzTmKIIztVxl7u6XbGp66trn1KJ6WhCFGWCm0rQ7SX85UprlTrjtH4WM0TacrYRbcG8Ce9v7ba6uQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJm7UCYr75G2ARA6aw1DTNru0",
+      "name": "NAP bed and lounge",
+      "latitude": 35.6606957,
+      "longitude": 138.5719519,
+      "address": "4 Chome-3-25 Central, Kofu",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cDBDrDZLIAjZPuNgOVRgQ1rrT15KioAk6gjG-goOqWrtf_q639RQFrRR_z12FqOlvBFW3GNyZPkkKIH3mJ6rqjZV-3lJ10j-luK5Hzg6Sf7O_0m8rk_5BVK1zb_1c_aZqzQwIVxD5O9H5fNauJD466gUguj2DfxSZonARoWkEqDwTed2nPSWnk4-CL6V5LWxm935RLV82E9WCrBT_a-syh9Etpt9aLte7ydUALwgSt3gdgF6N_Z2tLzFbht7uY64ZIE5iWxXBmicPUluF7pWvMlDCKruyY0E4ovK06GAMoMcMwkd1L2zZ81cRlxcCYHMm6g2CB4aLj5d2prI6mI41KzxThOoKHXwTj18xlo0bYvHw4StFAgCd07tnhxcEaZpzLJ5izizbkvqsRXGS3vS0RZVrm5zXnV6LinZJQ3BBEAS8P9eCcExQNIbR1DFOny9gucAU43wTSfUIc0CldqFF5JkKEbQqTMhU2z6PLnS8HbGmN3dCrTWd5mwrg6TFU1zkjSKmWguYGawJJfvJRP0LgYc-eS9MZqJAyCMaltE7iGhz1cZLpZGJIGihuLe4ZNImtu1Q4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJHXEzrx73G2ARpCIcch7VefY",
+      "name": "クラフトキッチンOMICHI２２３ 移動販売拠点",
+      "latitude": 35.6612231,
+      "longitude": 138.5442281,
+      "address": "4 Chome-6-21 Shimoiida, Kofu",
+      "rating": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fhwV3m9Mnjr3ZSzcuNmKEFi6llVh8h21GQDEYWvRkuvM00m762ATwHO4Tr_4q3PQQd21DKqIZl5u0-bsT0jKfZT4f2dm9qLTKtB3zU9Mq7AFSwSCG5wKI6VeyMk_XyDVoqefrkVoFUga2tsRPLROvmi6ZEK61894xn5M3n6Y_BtrJvG3y6uCRI6cGZ6A4oPm1e82L1fM3VvCC0uyZ6g2NOi_xzgxQRKAicv28JHtbIjB-pGnzKdJW9vbYsvClkLIGFdWHfjs3iXkSJ1MBX7W7Yv-ZOhfkX7u22ukY4vWcSZvOZ-KU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-VfpjKzxG2ARSLQIvTUCXIQ",
+      "name": "発酵ブラッスリー イデアル",
+      "latitude": 35.5940161,
+      "longitude": 138.5177227,
+      "address": "Chuo City, Nishihanawa, 3544-1 レストタウン立川Ⅰ 1"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:52.578Z",
+  "count": 11
+}

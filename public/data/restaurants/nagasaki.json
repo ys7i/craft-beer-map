@@ -1,0 +1,50 @@
+{
+  "prefecture": "長崎県",
+  "prefectureCode": "nagasaki",
+  "center": {
+    "lat": 32.7503,
+    "lng": 129.8777
+  },
+  "restaurants": [
+    {
+      "id": "ChIJwwGn4yxTFTURfO3CivlRvOU",
+      "name": "BEERPUB＆CAFE AWAKE",
+      "latitude": 32.7646991,
+      "longitude": 129.8652897,
+      "address": "11-2 Mezamemachi, Nagasaki",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fsj7jORJAl_7jB7EgiGcUmR5BPktiILKGmQgmskMuIPXQbNFiihnsQBZZIJ8KO7xz1DM01bv3SU6eDXKIpHmVkvA1PJRH3QLvoABsaAZpUtXbtoz2iaUSQGWFWf-aJFyparj7_LsfNBsJzI08Ptf7cCOKrsKlNfrGUWwPatwNpvf28W-heM-ZV6zQ8Rzo_CqJz5im-yNDvVZ3HAfl-8CGUx-3Uh_idg2SsxjEgqYxnaaHUOnD3mmUXN3fgf5uCuWHwQjb-pmYj6PCYl5WYYYfRrA4J2QNxmm5kS6iAM9XpzUqFcgc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ_zFIcQBTFTURk2SXw29oIbE",
+      "name": "THE STADIUM BREWS NAGASAKI",
+      "latitude": 32.7596461,
+      "longitude": 129.8643797,
+      "address": "6-7-1 Saiwaimachi, Nagasaki",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dB59yBYI5um7yzMbTF4baYnFs7FwyliSGJutVY4HHggBxvNfhaX03ymLyrUj6ITh0is5ID7GsUMhDU3UDiP-gxfoIV4HWcvOkFgy0JCIe8KmrGjZH58R112l5DyfevDKAVkrr1zo690NpKZDilTmQ_aq2l3s7LWETdSDygg4wc0X9F__oZVB8sVo5P2koLIannv52y7_yeHzS8kUrxBpcYdyECK42_nsN45xhwEA3fsG2hngFfpxGqv7chhx5DFLbJJTHg5LHhzpC_PSndmZ6qoWKgFfKAlLkNrmy4w5vYomhzmGM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJjw4c9qpTFTURMxDz6r0AtHs",
+      "name": "IRISH PUB NAGASAKI",
+      "latitude": 32.7534145,
+      "longitude": 129.8716268,
+      "address": "2-1 Daikokumachi, Nagasaki",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fCnWgByf5GruvQjG5NUYisabympfDsgDCZ5ReeFv0Sgwdyh0-O-iJUrknhT4xjjXeUqJtqrxK7LQApWycyA2Jb-nmlW13peJg4HiulFev3pyIDhUKYmcieUH88ZEClZl7ZKGmOuyATD29uL8Y1Sgln_iIyyyscDopz0yCieKOq9vtOuW4cwH9ksIIB7ZKi8pRTUJOt5nxN_ecN_dy7lNTmYYFMua8osK7CC6C8Uv-kqiWP9-YWMwMlaAH1lGMDSaDvM93lXa6hjJTQwrs0S8A7u_vD8pKdEdMuAnhoFSG0brKTGxuIvej6tJUTFgDkQHHKSPlSaHaZrRwH0ucrzR6NPyYFPaHAQp67sgv2r6PPkiIvAvj_vOXfkN8-vFp3Gev8yy8aWek-NxxLYYqtH_h58RIEEnKD7Fwp2VSIi76x3UDldiJ6jsbhV870WCKbss-L-IgaRJOqOaREb35WkvEM0pAkMR_NQFdreVi7013Mu2vFfgMY7reAvsEBC4q06tbZNeBix7TsKK-fzSBScslcSMFnvMrEsNhra-4UoaBzTgKa689TJfUns4QL6_4uIJazpE93&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJUT5ceNZTFTURnKHWyT1aVmM",
+      "name": "COCO BEER UMINO",
+      "latitude": 32.7626133,
+      "longitude": 129.8648455,
+      "address": "1-55 Morimachi, Nagasaki",
+      "rating": 3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eaHN0UM57QMMfxPVqLcsY9qjtbO44tSp4fOcnIAMetsK3BX8XCAxcYOEHjrQI-nFp5_w4hsT9UVEI2ci5DCroA8v5pyyfHOkmOX_XAr42NBhirpwi82uNf1Mqdz0nlK5r_92F5AUkshSEI1Fl_S5LaHcpY7P9-6fiJDsJTYqNP8ldxJd28eb_zPt3q_N6q8oax6aFgQ61oCH-jEN2FLtqWpbOoRZTPJb_opDGMnuN7IOPYjj-IU-SgGjLfFm8mWHrg56JMpt2mWaIhe1NjkhsGegbiRQtGwqLtIdN0k3iISbkRuihGHQxKT_cS_4S5rwWnzQnZnuj4DltY550VjkJmPcjKQdO_qz-s5TS40DpGvdFgljhKzw54J7lX5zHG7QKFZNX7303G4qqTesQqePzOxN9H5vk-Gw7Kj0gF5hoMz3_kmxJzD_t33v7eII6291dfB4LedwO_zEkVTOjNZHg76NwztXtNCvYAN1pW4pqbiStJAHgCBuSC-7LXyjFBsfBrmnpuSZrOtBfKklLYFSiGwoC57O4kyvAghTJXyzBv5lVjljiXBR-h4YSM8GTg4eXRlEMguXMYsi6Z7FWigHl81yA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:46.430Z",
+  "count": 4
+}

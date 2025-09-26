@@ -1,0 +1,31 @@
+{
+  "prefecture": "大分県",
+  "prefectureCode": "oita",
+  "center": {
+    "lat": 33.2382,
+    "lng": 131.6126
+  },
+  "restaurants": [
+    {
+      "id": "ChIJlyUQtJWnRjURCoqg5ui82nY",
+      "name": "Beppu Brewery",
+      "latitude": 33.2792038,
+      "longitude": 131.5015527,
+      "address": "13-8 Ekimaecho, Beppu",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e4ukfI9Q3z4oaEBnDyDa27wdz19PeiWxXKaMhfi5_OleH_wcAqy7EcqSSOtP3XBZXH6Q8Jxej6hDwdFudM9RQIuMR32N6V9par7Os-FuoeHFqpt-utVKX9HJk4o7XApKzaJ5AaMdzL6XM2HJ-Ulm5lhFKyCILMjQnuRrrvVvxHS1taIJxDxLzAfqtbTH2MZ1osV-oA8RQXkb2GhnNBj3yizLtyQvimX2xonNnP7XO6-yuRp-QnAtMiCt1wthKjpSrxcj-_VJC1eCvBFNWlN_dQw-r39pWwzfWqMR52SDXXIJVs0mE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ___v3GSfRjURYbb1966BWhY",
+      "name": "ナチュラルワイン クラフトビール 専門店 ビストロ俊",
+      "latitude": 33.2370467,
+      "longitude": 131.6098367,
+      "address": "Oita, Funaimachi, 2 Chome−4−15 若竹ビル 2F アクアパーク側",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cf0IYL42ONXV6ukV4JXdZubEgpGRvXnldBuVK7myyu4iSOfTISfprhUyjqpowx67UgPysWuE42xEB2Lt5AXZDuwOvj5xxzzpszPSCUIn5BPkZBf0D9qN76mRwnriNcy_p2Np6ts1XF4NP7jbwLxvEwHnomdhadnqVkM2Md8lzHQLPmu1k4boNUuUb481CbbGQQdaaaJk7u9bxs7PY3uCyA37IsDQ0S0mM7HV7ZBainjIidvOaCd6o71QVPq8NWQtB5OYOR_lXYO_XiZv3HvdzoeXRB2ie83sqSpZPXknqmi4G8WJQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:49.095Z",
+  "count": 2
+}

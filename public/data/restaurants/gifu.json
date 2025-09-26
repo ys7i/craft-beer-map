@@ -1,0 +1,76 @@
+{
+  "prefecture": "岐阜県",
+  "prefectureCode": "gifu",
+  "center": {
+    "lat": 35.3912,
+    "lng": 136.7223
+  },
+  "restaurants": [
+    {
+      "id": "ChIJnWOpEm-pA2ARwh3s4kNkZr0",
+      "name": "BEER&CRAFT",
+      "latitude": 35.4113965,
+      "longitude": 136.760308,
+      "address": "1 Chome-11 Suminoecho, Gifu",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2clDiDJY04Eto5eOknX1ocwnRjR117DbFgTz6XiIL4Q02Svq_2FRwuBR9Ao_azTiFx3JMWm_1bDTkl8PcoZZJLVr7W0wAt_o-LOIxmT8AgiQ9ey5lGZjyYz5cDCnHI57H_2E4QDGaaYtWL3U-90PcmhvySVJDcANuRkNq5PtrshIqjMJsCi6RhEOQx51CDjDMl6AQbPL6OUnNVeTj6mVyNe_DC_g3KMJG2TDb8vc2Oi9U2RTlgV2y75pI4noeBC45GbxRc2bg2dsX1bWRCIe4rJQNVpqbWVB9UZExPrXNAIowBVfsMG6kspIcGh9ZbQ75eAnYZKUJRdtc_jriSgsjW7pMVB9tudlKszy4ltD98wal3Apb4HV2LBfFh7ouZDvrvZzNQRPF0FKbl0JubZc3un5HozO5_XW5TdbJmt6O4njOi0KBCKgZ2yjanhtfwnVxydwV_sLMlHd_pEwU6U_kCvDHIcDcK6IypaIf3UyajKFf8W1GF9KfbM9TQw_6RImIv6H3i_e1EHVgTr8wHWOLPQyNv0Qfpv3NBJjcaQ2ikNhFoXlDshsZlrzxap9txHKIZC5ik-&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ_bVsjEepA2ARYk4JYOYXAVA",
+      "name": "Yell Ale Gifu",
+      "latitude": 35.41344309999999,
+      "longitude": 136.7590127,
+      "address": "7 Hanemachi, Gifu",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ccFqrSlACE1Yb5Ijojfn94vWmblWZImDexUdxYWGLbElKc4YyR5-MvlIyhWbY845tkLuO_KPU1qEJ6yz-n1r7blbdHNmXoUoOrJ04wedfDVvM_Mq8qTYf_9weUrkd5zlq9FM6nQggCGK2dYBrtJhuAME4b1ukZ0C8nmnLkB_nyL280AYVJf1Bi0YqV1587Q46nN40jZun9169WJw7JSBrd4n1P7pOz8Juz_6c_iY8CefPys2WmblZt_dW4dAxLAmcceTiLe3Xis_l_1SLwt9AeiGGLg9VBIHbonOHaFKdqmWfkgFo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJCY-npc6gA2ARCpug5KzvsS4",
+      "name": "一宮ブルワリー",
+      "latitude": 35.3013637,
+      "longitude": 136.8004697,
+      "address": "4 Chome-１番9号 Honmachi, Ichinomiya",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eDzoHE8EEylZsOULnx63rUxbCPEmvWit8lR_TLCiul883Iu9DsAV92pG0GZdZMIg92Ama5lqEYXen1sCU69NVrtwRFtdS3fh5TWRKYpPSqYSNuUln7QFeGTry0Nlt-_F2BpBgid4xAs7Oz3PGtCKhXNnvVWsBF0TWKm7IKjuwUxJJZfmyteaMzs6dAn46R_KUPdYw7aOtzvdgst_pxgJQqvcIeAClKYwYTt2CGSfkWJsZdfydib5zgojT60kg77u4OQ1y2CqZZwFgQfKOfrPt3OBJ5sMgFbV95W7OgNNC4aprpc_I&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ5T3Ei7KpA2AReBxNalBjxtg",
+      "name": "Kogane Craft",
+      "latitude": 35.4152771,
+      "longitude": 136.7583072,
+      "address": "Gifu, Hachimancho, 37−3 久世ビル 2階",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cQFi9Yg6-yokogYrd0DcJhXwYbuLsD-OYtCoCDN7NQkh0LshrD1FXcE_kSiqfig4yG71-z3QLcH88GziJbyvE5qc6UUx_seGL-_JqndMZvPMYZR0zvr-tA_aCs-EzLncwmRJ64gLdzm_vOt30YHdvzoG6chSe5t3mWWmWK15QB6ZgMnYCVC4jgwoZOH69YIJxIBRUzjdLolYDQI0lLwATFArKEF1FRbNULgjlRkBI6YnFx28AaZSk9qPneKa7BSLNnYzEWBjlz0xiDzMlUtQAybaPQ9Vlx-I-EwWyvg2NlOE7GIKIWktHKCAdwj_H5vNLy9VbDaw2pY8O-h6eMFxX-o_IK3MX8qELzhDgRf6MxqSIpNH3ScmtppYOz5fH6Noh_Yl3VwKo0cu6nurmsGORIMHF8l08jShi8XWjrC3b7yqyuf6Ua-P5fAwUUUWLeyvHKXPVbyI34-09_4t-lb2qwtP5mZbdi-HmaMW2lV4RLxmtkkN0Q7oMDNxKotknRREbma3deJMPro6OvjzjOEguaHq1e7e8gaS9H6JvpPLM_ZJvCpP4z-hGpzP_8n8FkzhcMQkMZ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJW3Nipc6gA2ARV_S-58hoafs",
+      "name": "com-cafe 三八屋",
+      "latitude": 35.3013635,
+      "longitude": 136.8004824,
+      "address": "4 Chome-1-9 Honmachi, Ichinomiya",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2coWsEUDiflTi0fpkGHcdtqNgeM2G9HjhsCXpYid_qAhSA5TRmTFY48C60dBt1qKjFeWc5bRuvkjWijyItIaupA03XKuddhVutK_BnHkTJszTL8nC-90bWuXsa8c4NPfHS27lPkoiSdCMaPW_TadP2mpNiAfdVefAHKmTBqUqlLwqSuNF8ALWs1Yk4gWZDjmvOjHI4ScgZJNl5bYggEx1IILnJ_DiQ1oolmIkvTmdXcejXMNVENvhaiTt_SmGUm0undQKZ7Tiqm1HuC1gnAFgm4sKcArrf8qzGugj3wjbIUMfTo0w4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJr69QiiOpA2ARJ57MfhY4WIk",
+      "name": "Tamamiya Base",
+      "latitude": 35.4117137,
+      "longitude": 136.7580622,
+      "address": "1 Chome-7 Sumidamachi, Gifu",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c1b_zSsvkcSqK3wbl6ybZuk8vGsdyqbnaCE8Cxg79owSnSIIeud3JxaqQ_2jSjDHV8-ej2UucmzHcaLe5dg9Fo_F1bFHOi0azquhPnarflEf7JLArPgsfQcDD5Hjzt4gx4Z7cnEe1ZdFs2rgZHkKlmKhjSf4C9yBtMrQsUr35lYgYNrX1h5Ka_nJDOTwZQoPMm-stQc8YaqTGTozaZRVOMCtPOPy7vKUxfIfHDJ7PeAJP1Dct5tLyvilL9rkha2uECi_6sjNuBygGeYTgb3nTPg1gGo2xE5l-hRLFWVHpUEFF_6ho&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJg46VgFmpA2ART_OS22RyklA",
+      "name": "Fortune comes in at the merry gate",
+      "latitude": 35.414762,
+      "longitude": 136.7609218,
+      "address": "Gifu, Higashikinpocho, 1 Chome−1−15 チサンマンション岐阜金宝町 112",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eQWgcA-BGf2S3YUBmsOsN6RBueoXAxvMggbJNqvubmuhhpKaIz9P0vJ8K4gdHP2PWqlG-syr3yuvDjF_M5LXeW0EJhIMWqK_UxasBMv7Z8hWgrihWtCJPUDNYjCPy0uNeA0Bt5rE-E2TQueX4ADyqxFS3XjkPhXmBKWNk8sgFL2USjZ38wS-bOkWj4nQRwQ-EozqsaHZbYPMRPbrtaR3LpoZ6Fal3BQGCbIYJvXLreb8aebElxwxnMF55Bn8NfmvHBsbCkQ8l0-uOyJIZ51a80poc1vHPD1tthUWNQOe9ZdvQsWbZ2WaCFPsCXeLPVur-jnZwGP_4to79ki3XLuVs_X2BszzXpH-aYj6N0zEQf649cK_eoUYNUpwLWXF52w6-UaoRZNHuSC6nZggHmw86IDCNKKJIzyYdsfVgrIVcUGvjssYdtNZ08_8cJ3AoWUyFV8fTnB_anBEqYXSvv4wSQqVhhEFXOud0hwfL15lrUC9Vm3XsQqeTa3E-jozPJWDX7bRIkvUaybib-9nNSsXryUUfKkA5Kh_jftWR9Biex8e_jLbBOt871XwFgWH4padsisA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:55.695Z",
+  "count": 7
+}

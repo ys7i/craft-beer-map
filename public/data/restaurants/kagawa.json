@@ -1,0 +1,115 @@
+{
+  "prefecture": "香川県",
+  "prefectureCode": "kagawa",
+  "center": {
+    "lat": 34.3401,
+    "lng": 134.0434
+  },
+  "restaurants": [
+    {
+      "id": "ChIJK6vSn0nBUzURNQEL-JuaDcQ",
+      "name": "のみもの家",
+      "latitude": 34.28200229999999,
+      "longitude": 134.0469602,
+      "address": "Takamatsu, Busshozancho, 甲464-1",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ewrLIgHKC-Noc0jO9KAbnH5P7QCVF-SN3Zv_FxTuLHsHP-17SSybx9-C8a5DQfUtR8uiSKalgYB8yHLK_Oc2kX7oWpooEQ3AtU0XuchQjnexXyBT8Y3D78w2XP6XnCJ9wtQt6wYrW_WZ0txxdfsZn7O5eaajtkA6Bjs5mdghLJAQ-5UYe2s9ih3n56Q9Fa8vI1z2gCLCLhympqmb0fYmKzvPW6Gn4-2iSZ2nR6QMc5a3LZ5n1s7wE47Xxa5p3BIe1-0u5nPPwqSufkxkn-swBAYsNlPZqFZ46p0B4UuozJd6v5cYc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJUyjbjYPrUzURQS3kxBdov1s",
+      "name": "MAISON DE BIERE",
+      "latitude": 34.3451616,
+      "longitude": 134.0536582,
+      "address": "4-8 Hyakkenmachi, Takamatsu",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2exTcQetefTh8B4ZdYxvR9ZVoDqWv1uS2k5Pzuyzav4ektcdl4zLSpOmU3n7TdHVUQuNX8IbLi5Yl0eKB8JUQqn2J0W_Gy_weajPFIWXfNYtbWxbsklhvEA49-xYnRHjyNgpigZ9PxCeh-R0oj0U_gyjM7GnJmyoFVyHCpvssBMegh2B1jkzpfDpp85TFtcXHX0QUzlNsEFGWjMC3lEs8YCiknIdc7-e0J6E50sUMy5EXuEnnXOif2lvzGf22xh3DQzsLUcb6DfLOqBoBn1gfX-gXdY_tx_hnLg63ddIZxmNgMGY0Evk9iVBrDY0-dvZZDORmFDqSGfZ1menn4-8qsUSi44ySLXGYKB0zG1BQCJb4jd3R5myV9QJUUObwEjz5Rych35XedRX1X5LT_-0NNGaHULaYqCicQ_1_PUYtr_OFKifgY00VFwRmGt2-j8Doc2yj2D8P4lIse0Cui4pinpdue9Ny35IYfcfSTUeC0Od88I7OgP6eDswxBbyR1RBSrURw5OnHxE3n_ahYwpwnZrWkEzf8hDYBwjClKiLeHAAvhC_Fusbb7AbFVh1T2nyxYmquJh&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVQyVr4jrUzURggRG-rM0zVs",
+      "name": "THE CRAIC",
+      "latitude": 34.3495717,
+      "longitude": 134.047965,
+      "address": "7-8 Nishinomarucho, Takamatsu",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f0wwNvKRvFT6GFfg03dMS_e_dDp0AlW0I_oca0n-vdFPILSo_vtyszH2MIrqFRl94KAY-sAknM9G9krzZ1LvLwvyGIO_iPTdxJgNo3FgscCIfErv-usXNIOEncNpuMXYTpFG7_qoS72b5yYbYp2WcEw6fz7A1l58-t9NHKynJ5XXQhjdVo9x80WiQyTnT2gTeYQLKgNyp0Zj2pSJGLzRnOAPZIX7BQgrx5vTBe3c0ePbTPc6FqeAJSfnnQX-7NeiA_NkV-KKUwdgpZWx7yFoqyL3W56k-lRD_hK-B9N1FZzLcuZVoWtsbkj_pHYjo7GB75loXli12i69c_fOmSs77hUNRQ1JY8TtIRdwLusF9PKbsk7Oj9NfczYJu_Xsk6ncJHkbn8hcg61GFBWAb7xGYmrlH1STMM_s_EIUtJj7qzBLN_gKFwG-63cXZP-VY2BGMvWjIJ283b7Xs41lzDfcR7ir4KsbTFzXS8zFRFfsHlsU6k4KSDKVLH0dO9CQRG4mFAtLwuy1-zgp5BX2I9g3TIgA0F7T-Huxve7OUxzQN_APvEPc_VPogf80LAiBjSp9Sd7TkT&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJvac3coTrUzURuWJcMVeBaa0",
+      "name": "芽論(ROOM the MELON)",
+      "latitude": 34.3455906,
+      "longitude": 134.0527694,
+      "address": "8-1 Kataharamachi, Takamatsu",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d6ivZYp1XRNF198dTr7BQlYaIbi1zGalymwILdaqKJbb3fy90o0P47FupmLEfEz2-8IEZG1HWSLJT3-KrnxTSZemj9_obiCXCU6sLA13X_EvBUCP8iwpGXpcu4j2yBZBMGve3DD8vuOWpeQnaAuroT95xQjOusHzza984JkAbjtOLt8im0mxyQmB5XVc6KCtQPpxXmRapW8FBUeYAGVIrMz06jY-0Hd2jpFGXvh_nbvDOvGuTDGsKcDYC2I6E1pIoBIwWKPaDVHc7FgwEz7DooaPSO7ZCNtXyiWp-YShOJWhG6I_c&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSb0HlhvrUzUR2hOKw5nXWiI",
+      "name": "さすらいのカンテキ 高松クラフトビール酒場",
+      "latitude": 34.3496372,
+      "longitude": 134.0478858,
+      "address": "7-5 Nishinomarucho, Takamatsu",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2de4BkOFfqSlrxaGIzO2XMvwven-GHSQCMBqZW7RC8aE1Uxq3GGzoqVFtZ7PCWfD-zFqjSh77MV1VMjcq_ehrkNy-DiYu3OwFtT9Z8lFhVzhM1EakgeQnXCGhYD3XyeH4nR6gpbd0aqaVzj_TIpftP8vkH4SMDL9_7Mt5YMxL1J-D3A_JawXcLYYjgmXfpgD7wrZpis9ZXJymuXHFq8g7S35i_yQmhJdj6C-ZIlmRKYOJPPcqGd5lEedLWCiBjBuJuFZRGRvIkxiLrK92nMssS4kiE4RR0N_X0ZxGuXEdd52SsJ_NXWKMmOTsDJ2pZ8wAjKFebiCmC9k0si5tTepi8vKhCpC2SGAvjaISGL5J5X3nfon-WngOszIIE6amen2C1nPHikj8FP31ledRt_ZoZGh26pCi3_upGqGUTte8V8MtWA4wQBx69FYI5Jjj8iDUV321WMIDopTueakX66Uv7LPFZxoQ5Ol1SnkOO1SIQM2z6-JYO6DjoRH9VhewkMQi2xvqnjaxpcHfhHp8bIDzGte1JU7qwY_CqszffNP51IJUFAyiNQThBtKOslke4qTAGnJj0h&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJfBYYd_rUzURirAcBV-Gqh0",
+      "name": "cafe INDIGO",
+      "latitude": 34.3438274,
+      "longitude": 134.0199115,
+      "address": "Takamatsu, Saihocho, 3-chome−670 ＡＮＯＴＨＥＲ ＳＴＹＬＥ",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eJ9WsK2w-T4N3uSDFx2ahp-6c6OMh2ELhEQY4WJSeDRa-DIx08QNm13jDs-J2yYGZWN5G0jPqpwiJ6J-albZA5wtVVOOo1S_8M_rLkRDtX6hOYU_hyvZNO68S8DBqk2_Kwa-A9-DWmVAZAwAXKXSvfu6_8fLQYCu-qPFi42dsdhmeH-eRghucIq-VOuOPSGGGpBOfkvcEv-zKhGBFHiE5aDY-izt0iAos7GBzTvFa2HCtSvj5iuMleoCq3PZrKyksEicGOYTeWNkcU_0qOW4AdIPrEb-lHUaZN2sd3vWNob4P2omA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJryDMU5rrUzURR2-3lH5pA8Y",
+      "name": "ビアロッジ",
+      "latitude": 34.3407538,
+      "longitude": 134.0506083,
+      "address": "Takamatsu, Kawaramachi, 2-chome−１−12 富士屋",
+      "rating": 4.1,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d1kDbzlQBhEnvxzev03tPUXl0U5nKPGLHTot0b2YDzLnrpMH49ugOfkWVjhYaUb7LsKhHlQSfAVRU0qavXywdA13Oz-Idu7cBfbAq8yoZAsssxRgkUsvzLDamM66iFfgim8yKXbZpeT-wNkK9wcH4KylHvTyXacV0sFFJpBoYY3GeWJ-3KFtVuQAsi__sNXH0qb8XUqHfX6CetkfFbwUF-9KG0JhJRmt1RJ7_hjCYAiNWmIrMbnRsFbtianRw8BlJ_bLxlCJxvHilJzagx5_cz-TFWzrBDxz-6PjYS3zq2jwEefdX8dusq88wPxpKD6fu79hiAPGDgircDMGcRfQoYBeb7PG2vej0DMqnHnWFpwADKM3BAs-eu2cqvGU4mQrl7X29-3qBNPRKs1eBfiAdN36oEXqqOqeZwyNrvS-EDarXUUJF4xncUU8s2t2k_3yJ91Z9c7oE-61CBQ5tAahYUSzvKF576NDJpiff5VgitFhZeA3Gc0bQPKDZP0tjGUcgpFWjX9jZ-RCNJrKRbifo-VbnvAKSa56I0guk-wnfrYcmK8y8el6LOka1hy6dGnVAAJ1eZ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJg3GTD5vrUzURQkIelGcufYE",
+      "name": "12",
+      "latitude": 34.3413334,
+      "longitude": 134.0515398,
+      "address": "1-chome-9-6 Kawaramachi, Takamatsu",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dSYF2Rs7z8m_ye4Cgn5hYXPBZKZlB9gXk_g_02EzDbSWVSA9R5xpwyWmID7B8Z_Wlncx7AU779AitsMujpXcyBbyT2UWhc3WwEJqC5jBkNboGKCBlGDSgDpum1aqc7sTcvl6fsrH0H0HIDcSFbdC3yLFV53aZusQC1NFyaDa8O2c-aICuBNqoa_GcKJCgO5sbbGaZwosaXjOSl6skdpVnoIFunLGVBmurW802VpupFHwFTpSFnukVvxpBNeFvF68ml_dB5Je15dFWSgoVpF-Y62Lu_GadEinCZyybbkC7EraHIvMvi2YUDv-fiTUfoK6AiRYt-I40XZnAugHhv6pqWAGaugCTK8p-NCNej5TN1AogCWoDpRyAM5wMeHCapqpLGQS7ZfS6oB1lvyUeRbOL42IkowkxEcG7AorHrYfLeoysp0BEIeJB1H3VhdLLxmnHRq1-J1LoMpYxwxURid8O47JBuK2AWX1gDelzLPmGK2ROnNvoLmtTvrDZUszSWhYq7BAt--zJ2vTm704Xf0x_1utTCGH3dZjx7I4oMeWpXCwGSn7v6u5NKcYoL1jz-8W7TKiSd&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJiwlwSprrUzUR_TzZnXDNvT4",
+      "name": "JuJube",
+      "latitude": 34.3040936,
+      "longitude": 134.057794,
+      "address": "1508-10 Tahi Shimomachi, Takamatsu",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2elSTW8IRs4qrNNBI4iiZJilTucz3SJYUm3-w4XqFgcBDzAc8012IEirwmSF8vCJtnNYTfOivd0qSngSNNoH1_3FDOsZ9F_vwNIgjVLhRtfTa_id_wd6QpoGW0VKZWJ-VIh8aVB6lQyMMDUk014XsrdG4pcPYgXX58O0BDdwbNzxfsfhGjYIdXKjaEj80JSdkLBmVc0MiXxEvOJeBogcpP-y9egTMjkecibFc2Rfjs_RHjz-ZX2fkWsoJ4WPszQ6DIqYzo9SyfBh77z98kH8zAJsKIAcYi6tFFj3Blg38nKRuFQdd0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2QQUB1brUzURxHXafJuPKvw",
+      "name": "spice U up (スパイスユーアップ)",
+      "latitude": 34.3465828,
+      "longitude": 134.0492107,
+      "address": "2-chome-4-12 Kotobukicho, Takamatsu",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c88OAHyVHSMeujLhugbxX1T_k8iubx2_fSpb1ZHxubSt2Kh7gC86Tro2-F6-Ebml-hdOzkoBQIXqG1g-8E2NsURAZuHsb3f6H6JTAC-4M4TNfRX22_ySZ80IShvh7GsLdYaM_vtZBllKnA2g9v2PN5a2usOKEqAQDiOoJYR3keM8N-WkcuuklS2xMJA6-FriSF4CR2hWgo7KusB59_DKkCSV5IhHH2p08Is5ZDMHNNyHqqJ90zuJfzi0u5loCVbucX_FVRIv054fXESfRJkcPmMHHdY4h7Nw-dSmUSRKUG-NEyb6ypSp_yr6LsdnVyW5fgCXqn0tz8PTMh8en7dU6vHReQPZ8R0yxCmvtRMW92hHCLe5CLHK-G22Krcwe92Tga558VqycgOvUpTi4RGDjveQwy5tdfAIDKRJ-QqVMx8Ka6KawD-XdiXEKd7yEfqx8CtiLh9aLoai5WEq8pbSPCKpgyQusF-MNuTBc_QZJTNE87O3dE4XeAM_SSMHRgW2D6nY9KNN2UCbxnP7wj3MkHiVvx_NZs7NHBQqduEYuIbc4njVzX_pOuLn4rr0AaCEtcTYuP&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJo48ikGHrUzURQAEuVQrqpsU",
+      "name": "SETO rama",
+      "latitude": 34.35286019999999,
+      "longitude": 134.0372749,
+      "address": "Takamatsu, Hamanocho, 49−20 LIVLOV2階 LIVLOV2階",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cIgyxXEvfroXDa7vfqwTgLIdyuEBa6pLA91G3JKeLK1AkFjvWbvcBTOcacrIX9uQq5jbj3--Ux8O-mgLFEUDrzf5xVsGaksJWMf9GTS0JRPlskxH2Jmx2dxGlxbLz_ke8qpxcfi1Nenr6y07GEr_iXJIPieUlNl7szml2yrDrMoKFoUnpENf3ObZpb5d8F-JDJNmmcA_7MUcJCirQyx0cDiMOGmUMrIbvw3Gz9cy4z8nZ-F1h9sp4RnsLt2sbfiFOiT27Fp34u0P_1F1oDlSZ6XKOhg5VtyQXqHAffeZ0z2Z1bDE0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:39.335Z",
+  "count": 11
+}

@@ -1,0 +1,124 @@
+{
+  "prefecture": "福井県",
+  "prefectureCode": "fukui",
+  "center": {
+    "lat": 36.0652,
+    "lng": 136.2217
+  },
+  "restaurants": [
+    {
+      "id": "ChIJhfkQtQC_-F8RccQQSvGvsNw",
+      "name": "OUR BREWING TAPROOM",
+      "latitude": 36.0619336,
+      "longitude": 136.2211544,
+      "address": "Fukui, Central, 1 Chome−3−5 FUKUMACHI BLOCK 1F MINIE",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d5YI1-XcDB1I4N5wfKox_jIE8q5THR10zRqMVKhkEddj2YR0ly_F_shBa1TuhALG6V-irEO2AADDgt_9kuyA1fRKvjq94BymcyYxapm3xr-Adg1HDW4-oPfSkA-hDMZyLiM8yKnXzZnDLrr4BvyOc_Vx6jzH__5LAs0KGYydpPnCbLQ2jFdLWgiIBrSbXWINHYucbIWK2iBHeujcR7I3V0nyOZqN2B47dzhsabp4Mpl42RDr_do5baGmao3z7md4s5WnafNOHSfVO62YzeLT57twL1F2fDjOBcXtupneCxafcq0lY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJL0zTBP2_-F8RXTQ17Ipqhnk",
+      "name": "Trattoria Tomato",
+      "latitude": 36.0281562,
+      "longitude": 136.2165263,
+      "address": "Fukui, Shimoazodacho, 27-1-1 トラットリアトマト",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f68eafxPC3Dc-Fd1LATJbG0sDUdSF37fXZnmlSdQWkbBjC6PNcm29YVt4v3I5-rk0b6dnwNXrQSW4gH_k2n6VsDTyB7mr3l9P46-f5TnN8U5R669_lL15Db5D0xUsTJmdUWAauT5p6MU8KPIlnkk5TjiwCH3U9lsdybJft8SGHrddKqL7z7NZ2GBOpdxZ9EuZAe55VC0229UUn64LITo3COmpFX8W6p2CxKEWHxQnGAwy01ZLgQ1g50Bzyktekn-HzYLPWef6KzRGuxm1QTwnOH3HQaq5-eTX7NaFzQsnsTXGnQxY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJM_h6pE2_-F8R7BMH8h2XfcE",
+      "name": "クラフト",
+      "latitude": 36.0647301,
+      "longitude": 136.2174265,
+      "address": "Fukui, Junka, 1 Chome−13−1 Art, 2F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ckfoIDv-jcDOxHcI1YZ9VnXqEFiD4_PJoRk7pBBD_Vh4pQvBKLmJdA0yBmXbZKFTWrJ6G24bRAQTA07CpxEEBvM4SypRkw_v01a1nSyh9Q0_y9sts2Dk9zoYJemX5Vw3rQc9kmvnSibP0-KLXcIQNHaXDwrLm7bnwhU0z7PG3UrcfjSr_XUOgFUj0__FB3HL25FHCaX8t9-2DyWrHtTqV5Jn0skKctcsIhYtKnzTn3T0x2EHfLiFRW-hem91VyJEfcZeiXJXZuoLDCIW20PO9jriEvX5SyHbdS2NUepewohJzY0GHh-UGXEEJVXNuzOtzQnHBp_ZFzGvO5MKOT-NHU8cicH1UqvccNiQMbl7_k5r35CcMtJoWbKjXRxYQ7tv-nWJhh46sBX2Y1aL0av44Xcw9AXSDtpEZXfzO0nMHBYp0sGv4LCkSXZuPzBWErYGROmtnIg_MThDjmjebbtxRp98AhmMFLdzHACRhLv5cj836hdkH-NC6F4ZboxJcrrOuAjoaUlAP0-0KGdx9CFLfAtSQbF0Ra56GNqioJguUJ9Ja3J8nXCxcpGqBxnbz3Jsut5opJ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSxEyCOW_-F8Rx8W8i1YKOgo",
+      "name": "Hang Out Hungry's - Fukui",
+      "latitude": 36.0480338,
+      "longitude": 136.2050274,
+      "address": "4 Chome-2-34 Tsukimi, Fukui",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eH_IkUIkRKlJgBqmdV8q4wtrIzlXEeRnXGQ2SqUkPow7wl4kdS5oVObLsMtPIc6YsN2ShIq5c3F0G45rkVzWDVLukCyahDuosKMxRyOZeV6lOxZjCV0Fp1aQ_tEFVKvekfX0VcxrV4O0Nnuc5qTICqiS6Ev0qkl_PT5ApV3Vkp797QFW5rZKBN_YNnUBR10gjGp5ZJDug2Qp8CIPJwM_eQuVIkDj96i46OfOPApOoBtodbhIEgge8GYEIE0d5iNtNmLW8_tq9hWioTeINqGjUZZ9yrd-fIK6OTLA3t6VvRFmQkh6s&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdT_yoe---F8RwAWN4wck6_o",
+      "name": "Velocity→Yellow",
+      "latitude": 36.0647364,
+      "longitude": 136.2161044,
+      "address": "1 Chome-15-29 Junka, Fukui",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eqplyi_2tbPFZWc6I9BpW9jRBtAWijnHauSOxAE8HRTSFLuCjvGbUjqhKwSDCOCmsq9V4zFECPGy3e-gcYK7SN-waIOCWQ9gn8rykqkz8YXm7IcDUL9OhkXSknRZfdVnQhzMo6AMV3x3aVYq7I3TaGE8n3VRDWOyIrtxVmk6SOR8fojSCiETPYlkjaav_8TdH-m-nNMRBH7hITfxKxZV2yW11IvmjcXuOlQX1hAwsciNKOGk3U7BSQesauzN6PBO1G2f8KDgctCkOvzam7Tv_MugwRq-vx4AYnXTOdIODK4Lu_qqQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJwcF2Tvyv-F8RN4lqXl4-CwM",
+      "name": "so",
+      "latitude": 35.9428865,
+      "longitude": 136.1879201,
+      "address": "4-1 Hinodecho, Sabae",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dmKBSwqwLT-eraSXRxHuEGlVcJwUq6LXd5U9xiKtUWvuGiOqxQGpLTviBeUkeati00fWtQxtkpEKmulD8M6K8HPQNJ22WDcbiCqxb1zSHTTUUh8VufO7s0upkG-_54-zfyN74NW721YDPBmP9b-DW1R5GbWZucqaQz2ulPKsC6XariOE1CqrvpzcDxlwCfijRNYC4drUZUqnGK28eIq46irLGHLyaOnfsf30rFXGNDKo7DAL4XzyzIFNo4M9PgeBF-0dUGEQq_LS9H_aa87R9EdnmtGvPXObz6d0Ow5Urh7XUczQs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbWyMkBm_-F8RkOlZJ5OQp2s",
+      "name": "そらのガーデン -NY FoodCourt BEER GARDEN-",
+      "latitude": 36.0618107,
+      "longitude": 136.2190908,
+      "address": "1 Chome-8-1 Central, Fukui",
+      "rating": 3.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eoqsjYbDgTlP3MTkpH_zJGYSX8mh14vc51XfvIbjXyP59-dHwKImOuwCpB3qGC-PbphsJCaj_qhrftvTr-3BP73zk6_GI19Mt8fd0UC1IQpo08pql84m6mrkA-xyNOVJCUVelPLOy9iLQT0F8LWXldzYNhZi7SF8HMgz2bE0fMgjNbhsAkYl11EkBZdoqYNXrTbs7iIa-VNwaK_iB4x40Ka4nyt-QaXppcjDelNl-E0tcNzSpbGq1xi2ZvhhmpditfgnFclwE05pBgnler8cbFzdesGtUz5PK6QEndQGTLwT7aE6562EqvbKISZXo41JTx1RYviVNZhVmWASPl2Ea6oBCf8EgS3tJO5lgYaInWHZLbOX5zQJy51NN3aEf6PqXWTqbHQWnzfa5EWjL58ClH7EKkGvNaqatqULUCfoeiXhn_tJBlF3LkQH68f9zejhseYTj8nQnXu3PNGWeNVGxJeo1FvDc1XefvScWAP3GX4Tr6jpcFeR9gGNqPzOsbTBBjjnY-xHvIF6JdD0EpXGFFred3UdrP-9iqxOLW22Viwue9JKRg0se8HwVi_MR34Sii8g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJr8INun6_-F8Ryh3Oxx3IfxY",
+      "name": "Kakurewa Shokudo",
+      "latitude": 36.0608629,
+      "longitude": 136.2200102,
+      "address": "1 Chome-14-5 Central, Fukui",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cOlw7FuhBlTAtA2o7xjaTWnftummANqaKswsuWNSF-pEYXb1WQokwugQ-NMWUeL7vMKPGKLeqmLix41JwFGgO7LeTA5_9gdydLLeRoPhWZU1n_OSjkwkprda0yTlUMIKBA3md5HDuWUv2bF2itaJCLIoXAE3-Eq2ICKGeZl-rcNSZtgdAegDDKl4nOAD-Yj1uI-Tewn53p-QMQfRVpX0BVA84JSkZOKo0tkI9P1RVlTsX8NZL8QZnLJBjueabo3TC87EVo9DIF6OmwSRoGMhDPvnGbc0Z7z3l3bwAyYqt2g4BX70BCvkFio5zQ2kCS0ArnoLlqLOnGtvqyxFjHG4D-cKavl_Qg5fEjUfOcO-GCe8a2ApS16Cy2IJjRicDujf6fzPUVW6-UjnXkr4QgwK0bPBrmCB2WtH7fw54DU691T3s0GBvmHjJSAXKvLCUJbanAnQ-k6Ia_3jsSOLaSDP-_jvyho_itHplQmVrZBFGMCh8hOMJShZPLe_ZgACYkkt-jp_EMc6xtXQ9mPAx5lFF0MMMDzNyil36O1L6QPLOJ8ciigC0_j0SZJMBxkiPe4BzqSdoLy4oOZw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ9UIBqba_-F8RPEvqw-Ju6IQ",
+      "name": "Irish Bar Shelbourne",
+      "latitude": 36.0611574,
+      "longitude": 136.2197707,
+      "address": "1 Chome-16-2 Central, Fukui",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dkk3_MUcHZ5VygZYD-VmQ_AJb6sw4ngPJgvHnO17lT6bKp6K3b3ZG_NRHKn322wm6SFWyvhvnUVOvMRT_83cZaMNB5RUfIiD0wg2JAnlwZsLCghGNhpOM2fY2QzLimmDeSRbJakGeLgy-FDce-25og_RVmt2uKQVVgPGG10Zey-Qk6RTj_pN5z6K9b3cDzUFSyY_WHpSB-yafakm8KdWZmoH7nEjanVfbdSH7y3qG_9dk7c2lPIGtrk2qvjc9RwRSyKpOZQkOlGWSs9Z9D3m5LBcX9-O-OVE1l0Kmel9n0RoIUgZo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJoWZMiUa5-F8R7JVNTCAegAw",
+      "name": "Hakata Wakadori",
+      "latitude": 36.0460075,
+      "longitude": 136.183853,
+      "address": "4 Chome-1107 Fuchi, Fukui",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cI_njfAWR9KgBVEh2y2TkFaKlkIDAx8fv6ibEkfyA-lfPR401uH8rzDuanmyVlFYyKIpPDeMF6LPXXJlV_sHECKgkQWbDIWzsK-nLwSiImYDPH4GG7Q_tJynB3V3EJE36tchd1PlHxXo6t85OvnAh5dXjISCO7gnmfgjw79rrM2qv1esXnUnX2oYBoWGHT6JrrSsdafxu5QFmKuVLL8Qu-BciACgYwkhDzolGWKHX7lYhcX7Of0mTRNTi-Tmksi08tIAV0qn5Ehz7sqRmFa1Urm5yRTePsNWikiiI947QogaYSmkc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ4VDb1uy--F8RjCFLSPLQLWI",
+      "name": "FukuFuku Chaya",
+      "latitude": 36.06146469999999,
+      "longitude": 136.2217813,
+      "address": "Fukui, Central, 1 Chome−2−1 2F",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ei8qSTQWJVHgsQhOVob4mQcLruE73E1ULw3IgkrdobvQhLvHyaKHdHYzvLIiEX2_rxWM4yeerCQixQNc68ZFhXWxW3j3Y-sgFGpnJSHXJCbcRavxcaI-R3l2m9WBxRqIv_rgoLncy5yYtrr-9nXv9JB32-gsvcRExalWWp9GZN6Op8m_37a27qcdLkg6gLWOez3rN2oyPzOaoPdvRADV2I9ld2c9YyeVi50GV1PY3rLOnzkYeoTNRdCw0m8JHWicPj7WkzKpQKHj9fOC8-_keefScwsV7nmDW5s67dSXScVGgkvRBOkdwGkIqLwohutVviRQBGmxTG2uWsZ90Ob3T_zRaP4e-y72VZzsHso1iaKwidNgVApQgvGSsgOIYaYaaNGbgcgq7pLNr9lUQT0rMWqoClu756PyMmm7v10qj__BYO8ggt6aX3w9ew9HPN3qt6xh6U7UnbBRCy4_OBXvQzdIs1Fmw9OktfVIGl6iIPFSpg-2L3ajBTLelCk5Z4YfCVifq8gSGmsXWoEf0cx1z6_UvFokADTZEHUWMHzcXl6hI5AUA_jRMcUDv9cSeUaG3fL91IlAc1WThX9VLqNa3Wvbxh4w&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJoUVydsmx-F8R9agzxX9h90g",
+      "name": "Lantern Bear",
+      "latitude": 35.9725806,
+      "longitude": 136.1816711,
+      "address": "1 Chome-7-5 Shinmeicho, Sabae",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cpGaA0NVSaaKOR1JbhHTxRBBHOuMKyRCnNR3QOKTUEe7WSfhKfrtfCSiET4S8T_Ebc2lqoHIJPTnyFd0c3KlTuyaZn8CTrMsjlsFy9yXkuHRaqqBCFzHjb4YJqDcyklAEp1Rnh8_3J-s78zA4xkqds66CJ011wMSMZA50C_4bvnxVJifl-_M33_eMjR_rbxM-duSq-5cHZ_d9au30en860hBtbLv2zvqPya7G6HY4hDJ4K9I2Y7ciiK9z_TeCtt4FoY-xc2yOumabEiRPFknQ8-yBWXz7vTmUG8vho0AufruEI680&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:51.107Z",
+  "count": 12
+}

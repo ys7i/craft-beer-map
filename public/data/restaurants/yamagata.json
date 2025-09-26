@@ -1,0 +1,184 @@
+{
+  "prefecture": "山形県",
+  "prefectureCode": "yamagata",
+  "center": {
+    "lat": 38.2404,
+    "lng": 140.3633
+  },
+  "restaurants": [
+    {
+      "id": "ChIJxQWOJq-zi18RlUEiUdkeB2M",
+      "name": "Zao Brewery",
+      "latitude": 38.1807629,
+      "longitude": 140.3194759,
+      "address": "Yamagata, Zaouwano, 字南坂1096-18",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c0--PTBHKgVYLVDpB8rFGEL9ovYw0Qvz85AYzwpiSOLEN1VAwMkZLYMG03O6a1u6gl3noPZEYFB12db5boWTspzaXYompHtUNJJra1CZtxETCPu-Q7HRNDzjkNdGE0X0e3SZl6SmcYVacHfHdskGQcE7Fdp67aAIZpjMHz7sag9zg4f-3ZioHkz-jLNWXfezj9C87CVELuyDO8eLDPUjCAAwSsUHR0GU78fxH_EVykUiLytSjSuirL_c757FUZR7wK9ZzVO1zRkeXlLIwVLIjeS_peAYXvAe1sBmE8EXujHT4PH0Q&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJwZ79WAC3i18RTpZuyuW2oDg",
+      "name": "CRAFT",
+      "latitude": 38.2486633,
+      "longitude": 140.3304684,
+      "address": "Yamagata, Kasumicho, 1 Chome−10−1 ホテルクラウンヒルズ 1F",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cKxZMnKSwdeLGKgkxoZoEG_DrFe_7Lcy1UgH8W1L04b-TjDcNrCBPbijGcjGR23C5A9ZiEFY37ws8hvMNZ4vz2vJbLaAjM_-u2b96d_aBbRi5xzYl6f4Erg3pSHbF8k-LF8unt7DwKI3C7oJ_KJC0PPF7c5jyJTDE0tYi9cgkdWlD9x6siRfA1GPuPWPV3ZEahP4BR-xw_J5GeUy2cPykSm3Rt4wkuxFSiUt1m-w2QT0uKctw_NcPDyEQ9LE1qLbm6Y8mPUCyRO7FroJ7CPRKF9xsHsnxpkNuS2xF0Mk2aL3onbRvMWjiNRl-OctHmRcOcWJZsuHlSfTR1rna013mOtyNGVYS2o4kwGp3QzHi9pbIOq8HcakXeUf0yQGbLBYPB8HFQ72APV2M_7YsOjX-Sx1yU8wvTAqk6w7Y4qZgHGdmO5IBgWjSyFQD8NZH9isnmVAZpw-ZDStmf3jBs3D1SKkZ6pNsfhJ2pg_Pq5dypThNL9UVNuYCM3pnzgq5fzEkCUSv0Bg37QT0o3w1Apx3EWyIcjv_swEzfWdddhTgzY_9-yikNPl0sFEvdbo5_CVlsgGRK2j4vbOzfu4XrLbIGP1Vcog&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJqx3XEki3i18RWbMm1rItR2A",
+      "name": "CRAFT BEER BAR Tap Box（クラフトビールバー タップボックス）",
+      "latitude": 38.2443023,
+      "longitude": 140.3257522,
+      "address": "17-39 Saiwaicho, Yamagata",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fp92KRrhl5yExgqM7qUbLa5vFWPBEIikTLfW5OnDB1xSac_9_pj9BjaWyuszIM_eAyycwNRsSEDgBMAHVQ4K7lS4bBVFQcjG-M8_dDoYGwW2M0I5JmQXO1KOeETJrv4dgOhx29nMzNSYggXw8kn87p1HzH7lBW-Hp-G_Eaj_m9zcLoF01kYvY3UgDjWTRSBOquJVt1nLy4xKNbVOYmXWkwC6XXVjJyMQ5ixsC9Z79Z2mbYexzdcOt1UL2wsLB8eklwL-9roNjrSVPesn21rJy6FkhC_lLf4tSETsJ-9i569UkTGYo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ509r4MS1i18Rx9ph6f_I-KU",
+      "name": "SANRINA from ZAO BREWERY",
+      "latitude": 38.1901348,
+      "longitude": 140.3124395,
+      "address": "68 Omotezao, Yamagata",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eRVAXre_bdX4JUhr7m68kmaW161jrWLyqFSzNGBLyBE_E5UCZCEPhum9XjaH89l06pX5IK6tXkOPTOB8S61esv2u5fuRM1H03vXq8ZdkHx_XtJfMeXqwjcbmkV3DHzv6Ukx0owUww_WJfbqCYeOlVmSoW7QApFEiKoolnszn0hL57aciSfWeKA9y3ObCota3s-YQDJ28gKtL5OzwbAnorgmMqOD8YCLsSrNG6B7NuW8F4J6LmHKARqYuKNm11mglW5wALQBMXvDm_M3ZWTB0R7TDcTFb0a6P0jPyO94qZflykEMmlu1-PXemjQswciGf7em7si6Ood6aBaA9DO7liCh0pBdm9L4KPKr2rrl2w7cQ6MR1-dE0CARr8HZRn-e3demofpa4FbTfD90JFxtYI2fODW5_wuTU4gEs4OOhgdPwb2U4IO-iA3L1szcv4ziewiLsFmLm8ieCtX_41q5g3kiMVeBZePT_HB4z75i8HqYR77LdxnRDGs_iWDcV8btpdQjHkTM211yhZpSk9P9KJlZszc4MCmiP0R9xlKiPS5jW0dQ8InqWvCxVWD87PYoYsjFbJiWBJHYd-EGdT94oRGWw9-jQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ7wCLAw-2i18RYRTsynyDJ-s",
+      "name": "Blue Market Brothers",
+      "latitude": 38.2483644,
+      "longitude": 140.3304209,
+      "address": "Yamagata, Kasumicho, 6, 1-6-6 2F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dtdHwx6SctvR8OgpVW97ouf0bK4GIJMT2aJLpNGGBP0CfUDK5e3XB6UFPAkkyv9zrLCKmeMOKJXStfbCp2Kupt3cnC8zt3pUlQrQE7tcTN9cZGyn6kjs9Ws4E8DQz5-5T47ech89MH_LD9HHO0_701MwtCobUmvNal3RfDpazaiWEiugDLEo4b4tKsvP914xJdzNoOwmdFrnMhgtYjrSG0fYDnddKdEZMJzKLKegXI2E_muO-pJ1fYjoYdRBVEJVNKNi6_mHAHZD9YrZjXaaRP32d7zO6Y9z3cD7CxZrKkZVJI3Jc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ8fd7i9VLil8RxSOJ46yQKyg",
+      "name": "Have a Good Slice",
+      "latitude": 38.1686859,
+      "longitude": 140.3967786,
+      "address": "11-1 Zaoonsen, Yamagata",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f2FjnPidheh6uO56cecvGPl076EBlOtyl7L5Nwm9MR6ud8P5omowPJDu-Nazv-m26z2m-642Iw_njzvqDpIZ0bV6ZqN-74IdP-l0-tgQaQqnOW_iSsCoo7j2VoZPww5JnNpgcG5T5DYtbSEhsDj0-Sdql4UikFSEHnxVlaDQibVoZ-8T17UgAndcDQgCUHWKhELjMmA3z-tqX4pZaXfTrL9dDRQc8jyEBXYySHPX2I4xthZ3bFEpxyknCk9ttxVN-e1ODh2_qsbFtI4y510Y5_zBbJd0tV6eYl9qHjag4UWoaf72g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0cWQHw-2i18RDD1WVeWPtpc",
+      "name": "ブルーマーケット 本店",
+      "latitude": 38.2484549,
+      "longitude": 140.3303444,
+      "address": "1 Chome-6-5 Kasumicho, Yamagata",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d62OunchGpqObdTc1OxD203PesMXf6BzMq5S-6-C4LLjA1z8x9MpOfkTbKL2tzsNeg_a6mlphrEOHmCGZFslzMlmcZW7hnkDqoLOrAu-GCjoidZPKV3PZvoKf9i1QMrBCjoiox106ANWVyabv6LmXq6Fqh6lhT1tvqTkPZCZg_aMvomSD-EsrfnnITrQbx_3dQrYwnTJhrB4fEbhhDvXi5TFB34VbtyI5fpneKNKkGpHkeDbQsTgX2yR3qeJrF47CBcJjB-rD1xaxdwlpBWZO7PHk6aKETYVbGDii2cjNVoAnBE2Q&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJxQ6WggK2i18RpkwZ1sMAV6A",
+      "name": "RoughroLL",
+      "latitude": 38.2544672,
+      "longitude": 140.3417154,
+      "address": "Yamagata, Nanukamachi, 3 Chome−5−35 丸善ビル 1F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dk8xyhAQIe8Q6a6_twhcrz-G6S3mi01_SmJo13gIzBZ3zkqlw8MyATZDUf4Y3PV6bOl2y0ID8nOwk5-3u7LcufBTXtFRvc6VAnekGA0eKuEoZB32nHIQRwYcdd2uU8nM6XpYqcet7plb6qrnq6aPBhOBf18DOm4ygbUUUkjQKrgtQRyDZ2d75RSnlybvRBFGO1Bq0no7YC0tsf0ngZj172WyjuWhxMhCRIw2TleT8Ac7_htPhSlM0Gl9HRy1xOF1anXQaAVtXUfmEWv0FNXasLlJ1cEiINrfRzEtlGrDb0gH02Uf9owqJQLsB07UUTh7gO3GglkljWbRZPR741irKOE9Z6DVUSrL_pbzH94rcfr2EbclSBgsG9WioCQpS8sylSZWlWdArnttriQ1A-vo8Pw8InxJ7oepxoWD4dsJDrpEZRWFdOTtQWUoX9Svf3dBM40PFPJKMb1tQJnkszOHp5OREY0N-DiTDZHgv26xKEv9p0YptfRlsFZo6lP5Kr0VsrkgB18KN8x3AWVV313FnTsBMZSCBHyYS-4tIO0TyD4BX5O3MWuBFLFdzLaup4fqF8C_ihJLYuTw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJoXQlIx-3i18RLruTe__GR0Y",
+      "name": "ABURI YAMAGATA ROAST BAR",
+      "latitude": 38.2494503,
+      "longitude": 140.3309692,
+      "address": "Yamagata, Kasumicho, 1 Chome−11−14 唐津ビル 1F",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eLtI_12rDdPNSSxXV4wq6ZDj0P67VdMA8fGhzzZCEAMe1x3DvSWruDqwNrpygWhqjkYfawf3GtqZ0IZXjhbs_fWxZb8K2tGu8Vmkl9IGn4l5D3sJUlu-1M5bnCLgILvVFhH2fzIGAMNSd3dRFv2LIjGOzjoYBL1nl9IhW16yxl2ZqavXkJmpmmTNBL34StAvtZuyFYg-KalYy2s0tumeNu5SlUD8KPrj2d7zgg2XFcrLriuEf2WZXUGQe_cTLZnjBL6_tim4DWhNnZHebwjxNvwxGKKmRHVj7VqnY6F8-sSlmni2Fy_JL3dGyEUe5PQbJFtyJ8L3MJi1uKorZQXamwybM4jgMZB1X5f-KU1xojBIMu4j-vhBmO735b63Nn_R9NnMILh8FSREKVDzYExiZYedpxiWTNGFleRViYNIFmAugyXLEhMDcWRh4oMouL4fEz6y05WSB8wUewYstIpTR4uGdoGMf8QziGY9dFIM-l7AnPcRg_p8Cz6uTw8ajDtglLvhuzfna25rzEQUt9C3Yz8Xk3UZQwjb_8mx3Zpr_hgxQ67g8AvK7TSXFtUyXwoR3VCQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbdOpXwG2i18R2_7SQ8Dz_jU",
+      "name": "Bar BeerBong",
+      "latitude": 38.2512859,
+      "longitude": 140.3405983,
+      "address": "Yamagata, Nanukamachi, 2 Chome−2−1 赤門ビル 4F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c4YQQ8lpABXsZvLULZH_A47XxeuoKWk3bJV5-_7e7qmQ9z2zE3T481tkuRxT8aQ7zRm2jzgwba9NX--_wTHe89TaVenTK9fIx1IX23d7TRtSeikvCMjuCs8UgIl70cCyzAaTcO5jtbUzGYsIuGLfc6IlZzOriFnHoAYko-Wr_qxnLiI9AOn0shCnCnCifQgI3nmVzbQXdiys29IU93RUCJ2I3gHofwh3xTF5jxo8vfDR-X0CnpzlVbYFbWJs08qgAfv_8oXqjqZyw8DbMDEmjWYbxRCG1Cn8FATXqnTfQHTZqAALY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ22TLCwK2i18Rb6eBBWdxkcU",
+      "name": "ミノズ(Mino’s)",
+      "latitude": 38.2534649,
+      "longitude": 140.3433583,
+      "address": "4 Chome-9-25 Nanukamachi, Yamagata",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eLqZi635iqQIbdI5anmt9q2jO9xNWCvoeSEITn-SAlGsw17XIGgsAR20FArVNxggjHclNo0KCasw_jcf8uoW0wpmZXqPQx1bfyIDJdxUauJqZS4CQ2LWa-pXbBEOeZx2agE1VmU1QLkkNY5Z6yIkN-tX43WL6wxRKZIF5uVlR495l48faCjtNhGfTGx0DisLwdYhlZ7a3NYz2e8JyReMNUw9_PbWblUUJtdPd742Z5CdrHRYUnVeQlOXvYYJx82DSvYvJLGGiACf-zlkR5p3KdXcwStz1pzIwpueaNEmNXEZzv51_gUw5b05pZsbZ-Oqgf9OAFuTy6DPmeeBNWY7eNXbx-eJ8Yw0pQX4wkbPzywty7ApLNCZzw2HHbk9YwyqjYHj6KnmdeLc5z1ctFbBnHEOSmx2QFh3aUrtVyyIFd7WP5GP3fIkkogeSdhz719uNDLRuNHmY2wwFPXvJe5lCnWaceHdBmzM_fgovPB-Lz8vlYV6K2X4n8GqeJsQC270PH0No0yPupJ2CmxyeqZifIPG7kXZXBxwF2KElqu2GCFRsGHSK9o1xNZ71YHNjpDC8zr4isZ2gCsg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJjawP3A62i18RhNwiO5wUtps",
+      "name": "King Kong",
+      "latitude": 38.2480793,
+      "longitude": 140.3301687,
+      "address": "Yamagata, Kasumicho, 1 Chome−5−10 船山書店ビル 2F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eEe_-nu6y97GtNyr9TML9giDO7URgbSMzNLqM1kIQfDF2ThFBz1zwdNUY5mQ_JvgZnonyIa_nJVZHxDdLBDqRFfIC_SzpvIAOJg2s2NCVS5Fja3RUjhFwPOHPAB2fPDppdoVvXJgDKeRyW7yq8pgjQ12WAihg6woj61SMNnZlJ7sH0Vju-thinxqXhgx2ECWNKxalpAr_-G4dUde_Thtsk-bE_N9VIiRpe3Q7aoDW2EWb-GJxgFLYIiM02u4NzYbY2l51bbjwbaqrH2Y26wM8lhHr_UVe5SOMXaL_2_b7AUC3hN5Y&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0eqt-Ma3i18RuMpFeYkru-s",
+      "name": "THE コンビニBar",
+      "latitude": 38.24860990000001,
+      "longitude": 140.3294887,
+      "address": "Yamagata, Kasumicho, 1 Chome−7−4 ひでの家ビル 1F",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fUVFTW_JRzO9qkGcTE5d4MROVBT2w8OLY0tni7xVSCeLhw258G8OQj_NklWu1QhCKuUxjNp_ozlIxqboOY2h4lUBhA8hDctkPICCKFPMLHeimyPPdlDoaDJ1nxwQ4IcK6zALWvea0D8oquhFYPEiUupwNqMKCQ8lXwtofl8oL3QivTuqBa-lQjcz9auVoAgObYytWx3q6FzRmMtDrhFkg2uwr8WdnZXRvs-6wOobx4t0ucYu_opxnWuSnT04s3SVAFv0kjY96CoNFnxmZ-mdi75MS59ycFuadfUOqxe6v1KAtsSqueMJ4ceCNdjM_tqdS7rja8jPWYxf9xk64PvLgJopzTRWnEKfTT-hcz8f71iFdGSOQN8HQsAyB8kHsyA41ZTUIr55EX3TIPQX24oWHKIhgQoHvL8qBdaoS7HEQQTlT-95Wmf4xg97TBloPnUXxs9l0zXC20ELzpd0NTbzKX6FR_ij9p0buOwWBvyBuZeNWJugKpNUAWD_X35Nxt2NYz2miDJyU34NV8aA1iUzXLW6aSL8ghfskYQ4EZcUVm3CxsPUlYzUV6EcuLmgvnO_jEfbVc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJrXu5utnFi18RM9AHHhXf9AU",
+      "name": "KESEMOI DAUGHTER 天童店",
+      "latitude": 38.341982,
+      "longitude": 140.3633991,
+      "address": "5 Chome-15-26 Haga Town Kita, Tendō",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dDQDCPiGuWQ02YuqL9xC6z7MLMztK-tPQlzsSZkHKvqxULw6hcILnlfJGBDPBrTYDcDF1ArBTxC7IoYHh4i3xpA3RPkvSckZhno5M0IPqKHuFtdBtYmtBc4C514wFRBBLfGJYTxVM6t40peK5qQJCUNtCVj91jgTVd2PgS_7QVt4PkuXR91gfIk2h3LIRwPTXJvCadahZC_D8yenAHv98W6stFRSdf9pv-DiAkIDSFE-_3hLinKK7vC3L4Kfd1hbKzPYhTZsi5Cju9mKJFpPtYkkItsJSlnXFf7__2Idr7qBYxZCciLDJRxInqpLcXiWNlPXfvECv3XMalivGsH0gqxNl0PkKPiBLeDD-0bMjpVPiMijs98GnnM1Vfxh_siQRZr5ESsRh72uCRWsMU8gFSXcuZdR7eoGpVkaOn-ZIj9FIUtrOoctzjvC7T9PQlPANBIZz8Gqq4SQMAdjPWyCxnjMrCtXIrCcEKSHqnnq5US5WX95sge24zeFw-4E7qbHwJOkOfwcdAWg75ppATt9d7Jtq26KCTBOJNGoEmOGafbR3Ws82_2fyl2wMzJ06FZusxYQ48RCqw-g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJWdHML8yyi18RtNfJexi665o",
+      "name": "Ibiza",
+      "latitude": 38.15259,
+      "longitude": 140.2803534,
+      "address": "1 Chome-5-27-5 Misakicho, Kaminoyama",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dRUedvw8hi0eKPsI1bBd5J39hHxTBhGxSzkvn0Z2_kDoUUAUBzryyA_rRcFMLpjo29W4WL2zLsGdCL5eb_ID5j98PGbpZUpvLTfPj5idelJC90JlIbzu4pZhXnrcYuzlV98WXaej3s3RdqhdXdL2LlYh2MYilxTMbgUTAwtqMBGw5Df-7dcVdOQpT4DLi1qxP450bPETHZCGnBr8CsPRzYLhYjhpuxII9w36PeGszkzYpAZtQeGK0UMqCuI779zEmrJD0EJZOBi7cC6mzcwZ0us-JWQ9NNkQJwt0hDjU0Lmpe7ZYAl8yLDMYVqJIhHXtGeghclkix0X88CPTGUlU4KTEEog85qCU76chwglQDeUxME3RiYFFrLyhvxLGwckIyS1BsJxhuFXMMEf-0dnTWsPMOw5CZYtx2Iruoq8PZN-3Qe53p-YrXmrR--13iceTrHIBTMR4AzvHSYjebYTH88Kvjr-3UvSBLPsWXGEvZcLfO2RtR6JDV0zvDmHmKgERGGeEYoGc7PjNOQcBEqThypUFOL9XC1fpNrKP-IU_zfz-0TS0Yh7RnaKuWp8acGvHC42Q82&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJcap7DTLHi18RJtT71jwHkbw",
+      "name": "世三味 せさみ",
+      "latitude": 38.3041252,
+      "longitude": 140.2656812,
+      "address": "2170-5 Yamanobe",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fqF1zXtRiEcKytD9cNuOVl_I2RsnGshQ2p5tt0sKnCJCB5ou_z_h-U03bfiIaYcCoAoc0vv3sQ1TptUZhQdZX5I9jGMlnVl7EH4lJ35nrt3XufqxWd-ASG3Bf6s_a9AKCB3A9Wequ4ZRVY36TnDdoZcThc7ON6jlgtWXiMMyRb70_L2w-W6sOP7l-v6J5guwHGrWkySmxQami78bK-Czs6s7SpWVIZuNKI-e8eY04W-cakBVe2U3f_ijhnMi6dnsGHaYjKHRfjkA_OaYJV86TEZvX86tYW-66bgdBvZOtr6H-9_78mahgpu4vREv_awcpeDhQ_Y7xiEU_w3dortBitJyvt27h883HWh_ctxDcNyWWdFRwWKjoxnbB4vWEV3v4WEADwOA8szaCoXM8S7ThEUFm7aTitCRPm1j9V5GM_HuV1Q3SsiSVjTcZH1O4CS2CakER0QPMa9nEI7o3CM5CoGfuNyl7KDUFpWoOYREQrmOdlU_LeGfwpj-pfTk5G8g9NkhcT89m-ZYKly557ATdXEE3G7md2F9rURobhK-aYkzZU0YJ41evqaBMzGysPRPsSEMyri9_gdQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3bWAzyC2i18Rnz0OBbY7A1Y",
+      "name": "マグダレンカ",
+      "latitude": 38.2627918,
+      "longitude": 140.3246729,
+      "address": "2 Chome-4-16 Shimojomachi, Yamagata",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eU6J0_1asHnMt9xdKqPQ0ShldFnXSMjfv2KoZ8GFVyvF-ESM-q4Wie0S-49bA2d-MbFIN4Kor2HdS8BkoU5unYMh3kwhuAcyi1k8cgE6wXB_TpT72ipD7wutP2amhjbJOqnKsFJGjQ58vuOlrno8YsewfFciwrKZwQnZELSZgpB0hFk6iaH4VKgcP6_o8nn3l4RA9x3Jsol2pe0XtnVz8V4SndDjMEr1C5HmkcLm9TuqjyEo36RE6duLEOhAhzfYuF1rFyKY7-z9HFiIzYHAc7wWR1pJLjM4hZgr06MUALrp2NvmLwn4ke-UZ5_bCngJ9az8kIp7lEqWZjYssN-erAUCLNt9TNV8M5NFvFdfCI0bwgcRFynt5txF9wnUthPrka6iCEsm6bPFav9-U8gxWsNGaNdCTQY3VPeF5ocdX7fKDz0ynuZ9-95zSzb4No4tuuBOyHHTb0VRaxtCTFEwbGl3rkMyWMtQUvgy54Ve0QEQgImvFGHqHDFDnXtn72aEtcQeukoRotfHm2r7cYCBamNYqhSGE4BQkRLtDrF0xbd9S4AKom9ml9tyfsC60xx9QynJil&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJraEeAVjFi18R92RweiDRSbA",
+      "name": "Tenpo",
+      "latitude": 38.3597322,
+      "longitude": 140.3804022,
+      "address": "Tendō, Kamatahoncho, 1-chome−2−1 広重美術館 １階",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eaiQb-eyyNY53JphNpbQGxpqYQs0U34hvfz92R3vEjOQnTI-tuycq30qEP2cTT2C75b7b9qGbR5FpvJ3u8DmN_2W-gkAE475mQUPOzypreMhO_1y2doT-LNURlbjdm_kOBL5GiUZafSd6lrNNUP2fSVewUn20R0kKvB0TneFHUBbtUaraalMI_5Qgk6QTy5pOEr0c2UtJJEIKK0vFZ1LNlHyNxyRwkOVCWzNYnWvcaBdNrkLaCZIWs7sENTSONi0_Fqrspod9fJS4InWrGnPLu8nMi_2d7n8PiIp--A0T0UeHcg9G1XdkFJpeA8eaZ4CkI5uVHj9r2bb86FRs99AwNd1KVaDHmupNzlqpmUVk9wY-7aYHL8Y804Lzg8zqXary8gM9cDDs8g7gxkOH97pD0mgoi2FGHIWVsjZTZ8PpR7l3wcDDjWen5NiXgbsv9J4iFxmhwwroDcl2AbMSyNIzJLg2p9RcK0fca-xeQi3aWzF-lMgXZnD_WhmaPyWOgiwDiddcizfy7qEeOiOFtkTiWa-iLbWF-Ddudq8PYaNKeeWKBND8azyH0vRIg4Mz3X639cgyU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:16.112Z",
+  "count": 18
+}

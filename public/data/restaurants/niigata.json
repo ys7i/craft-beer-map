@@ -1,0 +1,313 @@
+{
+  "prefecture": "新潟県",
+  "prefectureCode": "niigata",
+  "center": {
+    "lat": 37.9026,
+    "lng": 139.0234
+  },
+  "restaurants": [
+    {
+      "id": "ChIJ8Zs0eJTJ9F8RTPSVVCis8dY",
+      "name": "PERFECT BEER KITCHEN 新潟",
+      "latitude": 37.9143814,
+      "longitude": 139.0618448,
+      "address": "1 Chome-6-29 Higashiodori, Chuo Ward, 新潟市中央区",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cNhBSN2CrxEghjzdZN3RcxjsIc2wFDhExocbQd_HGN-f4lVHMKNfNnzfVk2c6W25dm58wnk2GvwWzQRIVYsVf3ukx69ZQhZYDwKl6hPKkMtOpRgy4VIDUFz_VGkoqkkflxSZLZd3O2ptzgHiYjYAuZU9-yAvQDOTC3RzQWG00ZWXZA8BV4rtBV4scfVE7EBUNbrhcdEl7EjRFpNr5d4hXjTfqNTC_dJ-_1JXcpaVqe9Hvr7J2t5h4s7B4zZ-ieTSncaI7rP71agLowgbwuQxSnAiUwS211Vr_90rRsAnSEO0igMGc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ___DEZDJ9F8RYepWGA9vxjA",
+      "name": "Oven Bar STOVE",
+      "latitude": 37.9136337,
+      "longitude": 139.0600669,
+      "address": "Niigata, Chuo Ward, Higashiodori, 1 Chome−1−10 来々軒ビル 1F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2edMVBfGJ1WLoS1PFXL7sPvuIll6FDQuqA0DCsI0BeFlN3uG7oPcOPDfrEFXHfT3I8srgyjA2JOp_6XAkD1-UNaLO2kw-vvyDIU3lPfOgzFOuVE21YZKK3Qap7dVTsO9eMom_CcP1KjnNl1ke7I8ZhlbDHijQYf2Gleuh9ApCMhgQD-sBTCXSzNRQze120VQ9qL8RIeGJxIv4ZZoavsl3qh3DYBcuQIfFG9OvzHk83Ww3I36Dt2SuyUNv2Q2F-rKubiPIZjOoGooVgRV-ReoKZ1W8ADsdeeP27xs2k026MHCkBBIzhh171fAFGKLPR-6aTMeneAtKAE9AsFjFVHWHsKD26_aw7HkjgoEixGWNlwKNdWB2Vfm8GnRN8r_pZcVsR_0G40LxuNbH8aOHa3UW5w4EnOaDYlzdVlGnIenOQ4ShlhXBESQPhcjKzmENkenH_OTV0sZn3R5QCYoy7KZim6WOZJjm7-I99koz89Vz2x8HiMYU-CjfOeAR2AGTK_O2e6ZdO8-gOA1MGE_OUCWOnrMoWt8iTfgelbMykEx6JPPywOf5TeGUBfxNTks6BV35qkfAwO&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJc-htDojJ9F8RPJAFTB_L5g4",
+      "name": "Nuttari Beer",
+      "latitude": 37.9198266,
+      "longitude": 139.0701185,
+      "address": "2 Chome-9-5 Nuttarihigashi, Chuo Ward, Niigata",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d_35XoZgVus5c8lSP8iH_m-A5BxKAvhuAl-PRbf9ZwHPZoSjk9fbM7bth2V9PhD0ZJlIZzZh9MREv21DGzkNdlLfCC8YpwK2oD2n0jdimQGCfsajz3h1vIDERMpztrxGXKSEhj-W5HNKwqsVMD-0NBkPR19UTuBZ3PwvIfIavKfy5TyCbi6BQiOXA1N9L5zh8kFFCHIpPqhqPyp3Y7cW0AUw6PHCpALYNgVPDDJrzBpoUdrIB8dUTRDW0C2FdPi6pfu-MLwQgx_xsBVZAMPk8nq1QUxa2GMiVwIHSKUcs0j_-M6Lv1b7L2K3vpJWtaLVnROu1m6eQIg95BQMQWEndWntIFrBRLovbtdzRp-V4iM6ytrG_45bnbsPltoI8bxPPl3JN7NuMF8RYPsGroN2nzo0VdfAjHbXrVs5tGCW5Kq3ZErbswfb9VEnfLAEW1Kf-ayBtQ0emNMU6QoE5YmIX1TNh3zSFLk9ZN09BHliPTVjUnfgHu2PN99wsmQ-QdSnNJvJ78EXiNDq_AkqfvF4ZOq_9LAbQFubGHQADxQuC-oxZiFJ-uWRcb5TIQt5GV9qRqlw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJb_1NXpDJ9F8RqGAUnWbp1o4",
+      "name": "Beer Trip Olive",
+      "latitude": 37.9133176,
+      "longitude": 139.0579694,
+      "address": "3 Chome-2-16 Benten, Chuo Ward, Niigata",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cP8zeq5mX0sXlaEk00r2Ximg4tcVLTceXs277O8ei_-TOF6wrNh3gyZqZIqDtfW5OvigOxYWwSygkuZUFhB7bRe_3FkkfKtZQIRMrV0d4SNyWKJ0Nwq_HRuQknROw5ecmam0ecMuPB5I7wzSpgZI6EpR27uDekOzzIXcmzFrQrwwy_uysuq8xdXOfCOdthtgROednIuFDm15R-m0b2iU1oTEShMkDuRUPwzgyQdODfmnjnnk_7wovieQD7XQPWtT7KTXyDq1u0JP7grZs-kP5IqrJw07oO66fIOtgYdxiroTjZZmoux7p161Gs1TmYwYjl_5vlOTjMR7B4hRkXaUwrVZ1X4cs2oYr5mzKtSaPoyYuXl85mqtmrS4B2l7nP-JA64OMhV1R5216JCoZzsIynaXfVGB1aok3PIN7GKdO3uDuUHVkcl86SUV58X1MbFCcR-6TNlqIvOb_PQH8Hfo5QSVNnbRW2SaHuG8xMUwDOM4YIvfgjGPYUms0xK6e8sCA5BnZqRwLMrr6lTVqEzQteAD6Kzu19y-F5ng3WvDa_SKxE-RkSuVw7IQyHG9Il23CPCFQ2_PiUEw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJlxWNdQDJ9F8RxdDuFImV5g4",
+      "name": "Gathering Base",
+      "latitude": 37.9092469,
+      "longitude": 139.0479801,
+      "address": "9-25 Saiwaicho, Chuo Ward, Niigata",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eEBkLP3SSczFee--NmVeWkcQqXhKFrI0de9c1Q5q5e26DifeAUfYK0vNeY5vGUu9z91BUvtUEkLSoFaaViJZhY06JGnnf_1JvBBqxKRtMH3Kix91ltVTGYGDK_AVIFtmH32QGjejTL5ndI2apukHYXX3xMz3JapU5-0nIvRSaLtM2OKSQSi-QmhOkVPq_WO5vz1W32eub7njsqwgQxLfea4kmPZLStV7B7C5cSZIUdwpxIca4k576PRf4YvuvsUDra9sVxZuc0SVhx8xVYmWM1ImEvA5gmGJjn_1zLBphQsOFIZsk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJGwQSqpTJ9F8R8ecnzYvWu7k",
+      "name": "駅南ビアホール アマリロ",
+      "latitude": 37.9091274,
+      "longitude": 139.0592813,
+      "address": "1 Chome-19-7 Tenjin, Chuo Ward, Niigata",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fqWSuIIPz5dD4wjl0wZvY5Ahc0KYkNEsS5EFuPtFkqavgdv8Ch3kM8qaa1X4Nq0xCZMe2hTsv85Ctgmez_JXivaiUV4mPCT9xOf1D0Xa94BAxqi43TmxdwspLFK4YCzJOgTn-vx0oqmqZ1nNnUWvuU41q7EnYuceYDibMD4tYHl9HIbvC7oLPbth8gHKoNo8TYdeGEcK8KxScQ5D2rdath1uFuUYC-bcZQ2gdSyN4_kf5PGwjzbghbKCDrvymwXHlcWT-AORsYYYf0yI24DnlrchSbY5RNwxqdcV_Bs8_baKVR2ZE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJK2xvDx3J9F8R2kz0MyMDDqI",
+      "name": "04 and Beer",
+      "latitude": 37.9248053,
+      "longitude": 139.0447917,
+      "address": "8 Bancho-1523 Nishiborimaedori, Chuo Ward, Niigata",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dsg0VuJwv7L1ZJIe7zc6yuoYXZ7O5wR4ziNr-NtHE8dLGf3C2N4YX8eTMb1LRlIBuHPxaoWmMRTY6B7KhoNzsYKSn5FboMt2efykT0jiexMEP0OSULZ356dlj2WtLj2k4XqK61wtRjufsUeOrAvUjcqRIWOKJTPyBxaSj5vxrMGwIaNB0qECG2m2DAYgzw2zHCRTEy1UjqKcAzzNT2MtmpXZ5eMXytNiz--15RLFZjWbrKNHHyNi5NyNvXsJASYd8Jgm0hF3c3XhblTRgytn8XyHfye3ha5-4kKBdxc0Zog0yi4oIIxR8MZjKMTslNxNii_dSxyeOvcIjn4Tfu5fvkG1LRrxzjde7itin_cPT_TvwJRoiDCPy4_vercKf496ogzG_-2N8nVRDXLbbFKM0cY6v_sroPm1T1NKQlDYOMqMSK3zgoD0bJ65vwSs8m7pQML7S0r2VGBp9izTkEEiM-eRjUQrQ1k8wKPxD-D8tw-7Hn3K14jozYbJABRhBrWxBgise2hlzmXB-wQi2j77Vw9cNPPI6LoJkunHlZKLJRMPFo1ACJKtU9vbvNgFxa4YKAZbj7&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJw4MDpCvJ9F8RNvYxFW94do0",
+      "name": "BITTER",
+      "latitude": 37.9144044,
+      "longitude": 139.0618894,
+      "address": "Niigata, Chuo Ward, Higashiodori, 1 Chome−6−29 2F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eA6Fw2oDPdWHX7G8ol7ti9pdE0KWs28oQKoNWkqY6qPJmf7gFPOUFJLzNEsdRhfwoCoVir_AgaLZWMCSrDbstC9Ok1njDfUBxDPy4G5pszQfsCzVlvk2DDcChX4JXUsCexLTxC96pqTldMFnD6xd3fslPE6KmMB4g49VPV7MpSZmYnRg_2sIviuXmKlfPM6auIibYmFnjBRhCyHUVY6_ZbN9HORrRDXVFbHy76N60MppFijF56Z2vJ-avV0GTRwfqT3P9YNNvTNSvG_dtothtP9BnXUovpQrLGC0PkExeBPMkIhIE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ18Hice7J9F8RZIixG4yLO98",
+      "name": "The Liffey Tavern 2 東堀店",
+      "latitude": 37.9210849,
+      "longitude": 139.045476,
+      "address": "6 Bancho-1041 Higashiboridori, Chuo Ward, Niigata",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eSeW_NCrsBjrVQsQTp3wvOSpWWNNNwVoHEEZ4NlcyCcuobT8Hk6t7lirijBe4-taXwptaXixkEF2j04l03Ayju1Gb2ZOlLZfSfwYA5DaDTs4U2OaQlOTKpTBb-4zAdbE8UFL_166_eD2Ly6714zdq1qf2wa_S1ckXPF0UmC_uupaKuEX3_sDY83WDfRoY9XZeEjy6Wp61LhcJWszbUHBpm3QxoKi4K2fonQs-c7Z60SzhMIs38rKUgy2ND1rEE5Dj_yxdi1dtfOdBBLF9G7jInxDWMq9EuvmAK7tNgaguaqmHseD7_h57Vqoy53n15XWUYJyFjP_abSin1cK-fODVtDomRRKi5wYDhvs6V6hWyXIVmfLk7rWuaM53zHIfaiUCQkbLi4JH7zqArOeNWEv7w5b709SkNXOAtr_BZ128w6cNFV6w2qQPSUK7f3zTk_y9bE-oDLHQM2jtuJnjdAqudetG3rEzCkHQuV2bN9Fc3zErrRLvZg4k2jHRaNwXjoSxzUZ-qQeikwEgESb88l20j1E3ozEcG3GQHrJDbNj48pvEUpU-VdJ-RUDa-WLymavuYlVC6&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ_zpPv2vJ9F8Rj_m3j1F5QQg",
+      "name": "oO SPACE Niigata",
+      "latitude": 37.9243681,
+      "longitude": 139.0454787,
+      "address": "Niigata, Chuo Ward, Furumachidori, 8 Bancho−1442-1 プロジェクト第２ビル 1F",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ds_ETDdQVpMxWjzL5eKs2mcfCmmRKkd1p3DjRVWeLQhj0FX1uTfe5eYeYHIYnFgHEzEpYZH9SpSPxry5dxL5DFRIY0eFzlOwg4A8ss_O3C5R4sC-WZuCQhNHIwWdxoiWk_1SqG6zJT4q0-1-8IfkMVcLvJyVt0q0H3NlA6vS4Jty7eDYUsO9IQJWXQKl8n_sWif8qcNClBS07zBbmsI8y1kQlWULzFnOSF0LR00m529yksqIKfNj8a3MgZq7ZXc8AoBRPLsk4mCs2XuH9BLgcm0fL3QeYaGVCloKliauENEZQuhVdk137im1YGEsMVrnQ0X3ZD1k5EcoxQVDmMwjDPllhRdb10JZgd_OSrrOORyQCh7FRnN5SGpHQHMHMwNU5lVWE7Xezx-AITg4IdtAFMHPQWizEdYD4XaMZn7y6DB_bFFjeSvnenqB-OLaQzgsfGgALGJ5iMtjVS1TL_QR3wBtCAddKSatkjMqLbV8D0Wg_DfkqT640ERuQR_k9OQDN_srRAw0ITdOt8BIWd9PLKJB21bEDIyrWBlCx1ljFKAeUBodVh8trjI20QdU05ydFZQCO6&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJt3LU5fHJ9F8RsnZsgiUfJWY",
+      "name": "BAR&DINER 晴°る",
+      "latitude": 37.9221553,
+      "longitude": 139.0471417,
+      "address": "7-1097 Honchodori, Chuo Ward, Niigata",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dpoHXSETYLKikCMUPyMnxGzF75oQcHEmsHwAC4TWvjrY_DO1wbLckeWjUL_ABKMUWvH1vFVm3qL8Q_jfzyWPUNyK-sVvfNtd9fNvf6p2r4G-FpaPsS-l9l2IVkT0UQoVCRP6Ylp5pkZZa2LhnT-DZmJ9NHJ7z7lYZoP4IDT3UBpeLwIR4TPmNVj9E45JFP96PukhXEdWQRXoRXKRyg6_mtUULSAnLP0r1aDjSJ0NLpLmXQRyYko32YYNidIjJNkBsWq-BJoG_ejYkTEdESAB3YltbcWhAqJn93K1rs9kqTqOQkQ_c&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJITVWbwDJ9F8RpsKLNNMO_YE",
+      "name": "新潟クラフトビール館",
+      "latitude": 37.9120302,
+      "longitude": 139.0625381,
+      "address": "1 Chome-1-1 Hanazono, Chuo Ward, Niigata",
+      "rating": 3.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dlUbOViv6I2BY8HidSmwx9Vd5IzfARiyorvxN6kNp3ucHf9rsV6nTCjD-iIzBzV6-nxCzazAJv_NbgxZo0YFWutWBpu6blu7ohB3DH2MwCcYtV7BEz1-q5bxq3g9Tou_hHVoOaC2MD3nn83D6kXsF97PWYQdicu6e9eX1EGOgdyseIj5783VVtmpqff3Q4OtLc5VngrPsvcqETr8oO-0pgZCXU1tvCa8zRzk2JHHpJxixQBZCWKZWEIi858zn_HQaa5k4YZPBfFIc-Sm9TJGBmndvQHeFsSfpAgTpi7R6sdHR1wa97DbJa_xAJohkLFjwwFbuAVsQIwd1ITWtA4B5CoN2nsGN-kZ5PP5d1ABNx-7rbBBXu5b52FqkwoWE1qI-b7iFTh_TdhuUaXsUDCf-XBGmt-RcT-iadWfDEMcaX0utlM0ZCn4JCuq41uXApMJDwrW00rjgtNlThE1eqFIsG07GFTdufhTKBzBpamd77UQB1NRq5ZzyQqj58s8SkQfG42-LJaf7m3OtqTHluolB7mWLPU1m1lROcoxSf5SBHj3WOYMgDknNktPHiWl-SYDMLJQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJYTngrH_J9F8R67il81etY3A",
+      "name": "NPOINT新潟駅前",
+      "latitude": 37.9133746,
+      "longitude": 139.0619932,
+      "address": "1 Chome-2-2 Hanazono, Chuo Ward, Niigata",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fWh6eLHUc7kh6r44U55eQeIh4o_TptJomleYBi9iKEK5PHdxN5ycX1alTnbBPXfZt6siLOBOYAtXN6FzditjCydsoifK1S7oeoPAiZ5Ihy5sfWiHMC2p-vhqdVILyVkRfdF3b22HL2N8uKPVqY8FANbHXU6suyeWS6Tuow5bW20DB0UGD38x9rQFjIFg9U0SOfZsX3_TdEPQPd7EuCRVY9OYh7ClJZMEcimnS9WbGvG3dsywLVS8Yvgu97WhTOfrWHS8O86bNXsk9nYMuFdA5-uhq8wlhiTsnEoJJNW2KgRVcgegM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2xxM68fJ9F8R8g6Kq_CMUfw",
+      "name": "HUB Echigo Beer PUB CoCoLo新潟店",
+      "latitude": 37.9117509,
+      "longitude": 139.0613275,
+      "address": "Niigata, Chuo Ward, Hanazono, 1 Chome−1−1 CoCoLo新潟 １階",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2djcbVDmxTCGf8tC5Th_-OKw8VOrIH6OrKvQt3V5t9W-lHD9E0IYG2APFhEk4fEoklYebMDLacj3fL6DGYBUFPnqNSSrPBgW3-n5IcVuDdbpDvBEbSaR537g4HC8rCZDX-stwcJwBUvmolSZXzXv_4DDIPeWg-qnWCOdDmSBRPM2afH4j45fj1phekO67NYp5KOw9ZPbXfyjYNMwYTn9RKt5UCPZgSxh3Ttfh3_JX1r6rvHcs2K4xbn6zdJDVz-p9x6SbjyD_u0iVScBgn7XTHtAv70kn3bl0OtnlqbgYNfrVt4eef6wdZibNTmK3kgDC4Tmu25R95KrAvlw9o_V7dujohZkI_uhfPqzVs9SSMFk1sB6E09d5hDiU-rm1wXQfWM75MNhA3Wi4cxpzwnuRJl7aD7V41-cwzchrTaqu_p6I-x6OD6IdXn9XikNTT0CZwELfeIncBM2uDXHPFXBV_j3nUa3rghad1coHiZsAheaZLOzioKArM2_feXasYxYb8-gc_j7gVYMINK1S-Ihzev2kOvwsEHD7jjZ-b70rcvAHDBz_qL-O21k4uiYPFGYwUiAc4l9FN1KQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJB_qhGpDJ9F8RpO9lCKAozOQ",
+      "name": "The Liffey Tavern 1 新潟駅前店",
+      "latitude": 37.9137447,
+      "longitude": 139.0603964,
+      "address": "Niigata, Chuo Ward, Higashiodori, 1 Chome−1−15 東大通ビル",
+      "rating": 3.7,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c8p-P_PGmpIlJ3zz1HvB4U4Ehl24SD8zb21WLcmV8ldgRcspvk3NnQPV9G4zLXqUwJw0LDY7jdh300NIzCBn0KjUIWM12_pyT86dH2BA04-Xg7odGfBquJZ3egvqH_V2WTpusSsdoC1IXwPBGNoaao1lEbg5go_OZ8r_6INJQRJz74NUQMbUdC6djax-wPUah4Si4H3KLTD2QLNsWuAYmVW5-wPkIc2zxQ4xwfPVTMTsxPL_rddLv0FryqNK0DvQ-jMxnrcTgKc1uwLgj1K3PWN8hFvwLHgNFiUcZvPcE_pOdOezI5CtKSYid0h3cWTrvCrS39psRIP4NUGpE169ht-87AwDueeGCIQPcUqpfBiJWKNLYsdHHf17BckA3TsL0iyAy7ax7-WGGJoeM7DA_LHZdgornoQwsQ9G3ER2xwwpopqnVaL9AbHq-SQAey5AKY24XGtw28p1IauoGPrKCq1IHecId6WdDYaKaL9EX-37l0U1i5wHZ_xk49U_LAwAGP3fxkaKf4Y7lVs5wXn0lXjM8hYxw49FqIBoy5RAR0CUqixiWXSTu1fExUfgqll0E9aMP_926kAw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJEYVUIuzJ9F8RZKwz24ZogSw",
+      "name": "モルゲンロート 古町店",
+      "latitude": 37.9196516,
+      "longitude": 139.0439984,
+      "address": "Niigata, Chuo Ward, Furumachidori, 5 Bancho−５−596-1 I-Media実習棟 2F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dcW7SCWJcMLTb9YsyUGX3Qed_mnDxvHeVV8sKLdFQTdctoqyPGTR2LTKM0f7eSU4XeC2lGB7H3iCITCLaL-janUlHCMHu6K3_x54HM4m0OHzFuq5xKVydL10iuM9KXaXLqmw_1oD6BiH0PbvoC9pzAApo9UvVbv_c-R19gL6S2vS6pq7I3hhFgElikkFRZMe3rGOujdPFHSXhQYaymb1sNxcGUY8rtAIiKub-ltTrDKRPZY6HAUMBm6IVvrZvaNGJL84y2ckeejXHAs2Igksd7pegZgZY7e9RDBnq8N8sWQ2amc15_aznnoXIPp8R9t5R-lwpXL0M5WtYVaTut_ICXJaN_z1uncjNw4cq2x9My9AMjLPMlfe1vTtNu_wEz_19VaDGvWhK7IN6DSTmrRcvjtvn0UYq5Ep69ytRt7MrWdw7BrP3V_lJVmR2QQRZmHZHLpK2DHi0sp9YsQpbFjo8eg_ztVKhN2CRFWqUhgCqX67VuBmG5a_RCe73HYn19iFiFveHU8BgV8mDlpqUXgAwYcx2j1ixuC999bxuitzsEB7e_kwZYaCyLq962OGvuFuc1EYVi&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJzQn-Q5fJ9F8R-P_D9qFiEiY",
+      "name": "delica＆liquor conne",
+      "latitude": 37.9114456,
+      "longitude": 139.0546924,
+      "address": "Niigata, Chuo Ward, Mizushimacho, 3−23 八千代マンション 1F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2emVPH0Yyk8An4YzbcUMuhmXkHN2INKVGT7yaQh-Wc_5x7rbS_wB-3EWXPLz-Vkz1s11ApmJcIcbQ_My8GueYeyvDwX1lUQZ_c-dPVsZmKEDFixAjUoJ_ByEVZRm1Knuxnl8vZofIZrZTCBSAx47uowUy0kKlU1CVRoPyOwE0NZeBxGfgG0Y7L1FHs604HXcBy05aOfCIDScCayXxRyAIy9_varibta1PIeftSvYBc1e1bzx3CvKoSQpLYZ2Z256IUyGnMNwlMFwW-Ij-qyTwXk2kenRsZ42JB0VoujnAilJ7YDvx4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJnW_bX17J9F8RODMvfgz6OgU",
+      "name": "SUMER万代",
+      "latitude": 37.91668000000001,
+      "longitude": 139.055983,
+      "address": "Niigata, Chuo Ward, Bandai, 1 Chome−6−1 バスセンタービル １F",
+      "rating": 3.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cqJOdedW3myj1X36qsFMSDm6xSjO61oEe68OGQGKF0olnXr4k2p7C069SfL4clfxWAkt2-7mDhYPiX4GHaQOEWZi4l4RhuPMB86QtJIpsDlmPceZXn6sW4olLgRnLO2lQZr2UQlaJvLY1_ElOgSFqxAm7omn3_xWHjb2-Uz_lqwnRywSbr1JMqMSlAnbtO1zaII_yX6sYMbEwhEJNibIUOeYiOs5yYchbkaBtP5I3S0_s_qoVCBYKvUSVW6Inu9RTLx4TvmWvvaE1a_0Wn1_LxEe65BTbV3LRRCo_KZj8q3aUvc78&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ__-_N5LJ9F8RbyDksBvDZNo",
+      "name": "Local Family Restaurant FARM TABLE SUZU",
+      "latitude": 37.9164332,
+      "longitude": 139.0530421,
+      "address": "Niigata, Chuo Ward, Yachiyo, 2 Chome−5−7 万代シティ BP2 1階 万代シテイビルボード・プレイス2 2F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eAtRhHzhdkMF_H09tLOx8Yk-yTmXrgTViP90W__kc8BQCyql4Id75FGAnObrfpY1_F_Nd15OogHoKmHMmxRe8oGQiXrH_9u6lik4Znlz9ZlJsvLA-HYcJ91WCblMbDmXBcTWcUpn0xUsf_-f6zhHsNtr5qQFzGUWjIzWL1SbVjjmZXpx4qpX3XtF9PcPBG0zGinXZqkrfgIq2msNWxHiMUGWKaXwrnvYdXBUhTgyqzxNkZSxUWVnkBIs7tu4QpZZhu6-tgQx2ZDqaurI4W84Y-lk7-m0HyAXbMUireXDtAhAO0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJm84yFOzJ9F8RYsynCvoDQek",
+      "name": "ITALIAN RESTAURANT LIFE NIIGATA",
+      "latitude": 37.9191233,
+      "longitude": 139.0448068,
+      "address": "5 Bancho-438 Higashiboridori, Chuo Ward, Niigata",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f1JFg1Sya6r2LdVDaccThOpCaf5KkofBSuI5jhstWUBYGSFoeHBWWSLd7z7gfHwndSEvvm5aikOpkCJo01a0a3-tSbNaOxg4qsqP1IxwS1OXZnjKJNbduPey1r2eOm6oB9afGrEdPGvIeIuu25ZXn_g-jaHuwOTBIuGCsxsXUzOPkOT4MqTJaL_cbOTSO05dyfZ6_PFsl3T8WTLJtL3LzuX5i_PMRGBOTwpbpjVOXmqoOgQqcPCi77G6XITc5awUv7J0zM0Cxnepoay8wFOkM1XDojtCSU0-R4yDa7ijRyxthIPAs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJV_TrEOzJ9F8RIH9PKOl-FEU",
+      "name": "Side by Side Spice Stand",
+      "latitude": 37.91934579999999,
+      "longitude": 139.0437841,
+      "address": "5 Bancho-591 Furumachidori, Chuo Ward, Niigata",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e3HfcMY-kJSLTHKfWAGN0paMoX7pUS0ngUEDSjYqpfuy-EueB2Ccr80ZKZnoRDFt0UoFsavZBNfIgrWo3SUAHQPdhw9kIHgYnPeocgDsaOo0M5DRjqYWsO5beQZjaX3PyrxaWzBuXCCoSa9ixoc7PGWsoH-a_Rh0dr3n5EO_Tk4R7z8XkSfY401mw5Jyc4GXKcgW0Pos-ph2zkfALH7FOX67XzFPnxMyJL6oShpXcNPmuxBxB_bMTvKmZkLM4Ji8enYBl_KMTfONIVGjz1nEc03F7vVmN1yg2sBorHsHf0IVhkeJfDjMwRROWHDjkjK5PHtcYA6c_CvjHlRAGYXiC7HwSp20C38k5Omk3oS1oxxu2Cuy9gDMeiPOS7GXO9N1AIUIo-wfC4eKB3yxiMvutsozqwvBo_J1g2ZXk0LFZh0UoMHbwY-hmDbEZWYOX_6JEvYRe5mebzm6XM4P7k4U1GDoEXabYvPnRigBcnl1wmgS5cOIRj3fznYK0y_vxdC7NLTmaWbeLTJxllUdyvMVti1z3VhDUeZvxUc8mDRVaBQcWJrp6Js9d4LPmF4yihWkI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJlX3tVprJ9F8RI6B6U3BE3UM",
+      "name": "SUZUVEL",
+      "latitude": 37.9113004,
+      "longitude": 139.0607509,
+      "address": "Niigata, Chuo Ward, Hanazono, 1 Chome−９６−47 CoCoLo新潟 メッツ館 1F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f86T_Mh-QgFVLjQLFGTtTj3LQa4jRpy2J4_D7jAtOnKWkrW1KKD0a92j5LG7e-1veiAj-HMYtVItvnMvcKWNfW-Jx6M1BNp6_XINGBBhrL5GMl5hhOFtBn7nSq7HoLDAOybrdGGdyUahNF0YtDXNd3PKOM8NUuDTGYMuinRotpYjPcROa6BVb0UzJiOP0-8FssVdx5EmNySX7ZEDNrtIDuXOGtOODqEjzhO6EIH5no8RRwHUpmYySQEq3qFI_1aq5lc2uPBQUVlv7_87i0IN3yFflta-PUoSgAQt-gxIuT9dfw57k&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJefXyZyfK9F8Rht7cZcwd-QY",
+      "name": "食堂 衆楽",
+      "latitude": 37.9201169,
+      "longitude": 139.0690466,
+      "address": "3 Chome-5-30 Nuttarihigashi, Chuo Ward, Niigata",
+      "rating": 4,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cedEU22fD0vsoFi0tvPM3UPd5Z1QCPG4xxsJxThNkumJLNSsMJ0hDueZJi8VjbMF2s898L7tCAH4zffI42xRz2bTIhNM1ag-42H-AItAbnuJ55veLsVUJVzPIlKzVRFOUwX6PO1sVUvF5OggUKiRarSKtn_3iTqbAhaTA235WB4pygfAAMUXu6H_Sp7wrd9CbFhEIBcpo7uLtYsWrgCqNN86QPgDBjd1WIPRLxa7Lq-VI83QB8ltQT6SVx7Vur1j8Iz4cTEcqm0Uq4JlYPCCaZ3Fi_ReyPTQWNBF0QQX5yQki9s13iYpzwT9kxESOLiUcCCjlZCYQS1_CF3ay25FBgLsPmciHguntQwNfWqNMRc8DJz5QoLavDH1w0Fl2iBsjScLDMpUZMmFNF5zLQeLRmpz2m7CODOFexmHktStcgCgwLrZja_WwvN9irmpIxUmWBEs8KZoAjyg7lox0hV-P-KGhAM91-8047-vlKowoYYPTHhSj5ViXw6_CsfPoklqwsMOAFJkH1bb47FWGxHugejnMg6twPaa2llb2RgKdYkzk49BWsUiWNZlp_lzWVFo-vcEPHM6aKVqAs6_OWz2OGUNY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJAyATMvPJ9F8RTSP5FAYVor0",
+      "name": "万代テラス ハジマリヒロバ",
+      "latitude": 37.9209327,
+      "longitude": 139.0555741,
+      "address": "3 Chome-2526-2 Bandai, Chuo Ward, Niigata",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fNz3FG-I17gC97O-tyYrGi83Zcv39DezuDsbwSpaGvRl4YYHU6RKTwBzg0dzVaSHWClq-lx20a0rqBVJtabfmWx1Q3ukb6w9povNyLu0C-sDiHuuI_6FtpozfSWJ2lV3ko3az-wz1a2buyQMbKiAhHmoDBEB0Cpb_5HqoQcMfhHnoIyofoCYyiLp-NWe0s3TXQ00dk8BomCtAvqeuwgvuECq1Aw7j4R6NYoH3ZJXEiCy0ARsiKjq7SWYHFdvKvYIB0V6SFbrRnBCzJlmHDwbiwMCZfe5PRmaKu6Vhv2u_o2dMTWAM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJF9b3XpDJ9F8RTdBMJ6mY1lk",
+      "name": "居酒屋×dining est!",
+      "latitude": 37.9133353,
+      "longitude": 139.0579429,
+      "address": "3 Chome-2-16 Benten, Chuo Ward, Niigata",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dXmOMdLfIRo0j1RF7fFQjdYQSkzzAf80_nIEW659t50m6Vuwes9_-DtU7fGcXNZtmsvGWlTSAj-jqAy8HDqujxKBT4QlIIUU-DbF5zMajtxAD49CNT9Y0yzm05uNg4is9qTrQUWEqqMLLKxbVWvGfoG3IISaF_QVNjGVfMhmxXDahV8z9UlsyFXuJiolzo47k0BX4GQeXs8WfnR_xha0LQ4kj2m4Ro1-Mg5WTCEbVrZJ0hb0sLUVb8h18X8R1Jo3QN01OwtC9XzZVZal-uaZtDYuh4WRk5rmx-eKMfSlq1pXKbEYc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJsenhIo7J9F8R64glCEtl87s",
+      "name": "Vento e Mare Niigata",
+      "latitude": 37.915709,
+      "longitude": 139.0587982,
+      "address": "2 Chome-3-5 Higashiodori, Chuo Ward, Niigata",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2daurN6m7SFdQZV0DuaNPQ8KmfSpElxoTK1d3dqrM7EsCLmedBRtHmNlNGZKTc5LBjPh9FI5BactEM027nUq0HkuV8seawROjOYRgw_j3kOpblfXGTLKGPH566WF8ALm90145yr6exFoFRZOSyJuFe3D23UEd9zZubGBSBIhpaHVhhmMNcHXcl_8wW50ntuM43nvzWwkaJI-YstFjKpB2x4Cda05S-fe6Cf8TdcIEt9klPVCm6OjcKxCYaaCNUgozHWPK8WYSL0Q7krRLJBXibKk3trCveKnBiT9omqjrQG9cf4FC_Q_gP0SB3ovdXOTEvOZV6v9Jvmy1To82HuCIdKGXM4hbeUFwqDWGAUEvmvMxEIhfLe46GB-MGROQfETJDsX46sV0YQaE0pahFz2Ym2DJQ9FQ7-Ao--NuVuTRxo5FVYHciGpNk-zQr72hIhydW3poL8LSWhnVSmOt0gS-QUywGQe0oYVuDNRpmi2nMTO3io73tcj_LUoRmPzbClX3xrP2FGcCJCiUaJJeq2kJLkf5-6HeP9etmPE-svACWbNeH7d8qTcKwVKG90lg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJawDQGdTJ9F8RxY6srOdA3sM",
+      "name": "Olmo",
+      "latitude": 37.9091063,
+      "longitude": 139.0597805,
+      "address": "1 Chome-9-5 Yoneyama, Chuo Ward, Niigata",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eqWKjxCDL38yPJaek4ie7Xe2q7aPuFUbaVQVyUDd2y7XDHa6uP5Qa5AjyDoEs0hnfAQzUDcUbqDOv7Kx1NZGJnToEic8yC43ygx_qijnlyxbNwNrF8VII8iJgCygOrN5ZfCexaP6zbv9GPzQucQS9RkQyKNTS2Au9SKnL8TRun1OXxplOp_vE8_bEEfYh1GDwq8DCk-LERKzbnZJnwfOsDq580xs478OY2Nwnk5c_Czg9eK7jwfM027_x8ZH6YRskV0bdRKptf9DvShlUhVAiG8n6C3PJgII7Btzsy151OZml9eklv8GoMFduCGkwpuktEUWBpq77kd4iHI4Y6c04G1qA923g68ujEpnf1m0nkcV99JjCPDhRhGYVO77rEwDUlvmSVVtwjYe03zTgGut4SlmG03ZDHuxvXG2oeJPlX5osTqGqGp9_qbi22dXKXHtqJ6Y_MSF22iWWiH0QYD1bDqtIveX7yRDot6vbv0UQ16w3aNtIsXZ8cnFOWD9LemUF07eJjaT6-gSTLs1sA_Zc1zpoTTKOPcm4c4ipxsqICL-CaYwtf4yip-K4kLzIci41J_hXY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJKVh3YKfJ9F8RkesMmQbPAVc",
+      "name": "WorldBurger新潟駅前店",
+      "latitude": 37.9134014,
+      "longitude": 139.0582503,
+      "address": "3 Chome-2-24 Benten, Chuo Ward, Niigata",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fZuKZ1ycc3_vqsIxSWFqMXTpnXgfyIpZnLdF4pJQhOWmqkwd1V-xrIpqvDJ_rLeiWIG1z9pTWVdzLLQjAVOw3FdaukyS9PTiu4vb3X9S8uT7yaIfTg0PIAonVAwWkgXfohW5xZi1hmAh2wZgPXIncWJiKIY2L5BAgnI_One-zT-iyLGULs5cJIlv2bCWcRq-cRatwqxGyzobr96xWnD2e7OmnqIvr1KjRlWze_eAn358NNqcVyaIzNV54nlyPFyiDHSGK9qjg1O432l53YxsPXhpWKqMe5wukEqet-PW-mGdLlJ-4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJgaL-8pzJ9F8RNbxlRTaYiC0",
+      "name": "ぜんてい 新潟LEXN店",
+      "latitude": 37.9098814,
+      "longitude": 139.0606472,
+      "address": "Niigata, Chuo Ward, Tenjin, 1 Chome−１２−7 1F",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c2v51bCHuEareKp2nT-05ldyn5b2jB-jyRTznWyJHH2Kor3mlhfuhmTlpl818dRbSk9ZIZH14IPnj77Webt_bjH4tRmYkDp-cgugMO7z2n8jFahW6nbPgjzQCMSa7QQeLnofB1D_xhu42s7a50CtsrICN9KvH7SDzr--scJZS_i-143HKHwXsRdZvZQXTjNgiFffTaJ1qItDERjhJ3naTBVOoJjtuadKJWxFl6BZvWct2HVA3aQf_Qzls9Fx2JQuMQOa2UijYUYWkV3jQ2TBH-Y-8RVC22O9Ho8uusU5nLRFjjIqs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJcf10aJnJ9F8RTll5UNWRWtc",
+      "name": "Robin",
+      "latitude": 37.9092466,
+      "longitude": 139.0592531,
+      "address": "Niigata, Chuo Ward, Tenjin, 1 Chome−19−9 ＩＮＧビル 2F けやき通り",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f5nzjteCjwgXqBs3niJrwdJOArxgJ8ZNmP_BZZf-wm_hoAymnxwL5RQ69GYEtEW3QOsLDkvsPHWPsq2ObdahCE3mmBJzfiHUI_3SQJk_8_8C424OgaGeMCTi-HCdeHn5mQpAGwu2ojlizZZoszGVgAlgugBlE2jhUCaqxXqK-tNjJ8V9E5NjK2Dqj_pBJFPEX86bEr6vd1uL2mNd5OGvasW9DBIz-rZvbQtPBhPI-3FNcmZKEcLC1kAXSQOxr5Tb7tDHqBm5xmzRDoPx3wxzfgTv2ogbuge78JXeKq1k8tHnItDyAENDg0AwbSzZBGYxUxHhIlIEXHyVtJibcpV2Jb4pCm2Lmnft96sdLd_0cN7-5_WgFGIaHZ0PhtQkRueP8A6aDqvINwivOUy-1EiCIKDUoJDkw05zjpFcFuH0QTLMoxOqPAqst0wuPFmEprrtm4RK24wNy-zRXvgbsUW8WVfSV-5XOChNFkSaUzQgcUbHAVv6DYd89wDrrUVkva_1nJJyIc4PmgrL6Ppd_dAroL_xKJl6cTc5JaPVW9r9iz5zACyLnz9_sYFogYj3VN95Uvqyd_&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJKZYTDLfL9F8Rpe1pSv0ThP8",
+      "name": "肉と燻製",
+      "latitude": 37.9005553,
+      "longitude": 139.1041389,
+      "address": "5 Chome-18-30 Nakanoyama, Higashi Ward",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fv8msPMNMVxVKWap_st31Ywo0lc8v5KaVJoz5_4IixmgqbP7t6Bk8FcHc3LJNMn_wdyPmgAKmD96ohe3VUPkatqpa88Raku-WUmaheE7dzKI5jH25LhQRcS8TZkZRYYHXN446kuFszH-Tugo3PX5Z_SXvoLyLb6sT8KZ-Nfp-mCKam6utQW-8_iQ_o8F_t15Z_nkha6MxU6adhNxyAv545ub4R3Wh1zcYLi8U9DPGyQuI84-i18V1aPn66BcA5380l5qO9NMNUYYL_k451L4R84Y_lhbKYEYm4L-ICAJ-kriYeDIhKOnx9K0SnTDJcy0VEYy_YndBOb6rprxjCKPQRCeLhuobWg6_H8SXo5D9bh18GjC0VCWRZHUIkrRPFFKFaHGGijJMNnFMQ0vS13mXqoM0aDL7YvaIXv0PXvzoP9G1ZJuDiqMObhPV96D-VokUbNLCGdcFPBr-B1STtDsWmKzHiyMmcB3pqlClvvf8V5GxO4CVX91elWC7uXlIh0KtdeI0ZYaVACnUTimf5aM7apTW4yy_GF8u5LWJSbSxs8TewVOctwGtobG5lI2QCJaMYzC8C&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJR17M7SLJ9F8RqPmYHtb6tDQ",
+      "name": "産直セレクトショップ KITAMAE",
+      "latitude": 37.8985379,
+      "longitude": 139.0296259,
+      "address": "Niigata, Chuo Ward, Kamiomi, 4 Chome−12−20 ＤｅＫＫＹ４０１ 2F",
+      "rating": 3.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dm7UowEozzRibTtswhDutZXSgCXzddn2OEmU4jvDN1fDBru6-PxP_n4WQG3Qz14G5yi6FgkMAIIgzGqHVFCYClFFKpovRBfgCoZmgMF05lbq2lOakTdqihaJ1QUM4_LMxbLmbETUcf7ZFSGrSgyFSesNGl1XhgsU1lkYf1lQlDiVBb5zY5CqWjzNmy13YXGevyhyVqtM88KCU_4ywBFfhkXtwzlKx2bDwYV732CPnhAaK_wzYln0GrJ2e8zGwL3iHxT_Ty8lTGyU8jXFgk4DPyLqHe_oVH0hayp9HPFbwYHMIZM7w&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:46.279Z",
+  "count": 32
+}

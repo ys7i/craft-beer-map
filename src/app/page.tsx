@@ -14,7 +14,7 @@ export default function Home() {
             <div className="mt-2 h-1 w-24 bg-gradient-to-r from-amber-500 to-orange-500 mx-auto rounded-full"></div>
           </div>
           <p className="text-xl text-gray-700 max-w-2xl mx-auto leading-relaxed">
-            大阪エリアのクラフトビール店を発見しよう
+            新たなクラフトビール店を発見しよう
           </p>
           <p className="text-gray-600 mt-2">こだわりのビールが待っています</p>
         </header>

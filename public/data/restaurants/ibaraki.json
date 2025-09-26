@@ -1,0 +1,201 @@
+{
+  "prefecture": "茨城県",
+  "prefectureCode": "ibaraki",
+  "center": {
+    "lat": 36.3418,
+    "lng": 140.4467
+  },
+  "restaurants": [
+    {
+      "id": "ChIJJUq2DVMkImARCuawVGcqCeo",
+      "name": "Bibere",
+      "latitude": 36.3753171,
+      "longitude": 140.4703555,
+      "address": "2 Chome-3-32 Minamimachi, Mito",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2co6DLwTR6k-LWF1sdpG432xLkv7Z_vsxYBplGh2GkxBGS_fE5wn8LoRUxGMWM0amkUJSavsgQ3Rnzt-VKDwwpOnU3t9gkgUbmvvYFMTLxIMj2uR9JlxtTnNbNvcw3eDyMZ86bzhPYbW9W5Kw8ULCfphlQKFFMBTVA7EAE19gJnf9jFgmD8hDaWQfnrv3sB8QfnOV0FdtLU7IXA6qit8qf-H6L_46oqOTUTx-g-xV9uJSTGxQFvYKF5JoYxSlIyGhuIS-EQe4xPZL7a9dEaZCA8c7h_mjMlaSHUouUDG2qrv6yBeUzGvF2yVpk_KBgCxoCuaOojP2ooUdzE9QcvdtH6o4-ykumm_rr6Nk5078VDU7B6l15zNO5nHZ_9pmisxnZySyUyjYu2EqQuwZSlIEhwotWWmrEjQfdOE5ZHOFkKU1e8U8JZFTDtUDkHYBjDd2VAy2ja1FRI3bEnPVRL0SKtPwTRUloC5n3RLLg2-x7MQwzdtLlxr_mkjaWviLEMshI28hrcOysCA5GMoATqFvWwcCnZ-AXYXUid8RjPQfjWE-hynI7AvzvMotwL5DO-yPBuy8uq3HpBWA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJd2vJSAAlImARiDLR_LNWe38",
+      "name": "BEERPUB KICK 駅南クラフトビール&肉バル",
+      "latitude": 36.3663824,
+      "longitude": 140.4701737,
+      "address": "Mito, Central, 2 Chome−8−41 幸栄ビル 102",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ccHKr9VRR9PoZbvbo0iUbED94QFL7c8C-TFgwHq0rhSDmxeaKNBPRoGbEfjOyIaGFI1mb7O28291Kn4LHoY_iUZIRmNk4NJnNb_yE7QAHPRWNrqBH_iGaOJyipHCteqwxFk_rYCf2IWPkUui3EICDI8dpO2KoBzRufWNJNcTnsZ3sOov-_7aPqgw_HM_zSK3OGAEV0qSd3A6mRKlMPGNCtY_r9QuutetwFqiOO6IDhOShQFcB3Sq00gq00uh2IH1lTRacswj2fC8BH6U088HzK4Z3F8uQTYbf91ZGIh7H0KP-EZcc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-d797QAlImARj5BeoMP4to8",
+      "name": "Hitachino Brewing Mito",
+      "latitude": 36.3701475,
+      "longitude": 140.4768006,
+      "address": "Mito, Miyamachi, 1 Chome−7−31 エクセルみなみ 4F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f0qAzccRDdXTlT5RUurAYWKvS_vytYCOuuDVlQJpCnLCVxbkP8zkhyN5ELyIcaKlEiF4R5eP_epUUxOO7mfQqheK2e-8uiuQ7M1FbcqLx6qsep_OcUseRHXrTwbYWBfuG9TRz7aYecFPqWzkgQClX4A2moxIymgJzKJOPbVWRO3-ScG1FiwpeQ_mEM40ciiI08d8NgcjvIE6vZ0cnGgRzVuW3mlOtudJsE1VZabYbveri24x_YFIB6oDmVMqMrJSU49BPVjAdBxRJlmBDLuXDvQyVH5vEmWw6grFEEVIeH2ZDipEA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJRQ77fyIvImAReWiTv-j3wUg",
+      "name": "クラフトビールと大衆酒場 Sunny",
+      "latitude": 36.3938791,
+      "longitude": 140.5263612,
+      "address": "1-3 Omotecho, Hitachinaka",
+      "rating": 3.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ckp_QuuFCRaD7ELVEI-7M0AkzAxUWT9blc1sBKDsR-XtEH6HKEwSsg13rM75BK-HIctkwcibvPaw0QYUFTR8hq6YXs6Mxtd0VKc7GtIXXgMck2kcS3E6BkW6mIsMidCgF7kC2LPDB_btomPAccv8qGVX0BbuNzku16u8mhONpZ-FHzGaMg32g9iccMpKE6ajP8A6Mhi5OxH5jpjInVeS6L9KhiWBaAx2oxcUlLcGXgssKH5iXQ2vjj-ub1-s9Bfb9tHUGiFeIFmt2rktgerVgAcGYnQBabl2GHB0e5M_iDe6MEEKLiexzPzR5rEi0mQaajAhT9BwsTn8t4eC3z7XWOlUrBcbpVC4dyWgYHTPYh9-Ymd3MxTGjy3_zc9cuU5vR-IKckVfC3KfWVovwftfbv5HNMovuOyGbUtU61ZUXqTJM5pnN6ljuZSbdG070OE7i6jLsRoDCg_sT9cv5g4OXDwEAaTVY2BzVvbN_ZcQgvKW-MoGpwlXRB0KxlOUmxkAZJw-rEmW2KJJIcEVrpRjyP3tOpD4VezzT-8tHa5RAR_4sBAtrZ6p5P_74EudOCWMG9NjnW&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJrdfUoZ0jImARXRo3OslGAkM",
+      "name": "cachette(カシェット)",
+      "latitude": 36.3737809,
+      "longitude": 140.4170426,
+      "address": "Mito, Kawawada, 1 Chome−1545-7 1F",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c4m7LFd057Bevppbh_QqxePBvJE0u6Ukr29AW_74VPDYt6hFJuSlYOA-gz6INiqbngLIV4_1dM-dx0A_wdoqvoLQMh5YC1KkaVomYZyn24XOspDqB6scqx_b-Zq2p8cljrCqW9XCnM1BO9uNmlz1IZPpf5Nwj_gdNMmP39h4K8NZ9zNewW0Z1FNaRaFRX5jOI07bDSI3WrRqGTQztO8Szb-9OUVPiDqlCpVj0q5UOzm0tTSEqAFU64mhCAHjqYPvI0Ee4_2z17x1Imt02qULJyXqWL2JPAYKbL0EQsSoe0uWAYCgnrgcOiuXb9D9nlVtzZpcB2CEE2LTtp4VusBGgd0ZeLQSOECHOOCZpwE0-HRva02jiUyhtAmOX92U3cCuxujiv6mZZJuzs5YczIsXK2BhahYEuHTaV4mMJEHJcXF2d1aY0S5m7qHYvbD1-Jpi3DDEl-udo0yxDIhKm4EFtG-9FC7wmW_Lhvlt1Aw5QQLnhXR8mwkmhkWDLMlCUcF0zjpJevbnEF1ruaKy9bkYbv2_Gd7fFUDJpNJw0Uy16kDhcfKFLnDPWsFMHlBmf-ayfOPOBWIA7UOQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ_bisgWklImARzkL61yNoCkY",
+      "name": "Shamrock シャムロック",
+      "latitude": 36.3801785,
+      "longitude": 140.4622189,
+      "address": "3 Chome-3-4 Izumicho, Mito",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fxFb1Kpl06_vwVvXUe1a_wPMKcHRzJYUxbpxHR6y1F48QvHO76zYABL7LQzwn8sgd_tY4Ln_hvEhalojxDOYlKF6CEZjD6iJnuGU5673ACSvY_nCLqu83PnMH7lzHeUszhfTRlQVE4vjwtf_SDmvSECg8dgbRWq2m0RCB5-pl9YyVJ11c1gknqjpf7HtuADlh-zbrKnHW1FqJFS5q3Pj3WvvvA_DnVEGCjzozEGlc1DhTWOvrLqr5wWPFIGP79A45u-7C9eG5dWhmey328GVKCt8mFA6bPyc6d4u2aeGtiR33LeGRKGlSgIsGAWMjyzulkJG95LE7bfnZYIg6xT4u8po1r-w-7ki3qMwDosAYZkYk0_y833okB-Z7OOjP4bxBb-6NsnMwAzqpKXfiq3R0Q-zkLkdwJl2sAIjnwr0TGunL3-PH91FAAWTcto3oR3EU-7FgSVGMinU0zraDFIAaDL7vLn_J4O2CDv56uFFXWd9n4rVDKsFb_Uo07mKkyEujbIFHjqs_9iea_iNhqFAigPQd7hTqCi0RLgv6-5wkNzovFPqbjwU-jnReeQCWo0AxgVSrD&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJWVqTwrElImARzN1Iq5_vKmY",
+      "name": "British Pub CAMEL",
+      "latitude": 36.3724397,
+      "longitude": 140.4739816,
+      "address": "2 Chome-5-4 Miyamachi, Mito",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d9VLpuHsr4wk_UipVqt1ipOwawmPGT_rk8pjl1uq20pFL_7NrpYSAt7QmFRY6bPaH9nojOdreRZwjvcoONLkBXxM0bAfdOuvP_zn0RP9r6s9qnQNrxC-PKrVWk5YZNqWV7dF7JqnrIiYjNIEfmd63rBxokw8zfp-_OmtK6XXMxNX68Vs4a0IjgsIMk9ek7mHOITRvtQ79D8DByYm1Da8gNXQ6g0IHaFZzEONyptwf2jb3uzR0B0xT0AvB_PaW6K228CSUyQtI2ZHzUiwp0FyrSoWO3rMPPjp_5ZJ8YJIOTjwS5JsI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbbPMewAlImARt_E7gJ47uss",
+      "name": "クラフトビールと、私",
+      "latitude": 36.3722186,
+      "longitude": 140.4737898,
+      "address": "2 Chome-5-5 Miyamachi, Mito",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2clKfgzRQLg84029dF_gvnQkIx3QnnH0JZ6EILBISOVFRXP7Skdys3ni9q0FDQBAkN_ehgVV7sR9UiWebaFOjYMfcreM5U7twj9TMWHqO6LU48zY9IOHjmR40o-bz6PV1Bbw6O6wQuXESWmYTy38oiBrF3vdmlj3niwmYVD4JFxKBN0tHEFQFZ2QlXRrY2TP3LqGoRzx7eUqfY9DilFst4myoBhcsmtuWIXKdebOguNlOc8PXQFsR79-X1VlupS5EN163Gw-p_f7cFhtVOe2UJ2fZ5H8yaLjasJTlJHXs7pePipZoogyhURieedv0jeIX2VnnYrSA6BSFtCK9LGjQM4SQRWqG5WgZTFi3cPrrAN_AHpKA0IB7TUsmC35Yj3zL8yKunK7lWuGsYIW2joIGJ8qsfWgBhJRhIDDcLun_UdBNh2SgvbacPZqo5s5jyywst-8evKPXuX_DOjTF_IAXopsLc1gYDeUTgCjlU58JnfPUypNPqsEqMvlr_8g2YmAu_taofn33hpxGn3m1HO6QTwjY3wypXcdm52PA8GoPRjgN_DvHR94bDOIKdSKMalsDdSpG-wEDRdmlCHSC3Ti437fTU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJKXPwbv4kImARpPSc2qCFedc",
+      "name": "Irish Pub Kells",
+      "latitude": 36.3687438,
+      "longitude": 140.4728864,
+      "address": "Mito, Sakuragawa, 1 Chome−5−18 水戸 駅 南 オフィス ビル 1F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e8qNwIdjJAvOdA-gD6dx-SXFXdqt9gThGYPEeMgbTF6h-JdOqWel5r9YLf-jvvYWiN-PTvMgK_z67P7vz5lXB2fGaUy7N4Vp2_a91hP5YSm5jr-T2Q4SmUaNJT_z4ksSZvrDIiQUMgL4LXoMm4TkDtlUMwH080bmLaiiEJZDw-hlL6j6tBpZvjtVQA1hxexOe5PII_FdnVdUvu7xZNDWrF3YLpSwKiZwA1994vInZEZk4V5FKKWt37RauwAGHEkLmgJ0q7xr3HL_-RltFmfoBM0mq6UxHDpy5zCU2o9_f7uiMTMfLvSz-7GVq6ZhNJo3x4elnw5ha57ulzMp64v83qbUiSILncVhWVvTFwRf6LF8T7EoQaY3IJSqCLeVz9qwdjc5GARzOWjle89Dg5uUhU3RrQFYn9w7HcGpTcus1JLnn3wMuoofOdVwPIbRhbyJsrnL7k41t4mryBAhpDI-jx0qgVCfut9yu0wxu2H18cunqzfKcvKy7HPbZzNY-S2ypRoiwyaAa_PVVxdxHPexUxkW-l7jFjS5qt4IR1A32VjO209Ir1fTfr-5VjjGJpx91lfQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ8yTv6wMlImARIn5zXFe1dFQ",
+      "name": "Public Bar パブリックバル 水戸城南店",
+      "latitude": 36.3665745,
+      "longitude": 140.4763305,
+      "address": "Mito, Jonan, 2 Chome−7−1 常盤第二ビル 1F",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dMTtyC3bCRkf9123mKSNUd_5M4EtSawIKBjjqAk4ayeBtveNarL9wUVF0nGFnca_siUPg5IOl_XJ94DDXZxQpnVIbK42wnTYtvJtTUyFXRYahIWk94sRHH-i4Esa476V1Jy2dQJy9zQf2tgxxx9jVIjX_99jnqN8tzIsVSfQWyPi1_DYhSq9JnARmVlrsn4fkVwD8kOjUFKQUNOo5CtCN5kvSVl8vX-AvTVkbnPMQ12iu9mIjJ7DWBkDnjDkBwnKbu8ItrRXbONRfNjBDbpZsrc6O0RxHpSOJpec4DG247sWXAd1k&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJCfXZ5P4kImARvRdm727HSMc",
+      "name": "お箸bar junction",
+      "latitude": 36.3662855,
+      "longitude": 140.4688111,
+      "address": "Mito, Central, 2 Chome−8−31 茂手木ビル 101",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2elzgH4YjxuTpH1IZ42hmGmthBeqn_BhvfM7cNgASsMwj2zAI-M1EYmYOdh_J1Vji137DanpBVOehJSblq4anOElaaWU9gLpip1bgX9R3MYNA0F46YB9hd_1Hpdn1j0dAkNQ4jemMaiIuKRc7UKmJ4-iD0AON73uAQLBJX1huW4osIyIWZIKba-axJMVwSXwrL3n8hDxpeLpqmRzA4zTAqOJY3yh-y8Qt3yZ87DDINi8PHVEYIbNC-m4PfWgQ6UHHX5t74njFzeEgyv7kRqO2I2TxEUCrhMTFk651CNM53YyO72QpA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJwccVVAAlImARadtOaWBTfws",
+      "name": "極生ぷりん専門店やすみん",
+      "latitude": 36.36911750000001,
+      "longitude": 140.4797197,
+      "address": "Mito, Sakuragawa, 2 Chome−5−7 井本ビル",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fIordoNXxPx_2WhsjW52VsS7AoUcTyE7lwSFb7nzRGJvcvGuFWgxssNi52EiqjtfYJteFyp7tQWO-w0uMHBACzuCkjYzW3EPbxpmvbDWennp0gBGlsieK5y10S7spW21L2jg-tfW4yPG1-MmFhE__MvMRyDGtaU8O2bEVhgEGViHSreOhwqRha17F2aoquNN5eOqHIWWjNIFIImNYnmyjuHnw2Y_xX84dyLm3FJPpq_Ub6taG_QZztq50azqOLGwHzSN_qtks52UBAEP1RqyRPE7TRqO18h4CmV-anpgGp7IKBfC1YayQf5nVwaiXmoh-FfzeCVJYyVMARBrACOnV2FQR6QttHdFKcH99gPwa-evgqLvtEb5ipIhJmMPo5x3UH0p6giRJyp7YlA3H3NHvmKgUcFU2Wr4D7vPd6ZHwYOzoU0hhECBD1c5hRBW6iglqh3hFmx7uqQcYmCOsq8q--bLUfG0fX5v9OLwdPfh9Yuzoc8yHZvvueioUZcRLxx8NSc0yxPAYwkVRrtjj1k6bh53W9z-1-uL1DBmuAldRt9rhn2gghAAa3sHMjP0SUeTSzbbhegcPvwjB5p7qOsoO62zs9Tw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ735g4YUlImAR_WMwBo5COkg",
+      "name": "蔵＋かつ 水戸店",
+      "latitude": 36.3701475,
+      "longitude": 140.4768006,
+      "address": "Mito, Miyamachi, 1 Chome−7−31 エクセルみなみ 3F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f-P1Eg3BM_occOxALEEd_q8v6lo6433zNnFk0e8B0GLIvn2V4zlAPpPPSVbnl8oK84SPxGiWhWNHJWj61ayrDRLywWZL_wWI-LiawVOJAmySzNRPz9Yaz0BA3g8MrxfzvsZyHMvPgHTDXpJeO3dhKNJ2_-k_y1p9_3TmGmhmUTfDsU2Ebz4Fmv1kR9bMjZaKxL9DXKBagUn04oeKboSzYC9FFlYWDPdB6iyIWDrh6fDZK5UFuiEfUjahrWyaE1ywZdURyGGY0i02rKKyOLz8e8LCbBAjVAGRuSBmiMwH1XFGdOG04&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq7vsHU4kImARm5PqdaOQAXE",
+      "name": "Open Terrace Me Eat",
+      "latitude": 36.377576,
+      "longitude": 140.4662707,
+      "address": "3 Chome-6 Minamimachi, Mito",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eCFF65zDM6_7KmQ-VPsexXhRB0zMleZ3HeQhRjHFBvKIK4A28ApUGGzubwlDcPQ60c0oWQK4Lmpbldgibmh5xvVe4uxXlfAYY2AYKDvfa6cGOjt1Qg0lNJYJmIVOj3s81WUch2PqjgbFL6NMexNSPol0OMROZWtXabou6lVgoFFF7J8vPxAOSXw5zkblILYFGL6flni2KOrze7Pfx-89Pr8hgOWKOcBct9RtcZPBwylIaF_10FEjfkGiHaVrHVCrEioEoAU672k56_nRsKO5r8qslpWRdqQmp5MSN3tGj6hZko538&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq6pO5v0kImAR1GnoIkYOdDY",
+      "name": "kitchen bar Lamp燈",
+      "latitude": 36.36487150000001,
+      "longitude": 140.4710917,
+      "address": "1 Chome-6-32 102 Central, Mito",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cVT0gmAWocxp0afzoWax1KCLdnc3TRKZPYoQzuHW1QpbHUU_dTivtXCEPbU9Yo2FYrY6LQQN_WemSNNiUZpevtnIPRIDSMdpbSO0rulUopAV_zocJhdk-UnE_m5ihGOitXJ7Mu5B8Scu_bqQGaazyZmrU2OL_51yEZ-FKwUfpB3MoELTcVDiY89dPYqrbdp9rVuizs5I86cU6TfE3DQ9atT2R7nzGB4zegU-Ms2yDyQr2uxjEG-A8aqDLgXx53c4oUdNtuUIL5xGZdmz0eyLkL0fv4diaORKy_8q6IcugpV6naWmr8bTH4O2WlDsO9EE7PrBC0rmTuPbxJ8Kt9N_Q6IsRRaSCfJl36XQfgV00BOfF8s_-GhgHCME7ieIDX03DSC5MZPzLp15bUfsC53j6CC1hcGOxa8SqaHP8hPp6PbqMEsLP08g1iA8ojGZEqMj-qvi14nUlKBN7bJbA2udguFEZWO3T43HvK9SR7v93aiyymZf_r0NqgsTAtTEBnoxapBDcHSqwYxD9_uo6RbTyecpzDINT9ZtR_cYjnK5BOXNuX8CUpZIUkjZ86ixvMrpIrKMg23a0GQ4hWPqut4M-9fMB1qQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0-jXjkQkImARevTihnrjjfA",
+      "name": "Ravi Provencau",
+      "latitude": 36.3769635,
+      "longitude": 140.4633228,
+      "address": "2-32 Tennocho, Mito",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cJxLDTHpVh-oGhpiPboLA-9Yq4cyIZ0PK3qzbgFgGjQHTdCzCjXa8Qhb-JDci2etVyEWPwY_QS70Y5DC3_6z-XX6a7q5YV6h_HxcOUso9mqcPRumZVCHwaOeifp9yNLXzscKQI65CoTDc-0wwBKlhJXasCGBds7b063owNYmItwr83objahBdC446QilNqGyOPsPc5-EfKQ8psqI76UnMjSurL__rPzt8c0qHIyDiJ_aZPAvz_E7UQPSYzaRvp7pAbxSqKr-b2kldQkXksrILbv41RElWSCFUgHiK1XNs7Y-Td-wM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ8U7gCuolImARtHD2YI6Rq2s",
+      "name": "水戸エクセル屋上ビアガーデン〜URBAN EARTH BBQ〜",
+      "latitude": 36.3711467,
+      "longitude": 140.4758574,
+      "address": "Mito, Miyamachi, 1 Chome−1−1 水戸エクセル 屋上",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dNqTTfvOZPyKRVLiCL-AwIbVFtQunPSKXYZgFyKn3QL9Jttqr1vxAJgLzP0kbvP7s40soZAtbuvXGAOYlqJ1i58IBSnrhbRsg7GX1ECLi05wOQXX_rd06T_h56mGiAJEVFqA0UpcAh6qAP3a0Td0Q5sW6p1SQnWRgTRKPJnjozer3EdampLC_OsdaNyR08ESqtUGH-tURnlGNzvwTFxjJVn7PuZYBNAy_JUThKmYUghdran6nQ8tSdmCzSgTNi1-ImVXIxvk8HPX8MVT8lruwop12niroYwEI2lg49rsFr64sF1Jg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJISUWV1MkImARDCa_i3__BJc",
+      "name": "marcador マルカドール",
+      "latitude": 36.3748907,
+      "longitude": 140.4716859,
+      "address": "Mito, Minamimachi, 2 Chome−2−32 羽田ビル 1F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e99-6JDfRCejMYWcaZwcP36_WjyglUM0d3N1vu2T0uLNfeLoHBp31_xCSZbXfyCx9SiDNDJhUhZRcz8MvYFEChyQ2FSmka9aA6vVL3b__2mmK_-dnb2z8C4Vn0Dx084LOxpfZP75NxOY3dSxAeAoAGdIvREM-r1ylqE_pqYLe4rWKzszlph35FHv88ICRQlnySH9IVgYsmdHPgcqAZuCAe6stovqLEADtFnMy7R-fRODij-ay8pLEZaw8NYAtSb2z6vzMcANb8LeDD0P_ubeKXYacaCnCaFmX0KlsVN92hVkx9sIBtilQLJ1ggc-u3Vcv2i96pSRfBnze25edDo0ZW2gXn8nlOWgZXH6rCpf8GRk7M-QF6kEMEUYpz5P8iRPbdKJFn5hMPp3xSWeQ_XukeHvIxCgAHNa8xJp_5LoJarsT_ZsPyeItEA1g0kL7h9KnPFqUcoLolqSgQtHYsXsMPckM2Qbevy9IkLJh_ZVr_KU6M1a42r9QWORcAbXcA6VIiGqiAGbTJUwiNhG6gMkGFdy5TEO7uo80bC764ZMyrlw70RE4qDtjwJOT60qyofmNs7aCFOtWIPA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJZ7SoSwckImARzsDKW_czg74",
+      "name": "海賊の宝物",
+      "latitude": 36.3864712,
+      "longitude": 140.4318841,
+      "address": "4317-3 Higashiakatsuka, Mito",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dgXmXKPbMe99il2eZ-YDozl0Bp9-NJfXNZ40a6X_b6eQOA5XsI1IHUk5nBsDJDFUG30vBFyODwOeLZfqaFEbs0H0yt97jr9W9JfT-89WBvqgqSzrszLaEr0mUkeLf0oIfU_3IaKJBWj5MNqvC0W8wj2f6HMHBsKZ3q-Ovk41wueIs643CBq9W6zTIsRDtje5aw3M3kYPCmXCcLA1uaeo8VEw0VMnbFUhx4hJC350pUjNRP3JmY3M1LHA7fqZqj7ji1M7S30Z4BXjAG5wWI0AfeBg0KBiGTQ9_LeAx5C_f4FlrhPJ70PvHYylNok6Z1ZoSKbR-94pIXPF3_gdjfHRFuJ7oCdBdifpZEIRP8oITDl5G8f0bf2Y6SMILOjeVXFHhA2mUTdrV4TtmSShkpV0A8N0oCQbBw0kXHtdCnAw1ltp9L7fz66F5I1119xcbDu7wwR3cBRlZasgFemQtPJVV5ZfBB-Z4otg-kq1GMOGG0zB6z_sbv-PoaRrtEPWMs3ErxWZH9b1_Z6ZbQ5tG3Twaq_KeJqGzsVTiCeR6ODUa7j4dBHs7tZycZggOavtwojdsWoJai&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdSyPTksxImARsOnyyqsKpNI",
+      "name": "Sakura Diner",
+      "latitude": 36.3158505,
+      "longitude": 140.5641127,
+      "address": "117 Sakuramichi, Oarai",
+      "rating": 4.5,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cUeyN1uSvWC7EejUnP6mTqpUFp6H3LCEJ4U1QwugiZo-FKI5x3Z0B_9RqMIdINvM6e6hJsAOzj6KjlMUcm0mb8xJOwI29X2gaezjjJBI2GEjN1ppqK4mldlS2IqyDvB1lOTNrgY3eFOl-j4m2lnnrqphPXO3H4cWAV-9AskC4XWF-w2TY316aWiM7O-2LiCiYNCULTu0i4hQOA_ZbFBpeQMPzNLgKb9QqsgD0orU4XyrVtiHoTgWOqwgXK-7yyZnqkriXE8uuVdyIOnMwbH7MezMVEOnaFJRAnhrvylNz5iUlgo1FqUMJ_FxY3vCXfV-O1lJQpHlOHwx_KdTA5gzdq3LD2P-1OVdoI36KAzXrS7SSErZtJfuuC5zrHhpvG9iuNnHDvxcxao4I_abUs7aRxL8lOoueATlitOyOeujxvbSC7d66XWOWYWdCKoTEehikrf0yBuPVpT1swyep2ZU2dIcyjI554OyoT-gGp9royRpaAeIExR6H_O784HHMC6dyAtkIZaJ02J1WNKvAjMA7PEJsSutGFYVPiOJzgwdAKcuafoc4Gxo4vTnY_H_ImanEbVDW004cWmscYwdP8bdePDS4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:19.165Z",
+  "count": 20
+}

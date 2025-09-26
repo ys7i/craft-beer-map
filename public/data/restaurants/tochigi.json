@@ -1,0 +1,183 @@
+{
+  "prefecture": "栃木県",
+  "prefectureCode": "tochigi",
+  "center": {
+    "lat": 36.5657,
+    "lng": 139.8836
+  },
+  "restaurants": [
+    {
+      "id": "ChIJWSb3zaVnH2AR7sS23RTOemM",
+      "name": "Tochigi Micro Brewery",
+      "latitude": 36.5654906,
+      "longitude": 139.8898722,
+      "address": "1 Chome-5-12 Higashihanawada, Utsunomiya",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f5cwWnUVd5DPxPOsSJuAA8fvliXyK6LWZVgQuZWPVhBbac0T-sJQHhjB09k0-XHKceDnm-X8RZ9CA70wg6ZYjhreUDvnZjHp6d8LhoL0jl9hzyDD0cIxJGMdT7EKtGojZ0o1eGHsJ_xAUn51dHxvPX6UpF6WQsiDKWXMTy33E6iPv7pUgMLhYztoqI6flGGXvmNTB8oFEgrYAeh2KwMbYh5ic1wRsjfoZQwVB85jO2QJdkVgEGGWNnoEaqy_7Egwi_R2tkNcxg6Elkedu7JDIi56-DR7LgH8d85iw6cPtyvY_hONZAPMjdLsHj_j14eMuE6QmBXaU-9S5E4LI3Pt9FSovKDcA2aRO36euIr2_3WWWeYNCJzRMiieSyq8opYIq78pX9DUy_x8FtJdts0vXhjC_iU4X2_6Xgdj86ePDIpEll-nii7zaQ4IMf8Md4zIHPTCiayF0x5ee2t6UaLOkKRpoatiIzgxBLKOYG0PtxQqSWvNI8-LhEoK53PafebyS0P4WDDF3YwQLPd5_aPIkxJMe4O-w5bZRW-hkUjC06UyM7wG6eP5SD5Co2gh_r9JkFKgCh5oXsxQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJT1oEoPZnH2AR10DU_FdNCgs",
+      "name": "Beer Kitchen Punji",
+      "latitude": 36.5572499,
+      "longitude": 139.8839825,
+      "address": "2 Chome-2-6 Central, Utsunomiya",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eko2D-0YkX920Hj51tD4Sd7KCfhiakBrIkEAbAvgVefumt6KklVrO_FdM1e6cAQLnJojIVv2VaRpLJp5VYCnJicfnQGb9IrbS7IIqZZqBdeP1H-w-oCV1EV3teCaAKduJR1C5iD-Sk7841_m9y2FdPwQyovhoolwNO0ZOJfLbt-il9wQ79QYeUjJOR8hLxPQTczjrLJ-Sqo3X37SAVwuOploO9sdhNIbaMO8gxdXow2m62oo88mhl9tA38QQpqA5OplboOIN3e6u2tAF-g8jkVbQsGp47W0nd-FbD2OV8S_71_erE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJRc-h_UBnH2ARt1rCoWTQxz0",
+      "name": "meraki shokudo",
+      "latitude": 36.5585684,
+      "longitude": 139.888173,
+      "address": "Utsunomiya, Nibancho, 1−29 ハイツ1F",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e4VGMIqLdCCBo8ApD6QavAxqSkWgWoqftfvju3FO-WcjaGYbLOs8HKw7fw4e5pUb84yDsh3RDMnDrb1LGhk3hWoBTko8nhRAgFjtcR8KEDn5KaOq4zfzLk5vc9h5_rz6SSwJqJY3FOOfBwAgiduSnIUuogYo7aTIZJY5D0iU_XX_bYnR8oBoLmxKY2X6km-Q2zGG9Sxx-_GDSsNGkv1ay-4Bt-8MSst-9yFWxsp04jW17wQzHqTIyyD4oZ0oz0ANBeTy7B-eABYM80dVKZuPFxCgqthi6l16894jTIvQRi048sb2Y&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJXvya8xnH2AR8KW10p_-ol8",
+      "name": "Want a Beer",
+      "latitude": 36.5627825,
+      "longitude": 139.9080918,
+      "address": "3 Chome-4-6 Motoimaizumi, Utsunomiya",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cACssNvAUN8iEm7MTw2sduWSWP7SC7PH5YQ58DaOekQYAUwE3-lZywLzKgZ75-h5wZmfRKQUDznYZfKAE19IpA8vcwVmzKEG-O7xAxsYkXMgzJaL4OwR8o2Bi1_ptqG_B46ACC_2cDlkFCdQs-N_GSDH3rpnsygOZJC0SGCEy_iNi_ebdCERR5wib8wLDnrmxHCe_80IYAb2_v7zbITThhrUOypFXPmC8BpUGOaJ9YkCDowrsK8lGpnTpj-TSrxw_utAgW8ADIJKgli_PZPt545HDaZrHl9pEAOQs943j2ApdWFm0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJixMTz-JnH2AR1MRw_g9ms-A",
+      "name": "Gusto",
+      "latitude": 36.5470718,
+      "longitude": 139.869236,
+      "address": "11-20 Kikusuicho, Utsunomiya",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f6LFdsDDDubVsy-9f4AA_-bN3GPtG0IvKpSiUBroMC0iaT3d9vr-onBinaeBFMM_GaADkS6I4C23_p3MoJrJiV6fYC0ks0dgwa0JDTmQeLq5QPDC9-UsKHYHKAasoStVzyAlmgrzGly9F8jS7Xf_tm2rijpsBV7n5OAfm0K-X9VUUG-UdzGB_7igDR23FHrmACvcerK1D7v969B5xNtUuU5RMvwbb8ZNz-ElgdPNaeM_e4k4vasdXhHpguMJrc9wuvFVSkEXwPtBj4gHSmr49eVprU3cm6cWs2nayThHq4RNG1aaE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJlbCHcHVnH2ARno8lPze0RKU",
+      "name": "LaTour Restaurant",
+      "latitude": 36.5591661,
+      "longitude": 139.8963142,
+      "address": "Utsunomiya, Ekimae Dori, 3 Chome−1−1 後藤ビル 1F",
+      "rating": 4.1,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dutezhf1LWBgzSynQhePoBuPsST926KrtYCIZ7uCSpycFsCk89TcQaHozeZya1FYEMAGvbfpVl_srZ9GC0TtGh_u2iX1u0s3FS3bP1NO46p2d8lJKLxM17w0jtp9Op2PWK3DGvX8uDAFkA0Mhn4iIHuMm7qunSh2kn-lleV4O94yqdlz0kDfSP3ABKM4Ppeu7uuagaNRSWu5YBxCc1OVDFwwFXdEvW4JVf1-itu96iCt_-7kY3W_gOzKyb1gN8PaXNqjAsLKvk4Eodk7wb0c3w3AQweuEF8MK7LYb8YCpHPX5dKec&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJe4-AZ4ZnH2ARs9pUbuAchpQ",
+      "name": "bariSheep",
+      "latitude": 36.5593515,
+      "longitude": 139.8999315,
+      "address": "Utsunomiya, Miyamirai, 1−1 ウツノミヤテラス2F 202",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2epvtDkLVF3Hd_Ix_d3fe4ell5e-WILd1qrpSQ7kABW2WQXPdH_0vchb977-yuRHgEe5UW9i8pSc8lM1bqZm-G8HTsJ3cS_9UjFlKhdg0pLX9cpKoZmoCdv2HE5RsMNlgzbVWbLcfTnWiqglIscpA9EZiJaZ2JuZNIU8zwmisiGsR8PADwyzpVIi59LcyNuDdFTt8Hoh8RyX4haaLZM_z5yVAe0eE4NlKFQFfgF0rZu_QsP1uM-_9KjnITYL9BY0rBy7pntBLIXm2Ul7AXr6ZOMYURSujgKjrDf3Dir8giJpk2aI4Y6JW7tD7YQYSlapl8ELk3Ni0Hj5LD1yrq0geyf3NVNu7oGx-0gR7a9A8xxB8WdJf60YWZuAOx3VNwXLJIRcqDmR1DlsqxYqUZ6bHE16aC1o_yMYNayx9Pjjc26-O2teV8rSRD3SQ0uG_R9hbANqx-5MD4PWbb7Frj6OBmsK5q-QVdkqg67aeBZylWKc4iMF12O7llSoJn1Gxq-dmsC2KjCSXBjFuz8g9kgpRTJ4rJw833xnJZKrSc6LmfTAjMaVJh0-aad-rNtbSHQ3b1MAAayKbmNazD1ljZa_sttc2fYXw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJC2BmsaNnH2ARzBt-H31BuGk",
+      "name": "München",
+      "latitude": 36.5606201,
+      "longitude": 139.8888908,
+      "address": "2 Chome-1-4 Odori, Utsunomiya",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fxiJpJEpG-pNqzJP9qGlHkidPKqcVHVWAIT3HgU9sGL3EcSBqSk4t4a7CWfk2fRuKGOSdPJMeMyM7xlUu1mn6MhDEpmBOPhN-lJdmC-5HZOmStkJe4QCf20SasJgJTSJ4MwRYjh4eA2iEg_2IcCwox8zrHYcS3WwvxRVmB2MpmvM6hSM2Qx8LF54U5l8wlIXTjr2sCgJHtew57rb7u6rjJXxQxnopmNkbAag4RpB3_f77ZNkkaIIoiat-JR0Acflc-QJvGA2XEapu7t5sIUMHh9a3NFoJsmZo3C4odhoRoP7lHUA56NP-oXGAAOUaITPqMmIAqQchBOovenkkpNaM9_RfB1rMFpP5kOdVR2m45Jz6faMtfRZ__Jd--za-tGineKbpb3HgINkJbFW7qqdt8Dc0v1v7CEXUSxwd4VY-XLhEBOxo5wWYqCRJwB4cGkMk3N302Q9X7C3yztdzAzZVY45WOA9vhZzUf8mksVTqJyLRH5APWz-AxqFN7RS7C_abCHqGi9jOW-Ik4UQAwQwRUsh6euAat9eFKLNyhKmiDLZVjVliv_4QkJ3eTbwSKSh__JwsbQhAUD41JrN0TeRdq93oHPQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2WE5agBnH2ARmGxZMK4vhOw",
+      "name": "Bar Andalucia",
+      "latitude": 36.5592194,
+      "longitude": 139.8860433,
+      "address": "5 Chome-1-2 Central, Utsunomiya",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eIiBE_0qtWbvpeovlyNroI4GSIjvexvomWf4jJSwwEcME8MjsUYKUGGFP0zqmT_JbZbVuX_E-XEvJGoai4jJgOHGhRf16PTrYR5eChBPyqhmLg6ov9udnXSaAiYktewNiq6d34RqNnc8pTQM_WKEkMlAIpeWwz85pfKNd22OGmxdIF-D--2gyQCR9mXh_pmRKy-eMF3V9kjIHLT8Rwq3AW8tA9_HLfI3xlAmoAkV6DCPZwKX4o5flqIoUl4rLpeHvCq9XG-bZ1Lc6lnYNwxs2V8-rVpkZNYUVn3UDwHX7iSqKrP74&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJfTaOTOByH2ARUO98nLGEbnM",
+      "name": "Cafe&Bar Baumバウム",
+      "latitude": 36.6492964,
+      "longitude": 139.7139847,
+      "address": "260-5 Koshiro, Nikko",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dJgWfAH7Q9uv730byr92Wjmz22x76fm17olVSV-MKtVHmsiQ7vB8vh3nTS5RET5ZA7qKOE976t3lBR2aC12i2qe14NA_IwXln32fCPy1FP8bKcqq4yqjM_TTM_OKuCWrgAF9wZeG_dN014-tek14UfiQXD3SZqpKdQSSu2RWmuDXIp22l7qQTYN60agRWCCqel5APi_IuQZQkx2Wp4WofGufrLZLKpPNHMkJDpfu78Bm2CB_yQ_eTmhrVc4tl4N-VzQEhX0zU2P2hAlTFBn1d5-65zMu2XkfBSmUvQZqHNVW-HGl41xrYXh0XeHkEyMCoyehYMvdZjsdwYRG6833xjt21uPRcnX9l8byCVXDgJp6jxgMaJEwtwufzIwKoMo_sc0Qohs6yn-KezVSjsunWeXMTYHEsa6U8zSQSY1XajAYIYamJ2B5NO1ifbmsvPyw9vHUFAHf1Ax5hEJruzxg1Rt7HsCjA7TlmFAWMnTFrJrsE0UyLG26GUoxZHZsVxZol2sCdswnheUdWkuhCmKLEcdSpSxAHttHiifZowK8ENj6HdqiYwr85aOc56UN7NyOIrQQv4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJS1nUubxnH2ARuJlXfZJVwDg",
+      "name": "ダベり居酒屋 EXP",
+      "latitude": 36.559827,
+      "longitude": 139.8849024,
+      "address": "Utsunomiya, Mageshicho, 5−4 中村園ビル １-Ａ",
+      "rating": 4.2,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cBl9BVQnHHp8poLmqpeAYtFGOvm-GMp7P76QLM-bN4Wffw1X6XViSRsJ0NYRiWXIkKZUfhB6SjcRRHWzbhTtEMz3QoJUXlirRw5PhXGlaTaFU960Mx2_y4Ugjm6hW-5iICUbLDSjwxU2wFjacJoY-i5pKxO8qUKor12ZlJV7mM04DFNywtSQUoWZb8SSPHfiORJr7PSiJDt1wZ4DnG7UMdD_DRcxlAKMbC4ejxHsKQlioXvA1MV-aDN57zLdUqSJw5XL1PP2Ot82AeML7urUXM0bU6eDnOP8bD_74ETkbQUFOtjBJv9b5uMoyOswQh9xdp5Ll3WwSADp-CeK9jn96XwmtZPXFcJwVR6rJmvHzGqPO53ND9l-5lLw0h7YQWeJHGFbEgH6CGnyfZVA7rtft-7eHg94QmNUg7abh8sCrvbNNPX51vHxKn6hQba581lMoU8lzbqpCmJiAlw6QU3W3QAjLOP1RuQorT9ls4I5NL02hSpTLY47ruYzdgHHJI1pIhwTRXwdflx-Q7dJgVeNsLE9caMuIb2OlLP_sPXjeHyOmKGI4kExwGbyjaPbf-E9E_X-DQFruddw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJn9vwn7xnH2ARxgL1aUZr_rc",
+      "name": "38HOUSE",
+      "latitude": 36.5605923,
+      "longitude": 139.8841458,
+      "address": "2-16 Mageshicho, Utsunomiya",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f8Gxs6WX5xkTi5GGaTjggJp5gTICC16LiWP4MY-VMwEDRaRlWGp3Q9jY6l92TA8VTRqL2pvcjEuqaomVP5RJtBze_ilTIhIMqIHQyUKC5O-M6BoSPdwukJju_30uEPm2Q3kMsM57PTjbWoPpae_DBE9hfUTIiGETImE5xuJruSWqELow1XHv9QqYx84y9YAph-T1Z7VsDHdRYsczGeVB0yWTgTTSGWbmYZHNOdn5JRAL3_hiA_AkmHAmKpyhZqaZu7_KG6cAqU9t68MIyE-HjRO54WE9_JtAZQRwc3MfKc7aAn&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJLXteQPhnH2ARaVTD5c4ohTY",
+      "name": "Barisu Gyoza",
+      "latitude": 36.5610459,
+      "longitude": 139.883156,
+      "address": "Utsunomiya, Ikegamicho, 1−11 １Ｆ",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dki6NfwjvGGiuttg794z2UwupmR4vA1OJv-Ot0Ls1g4PO3Gg9Y12SjaO7TYjnzKoceYcldbJl7E2spwvi4pE1RNd9nncntdlT5wU7UiGGkm-KnS-tqVRM2JA8XoTfkvQwnDytzN44uL_-2Mrx-0kyLm8IIHDRPGfPF260bO65UnRbuHJQZtHjkkMKLuSYpQpRBasPHVSE_MhO2LjIJQhc3igmD_zrC0FE7mSTB-zbwMFpeAlpmwthSBvIqusRG8deg0qDpA-ccJ1uwjkVqVY3CZQJn2RLlMt5d16TWDdit0YuhLtPrYT1L959oELl58nxUUoxhcr2IGFvxUdb-49VZRDM6sNGnXZl0nbaJduBBz_WzA32th75Qa2jSLk8SGWC94nzgFAIimoCtDq3jg4r8p_OFZPfZb4b50fqRJftvJRP9MEI7bPTQdPDoPZX_zFegz1nrZirSMkyE9Xj_VWISNuuV3GrQGjE-2rFirALw3hoHORZ4SF4leivV-9sf1pPCFb9UechUs9uH3dYlfmsgLoTlBu5W5TCcHMcnZu-787VphET5SB6YTazFiDEZF2ldc07ZMn7bfefhRjb4_tf9GCfLjg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbTp7DzdnH2ARAOcn5ZskXdI",
+      "name": "旬の肴と純米酒 千酒庵",
+      "latitude": 36.556919,
+      "longitude": 139.9006024,
+      "address": "Utsunomiya, Higashishukugo, 2 Chome−14−7 1F",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eUVlMZcOWQvbjXdBWucx2cg7D4867prKbXdxCtOh-454ajhhJBNM5bcbk8z8zu8yBD4MKAbPOxfph-leLP3YpAWLa0BHmYBlYi534a0bVg6P0I1bXMTDir5JoLdVd-EA3qXqX6eJZXQ2650oCPZuUBJHzQ4MaCFI-Ul6EDSSIgRwAMtXp8GgXC0myUt-OBhm_TFTjhpxifSv-Z9pbwyGkv8PdRsO4lHxB2g4KIZdb1doR9ZCMKfLlXvuku_BPC0TdKgTv4WvUWNYuGUai08C_sj70QwMKD8YNOSGb0cXnJn07R60U&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdfgCapFnH2ARctSxJxITZOo",
+      "name": "Bariron",
+      "latitude": 36.5590706,
+      "longitude": 139.8979614,
+      "address": "Utsunomiya, Kawamukocho, 1−23 宇都宮駅ビルパセオ 1F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dH71G3iG7EDPVl1ppMg3OjsVUdFS5DzK7d3ZvSHQqfAMxUTxBu_32CFzTZCY_xvsIg6HDc0AeOfiXpFiYvCAdyT67eNUViKeKecuXKaGK-YY2RYmDuh98kOSweIGwQ1-wGIJ2XFydMIOshwG-io3sPZM0u-Swic2Sk29j022zWDUhmAHa0RouKV0cyyrLMi52afjB0iiD1MYX_C9SkppG5prKQ4QxvQyuKfP_jmUnIlbzxHKZa4QmM2QVSOWhfP7OX61Rk7zwkde85SHGZOx6sW8I9JYMj0fVUrv7ciCX6ykkNDEjHXTf8bfGsJC83M0L3SrDp_jcByVuh8AHfuKB-OmzpnrwjYAvRpZ5OxsGk7xlR8Nsk68D56GWv3Dfg0sZRzEQsKEAiSf7ai9OYDrPs_lq72y6nOlW20iSVArM1KPQlYFmU5qSlz63PIZpaVN9a0WyUtf5wVjPSu9RnTrHH_orT42NmZuKIPDFPKFLIpAxohIVzEfFts3rArLTOfrART8hcP8Sx1xbMw7nhF69OIX2VrP_Y8UcPOqruDr9DK4cNzG6QKhcEFLZi615nuC3GDEcu&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJozk1EONnH2ARR6X49AfENHY",
+      "name": "嶋田屋酒店 宮みらい店",
+      "latitude": 36.5597309,
+      "longitude": 139.9002524,
+      "address": "Utsunomiya, Miyamirai, 1番1号 2階 Utsunomiya Terrace",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cpegppak0jEWPTFlkpp17vf7Pfq8_TukzMNIfPCrRuAz_tRcY5DBrd9XILfTNJggGTSCMfNklb8WJaRDONFU4us9284Tz_68AM00sB8qrSAwG8ofWtG4xw2yAFhiASQ14tQUZPZdvKLD3D0Q8XhYX6ok_C4I5DlkB7R_oPGtSXxjTo--wRc5x7HyH9NlxTgIVcSCrp9H8RiE9Wo7zgS-9TdMeN1dGMCAs-lO-UIIUF9OoYht9RxRfAB3wIO41-NaDMfOo8quzGv3tGkWJF4oFftG8Hp0PEbCrMgEw7O2eeYqzVxNyY4Xz4y2MxHNAhsaLZTACNFXuwmkiRemUrjM-SXnIwz1XWjkgA3ROIDo2yzaBQWNvzKuXKyxuDjYzAxdUDu4NrdBhEdyaI5WoMHSgM_ZD8gylHtnDVKkB4lEZGoir1I9w9yF9kqkx5cso8dS0xgaNhORKWTI333EV9nJgECbAZj54BfirBGG7gs_iTBlA8i-7On-tsAd7Am9iu5-GTkQ0_Vhk_Mndafxk-sRInDhrN5L_NVnyu7v0mlhJHbJQpvCLKPtM86xr3RWZ7KFjt38-W&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJu7gdnqRnH2AREAeU4yLChmw",
+      "name": "Bariton",
+      "latitude": 36.5617798,
+      "longitude": 139.8869821,
+      "address": "2-２２ Miyamachi, Utsunomiya",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eBdIUarPaRPmlyjaAi63cfgE7hPDXS3U5LDmQkWU1jHC5ajSnYI4vmsPD2v_BMfWiRV7tpcnjeJvh0HB3LYtG3mCHuCGEgoAAuM-cL4bDNVSM3mFquy5N3HqqcuPlQ8TphbtUmrIEapWZyXBQscWhUaOUNeiAUpbS_cBmRZSp3BbFULe52hDRzRvT1Rb07HYR6w_J37OyZ8LDVfzVcPCCoxnoQtFLfEYy8kFHvE0vYyePk7Vxk0ZXPvRb5LgL4Ex53aHcPvZXV3AQrCgmxy29KSRATM1dgRhgxFSO14_3olMijMb8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJt9emsXVnH2ARv4HRscRn8SY",
+      "name": "Utsunomiya Minmin Station Bar",
+      "latitude": 36.5608986,
+      "longitude": 139.8982897,
+      "address": "Utsunomiya, Kawamukocho, 1−23 JR Utsunomiya Station, 西口)駅ビル3F",
+      "rating": 4,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2evGRLLweYBN9-M9tuWz1cUxsnlzXifNUjs16in1rptP5grAD7WVHfiNR_58wi3Yj0JS9E3R-fTKrFTKTcksKK89BpuosKWtOnc6pRdV1SC0S6iCTbd6iXH9yeVtitN-6FB6lA4PcDYdqJw9Xxs5bs00hpeblEBfzrMuRLt_6aWuTboaLDDwnBEghbNaRJO4SvziYVgDassNDm4NJ2B5Wn3CfQnGqD9-_-4aRC8gwKqm6_RTB7GQLTOusYlMxYR1INlFkarKFvnRMUadAGn5O6wG6G6Ebbc1LQH3wYXq_7pCEknwvwl-cWty5U7eAKGFzGQnO6Xoz_vdiypvTuZIZyPTRZTOHQsqJnKc_1Ci7KfmeQQ5T7uEAI43zdhUo4bhyMuGYj7g1tt_wbcY_zXWaBF7Icg1gubyHG8gfjwiHLIBklHutqSxIif4B09zTsZt_zm3TuqoFR_xXvh2cU2_s7E-LIwGh6HU56lmTS1vylaeu4JDTzefdnlrO0FaKXJ7oOX7tOsmYaxfAfUjxddHg5lR4kHkMW5hL164w4jCbMZKzQVDM0mVAcIyZ7CTNiWOz40uyhn&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:20.722Z",
+  "count": 18
+}

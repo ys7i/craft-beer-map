@@ -1,0 +1,172 @@
+{
+  "prefecture": "徳島県",
+  "prefectureCode": "tokushima",
+  "center": {
+    "lat": 34.0658,
+    "lng": 134.5592
+  },
+  "restaurants": [
+    {
+      "id": "ChIJZ1EGv11zUzURxE_DIJICzLU",
+      "name": "Queen of Meat's",
+      "latitude": 34.1128136,
+      "longitude": 134.5463449,
+      "address": "Nishinosu-174 Tainohama, Kitajima",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ek4VndfVbIvr2gNySuT5sgDIIcmpckoNzFUsJitaMXm9oGLrlXWrg9RkmViN-ZNlJQqX1Y4RM02tj_qSjlcsHfCqvhAw41vQlF6A70P9T93qyNM8SHFySmc6yTRbKKHR-UPXTs4psQOUBRmu396W0qLAMbkGhchzOC79hSavRta7cjfQbLpAXXyYmaULOzOYQCgEdhOG0CXIxaz9_O1NvsNClyzPu2mYOb8P84MqGiAB63Mdar8qbzEIrX-SlzZYnnFTUVqIdd0Wfcmejo42vFcxn6iJp1BAo_RJ0FvUTfFWgpBdqR0pmrphoxAhgm__1H8SoJnRSOq380F4uK85kw2ZrpmeDnfOZvjhvW918Vj08Lf4B5l-TKDaIlfNoeeeY5llg5l2Qr4mTSbELOAniKwGKhJ3lEEKst0dsviU2axQXXqiHxFDvmDNo68x_9tEih-iAgllF27EKNokv-xoQgjvN---oe9MmVAKIe-ScPoroD_JfADpu9x1_9wwuYyh1IdP8wDO6sGvzWdRNKD1gzAM_hgPisbwXAZBYtO8JyaAyKAqcbbG-CYc80bNaC5uVVk6BoknbSeg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJe9LBX6ByUzURErA9nmIjUMA",
+      "name": "Craftbeer&Filipinofood&Coffee terrace38",
+      "latitude": 34.0703439,
+      "longitude": 134.5489244,
+      "address": "Tokushima, Higashisenbacho, 1 Chome−１３−番地 KOKUSA 東船場113ビル １Ｆ",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2elGl8TuQJSueF943q4vJC1fAQLqIvBFYO5Ovuk77PsfZfDcAbt7AUS5MavV2dHOj_ZfrT-HD7r99uCDjRsCOR4ccgTV6RnngudCmkM7UOfLzu_cBOfCqB0yLHtOAMKc89KjXjbBwUNMOk77XAg0S6CyR6iTyRFn0KkMUu7ZiFfAZsCPC_H0hzfnsgPiZT31H_foAVsNX0hw7oRRU1J_IlOLik3LOY4rlCaaNHpJPhLD0uoN25QXaPGvDr5Lnk1kjRH6NQ9r_AibbgEk_85Gyl8YT9q_x5D5cIq34-806OkrcsbX7s&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJPTaIVotlUzURfcEMoHs8-UI",
+      "name": "g'suffa Prost!",
+      "latitude": 34.1757007,
+      "longitude": 134.6063195,
+      "address": "Higashihama-667 Muyacho Minamihama, Naruto",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fFMTUOiToqaNgOY_kzmnDsbSe0xHl_qprlj7dg986sYHiRtoYHoGbDjGvHTl4vR-Y-MYdY1atS2lfgoG8KkwrBHkNnBM8JgTbc0AJcJHLf78R8-I0INH4KwBtNoeillZxAK-9VCRTjm5HGWdQ1S8ydOCt4CikXAZ0KwZo4zD83QZT62PuYWLOOTgfizbOrFzk-IyDld_wIcn_mkvgvznrpZPQg-7ygpLPb5B9ct6HC678YWXSuMgb9GPGxPpHaVSka4NHmxAd99t4Rekb1F58ipukr75helD9ZgDV5QNRmB2ZUp4M&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJvw4fMqZyUzUREhEBYeJGk-E",
+      "name": "ワイ フライヤー",
+      "latitude": 34.0648558,
+      "longitude": 134.5475726,
+      "address": "2 Chome-5-1 Omichi, Tokushima",
+      "rating": 5
+    },
+    {
+      "id": "ChIJ3YJqSLVtUzURW_wg-4_jWVE",
+      "name": "Yakitori Sake Brewery YOIDORI",
+      "latitude": 34.074273,
+      "longitude": 134.5514069,
+      "address": "クレメントプラザ, Ｂ１, 1 Chome-６１番地 Terashimahonchonishi, Tokushima",
+      "rating": 3.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cSvrtTjpfO4BTZV07El26NNYi3dJa_3Z-gytwn6YOCkNbteheZn_R2RtPmEN8qhShvc321h1CrMj5QWh6esbEzWtmG7FdNuz6E3Jp8QEX-Vjykz7MIoYk5Na0QycCZD4cyA2vZDS2YhJPRf7RZx8O6VY3g4RBTyEeZfHGxywTy3WS1G5IoNQqm94emAu9tHx37z4a5b-kHRSLwSyDsqrTiJDomOB4pwzcec0Row2FLUDXGsb0aHRnAqiwYrvgbkGfzwP6CtXeUvgu0uxRIWnmo6xoZZEYMGdUzidggV2Oh0EAJH4ezq080zYv_BBlA4gLwQBAMKgwLci1xDAuol9wHNafSDAmPond-Vf0lo20Cq3TrA590v3pT9L45h_RhqV64rAqykyIqT-xGHOTTP2iTxeUd95UC6rID_XCGMyWgijAqALZ_tP43D-hqTqol5eNDCOAA-8rh-v5UiK8q_qR9ITQCAQvLWkY6U2cBwdrdZVpXTm2nASIQrwgHwLonjFX14lB6V9J6ljvY3K0-Vi6Ui9xND8smyssUZNnFIJiHvXTnqmzHzJfTVgnQbR9Ffdc2no1OZszloQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJW7DqNqdyUzURx7Rd3qCh2Cw",
+      "name": "Karlito's",
+      "latitude": 34.0677051,
+      "longitude": 134.5487649,
+      "address": "2 Chome-38 Tomidamachi, Tokushima",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c6tSojK_IVfGvmJNSZNa6AqTjspftOib7i8-VmUm2oEcejKxT04YXve5tEkBA6lSbTh7wBJ9gKYMeIaWYfrY5wLt0RcG6ErtW9khGHOEDasCy5FZrvBSqdMeqZ4LidMbgCiEG9fFW92GoD5Zu932GvYZhLSf_Q8jPsRnpihwvvyYpJ54XuQJ40flD_pgUry3YZE-EJfatSryF7zSO6aO6XwL8M_5Us_P2E3xrBTDL5CMJ2UOr376m4oN0_NBQ3mTI8Uu0-xDpxjkfu4cKB7vZvsnhlO9-hm1GdWWPKiIWdGqKOrHY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJzY6CYExzUzUROp42hGFzhUM",
+      "name": "green flag",
+      "latitude": 34.0685979,
+      "longitude": 134.5496582,
+      "address": "10 Ginza, Tokushima",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eEfGE3pLpFKEIPKzAvKqc7jeZ7sRAfLxjMzmpDOE9eAtGl8aLcXbgv7BRnppJYfSG3Hz2IlkmXzsGmJu4E45SPk1d7xZHswSGeWdeo115rX9MkGDh2HIoybM5rT9AeeYaA71mmwV4YzdX04X0NjhilGVhXMhEJiBR7hZuUTHZk80Yh4ltQHtpkByRd8ZUMEz3KGomw--eNzIoZJ419lCRD1zpzcwMU2JaIx08oEToQym0H6t2J9hIFbic-E0ehVKBtYpU7APpwB3PVR6M-QnJiFsqBMbL_VFyOB9tItOheOguw4Rd024qJtaSAusb0FP9QlCEP2mcnsVpRCRPVpD7NdXSBzheA6fcOOER6qhZne-u14y3oB9OYgoGYmdeKzAyBS9ZM2d2TM66FUirEoCPr9WK9u7tSMShb8Kw3-fWqIjQH5U636-JCPSEdSxhKMDAFW5RU4UkDybgnJ6WXMP5FR0P5AuOl4MeBjLvE7FnuB1cnO5zKCwwsRhByUcJJbBwCllxJ_oWblo3JsR4-zLxMTM2wFeCCasGln1ptmddMTpWpi6_sRL4xTC3-4ORrQN5oAQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJx_b-M-5tUzUR7WY9bsu5tFc",
+      "name": "辻堂餃子店",
+      "latitude": 34.0696449,
+      "longitude": 134.5513412,
+      "address": "2 Chome-23 Ryogokuhoncho, Tokushima",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fcYnTfHCKpJzqKWKdJhirSzjAckeHEuGND-XYmA32v2dwYKBBrKeXPjxT4n0qoWfrUwDdP0oi-IyKMzxV1ewW0lbnLkcyCAHglHGKuoOsuO7h-IESPdkA1lLduJ7lcuZltgsB5P17qYlBE7Vr64BaQ63Vud_I7ypivoK9slx2vd8wI3gfG5UmWKtkVCE_agNWFOrbWYjMHy65H21d6tWFGP4XY3Gh3A4meegsjB_XUE9YFHwpoYUiZBW4lJH3Mb3Vi-fT-Hbap9shCBLdEr7ZaGoDQTRVQ6T_Fn1PZn33040C9YzVqOhS7UbhD6TBlR51ghXZQYsHGPH8b3aMIBOvDYGSsQZF7qioQ_je8CpzChXO6zWvujsnbi6cLbrPSN99PM4ZWjK-FnWRPdSUCGF8aeJFyWLCHlcGSZC73L9gYMtSum1GeD6c0H3arn0IKgU4r5tE7ip5eWVzr5tcVW5mxVP_xpzxWbkG7bGo6TOoYxrzdKE7A5QZXH9694SqnxJIG_xsfcfW0m4kdm8sP3q4msjpoyZA3HoS8HWKUJ29EmyokKyi5xI93HLVIaL89tH4KKc2v&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq6qqpwaPAGARUkbxEH9Uscs",
+      "name": "サンチャゴバーガーズ",
+      "latitude": 34.20104490000001,
+      "longitude": 134.5933531,
+      "address": "Minami-217 Narutocho Takashima, Naruto",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c0AD183bUbs0PE-EAbXplHcvOC5O8zNZwPe8xNJdKahBDhM10zf1ReAwAI5oA3rxza3IJfkQw8immKb8QDc68IoxLU9YrvleqD6ZVw7nVV_lBNkuCCJ7UcZUPy1NkjSFU2Tv_zu-klD5W2_HOat8jLNhGgxfhROKAuILU1d2JhL0ehgRZGbMMOEAcinABxxhNjQ0-QuTjTqF7Uso0x5v0RG9t9q7b4kJFLuQs3NlIWtYIRA1f3HY3th_f2n_IZpLYRLiSEw3KLYdE5c80PQr3P2NXkW_lQXYF39JjJuTJVUU6ytxI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3XcBz19tUzUR1fwXOERIIu8",
+      "name": "S.B.DINER TOKUSHIMA",
+      "latitude": 34.0704354,
+      "longitude": 134.5520938,
+      "address": "1 Chome-14 Ryogokuhoncho, Tokushima",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fA1TVxrHlwPQXkvf8CVWucifwfkIukXKLK9VOnuPRw3HEqFkABbiOilMTsPZAL50y35nJA3omw2GvQxUwA72eGUBuAD1MvrtU3SI1tujAl6wBDgV_xrNr0jE2yOlVoFQVOqwM67gqC4zGd-FgWWeqo6VOYcXFw8Xlhaqes6ATJIl7IDmHtn-uzODMjp42Bc4VQMmjPFGtPAtMdhOAXTYxOy_iS2xZpfKnGN4nN4BktSAS5tsSW-eORAQj-f_6_cfQhBUDvK2TOY5d4fEYTjNGL2q0itEYUplalkrBGT4gvFZv7db1MJ_GYlAxElgPbWc15GuYJqNGl092oI_jixH-Hv2vTt2CmZWxvVdA877xdF_LmTyYIeF1n9D8w-TawXaRAfWR-DT4Rzz7E5K47dDHeiZR0-TE5wMlSvszRvToMiB5K4RK9EtgJNjuoFacUfR-j7NyMxgKzM3juUgfByFV5GrU_tXNEBj63G11HwOCepjhLy8bp4oYAmZy0fQeCf7ag6CWQ7r5HLQQVbfBy7ZHP62R66i-rCsx2Y3xr68YY9sRql9qhiIm6ScBRS3h45ho7oNhCmUnEtI6_ZwnOpBK_-D2i6Q&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ4bxuT2BtUzUR-3MMnK5sED8",
+      "name": "Trattoria La Fontana",
+      "latitude": 34.0729322,
+      "longitude": 134.5517009,
+      "address": "Tokushima, Ichibancho, 3 Chome−２８",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2doUuLbGTnD94Trbcr5oj28EdLDoWxBkU9KPRwlsMT-0hcAxnzr1hX8JkMKq4SEKDQWIIQLaFDq0tTyh_PaDvLSgC3hKLkBQ2cNqhjzGluuLzv6V4GF3ggNFGzcxcdOYnTO1v_DKm_SqnjPESPikGmF7li-W_JMmYEJvU_R_DLercCtdVsyeKsCRue5TzojI2avLZQZF3WZxSAxD91L8-suUZDYexg_2H3vlkS8JqjjLovL58OIuE_MLtlmFaSFWpLk2VxKZX0A71B_Uog520Bw2K_BuqDCP16Q6WmSxM-IP5j3lvWLlIkxu8VJrih8EdER0-0jeYpq-6ypyuTe_dQ0vX1KLO2sJxJGPMdzI4yJ4ZsMTYMCMvFAmlwQImVRaVb-b3CB_v0D1Qvllm88ZF6JCYIiRP0GCBh3sdjVRiLSmg-vq6sXWDFJp2yEOWQVSSkL2rumm12VFaf5rJUmI3pkL9eZ0Wxcp9-U53JBGgXXfQGw3FblOKycSghVBGVkIVFhyJcH28aHDRiOwqQ3PmN-AHvwpGP2cSnuRcngsZgZ548YikdvZlRDNXZS4n4kzyCjij3X&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJqxoSiUJtUzURpQdBxcgPrQU",
+      "name": "徳島グランヴィリオホテル プレミアムビアホール",
+      "latitude": 34.0658846,
+      "longitude": 134.5617051,
+      "address": "3 Chome-5-1 Bandaicho, Tokushima",
+      "rating": 3.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dvgAm9MxvsPwUDBwig1rb9JgoFpXOkFvVI5vSwegvegM-8MCyz8RiaIUcziLDn_E7T86C0eb84hGC-aMnHRxD5qhglQz8wV87GkZ6tpyH_GjUTDqSswaR9Zy1boJ-CG_qd2dr2AVSmSjjOba3O0cb7GWJriFzYpzt-57EZopf25Uw6sXHWHGFJEcDCKBxR8EeO2FHLhG_ueZB3Unc0d3f5okCULuO1q3Y7cy7DV6s8PYsz5vGagHJTTJ6lLBf0ymgwzZMwmEJXEABcKaX4hQ-OZ2Yytc0jk-wT6kfoMeDbJMgLpPxUAY7V0pC81y6QthQvEosoR3jaFcpnuwX87ocPy0fp_090N7Vv3SWYYEUUOv7CMseyY5HgAX2v16lQC4Jw0Z1sRA_75YKLHcLUIb8CDfV6oUavV026ZxaAeYPBEg0c-0tGlps5XJVTk2TefsxMsfkCmY0rd-1Fqost2Z3drV--Qmn_lQLIHcLn6SJQxIOr6qk_1284UaBoMXJ-P-0-GDDJxukig93eMrvc_xmZ5g0DQEB9k4Vl-7h94xMvjl-F9fdRT1uBaf5hpiIanV1OFw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq1MVhOZzUzURenvXtKmqdSE",
+      "name": "OSAFUNE BURGER",
+      "latitude": 34.0703836,
+      "longitude": 134.5474193,
+      "address": "1 Chome-28-2 Higashishinmachi, Tokushima",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fKQaqtTek0AqqbIwPt-CH9pti2Gggb9FE9vvzg57ACjex3fdEX2aFG45QnOkka1OucyawNXco0_UYi1H8_dK4VET8JLlADMHbCho_L2Q7EheMXjPQC7Ma-A4dkIpsB_jCAw9gbWvu861zW83_6hhN1ARbLKRXVbLMd1goSW0nzuL9VRyzdhukOOsj7lmUZwS-wg_6_TSS0-nEPtpGazEMCa8P9s8g2-4Y0QPfG59zLIgn2ZFNX1yK5tAkijn3A39quc0OveQzn1eTtUVC8oh_nWpF2MsfUtsb3f4Hphi-32be5_lJtAbwMQICsert9LB8xywkZWcs0f2tbST8A33j8Z2-v77Dviu5V4rXy-dTTvp4270oORCIOH3TGt0TMLcypuMdibH2JXqW4Zqk9uFxuUANAd8ZGTlgCSubbskwETfCGN73tzXkI8fjDzK2Cr44pszieFvQNmdszq3bijXaTqjSOBJWG8bEJcgiJfXP2yR_j8pMe3NUzSKYD2ZMqb9O6NmgDDWlYRYc290_vCqYbQ_WMpWyOWcj9cYZ9ClHiGlhAF6CMqBMUDxs8qmlcGHCv-XJMUdBO4FGKREoa2KpMD4weGg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVVWpNJlyUzURhE9sHjkogLA",
+      "name": "Roast Chicken&M.C.Cafe Bon",
+      "latitude": 34.0772642,
+      "longitude": 134.545417,
+      "address": "1 Chome-41-1 Minamidekijimacho, Tokushima",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eV4cH4yqvXPp71jH6PkWOk9NjzzNuoNLYzt__KIZiwnP4OotfDlnmDbPJDvJTSd6fcsKIeMtm5hRxVqqc95B_nw_OpjlEKTnywdW0EALTO1cpLKZZ-BAYlSXb0Z2fu8P5ztcJWxtqf_nGbuLM6sP-ZzWS4zbZ68r_jWexElYle-o8MTbx5r38UyGlN39Cy0XxJ0a6OWg-Ety48z9c7q2MsaYrybRAtBZg4vOQs0_08BLgrMV9qKGjc1_0UMnUYgStEVmReZIQ6t6kCuEtOcrS52DhAWpRm3Y9GGMcitG5W9vrwSUqSzR_b3ac7dAhBd9xxVpcoXn9wVJWOICMBrt7FwdelCUKqPFCpvUxyF5gpftwusUC97X55QKHSwZFkkZiuHuPxO8oUL7HTjKFlOiilS3hRwwwZIr_22FKITEacOS6Oxh8W7y-6tbcq88EPlCoIy8Bg98Flxg0y6-xV7dIetE9XRAOQyH6ukimd5DSu3aLxiI4j474ecR6ssODaJQj_fYzTt8uG64fi5Qb25c2cQwhjf-e03lNJOmdfCA_KWNqUd6PUTVxndWgjL5HsxKvOoA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJE4e7qZ0SUzUR2uFjBP-W1QE",
+      "name": "Daimatsu",
+      "latitude": 34.0286402,
+      "longitude": 134.5521991,
+      "address": "Nishiokusoto-24-1 Omatsucho, Tokushima",
+      "rating": 4.1,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2en0WMMSYoFG4rk9n3ljabt48YFMYDD6oDPSZeiR5HgNded_FzzUIB5vJhj4OHWy9dVLcZyaME5lGghDQRBOU3PJl7ymGOyXMm-xKR5N5MwCAN1tm1YXf5GX3qOzRWS3C6LkVoZpG7e866JeuYr-5CMO-E4NJrDqx1v9eF7K-L0Va5tlkeFkiBM2Aa7ASOtK5VyRwoCfhj6ptdZqkHWgEF-3KLgZUyrJ2tE-BjuAzkGxdfgLxIq1EyMejSiMf9yO_U6pqohu_UqVcjm3pX1ffRTULA6Q4tfOHe5GpQ_mow787Vg82rFZG_AeBJUOQOl6sG2VZkqByAvC5Yf9ZbYNVhvayEdMqPwyVj3VehcW1ZgriZ61jxYan6ntR8e3WFaq8Qf7lj_ldkCE64B2fdlT_LrSc8vI6c-bmM-5kUbgJ67aPYgLEt4_ulaFhEnfL7MNvLbsyWTw8trBRX9WYhJVvQLbQ4lJMwhGkYZW7PPiAzaDMQuCziGvcOY8qfWMO56OWj8US1lyjYZRiSVj6nxzAAW_EHguk4utBPmJnT1-MVvrkKaSKCwZVl3HP_KkQlTHguMRRbe&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJP5UHWatvUzURkmbxf9Zo_Fs",
+      "name": "Food Base Kitchen（フードベースキッチン）",
+      "latitude": 34.1361682,
+      "longitude": 134.581512,
+      "address": "Sanbangoshi-10番地 Hiroshima, Matsushige",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cZ_kQo0Tz6zwOdtiUqoGIrPylB6S7sdkmdaj2yxP2u-o53UALasgG8B7903raP_qrVt1SUFVNiFTcAMqUFc2mizHcygSRQ5nE4cb2RKnzGbWdV-pSS0LPeuviFydtg_lyFGhiDBTZh5k--sUYXhV_DPgIgs2J-ua--vKnBubrUo9Mv2zmFyBkyRYknCG23nq5AoR4Sy84O3kKwI5ftlJHz0vxeTEj9fcLkqWLOlc2W1qYz05JndgZlLx50K8wVG1fGXsojzehyjebO5yxcdvqSeEbzw61pj4dtqT8yqbCf3EFwxzrjy4Bj_d8S5Dq31Uv7p7XqFCG1hLqp_30eoCBY1xJunh8_iI5Eb_GeEQf4-5v6J8rDmWqBk6-mqovpBWc0EP0EBCyoV0hQSCeweQSSd90M_mnsblU2BfQQ2niDyeS08nvRwsyYUQMJnyKfKNkGqpPqauuMJwHpbbtyLQakYxRmcRzYRXx4n44919YoCoPIYaO8AUvMC6zbPgLwmDoXru-8RK9uvvKt71JH8Ed5o5_VpxR9o_bsvxn1Q3v9QzR1koW-nPiwkPfjHJaA44gCY1isoTsyYg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJwxBvB2FtUzURKuBt_A_4Irk",
+      "name": "I-KKO Station square store",
+      "latitude": 34.0736084,
+      "longitude": 134.5525243,
+      "address": "Tokushima, Terashimahonchohigashi, 3 Chome−１２−8 K1ビル 1F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eq0zyd9mW8QJmONv2R6JTgE57jMRVFjhYMMa2cgRH2jQRVBTFM3JoxbBAw3G-bRnOVuXT9tbsfHpj_NSjUaPE2SsVCS5z_k0byevDJybLtUDuasdUChthZsutFysg2T8WcwJ41xmQ2NoQzh_dA934PMFL2Wpdud5e1pz5YrlxKFykREDjjAD1lK2dLl3dPiFVmBsNWkE6WDbH803wIDVrz5A1qC4KNOpL6915RrE4EAK3cjN9QQLoHhgwnoXuJ_Tsc4u_967HbAepLIbBFZHhXt0lOQfMS1mYtmxUGg2FsKyrBU7EtsEgg0vELQaDHe52zl46gIcyZnpsethXgRiMjBw3me-15Ly4y49RD2czFWgdHh3CfrjtjNVbOA81OW7ot2M1fm9pA1mKF52MwVenEgGw_cz6Q-uQgRBVIwAXNkQU3FyWCnTnHEFxzes38M5JAscUH6-59G5_ji-Vjo-_ZuWuneWu9Fq27ikTkUGyw25PrkyNlMxX7Lm2m0AlVxyejeCPdLnh_42lmuB89c-pzv3QLxpmNS8Yu75M5j8G_CWvlhYkhDen8U94aWGSkq9pQJffNXXlG0Yga5ZtEnPWHjq9xiw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:37.859Z",
+  "count": 17
+}

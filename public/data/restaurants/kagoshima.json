@@ -1,0 +1,218 @@
+{
+  "prefecture": "鹿児島県",
+  "prefectureCode": "kagoshima",
+  "center": {
+    "lat": 31.5602,
+    "lng": 130.5581
+  },
+  "restaurants": [
+    {
+      "id": "ChIJB_X11n1hPjUR5_wOY3SsTvc",
+      "name": "MOONRISE brewery Tenmonkan",
+      "latitude": 31.5872983,
+      "longitude": 130.5547782,
+      "address": "Kagoshima, Tenokuchicho, 10−7 朝の海ビル 1階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dHbljawBNMbBErrwr1bF8W3jleOKtm7JTJeUU49te1kQ0rovukl1wb0kvpCUAafuWxQTprLZHGe-hkofdIEYWNC8HU2BgXUGFrVMfv0HveYVLQZ2RkICejxqbXklZEO0vjSfZY5QjN34SN6q4XDhobPqwkjAhM2gXmAUv4bD2yjB5VNCxtDhjcbvJFqj48k_NtPqml7aKonfrZ13U-1RgsQarsTWweB_SqzYX3CxyUylHsWUACQZ8KqumILq7nmTr3EpqYbDtZZd--HEh0Pgq-XermJ46A8FuAViZoCcRbsyZIQ0DnImEkXPcLLUVw_lmJv6CFcD7_OwQgHjVGNFSBTmnSCqwaS2pL97VQ5aBA3Ari3ZqLFOx78ghttUBB7GYYHjlsHNtwDVY6LH1DXp-hUkTGurmSSLLXyAsXoWO7Modt2suF5WbOMXXl1VJzQHU_nU6e1DaLqtAiNtp982fbFjgvSO9HaOYWjZYpOChEgns_bBSOxQqJl2-eLqqcwL2YisQ8VV0bpIle30IVmpt_E1GDLGikDJBQuWMZaiiW1rRrC0QsVA2InneaqNBAFnZiu5mj&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJPRNeFZxnPjURbF1GHcXddLM",
+      "name": "46かごしまクラフト / 46 Kagoshima craft",
+      "latitude": 31.5915973,
+      "longitude": 130.5531956,
+      "address": "7-25 Higashisengokucho, Kagoshima",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dnK3qPCFgORHU1mVywdGIz3zV0JBiSsyYuoCfrWwu-Xo2nXBvG-8SWWzUmqJRUkSCJ4kUTehUZf6d_t2BstUEU5kNSeJ2K16wewEgega21UtEN5YZ-Pojk8ZRVnfUZy9flI1C9xCI2rIGz3HrHjFtaf-V_rtpOHxEnctoLmDmlwssOlyRI6g4PTN9XjObhLOEzoh6hNjd2yZvdf7Eoe1zkAZP03UE449KJ0szHA-uLY9rLqGYhK89qXudgFsmpfAdbmDLEo_tDPJD2RuQTDOqtPhd5g2LW0WPygQYdDa3e_tcUvHY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJkXPPTVVnPjUR-8rtEMHW5Xc",
+      "name": "Re:Ale",
+      "latitude": 31.5910915,
+      "longitude": 130.5532029,
+      "address": "Kagoshima, Higashisengokucho, 2−19 柚木崎ビル2F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fn9xT38e5rA9dP893TEm4c5UiUqlmf4QIbSrQ9MHwQwfM4i1ojq0GPJSp-NkDWsPoIDPGVxwr381yGsdbng6shYOGdIgz4Ut0huHGCwJ4UZ-JVh7vPYGHIUNP6Um9YfzYGGfK_GFVQxu1oSh4DUnvs_jM-UtjAoTcV5M3Yth-ReuGviwew9Ntl9e5BT28DQvmxF5KIPzSi2aP2vx34WP0zMc3FQu3rD830RdRa3oOmgNh6m-DueyT9n6b8CbSva82tt4p6I7Yh_-tvnDsH8VC5Hz9GGRHTcnpn1e3wnfonSt_3xCY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJa7k7snxhPjURLeSBgSpDJ9w",
+      "name": "Curry&Bar Base",
+      "latitude": 31.5894681,
+      "longitude": 130.5537251,
+      "address": "Yamanokuchicho, 12−26 桜屋ビル B1F",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eXuwb0v3CsXVIbNBUVv508DaMvjG0KOkaTnXCK4Rtnb0sSFvWOAYd94QQGjBFVfg0tCxbJFEbcIuZwnvzw8O65ffG3ZVBZyHrddu6dxOzjtNHXwNl682u33GM6Z8kWPcwGkvgkzTW_jghEj2DeNgtGMIQD6dvR6JUR-k6jmGfcozC9_mLGgaImUbDEroSB_wBse9Xx3AzI-PGFj1RXKZhSF-otHVdJM15xB1ALrMnDo4oATDqErGBMG8UOsOPdlSimW8-a_zeL6hSdaE4bGG35xdKx6P2iZIvBe-lpm0DHkNFbxsg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJAcukUeFlPjURsUqG8uEZ0-g",
+      "name": "Yokabito(ヨカビト)",
+      "latitude": 31.5272591,
+      "longitude": 130.5188034,
+      "address": "Kagoshima, Taniyamachuo, 1 Chome−4094-1 La Plus１F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fN7QxBSEr26LAQvWkLTOSOQwy7wBXPsKw67pibkI7ldPIJOsX7614J5OuxKglV5pzwww5AjjraYSoNv4SKp5cTqa2nG2B3zVOnLSAuI1PUBNxS0kpYPza47Q-qe8MNnqguObxsnLy3rcrOYIhp-NrWvoXaedhB6s-DNkIz6WGHpeQoYr72H822sLQ6fNcY1dBr5i-Em75FnLaaUQ8wVsmktvIRPsd_4i6yAKPsGz4Nm4YTEAYJFpQGBQ8fMJnWPgG4677w_v459p4dmEDGNTNf7J2r-gugIGiLnHyheUB17hChLS3Pe6cVNSKgwd7L7vXdU2kA_ksXA8rPnvk5uyLN8RO02Ka1k4roLyfmELzeNtHW-yINgjUEkQZmdJg6vrm4RvqoD-DVfBZNgt5WgP-_m93VR7tElNZ4IE4dediBF8KG2GKEz4PCmnmUDcm6_OzZiif5GodgfU7C_LOrJh19JM6hCaNrzxB85dabRY7xIsXDdQ3uyZXn8Y339PHGH8D3adpifokZdL--hcwo4IdrVS5mH04dw6v3rlNO7rU20vldNqHds1u7V-2RMWzy1z9SeI-C_-ceBw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJTWtHWKpgPjURFBklwt2BtDY",
+      "name": "Beer Reise",
+      "latitude": 31.5890001,
+      "longitude": 130.5559959,
+      "address": "Kagoshima, Sennichicho, 9−10 平田ビル １階",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eK0kwaGGU0M-gJPtnGzi4bWS7b3wyEVaSLa8tW7lwMdwOxmttuc1Y3rhrNDBrWEI4bX-yVq_FIZ_NC4vpM5XP9T7VwTbMyn0PwHO0CJPUfFNUOhJRByHzsEMRXY4-78rnKF6YZWJr577LyxQ0weqUFIM1wDX2bR7ZzgzucBJew2krysKp5vLEPUYbQEi7DExjWklLR1ler6eoawAjBHMIhhWMnPpZhcB9i4zTwl-sVEr-wFZxvm0PqDJiKJ3M2DkCY5x6Nad6LlrQmSr39veHY1ZBWTLBuqm609wVoV0kIAsyhhQR9lRJ0424RAY9gu7mVAQOQ8mP5NI29_rPP4w_vLUkjUahN-QWtRmDmNIAGjbbjxDxwBniiO4LvwB1VdR4uOOm-MGYleuXe3uzUAEy1m3mcMJl_kvnN7ijzhSJoMBnrzU0frJrn84n36oWkdhlku-OyTDJu8I9oZ_XfMmZoNmm2Cy9vs_jshz1tU2AnRq3doCv0TfnfpjNGTp9RbFf6R4L0C_rqpLp9PVLE6BZKf-JsGZR29mmyJPkK5XNCaxSFBXXkHncWKrtxh4h_xeLRZMoH&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSWEKLwBePjURJGStVnZkiHY",
+      "name": "クラフトビールのDOLPHIN INDUSTRY",
+      "latitude": 31.5913117,
+      "longitude": 130.5553521,
+      "address": "Kagoshima, Higashisengokucho, 14−15 浜田ビル 3F",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fqDmT6YFqzuhyQdEUjBB6v5KX1VV1KE6xDCrVV4DYyWq6xWXvbPQrYbXFJ1C95VW6918jPS1TCC2FtZB1w2MXKnypPJlTgnwHaFKbhZZAVv3mfMURrErjo9TrV00bhqAFXMAnihW9rARAxl4kRXmiLtLPgGBz-ek4TqBYURtyZX4CguMefS_i6k8ij81Anp-iaogGcrt8mlx0MQOpQww93lkkE0QUd31nJi-co7ZAR3ujoKgD5i8uDMMPol56CytHoSQrWrLCTr7QVu3xVi3HBIXRytOwb_T768AX3906Mn_FmGu0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJzdMy_uZfPjUR7zwGFWiGWUA",
+      "name": "ビッグベン酒店【英国風バルBIGBEN内】",
+      "latitude": 31.5917804,
+      "longitude": 130.5537886,
+      "address": "Kagoshima, Nakamachi, 3−5 ゴンザ通り やまさんビル1F",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eXjy8s8RxUcPuLrZ8zElyhudE3xoFc-_8iIJ0-NfjtfASHSrmOoZrpHLZSZ9DdBCIwbUZh_LgwkMnKqH2rcm9mfNSr2ZXPmAUDqOSPX_aRxqRMBaAzAUXe1h4niO4NlQCL2tdFjCNYI6j796speKMyBRQ-FAb7wfUAl1AKXgNZmqkTz6EmDWX471LiT1zjQlXemfWODB2MJQ66RgwIFDiLOpAQls5wDhoqhH_0zgBFdkxyMI4GR7zfNml4OPZAf5cBExdA4r18aPRwXvAFOqMRykSBnu3IVEbSvsLDwhAM5_DwtiWC1IU1DqFMOC-kWRlwfqwzrebqtS57Kp_3Gqd5kgimbEJ2egix2mfuV1FReeI4aE-DbY7oaZ1rVvvLjpLEAYBw5GoZ1-fjXjMV4n8XRs2HJuoFdrZJlxPfSOwQ0YXGSUZIlmyZLP2ew9YXvvIKUw-3KYPWKaLDhL4X-iwObNsW1R5Dfqs1EvZU5w8ai3-3SPW7qwZCCS91wxkCKlEumm46OpsU6N30-1_B_HlpHmHvzY7b4I__R6H1LZZxZw6069m3RBugX1nehT7N-G1BhxoX&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ80zTO0hnPjURVocesAZXzRU",
+      "name": "BELGIAN BEER BAR Bakushu Honpo",
+      "latitude": 31.5767302,
+      "longitude": 130.5449518,
+      "address": "17-37 Uearatacho, Kagoshima",
+      "rating": 4.5,
+      "priceLevel": 3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fYoOd_i7dermsVrRYaPmQcaFMqAV7UngwzFIXf7KkppwM7Qj2prObPTLq_8-1KmwckriLo17Es7AvQdRMnC20KWNscvsitk1EiqYWFnISen6gnRa-4PHxro8iHOU26pMgireO_u7oLZUiIL7qR0s8vzPlH5gv2XNDiGMDVvn6QCHKfsd5wZ7xCNKsfVU6nceSiBqhpuX4f2todALPJEoYa6TV5Makq4L0yLR_h0Xzuef-u9dq1vQNPIrEpNtLhWX06ZQYK78jR7nglaD2dXWUVgrbQv8EyPSQKFLxm8fVEu_ZoRdM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJX5zLAwBePjURV9FYI-xfWTg",
+      "name": "英国風バル BIGBEN（ビッグベン）",
+      "latitude": 31.5917565,
+      "longitude": 130.5537522,
+      "address": "Kagoshima, Higashisengokucho, 8−23 Ｂ1 グルメ通り",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fcoNsGlx_DFUkR8XuR7bMiDKVGBLLdWmeeLHlI4wanFgnR5AZi3jP-Wr_KcrZjY-9t9qsKYixF7DVeBNQEwpZRD3PBg5-y91Xbz7fAQ4n9DbY6ISGMekeoeApWHEf89VC22YCFZjKzIBbTvZelBZ0S5LpmDZNc7HlvRyv0eijdoo06bZ6_2pytyjexlwKTLvm4xq8FylH00oYTimprP9cnwOPcKeUWbJv4ZF6cxmhPOrVsXWFrAUs2eBfRqoE2KA1bRcFpC5c8XOyClvvxUi6kiYEtugXNQAMfql5kiQp2Xp7--2U&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJc7-U4UVnPjURjON3xIhGaxk",
+      "name": "Lofto",
+      "latitude": 31.5803206,
+      "longitude": 130.5388411,
+      "address": "1 Chome-23-15 Take, Kagoshima",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fiasYWpWsAmM_lnB1CEfBEhpElJ-1-rMR4B48VQJ8C0K_zlnWpdA-lphYF-h0GawmPn16qostBXk2P2_8nWSr5F7ECq-RzHgn9Km_1ROxn2jiILmdWBOlqZp-cnO2G2DWmWt84XORIaGZh_G8rdmEyL_pwrsJElPJVyngOQerXhlcjBbng15UU0Bhe4lnycha5QBsqDiocgQydkep9CvGw66W3OYS0KKaPSr99ZUxQVp-zhxJjH2Aox4Ha5kfJ9l4z1XzgnD4hzVc9tCeK3PBvlFzxkCrSMuPWlh6JmYqnJt7vFiQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJS1mQNUdhPjUREJ61pwKAh4M",
+      "name": "Shin",
+      "latitude": 31.5891834,
+      "longitude": 130.5533673,
+      "address": "Kagoshima, Yamanokuchicho, 10−11 寿ビル 2F",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eMO0TFUGEQ8vjmwrVmiwvDF9NhjUVzDc_GWVYQp4K2AjuwXm7i9RQ3GMzMAxJjIosHFgLr3LmSW2UlocnCr_QGzHGbYifQaDKOU9V055_ULq5qxpPdLDBR1FlmVCzu7JrXx-pvkEC85HCRac_spobOBF1y-LTZKk_roQPU1A4kU0qk61zwd5TR3b1c6_TU3BYB_-wvDDeljh4GFNlfNK5cQ4N_o1tD4CaqnyRhv36AMDy-yjiHJ-I_J-hKCZuD4rzb7HkyeWgowUhvFbBEEyhT9brRtRb4q5LD91BojFB2FaCX6oI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJr1eMB01nPjURe5nsnt1j2Fs",
+      "name": "バレル・バレー プラハ&GEN アミュプラザ鹿児島店(霧島高原ビール)",
+      "latitude": 31.584321,
+      "longitude": 130.5427861,
+      "address": "Kagoshima, Chuocho, 1−1 アミュプラザ鹿児島本館 B1階",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c-AwtJp4eBvGgcHFDkPCEagNcUu_zJAEGtObSP_nLMMq6wlrCYb-7yYori8IsWZTXN7PH4HkQEvgz62ctIFFMRn-3jyy1AJ20Hrp2Nk41_mxMiDhrA1DAK8oSy5-l0V5LT2BD0GmQSLXNr6WLbYllVlWhxefkkAs5BtW7r4wZsdwyoxAyo1x9skynTgdi8epVobqlwCJthqc_V1L03pqvv3ZVOMFrBW0scihCqN8VzJ5IOt-UoHZj_toRLw9-448OYVKOrwVUbaq6G7Dg-QxTWqhAUw1wiVK2-gtqYKgfprt14XMA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJo6VaeABhPjURyJFyZTolTyA",
+      "name": "炭火と麦酒 N’ｓ ＧＲＩＬＬ（エヌズグリル）",
+      "latitude": 31.5867128,
+      "longitude": 130.5564837,
+      "address": "Kagoshima, Tenokuchicho, 11−8 アーバン88 201号",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ezoSP8htHVoKQ2IeZr6_rW-g1u3CJ0ueCJ4BFxrLWwwXctBWkPgSb7oMz_IxaG8Oe8PgJ1qpaYm0OnShEtWouy31Tflo4vyCJ8HJjElmrdjogZNqr4BbvC3O1semxudnQmqczLT7aSMIONJ0FG-Zp_C9GDtVc4V9V8bm8ltR0bgDbd2_XaTCZjsTrUccmMwZ1fFtqxOfmwI05ziOBFRF9IaGRGmgnuXtfoEseGeJFPjZlPcHHXqEKgX0X1S-LSJ4Trh_vUkj8mWVadchKFr-CA6w87vII3ouAez61QARIO3wOrUNQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-WiAnYNmPjURXdKSzTVeV20",
+      "name": "Le Blanc Bec",
+      "latitude": 31.5321593,
+      "longitude": 130.5203221,
+      "address": "2 Chome-53-2 Higashitaniyama, Kagoshima",
+      "rating": 4.6,
+      "priceLevel": 3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fYyPD9jxPDLiO7Je5pxTUNHqMXbHfuwkRa1pw21jivEfqFhtM9OwfhLYP8KWA4aTS41ru8XVDeam77lNid7k0D_lQO45-0yq8Rd70YAQh1_KPBmGMG6mWAWUB48xp1pRBudYVUDf9obOYb0ioK9Gw9UybS0wsbQ9Me403eNOYEQV6jbR7AIUYOFTbn2CIr3reg4THy67g6ct_CClz-pc6TDYeBxxa0HdV0z7hm8X3_5baemEDegeUphAag129yj7oeS6vw2b8J4rJQ3zZtIVvaAgva9zG3zzwkJHyXsZMSsVS2O0oJiZm5dM9hpUZyokSa2WTeV6frybueqv3gG_tDPWleM1jhXTDNi5MLNQTWDuP4uwK7yQ75knFiTeLw-7MHHNlGLR958VEZ7ip5iGSxamipYPN4PL34bNK4ZnkwSnmS5IcfMDMSWPddhBOvyNELcxWcFa9E7H5Ju79WaeimS-8efsjAxOu7RjOV54_n8X1BKMC8ZievlZsDFX7O3HggkxkQTUU_yG2an-72q-pGvNzjjXj9khijXPNWBx12HeDLU0bUyokUI7W1gMGVYV_y1kVhq4eeQSJRxJby11L8rTZ4ag&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJNx-qEQRePjURXotM9927JVU",
+      "name": "HAY grill&coffee",
+      "latitude": 31.5949237,
+      "longitude": 130.5593104,
+      "address": "8-7 Meizancho, Kagoshima",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ecoEEVS1iEPW_Zz9TUklG6KgRlTQ9vfwtnaNUqNYbLX5OCgI5BHqBdDa5pZz0BW2oMSynIgrIrjtvn1jloHcm_pTT7ZOCM5vZ1X2MxnE1YnsafK0BmArAlzwgCs8JmLN7DHpTC3Jh_6C5Mo98Pc5mQoVSSUE7fd1UTscKq_RkttiVEuK9E0nzSkdlbSdWexJ-pSDlC1G-nEqjFzt-YnT9VGhY4u5QHjhNX91FklwfgSzZjos76GBeO5njbFU85dxXw4kGqmwY6Ni4CNV04H6jh-DkuUsR041hfxLUaB-d2hlYMmrfzKwXspjpT__v_VQnwcK25PMOeTsT2XJltkRDQOOD6uaX78F8QLQPuElogxdnxUKvYPviaSda8IzPUZuFQAziLy40l-pr9nP3ntqkxYqOjbfAYPtStb0x3kCxmuZ1yFNym6ToFyebh0eFWw56sj4X9RDT1Cb4RzovmRUtGQs9qRdzhIZPTGKdDuQLROG2yvoqWLUJw4UygTQRBBBCz1X2CyFZdNTuSs1hx6hXmofj1pww9ueMKRaHxG15wWBfhAM3YX78WBER_qDcs27szjWKYHawUYQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ8QwoybtdPjUR7SJxiKC-BtY",
+      "name": "THE CELLAR N BARON NAGASAWA",
+      "latitude": 31.5954246,
+      "longitude": 130.5478388,
+      "address": "Kagoshima, Shinshoincho, 41−1 4F Shiroyama Hotel Kagoshima",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ftbZm5o0ZarJnEIZTxmFriRL1xgyPWCbAwtbSEU8OC9AurEuibJorsy-GJ0jiMQslubflNmlpzd5K7s_beOdT89ya8zZRIXz1C2j3wjndxF-o0kR6n7oxAa2IH-ZVkVUlfr_8mB-xmZCUEbNXFP03Ea5pnOWL8euZs99ZhryUw7PEbLgVgJtdIMgKuaZvuS5ahaAxz0IAAwMUBvZPMlo9C6t7B-Nhfv58kovvR_SelwT6cwnkq_pMe6wJJ5EPVAJSlOKsdApXR7t6aOS20IIDwOi_xGveSKPx9IaPL8A97UJqnlGA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3XCveTZnPjUR7x2dyya6FYI",
+      "name": "grill DINER",
+      "latitude": 31.5911065,
+      "longitude": 130.5528108,
+      "address": "3-31 Higashisengokucho, Kagoshima",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cIsxmS-lC0_hnV-r1fQjhcn_ozcp-4b_CBBsZ1zlLtOSZIWU8IKeuvRfZJQl2vcuIm2sB_jZx45eO1rW3CM818bzUr08Y6BBs4rFatZEcnZMQLLKVECih9mCbcCHL4MnIXOeMKc5gH_2xzA5xbdO-jRTG-ubygO3ALopeFbzmdKmLOeuv9UvteaHh-SI3qH4MXqC5CdOTblEx-CobZuh1tqhngubfSqjc90EnsogvsIzRBld60EPzJrtLprwuESzq8t72QRI2PKBqKk60n-XBEyNKICN3CzUR7-ln6aMvr6waAunpiqY0pqEXoLxqs9sYF-QNJiYGlrfa2ZRkedo8GK09gl7EPzzHLbEhc3vdHFLC_gMc9LG05eetPeMZbYpguVo_qywos07KWR0zi4xILM8LxTL-FeIDAeNN0SLjhWa48fz-OItIl4b0p5bz80lv9LHRDPGm8ilSQzAVfMePvgrTW53rrYsc0vX-jcmlqn_Kw_0PU-vHs-e_BcrslUQPayWmI7cWOrv1R-LibIANC4utc5oH4j5J9AE3p-w1HMj_8mif1BESzsYoBmg3Wi3yEFzTokW0KAA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJxRfWH39fPjURH2fGyEcSPSA",
+      "name": "Wagon",
+      "latitude": 31.5918275,
+      "longitude": 130.5539703,
+      "address": "8-12 Higashisengokucho, Kagoshima",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e03vzYe7ybAUEyZVtg4eCM5fR8WERAXRXaXW7fkg2UGRez-7_tCht7i_KrBw3RhUukb6gbnKxOs2RPwTDJ1HI8pMq9W7we7WZbi1SpdcVPXAyy41aW_ppL7-gHDGUTlHhTUpFToD2vfr9P-XwelbCK6B6vdvmX4NWLNt6LQiH2hgZaxH5-Rqab6EcSFZJrz5f0HdzrPoJGtVHFDSFCKZHz_QeozyW1iDyw_jjsoaQv3JggaB0hyJFSwH80f6ORvVJt1ZlPvkj0zFmqbceIiYkhNR0ApAMVNCSXaPdPTz3i0qK6p-I&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ5RI5B-BhPjURQDd58JrFHbU",
+      "name": "Yoshida",
+      "latitude": 31.5881874,
+      "longitude": 130.5548393,
+      "address": "田辺ビル 2f, 7-14 Yamanokuchicho, Kagoshima",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fC8sZgX3UBaI7fwFP0ujnB6LNXzxprNrdpV_3U121PYPeaMDf7p9EnToceSOIUzfCJLXGd5Uld1fK0FCY3xAl2Mo9SIzp92o7Q9L9_7-ZqxnZJ29fSRTJsmE0103ghHiVbI9XORktZauGofyjWwTqLlHWzn-k8OZlP6ptSJ85IhBHZilaaBqTwcxQhJfnpYML48v-AZEBbsV9SZufhddm2TzCczzCMx_gnOtSpDe43i6jXVMxv9ndDK496B7ss2zC4faC1Zf43OnuawlSrj_U_tVlzyMASqgXmqqQq38C37WffoRs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJYYsHPhFnPjURwrySB2mGUSU",
+      "name": "Grill×Burger＆Craft Beer Nikanbashi Burger Bar ニカンバシバーガーバー",
+      "latitude": 31.5885862,
+      "longitude": 130.552368,
+      "address": "ホテルマイステイズ鹿児島天文館, 1F, 2-7 Yamanokuchicho, Kagoshima",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eOMxjt5uVxSSUSmpg9ZMJYydkzdnEKl_91raRbUmcwhY-9oDBM8e901KMEoCZOm9cHBaLaWYVIx4-LwdtoI28Ui-v81RbocaZhMWcsIexztlmbFEbEtlyJ44Ont10lvLge85K1SE_uQ4NiUN7WA0GKwRq_VOwTiofgYvp5LkSE2phY5j2BfsDRXhbc3kKJMKpIt9wAt8MSVSdtMda_UxeC66n0rv5sZr-Dyzdwj8FRW19eFxRpSmqE-aJ1qPNEv7iazXeJYjydBRow9I11FP1-sbtqgpqORgpmS1oiQxYhS-kLNBo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJfbqF4eFmPjURbNcoerZp-hA",
+      "name": "ブラッスリー ラ・フェスタ",
+      "latitude": 31.5628032,
+      "longitude": 130.5289651,
+      "address": "Kagoshima, Murasakibaru, 5 Chome−14−24 トミーズマンション 1F-A号",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dd578GW2F52UwceaCyPfkVzJGfnNP3J6UHBU0cmgW5AyhM91xoTGNjzw4EcMmk4r63b7M2vREWoxWJSDPAvzhFO7IwYYadwWLTTgVM6dnBNCPiz7tyIJzwg4kS8xhGFaOvTDXaDtduWhG77dWtyE70zwEGcCF_Xyf2T1ZtYQgTTiJMpIrdqk2sQs7yW6kaoy806_67mpkYkMGzzIC9MwniXlib_t1GVpqrb5q_8u_edj-p4Jh_lT_5cAb7XMvsVyH99EDSRfQZTBf6Pr3rSyqwm-nqbsr3BrcwTDuv-moMJiNrHHc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:54.450Z",
+  "count": 22
+}

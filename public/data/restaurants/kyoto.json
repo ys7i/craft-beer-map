@@ -1,0 +1,530 @@
+{
+  "prefecture": "京都府",
+  "prefectureCode": "kyoto",
+  "center": {
+    "lat": 35.0116,
+    "lng": 135.7681
+  },
+  "restaurants": [
+    {
+      "id": "ChIJ3wL8W8QJAWARwx33O6GqlD4",
+      "name": "CRAFT HOUSE KYOTO",
+      "latitude": 34.9894195,
+      "longitude": 135.7658046,
+      "address": "211 Omiyacho, Shimogyo Ward, Kyoto",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fwoXx6CagkArAJIudA_9Tw0ndejx-g-4qDHavkM8sBGVKKPtCelEo_jn7r_yf5vSfSlfsQf-wlmpX4z9T4UV3WJ6wYbiCkj-rR8BcpvDGyzciFk37KIUe71YfPBZb_bsgtGi6J-A6iLb-V2yRzXkhmO5zjNfs84s5epdktI3NPF-sWrArgPMNcqRjlZ23Z20x0A09Bf_2iYFjvtpJ0VOPjNvJDGNRWaNA_czvBC6aVGujdDkA5vr2pjVsT7h_gcspyxe_ZACPplhshcbZZCrMOXl3KEXeyTpmUoG3Q4xumNkmOIAo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ17CYBJoJAWARvDoDHKr-SZI",
+      "name": "Ale GION BEER KYOTO",
+      "latitude": 35.0012947,
+      "longitude": 135.7580822,
+      "address": "Kyoto, Shimogyo Ward, Itoyacho, 229 横山ビル 1階 東側",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eFdkCxDwQJc5XMoJnGc9vHKVu5Ub1VVB-ryuZe2tcFGrjvy-9wt9B5I9RAbLkwibMWVaNX40tvkr6IyeTT4yeUaudteP41zI6hKKQ_QBGXepMGjyHLlejBBtgmm9idMIgk7gjZQrBgDTSp-J5L4BofB0q-c7XngMzcnZAbK3xW2my3xZB3OpCQMBdAPWlSl40Mh63IrCtvfbwUsUQ85th3yQrYxV-ESgbxa7_D4_530mzArTRNJkte94q6ZoQXRdaktFbYv8150Syf-G7ysK1m5nfdL-W3u_aR2zerXKjC0Hkxnak&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ4TUNMZEIAWART9dNoiqnXjU",
+      "name": "SPRING VALLEY BREWERY Kyoto",
+      "latitude": 35.0054372,
+      "longitude": 135.764734,
+      "address": "Kyoto, Nakagyo Ward, 富小路通587-2",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2drQHUM3acWWrz4yzLngVys4viAWdFPk-aOKgwEZ__2DgszWFB1l2QTGKDbJOlT8Vga4j-XpD0_2hVfN4TEwrniCaX1MW-5JDC-eNbNWhqDEr4xIX08FPrPo0R_zwpYmafuCYNZcQ6zjKLxuNLfTZPen04XcLQED1UF98Dm3DZC6amnVil5lG3mf0znrvBkoaAenukj_KKluVjkrv-bCUq0Wu06QO3y6CE1PX8kjKYVDKScP9kXzQ_OcsG4LV7vbW2orywBXl5aPuFW-RmKkbAtoaSI1DjKBkFQDj0QPWa097_CTGIN2eFOq4g_8Bvosw7arwIqwYj7geTlN4pIHd3bhQqIAY1dibw7FBYR6dcgV9VnNIJ21H71XeKyZM_mRAL6ZPuGCT18dKYi5LI72QiD3qaSn9str0OWcJQdvgzrn2rhHg7g4HoZA20lssqCdjSV_AvNuggCofMgU5PWaujfrvGFL84fviM_ynCUMt7BuAEH17Lvv1puFCpEiY6yflZJKzAvQB66hW2WFB2uG09LVXXrUyp5zMnWHBWE69u0Vqq8lU0u8pK_CB2y96z_U7sEmIVj&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVVV8xbAIAWARww9xGpqWBi0",
+      "name": "Kyoto Beer Lab",
+      "latitude": 34.9906633,
+      "longitude": 135.7656908,
+      "address": "201-3 Juzenjicho, Shimogyo Ward, Kyoto",
+      "rating": 4.7,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f5ismc4yYJDKzobx0TV0jJB-C-IIPYPBCcNonr2-5dnbhq_1ugDzvJrTKH2RW5QsPZQVPi7tT5w3-FgcfqMDdB__ifUvSkZJ4FIyvG3cdkxW1Yeg--gMw7WDA-ThcTcinvVaXWqq6VmFgdkIxHskNpiGSGR5Af_hq13LT75zDCox2b8aLVB1nsgajTwLxNTc3r9xl40gL-03o1J6WpGSoTD5ACZWGX2VkOh8K1h4iMmzxTJxo49f1cchfYFgAN73yti5y3q9pO8nv8tTAHkVvWfyzFIQ3TDVlFxBW84U2LqCDYaneArjAatTdFBZ4OUjiyctzkzpUVXxJmkEywTkRQ2SOS11KpSBM7Q9QoKxDid-M6IeEVigy6ylWIQFNImWNuM3lShmuVXDXBNKk5MlZIl_2DrQ81gjYzWMqge-Ao1X-CkvaGkuwrez1nXzS4NzfhJvyX1YKsM7RZuSFWH_Bcup3Ixtd3qXBEjJVXxeBLTPARmQqgwv2NPrYN9J_6pBGONKuPQ0a3b0SYrs3WMYwxYkLijQ_Qs650YU3gMzkdQYTWV8Z9wrZ5W-H14SiX0-jRK497&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJDe2LrkoJAWARPS3RnILX-u8",
+      "name": "Kyoto Arashiyama Brewery Sanjō",
+      "latitude": 35.0093404,
+      "longitude": 135.7694375,
+      "address": "Kyoto, Nakagyo Ward, Ebisucho, 534-33 ＡＩＲＰＯＲＴ ＢＬＤ． 1階",
+      "rating": 4.7,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fsq-r0qewFG_RBa38aylbBP-04QLG3jZOG2_vjtMFK-XMr_LEUK0IFN_EPx3lzFKUMuedX19DEju1AQP9DcReXsB_Rkf9SAB3DPG89uYeRgweV7M1mmaiyQj17H4qUTCTfbGxttZqgVkILOU7JF1McPvroBfproUi1iyVjiz5tBWYbCgAAVmWJTYatF4eM2mp5Gm0UrXWftb4_nXqCh0iuWON0itp47aX4I8NvP-Ghhz_iSDNr43rL3_DuEBUgX03VM2cisFoO4bge4EFbkCnDhJ_4JorrgbM4o2_RHP1alLQ-GYs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJR78xnW4JAWARQeuv5d1ZW7A",
+      "name": "Stand Umineko Koto CRAFT BEER STAND",
+      "latitude": 35.0062779,
+      "longitude": 135.7662509,
+      "address": "160-3 Takoyacho, Nakagyo Ward, Kyoto",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cjOQ2xoTWUGzSh3-TuEg6PMcPSwfCPxMKq4p9c7gIVdeNcjuqZjDBQb_wKCBYpUh3c-Cji7pVAA1H5woJZmt-qjj0s5ir-wxzd22N-_H8nCZUl3GquOv7xZH2owutuz-0IAq47qkJSmfn_1FbTppNyVuh_f1qPvBxYUUSsv_lqtTrbXAFZbbTTdOXBPweEo94jBbD05D49kfkhSrJD4I9war-Bo9tTCOZ1GWuLwtJ8g0Xs5jL9paFtX3H5nuQ2FwksGb2duhNVjXFDNxbsG8cn3I71uQg4GwMcHXbr9MMnwMeVo26NdjySh4B3q14nYjlMhZ4vhh7X6NoX62cS79ML4tl4F9W-LuKDzUfcNxYprELEyAIo5E6iVFQjbakaB0m5JhvopUPC5whXJk4T7m3sZEHrhvEf7UdU8FYRGt7fMAgwXHbb4q7d7kqXnI7baB5JYgVNCK2Svya1TnIwI9YoLZMMgsBvcfknkcwCF_yUg8a573OCxl1lkADQtUh8hKtZ5jIoENaWIha8bl9-oAth6rtYJg7bLp_yNocAWhB2zBLwmJ7_l-ajrF-_VGhFXNNf9omF_rJB5DFIi_ctygU9RPFI_A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQX_Q308JAWARBRYlSh7j-AQ",
+      "name": "Cheeky Pub House",
+      "latitude": 34.9899106,
+      "longitude": 135.7649115,
+      "address": "Kyoto, Shimogyo Ward, Nayacho, 418 1階",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cOl86di7uKIc8_MqD4LTt1hKOXy0mMbOX5ppD-ocsCoc7umOWr6AeQcogPB7EPnITckqk6eLWpMzMRKZqtlvRIN_KGKgHHBD-YogPwsBCkciBf0KonRe0a_fFW3NQC594WiDNV9mV6v5rhX9S7cilpGKBaA51FalI4_vMylSdOHB67ZAnZzUCLchLUuCZg-2HDRy0qBCpiwN7AOazNSzZyvF7pXAdNCqdt-Iduopargps7cbwaNjI7KO5w1sIwJvGstNDbvKs1AWSiScZMLnoRst-4KOtmdAk3kRoY26XLkwJheck&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2U8rSrsJAWARflEyTbh35zc",
+      "name": "Beer Bar KURENAI",
+      "latitude": 35.0045195,
+      "longitude": 135.7745576,
+      "address": "Kyoto, Higashiyama Ward, Tominagacho, 112-2 ３階",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dbtEJO9FtwDBoH2grYhpymMxcVbcPJmRBX0d6U60__Ynv8Lqzy713eE5SUguTJI2GSI-_vHtInvZFQwZH5NpPLfczyiStMkeQLjgAelhHCdLY5AK5GQjHNmyDbKCcnq6ZUys6SnOimw-H1L5oyNbbLPWFNE4XldRfHjzN8Hlc9A82F6Cw-fTWTm6Yq5ax1e-aadGx1DqoNlF3yREnFHZjbby4QbKFCWjxqGsq9T_2MODvrJMuQp3khKHgs2_jZ6gg7YPySaAJnccnFtF0atuw2OgeFnwBlzcepmQsOnDOaC4OADKQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVVVKApQIAWARTCvhRQqKgzs",
+      "name": "BEER PUB ICHI-YA",
+      "latitude": 35.0055491,
+      "longitude": 135.7664547,
+      "address": "384 Funayacho, Nakagyo Ward, Kyoto",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fS_FyD-38_ZZLF0dDjqKIrRxGb5rYMjyzmwp1jfaP8-MUcXMI1wCL9BwZAIoDgTu0AXayfLJz3bv2_VBMB78b8lRa1gKZIzVpgFvGUo1IEnudHLUlgnT-rXHCAOxDX3FjW4oHYGs9c85IcCthe61ngK0lXO3wOz5aFlt19p9BoFP5vvE_kiqacfx0_arUzLKBEBCMXDtXmOjLm993LcFLXAloqL68teEVw2Ck79cg0mTkN6aNnua-c6ehdZo57KMD_GdW9PSmnPqEoTDQefifFEezYvPKVy6_AJQoO4iFTNdaa2TmRNeGz3LyTxlddLxjGfdvBaaEMPMjcOmtrH4fLtS6x4qbsWFx2WBwqEDR-zIOo_XB6ZyJHjyNKGzMhrpt7FYqJorA4Sg0GUctw1CUFIIQMpOX7DQaRyD6pL_ZJsueoecV-P-1ZiONLJLYFUAxtXEp2Bwr9QKH3Mi6JkpyOONOOBW9VqDLdmbtZqrMnK-pCffj3sK2HABcR8MDgp3jhrc3p80_hebn34GbKhgCGXHQFeyRwPH7TjN2-0dupjucOj-fUG7yBEzWvYTsBkFFt_qbEgaVRHA69NrpfxRDsvfMFfA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3RR74oUIAWARDw_cv3TBmn4",
+      "name": "BEER PUB Takumiya",
+      "latitude": 35.012188,
+      "longitude": 135.7607669,
+      "address": "400-1 Funayacho, Nakagyo Ward, Kyoto",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c9jT9bh2JmPcKEz6ep57hy_AerI9cJXoFa9F5km1WkGXjhN3lmAdN2295iQ0kxNDNGDa7StDPdYzyPXUOOSZFANBHuuy06cmNLfjGJtn7qB5hGogFsctAESospt3R4iLDlqac31s8DZ9E6gODnOg9DALycSX_fc2v-n3QXWLSjQ4GiPvG_-MSf4WahcGfIiwxr1JlR7f4Dk1yPSOCLvIuQn2Ck5IVFlkntHDdRWbypsi4KvQZCof9AHyD0rRJr4nZcnxSUCyzhmxj31p3w0JG4UsLm1sY2_m7Lk9guG3Q074HzO-Y&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVVVMoIcIAWAR6M_AK8BbwFA",
+      "name": "高野麦酒店 / TAKANOYA",
+      "latitude": 35.01478100000001,
+      "longitude": 135.7593981,
+      "address": "255 Makieyacho, Nakagyo Ward, Kyoto",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eHKnChtqFVMCWh3xMueK0xwDxfzGUNSvEhPzXP-fvoYt5kcVL24UKVraOfhWSuI4WNkVlbPYNmnLxPHujuOG-6fakAryXVZcM6b4UFtAMrgXoZy8Kn7TJKowsbfx18Ut7mL3JXyTYmTdh3d1126WcBcSxhmNiroZRJqJjaS-WLmXagKKuIzU6Xh9jXMAMW3uBmlNCQFgDYA4eERPp6sm_iYS5B-fsN4IBqTxzHRyLrLxjRcB5d3h1JLNk-gzJkrzg2B6Cbndy7Wlm0LnEB84L3qoGEy7Lwa97gnmvKWBelpbAtGus&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJf2Lu2YUIAWARCLE1tbhn4NQ",
+      "name": "BEFORE9",
+      "latitude": 35.0116558,
+      "longitude": 135.7598194,
+      "address": "545 Nijodencho, Nakagyo Ward, Kyoto",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dDCgrE-MxNRFaRg3BqYlnJS8dpMroQGXoO_KJDJUlM8pN8jhJ--OVT-0X3NnI5mYTGBSx81IwEzFNDNKbsDTXZQblQB2j8yKDBynKeSEBTkijfAwC9CRWyHfrrA2F-6u6slBkfblYrYShZH0V9cE8LI2jRKMiiV63NvxuUo_4tu5OMVeZk0bD3Y80ADva9toQB27eNQ751OBSi_GcJfhutnHAnMfGzlXtdZ7hQp3MIDBCCPpL4_Ze-FA5g5fpkLXXvuC42fb-miwoFtA8MQLhsdvxG_C6d_ZIwmWyA4BRwbr4FQGvXwZvESzRgQsdsfiBv-Os44zVh4ckx9BgVCIdKmRcBM6662Hrnox_HEcQ-RBSjUYA7sfrAFBv6b2WuoGFd4NTy6Y9kcqqhc6rGp13igOfD5Y5wdrAJyHezHUNZV85tCROIR7dl6GYIdI5CTtQz5552Zp1V1AfNJweakCE4_-zMiy0QGCJlznG1oMU2IIYpWlqGTK8LCd90zvfskFFmvuOGTuwCU2VX2h-VJlpa3UCbmvGHcpTr5t1y_RmEVEWzKoNuCtH32PV11FeCltYv_KthxpytCA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0YBqegAJAWARI8AQmyYqA-4",
+      "name": "Mikke (sake bar - yuzu sake",
+      "latitude": 35.0032066,
+      "longitude": 135.7731391,
+      "address": "Kyoto, Higashiyama Ward, Yamatocho, 12 わたぢビル 1F 奥",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fv1vZKfstQAcOcGFHzJ1c0idWKlvaXP5vlSws4tiafvtOfsxMrdavZMkcVSWQ0VqF5sn5kku1quLs1l4_MkdLH9n5s4DYQS-ObbfRKrHXrqoXb1bSVK2wuEtgCtzCbGCnqUOs08EN5vtUtXBBA8p_TWUUIFJXOt57h2wIajAHEHhRlwv0iy5EaBG116XG_Gtbo09lm-2FEewrs4SfUYfzG1FLPyic-K_2sKk7v8GQzwXMV8ofhdt9mpYCfmEhUyPvQFQ-XSpZTr4-Jvlle49Fpy83Mb6UCLgKRNat1uv53uShZ9Xc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJCxizhcIJAWARdWpeh3bFV7c",
+      "name": "京のSAKESORA",
+      "latitude": 34.9893444,
+      "longitude": 135.7582268,
+      "address": "162 Nishisakaicho, Shimogyo Ward, Kyoto",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cdJ7sWODuVhgPdjv2M77HpLLf-LggJS2_0zaln6KOxHSTkyMYAbbCsEc_ZYFMP0k9K6eAphb604nssqnpgLRCVCN2yEEnYk7tEPkAXCwASLtfZVzW_bVWSqKLuxcnv9wlAc_398ESPhu2NYU1a3VSAY3jmoKoroDLTv-Ez7eSJeHQaVdDnotMpC2niOu79Pp1GCOtT24GMhXMz2i8vTdKZwX42JbDNnKPfFEJKMnfA9dn44Zbz1mPYrwauJLpHjR4VjUhnCxHSTJDhJxVfUaddwPm4yiDKQ5qUgMR8Xo4N4Vv_omg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJd9rMp4YJAWARIVlJVUOnVos",
+      "name": "BeerBar MIYAMA38",
+      "latitude": 35.00487,
+      "longitude": 135.771054,
+      "address": "214-1 Nabeyacho, Nakagyo Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fwKlk8DD3BZwGcU9wOwZ9DfGFCtyrRZo83vXGIWWiHRAAaJQmCLd_oc7DvP6vaAyRfUVxKHEXqKKhh36SffXaiwOp12LB8ADoAuTicsqlRRNu8JlEDFfER-F7AEt2B6IgkeLVg5jGbVpWUmkJsacIAXlShOzHaZ9Nv_suBOXqBVm1nR8cRtn6AAschfXLT9M7tVqLr96lMElvyTQo08XNt0FGLy6DCr21KzjwZKg0Ybt6nNiVE63zvg5VMidpXasgYF8hrFB2I2yb6NZgYonfFCpg2mbeewahDZnBfNLZbdHlO0kQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJAXLWmgAPAWARUJtus_DMP78",
+      "name": "Yamorido",
+      "latitude": 34.93133720000001,
+      "longitude": 135.7600105,
+      "address": "108 Nakaaburakakecho, Fushimi Ward, Kyoto",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eonPOMjsb-fqRtgM7LQPVywkXleFNZXhtLXQ1OQoUe-PuoVO0slmySNAK74NyAQ_XjE8BFBI0vhPPzLl6TETunINqn7GAoxyb9afxyzsfrw85PhmhXRiULPLgRBFNTqeVWtQMKzVMU_9NPt2Ti4eWCzCD34jnPbSN87xu77mPXa53cWKC_6k1fSyonlzllaX_uHhbdH0d-0ss0XJPbH1Pj0sVM6iuzkxJ8PENbDYKoFy2xV0xXpNlhbYTnyFCotLVBaS_PZCf7A8l8-ICTJzgfAPTVowUxCL6HlKalVm5G8LbJitA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJe76ZW-gIAWAR5QOsL8KV6Cs",
+      "name": "Beer Komachi",
+      "latitude": 35.0090259,
+      "longitude": 135.7789939,
+      "address": "444 Hachikencho, Higashiyama Ward, Kyoto",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fH8AzSRCRn745lQj_oaUqgjtcAcTgOBhWroCQg4MD6Jki7_82hi7h-57a8pm2iUpRORxDisbxFPt6p4gZzVbXkgWEfHbRddBjSJFy2llnosZtwazHnRuwpp-NRdGh15HJCrEOjcyiHaEdhGoeJ1Auzzv-LBjCpAJyywE2j7_9goJszJPktsWW5RblBfmeWPrOklKVg4FbCizAFDH4_yAM05A5rglOTaCewm9f6Uh_u9F03Ks522WZfE9an97I9ho__ckdgtkkuSag0Spe9jnYOTkAeVyn8lr5VklF5uuXRCjsEynY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJf8R2l8EJAWARUsGilNL4yYU",
+      "name": "Beer cafe Bakujun",
+      "latitude": 35.0008859,
+      "longitude": 135.7668092,
+      "address": "Kyoto, Shimogyo Ward, Ebisunocho, 530 ホテルメルディア四条河原町アネックス１階",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fBdz1zpyJUvze0zWkPo8iEEQKuexB_0HKTUkbBZ7ErGY5eY_I70PxIo-MD4sTvdO1Hzw7TmypQ4OGy_WtnzDpbr9l9ISxNPakmEg1Zx12Wybj4QMdFgpGPAyNllV7B2BjVhhwA1Ju4IzHzpdCpUJzbq33QgGS8ey5oFOJQInWoFbz64DmB0AXRlG5NUS5Kglom94WFctqXpcATpDNEB9yHvn9ijRJ59LJXS_PlF9IkCLltzMZmip0HUYkIOUBlZZ4pI_KRJzzuKQyAxsdGeXCbOP73zPsjis-5zZEr5SVEFY-weLj3UngPaezrqSVA_A_ZpTvCQoCdZfU9PgM-fVwPZ6jD4jttwBPX2v7THT89nrSBfXmcKXB9QiTpIcrC2DPhdT5d2AY5bfJK1VrwFhQoNGOgzQf-s-nL5834MWgI8aYO_C2kTzYufecT5bPWEnyaHCnzTA6_QX7j_MiTg2cG9Y06OskPbmhZmZyKAHCoUONwMGJgxnw24xGU3DR9QS3O6ucbNlAc2cgTxqRUnAEFPG69fMHmG4VkFvuijUBJfmrJsJ5lChHbjTg0JJjRzo-p7jGG9mxQCA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJxRR8ja8IAWAReCdu9T8wa9I",
+      "name": "CRAFTBEER&KYOTO ITALIAN 100K",
+      "latitude": 34.989362,
+      "longitude": 135.7608475,
+      "address": "Kyoto, Shimogyo Ward, Maoyacho, 217-2 京都駅前第8ビル 1F",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eX8rEpRDu4hMhqHZfdy2EuxdJ5ihFsajUMqqKahLudZ4BehLGK9Ur78VcM10a2bwjUPh3JWJbsU-9FZtrbGrphWxCmDQ3Kg1z--NvIDhhDuaHZl6ocprY_eF1S8qZX0fHcSXzmyVr0ry0tzoE3eRW-DDeY_zlEV5UZw_-SgIzHqDzFLTXTDJQUfdwIco4bse7tnP5y4BQ1-g-OdeACLMAihWpIYmJ3Y9CYLtzruPxWk7ak_9nziuRQNNCoViN7YePwAh9QDyDP_OePi5EVI7pPcs-zFYj6op3tbD-QuWuQKR49UEc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJl6fvPPgHAWARxtyPW4P7WNA",
+      "name": "Bighand Bros. Beer CHIEKOIN Brewery & Taproom",
+      "latitude": 35.0280995,
+      "longitude": 135.7468785,
+      "address": "Kyoto, Kamigyo Ward, Sasayacho 1chome, 1−519 B1",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dH3aiOepMM-nfg4YA5Ftpc1DECZ7u6OyuttiMtVTBaBkxoZKytHjjwbbV0Aki1pEitITj9-gr6m9XZb1dIGmzK0F_l1L46fEH2EDjLmwFIDkFYQKS7lMbh2NUjUy03IFP70-dnX69xeKrQfYoAEG1Dbwx8KkkK0EhBQrflfjWjwQx814bZYle7SIrD5_m8_1d2ZxEXtEqe1gAa2DFB7pj-NmuNPUW9Qtm4aHROcbjzQDK3uoYLLa_qXyA7OBpsQvaoC98upba4xA2dN_QcjbnouQuze4qsBF1cPitQNSkvalxd86Y&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq6p2mZAIAWARMvy-fOXecA4",
+      "name": "Beer Man",
+      "latitude": 35.0052067,
+      "longitude": 135.7620171,
+      "address": "Kyoto, Nakagyo Ward, Nishiuoyacho, 607 フォーラム烏丸2F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dPtHZiE0MURkSpY9jM3SGQk29ehNBKkWArnLGW45DSpfOI6AWURwgyhF4E6TH_7xtxezHzZ6W45pdHC0v3OwcG0_uQpWujKlasf0dfwi4KJlriCzp_HQasUTZJoLpeqwOV2sFR3I0eTSdQ3u2kvtsewqW2zirB4nayFEdTmbFZWRTEbwYQqqY7Kk5jDMgTFYZ8iIiaL3My_pu9zIpGqPTC74_QfBMROGWQHhFwkxQJeKHs-VMRJVbXCJAS5FE_WZyU3QPVLvTxtKLJokW7mk5ml_03gNq3rRR2Shs3LkoFeR1pnkM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ9fPahCwGAWARYbVg7bnZMS0",
+      "name": "Madobe",
+      "latitude": 35.0085527,
+      "longitude": 135.7468494,
+      "address": "1-1 Nishinokyo Ikenouchicho, Nakagyo Ward, Kyoto",
+      "rating": 4.6,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fjxZozoJNahbo73bswP9V6uEPP-XK5wY44G0jK4q3GqnnTh17bx5j4k8zJJYCrLFAV5ZyYeJKKTEMhNHfilMtdDi9mr1Ahdj3WgAtSJXQZS4L2tzRSRqlerNK5J_Soj7KxvVv_wDN653AL2xY4JbhvImZb9kfOuNQhMmfz0Ilhmd9bDKPyBVrBjNMKCssDAe76Co9mNNpyeR74dzwqN3CCdjDR9gedpY9kn46dYTyDdFTxVnbXFlKLH4zRqyGi5B8ENBvLFdd78Zgx3aqMQnmJTN3XBLRtrCRon0g9kX063SgPygjdg13iWMPJIe1Uj7oPdemc3jGIGjP5IfxnhTdh86Qr_jk1xoGihn7gQTWrIwg96MN0GWVSD0fruJA4UiwTuEnrJDlIBHtD_3IGntVVC7sNocGrMaVzi9C_NaGg1ak-J7lzJWMzmkloamsSLxvbGab7M4ahthY5fXWxl3jScXiGjvAHVF99sv9k82rxaTfPshZEwQVK0AGagtli2tpsa8irQFQVsBGCluf5ifqIGmCaH4SYg_cl1C4POssMp0Pq8wcR-b9LDI75DTThBtguU8-e&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJO8plhER1AWAR_FfK0IFYCDU",
+      "name": "Omi Beer",
+      "latitude": 35.1132043,
+      "longitude": 135.9178698,
+      "address": "3 Chome-24-37 Honkatata, Otsu",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dv8t3JMXLdKYjckoeqr8odfkaHLYdcaca7V-ehoBVLJjHkTXGQdLdst--SnKjTNBrgH9M-ZFA2_B5p33BWoud6Jf980ThSFdDDvLlguQKIv8SoMP8v7cufmVbHxpNQMitcRKh_Cin7-Y8knCXoKVnD4GHTHNAE_Z9nhy3LMPJQ3BBahzCsh-FjdOv_X3rkUDCtsAnBIQuJJ3j1KSn5UQYxgOyAlxvp7wOoV2-57OlOC-3XiW76zLA2AFTHq-tjsJuFwLYPa4jQ79TIDrbNF-rFE3tHdNAjUrl3O4v9891apNSZCnQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSzuOn7oNAWARFRM7EyJ68KY",
+      "name": "Beer Cafe Mi Casa",
+      "latitude": 34.97953,
+      "longitude": 135.902174,
+      "address": "7-17 Matsubaracho, Otsu",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fLbkltLd2uZ7p4iMV5rXMXqelCByl0zBRkYaZo8sglDzLnVGnEB9GPRj_3IeBCuPz0heH2C07wKwrs7w_qReMx_a0Yb0umDVBfeTJ2KHpUa_LpPnH2UDcgBmjkdNweKzRF_wxjAMdh-D2YlW683MbxyO0Bgxnzd722CpHN8EPxlCieEU-FiFzAHOv2Zpi2T2K7W-yIIKaOHOhxocz3vAqDYBgaA7qn03x645TPxw4oJW9cciwYLP-TAwOJ7tItf54pm-QQ3C35HRlBboMU6lRhWlzC4YfESg3uEAZUXD5NykzUTmQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJrXNHRMUJAWARHRNEDA_Ok-0",
+      "name": "Stoneheads Beer Company",
+      "latitude": 35.005749,
+      "longitude": 135.7664362,
+      "address": "Kyoto, Nakagyo Ward, Funayacho, 372 2F",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cIyjLmCD6Qa_vFDr7gog3sh3DppqEFuyWHcAP9ToVDLG1HjE4qL-M9-FS5ITUkq4q7EM97C8qq4cAUr5PA4cbfPdEBKMD4wBHazVrYPlEn1k9LkjykeNKEBwBhwKudlH-muleIigd5uHcEe1A6a4dHNseyfVbWLw-e1TIeTXhlL842cTTxQ6Jsn_u-FRkmF9d1CiJT_Q6yx-Q08MraB6D8RTLlS890a4JVeFE1-XhKxD9HwJs7qQatYO7CyU3IPMigQGKEuSocBl9Zo8g1MtUz8xMen02gTkQW-sFhSTaCMw-SSks&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJe1e5Q68JAWARqidr5-oa1xk",
+      "name": "Bighand Bros. Beer TERAMACHI",
+      "latitude": 35.0126445,
+      "longitude": 135.7673342,
+      "address": "99-1 Enokicho, Nakagyo Ward, Kyoto",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ek2mHxItJ5Lr3jXbm-RpW_RbT_DxTKd_FcrypIsW_FjjV-V7aI2Qy_HRMtasCr33pWEXHtmR11DubHvHAy8vUgq33UfgjXtK0OHoOARe3vKUk4PgQnu9QkSHRvDPQwi455FN1oSV5-_uwmgcaooK-uRwL1al-O71P2enZaHvXYY7VZzVuvBrQrN2ogIApgmnujDs5-JbqmT-MzkD8QNGTdxlAQmm9ensS9tM9-dp1dc-IP9KzDbC-7Uf4jDNLIYj786yK4gGk81wZNGf2vDToBBjDW2Syia5QLVrKp4-YtTVJFCAM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJIz6v-YUHAWARMEOhot9t210",
+      "name": "Kinkaku the after Point",
+      "latitude": 35.0384525,
+      "longitude": 135.7316106,
+      "address": "30-6 Kinugasa Babacho, Kita Ward, Kyoto",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2efz_I2KuPIMMAtaF7pfRBqjPAiyBs3L50caYPFsA1Jf8jam-X_gA9NFADSiqgjpQxAHfZ6OvoClyJ6E339S3LB5tz6eid-LtfyjfocrtE8ult9z7yKbqe0F34KUGYzH5-LrPgkFopUqTkJAMg5UDwxxZoWG34M9s6pVXOGEAG6HpP0hBrwU1wfqBJ3ULYZrjKgOCFhhjj02oc6TRkzRKCcZc-zS380WKbS15tCsbTrK6CYkR1QveqI99Q9xPygFXFIPNklGr7kOstpwox7afWMjxOq-GTNhHoai3uKqjy1cfyfAwo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJncD5-7YJAWARnZHqma5M6Fo",
+      "name": "Sakabo CRAFT MAN",
+      "latitude": 35.0137237,
+      "longitude": 135.762742,
+      "address": "Kyoto, Nakagyo Ward, Kannoncho, ７１",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dyy09P-HXHXPikpVWzZpnQKEMWX4lRQ24Y6LXBDzg3iSBNIC69bYPr0_RsdKMFUVvyCRwOGH3Znpaw4owcN1uUgsaETqcI9vPERNNaglgOOd1Jy8E1aQQgw7X_44qnREt3DBv_WeoB9RjciidQCv_VSevFPZdMFvHcReWlpoyddVF58CbaJ_iyVmbxmdfNP5deCZqIJp1bcMFqn6kZRT4Sg5KIsPJ0YCwkm8mc2hOZfLMAKqsQPhSNoMRhIO3WfDrI_tr4oEyJz83eF0VKPAM0p876iAww0GN-tsg2Q5FUIvKdGTS8fpCN4hSV26EElusNnF-nf147OKgRHlyRRj3JCkxEJatwmLQ8zfgqm1kBgqOGT9hE2FkbYvhS_sVIIVVRyXMTCQro2D0VtAF5HZQCRSR4v5KafSF05ijC2h_lSgLZuR0IHkFfLsNDYUWzJJO0nthB40IIesupNqmqvkCL11Y0flHPFsMNbTaxJuc4sh5esQ2ZJ7yVEJJG5Rtit0W7zG8m-mPE4MNn4V_p_hTbVpyoqAWLJQiN7RGFCZ20QOOuB4WYb15hrc91OCARK_ujpA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJzd9FzakJAWAROrDZLpghJbY",
+      "name": "Craft Beer Market - Kyoto Porta",
+      "latitude": 34.9869125,
+      "longitude": 135.7581056,
+      "address": "Kyoto Porta, 902番地 Higashishiokojicho, Shimogyo Ward, Kyoto",
+      "rating": 3.7,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cH7o05_nsCGaZSxJZIEb8hcDe8pKb1suo13TiD-m0g1p8SNAjflu9NnGHCoUnrDeb1q_mYcoBgnmS8CA0tHGSd4Y5Hd9KgnkZ6O3MBdNc3mYKTfFZYpEprZ9w68w-KMaSpDr6xgX3saA0nnWSXSp0sSlvenQbsSgx2xLJgonMA6MdhtQnmT9wm4Se8_ISbd90rkWchHP2Kd8au4IH2-ZZWMtd0h9v7Ft0FqxfZBsZnMdLMA7UcbS6F3D9r1EZStrEC2mNYdrQkixWdSexE4Vw8RpLWUl8KJJHwZGwrwR0L_SJjWkb3EZSkcq98Qq3nT_yGkZfOXJarSZQ-rT6xuvAd6SF5eobJ4M07xVwcSHW1cIiUdpbk_Y1ZsXc65RULBdMSauuE9HL4BJKT7rcoP0HbvLhpg0IlCGV-WyblBR9_eUap07GtPUWpD_ERp50GuiPJE-htLeR0RN0u6jDeJu0KRpZgaCW6erueB9HQj8Tsgb8OynhlvqrP9lSxyQGJ8qPopmmeNPW1QVm0rM2kZ5mhmeyIwcY7FeKKUMc8I_eDMvXrfoPfB5s4yatjVDownmPhPAL8-T4jF3CZS47BO2pl3UE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJOfrzf0MHAWARm6MNXT71wEU",
+      "name": "KBL THE GARAGE",
+      "latitude": 34.9906432,
+      "longitude": 135.7399063,
+      "address": "27-2 Sujakuhozocho, Shimogyo Ward, Kyoto",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c7eRm_nMUQ3JBc1x-EGeWTIG4WNB8DX_LiPXvaFlwUnjUOCESu20qwgnJbONhg343oqG4QXffMM9SQ2o95sDJjq3R6s3OBHcxqlAW2CkhwX1mfCeyeMVOiPuN8LjCLxE_e5F99RG7e0_cwTwIBcWMIntroxnjQsKtUu8Yad9tJYBThgVbWc8E-kgBtr4RP9cdz_nJsbjd5fNesPD-ddGJ-NC6ZUM5jeQ5JsHe1bpGENxGzP_pjD2IeQaKpupUnM6qRPurxUHWGmfjQ9csJWzcIlaR2MeguzhPkcCzxXdSQvvYHGVg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJpXjYtJQIAWARpMIOCdLtUvw",
+      "name": "BAR HOP SEED",
+      "latitude": 35.0070215,
+      "longitude": 135.7710106,
+      "address": "Kyoto, Nakagyo Ward, Zaimokucho, 188-7 二階",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fuhazbCuHs1DdPovHNhklaH6qvS8m9HuWhULyKqvxCU04h5NggcwMunR6w7g17ebztawkhzzwYcwVYiF4ljlMBAuPY_AG_kHqi3gN4HYFqmB4Lk7oCWZS4SMDn8CeL-Sp2OZLOyPnxG0gkx_NO9FbddMCTFGxBTU7yQ-xIpPh8WfnpGk9E-QfrslnivkCTWVLbgG5Zk_UwKgJd8wBSLitoD3xVqxlPhVrXynOhTilJT3cPpHqLbslh7MAjnKyVg-QjNnouSWZd8e0MXzO5KG47QnUELkT8Do5ciGnXyWw2CVcYQos&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJPyKrj4ARAWAR7DGxNw6rsUc",
+      "name": "ビアつかさ",
+      "latitude": 34.8903083,
+      "longitude": 135.803627,
+      "address": "Uji, Myoraku−22−2 アーバンデザインセンタ",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e-bBpbd-F7KZ8xBG-uqXeG6X2sNMYnRR59vIpmtiW1LQr1YUbhGiwDC4qaFWs16IHJhYwk9-0PM4KOGLVtLyKNrWJZai-8XRenUkdL9U2p1n-p7Nz0He09wiiAJ3l6hVFGFrzU8UF4zS7Gzv1M_qAom3B1lEtZr0ia-SzyuonWEPiXkfMRqJZiyHWxtp6Fv7yWMkQlAhuNmA6rjzpQa1XoepY5yss7mZAc4Y89AIVw6c5EjEzhzRXV3CpZKkSyS9-TVHUmOtmENhEzXzgnungZNGF65bj946_q9tG7avPHhi0mK2D9McHEjvsN2FCVnSEFbWRu6qdVMvwVPDhtZbfFBzlmFN8n2eIwxaBPs7qPQtVz_h7pgAhUP_CMG3tNcb8AUHl3j7bv1G2sXym0RcHkh6giNmnNPkV5SSzUrZwFVoETSzDMQQ7fjZxAfT8YUOBIZwIHl0LCbfeYG1eQW2uxoSztFTvwtMeAxC0kZMaUaCRN-ec5ISyKLSHu3lLAylxON5u1-MtUUmv3d2Qcz9lQMGcffHbkTgkAFgMRk3z9cGV4pA4tYyoN2xax6lt_EQIS_T9p&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJr70Iq5EIAWAR2ReMNvjnMtE",
+      "name": "Tokisirazu",
+      "latitude": 35.0071882,
+      "longitude": 135.7640666,
+      "address": "Kyoto, Nakagyo Ward, Izutsuyacho, 400-1 プラネシア六角柳馬場ビル 3階",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f3tNO-YP0ahXjx38ZTHmVIQEj0RRiFJFYKZtBui3JNA5dNJgOTEv59YhfiHnu-T6Cf0tliMBt6V3X_ZxppF_sVHBRTh7_nVuiaDiJY2iAJQeZfWKKzYO-uQlBzNtpCs8qwNzNx-l9c_EzWtFX8SRlpLEpFT0nLcwy8SB_6v-drl2nE59xbmVEKoYun-gbdNDcwGjlhwyIsNM7kpmiG7F-D1AtuKJfp_LZGqauHAuaPt4FQaS99u63CYJSQlasFRU-VjQskpu6eJ0G-79pXOzu6QDBNnpOTniGXPHQeRLqZMPDjOKQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJOW25FlcJAWARe3ZTgXTr-1o",
+      "name": "Lit",
+      "latitude": 35.0016174,
+      "longitude": 135.759454,
+      "address": "Kyoto, Shimogyo Ward, Nijohanjikicho, 661 ツカキスクエア １F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ezclaMjcLsoiWD7z3JMZaG58q0y3uUCYpPuC9FXORkPaXUInROtaKIFbNbW0gpkdvsyxpBI1Tt1ptHeAH1lk_qcPQSt2fsgQtcvpQ2_bm5Q_RXNJyQ3dOx4734tXsNHpGHr17nouK-qFLdhYRYDIunb9KA8scATqmZcA2gbviuC0Z2liDnURIro4mGnIgbJi0rKdxa_vgqMihl7usbEMXx9sVemND3kmi1PnHZ_b7AnxAuBDwR7D6B_U8A7MOgoeHP9RVjeN-_AlvtXJKBXuYm-U-VytGERhUXTLcrWKh8xnntuGo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSxJ5wf0HAWARfqsjEE1PPfA",
+      "name": "Kakuuchi Asakura",
+      "latitude": 35.0210006,
+      "longitude": 135.748463,
+      "address": "141-3 Higashitenbincho, Kamigyo Ward, Kyoto",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2foSk1Q1y2v5dccMLV6cImc8uVaK0Bm7sS3Ohk2SIrv2hKxZi3nJi5vGSZDevAxuY9kXHTq5NJtvgdAzTA2WyRxaXznbDnjqEoBK6dA-JnPMa0UVpCTih5XTXcD970etdtAihfWEBig6i0aTOJ3X8GvL52pZcA4hNuUJKBHBpmPaUncG5Xnx-WHcaJjPi4eTj_zeOlWVgpyjkO0IuaBrP7E3udzNwqXj8xLX4Q65rlVctZGBStYhpA7_ohuHGEijMTGu8QVN0H5Xd98Woj9kAG5fg724NgJlLFJZb7psi_FQSUzE_s&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ59dE-D8NAWARgUOz0tv3zYU",
+      "name": "世界各国のビール×クラフトビール×スペアリブ Nico",
+      "latitude": 35.0036554,
+      "longitude": 135.8660266,
+      "address": "Otsu, Umebayashi, 1 Chome−３番地２５号 大津駅前第１森田ビル ２階",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fVcWK1EaLHrrfUYMLsIMTA61Vb2WCjdETu15A0ZrBsX8tqSBf4Y9opcF3GxgIgrGRTR_fneDxzSoMj8yNxL_A2d0doPoRsfvxvHmDiVdvM81zKQFyJn3V9_jhbj0Eg-IRLHLpaKa38yRD-_6WRkK_IFmYlgW3ndlFiqOO2O9ptjm6t8rPx0Qx-TmF7iq-2x0_b8RW3-DcpkLmrMdr6VBi48sb23KUlEOh6lb9xgqjgaJgdQ-4AvOrSFUBzH1CBJkw4bIo48PorjZsnHOVodDCMvPBXBhWYqjgk1gZmelf_XnD3_Tk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJT5BMzYwJAWARfBlG4wJD32s",
+      "name": "SiCX京都蒸留所 Gin Distillery & Cafe Bar",
+      "latitude": 34.9893976,
+      "longitude": 135.7685937,
+      "address": "234 Shimohorizumecho, Higashiyama Ward, Kyoto",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cGJX1pgy4wy12QM5y4_Ykk69NDwHQzukmBdaPC0-rErKYBjPlGI-VYlQ8uFvDVU-ikb3iLUXAmEbS70QjWYlcGGp4YSKSNDyqQOAwBtMnTFA_0U2VG6VmLdEAnM1HSCAKZUnLGNQLPlJ38gXK4BUUZ7XhbUWXsr_nLHLc2oWS0Nhs7DYM-wUpOPnwSOCeAybUwZjCGiyAS1jPLN5MzKDcyTOHIAgaof7cs7xwQIUh-CEZp2BnMpOw722W6G7yMYYGAY4dwi4h5j-zuTae9ipF1nPdU04291x1mTLNPJLVJRq6kE6A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJL2jZOQAJAWARWphE-kuSc6A",
+      "name": "長濱浪漫ビール HOP三条木屋町／ リカーショップ 長濱浪漫ビール HOP 三条木屋町",
+      "latitude": 35.0090681,
+      "longitude": 135.7705789,
+      "address": "Kyoto, Nakagyo Ward, Nakajimacho, 96-2 ＳＡＮＪＯ ＫＩＹＡＭＡＣＨＩ ＢＬＤ． 3F",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fZl3xPB_L-0Clqfag-qdouZuPIRJig6l7TvK3mapn5sxx4KlwSfe-zqK-PhYKRjLkR8-HXdl-8DeJkPqDnBlNA1XVfZg-pi5OoqOOaR5poI7wTEb7Kca5JkF46O6kBRw-gz9K5yoZmZWkG2UqBdIpwVJhToTg9O6MKQGKy5JnpMx684dxtxzy7tg2n2P_m_kPODMHHBpzSEhLQ6cxOE8jbyC3sHZGnYWXKKKU0Vovm0s5r5vKwjC18yj6YCVIJI5_WNH7HjieTrkIZXoojtu2_qW0_V9eV_b-HvD17f0oLFOlkpsw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJL-KPKi0JAWAR2XCWnFKqj3Y",
+      "name": "Master’s Dream House Kyoto",
+      "latitude": 35.0059504,
+      "longitude": 135.7702846,
+      "address": "Kyoto, Nakagyo Ward, Bizenjimacho, 310-2 立誠ガーデンヒューリック京都 1階",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fqqI3S2B7l-3l1j7kECULOV3O9y-j0i7sbvVEGd5ElIMW12IQvDTGNeDQf3Bbjd7MiY-J9FgmskKhgvsjLAcrYfjq9KgJ4EvRFzXdarY-TRerh8Mpe0OnFVtBogK9gWeq58JjeFzyDZw738o6xi0OcpDkoxn3prTAXYwgFZdb789Z7gvgjMAFQ1VCu4rfjOy8cYn1Nn11sk9qVXF99-f2wB8abw5QY7t7pRllzIt4nIt29TjjE_O_sqQsI2R6f-kpWl-Hg8KO11U6crFKWGtUSobeoS6fcBLdjfF5l1sr6lMOr5n4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdwXmPK4IAWARo8VtNbf0xAs",
+      "name": "Beer Thirty 京都駅前店",
+      "latitude": 34.98690759999999,
+      "longitude": 135.7608675,
+      "address": "Kyoto, Shimogyo Ward, Higashishiokojicho, 849 セレマビル B1",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fBF7GxT9WCeLVUEvXR19zEuYw1f8GOenlLhcu_maiA5Na7Wpulwe0RUSC9vm2LIrpO0XQFwgBQ4q88g3QC65XIniXzofUaEPcL3FEO38y-BDzB7ip6j7tB-jibamWVgwLsCE66u8JYlmQc2P201yQons_-HP3h5fjfeGlwnGZaCcyhw7PzMgLSoRXhSV1USXbQz3nYYivrLqmb__PdhC02GhCTrPKktBFnfYVsF4dow111aB-957u_qXZuk6dQ35XpzD_TLxKqbICvdt9H3lPcgewLBueJ4IMiBoIFwRzxPV2uON4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJI7GadzsHAWARmBKkyGptGrc",
+      "name": "Buu's Taproom",
+      "latitude": 35.0019504,
+      "longitude": 135.725762,
+      "address": "14 Saiinkudencho, Ukyo Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eXNAI772nK777WxlkoGvaHuz8RRGwRKaPlc2tUgv8QFZTVnjabW069YWVqIcel0jLFcnwINjbDtN87YTIaAHNOB8bFOygJHgLJMq52e_-_1uvWyQtGxHfzhc0x-vfBpRyEFcsM1djSGO8JQWfV5COIx4FfbBnuZWfsNM4R9rddiVX9VdHlSijrbY8jrmU8hv7LiXGMq68z3-nI9IIVBUr05L9UcWxU_XdRvx0LRLKuYXtvYWbBA1FryqdKbHhc4xkC3Bz90DoGSZDR9z2AXoGNxkdhXOvOhXK1C4zspAMcM1WvBsw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJb5PXeXkJAWARZq0U4ICnxK0",
+      "name": "Cloud 10",
+      "latitude": 35.0066148,
+      "longitude": 135.7641475,
+      "address": "418-1 Izutsuyacho, Nakagyo Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cRo_rsHLqin4UndSwRR_wynNjNnuxmQPEzx10yysxwD8SLSCeytyiTfg2Xcn6v5lq5HY92PqhdyTlUAkv8fXdRb-JbW4wMmhZIL0Kc2fqVJXGP0WcmlKv-kr67vfKdcWqoe6atVdD6O5jraGbHkVJg1vLRWPODzGXz52kYoE9Vub4jA2VzLrmhqsOlyRZWvVytgwMrKe4K7akP-dDKmDUkitk-yCGn3YE616lPzVZgsonn60cbF8dutDV395PeeMZautSH8AkW41-W1HjB0XntzH5ucwyarxXnTIdCPM6xwkO-DnM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJDUbdaQUIAWARth_dd63fzGE",
+      "name": "ラグランヂ",
+      "latitude": 35.0438668,
+      "longitude": 135.7603637,
+      "address": "Kyoto, Kita Ward, Koyamakitakamifusacho, 40-2 アイ・ビルディング ４階",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cPqWa8-PfskJt97WQdWagU1vyAWlY5iOYjWdq8AxmHvFsscSiuawCstF36rZwAtdxSKeYlaL8Pbi7OSPnOFXrX95IuDooLiH2mlVaBgFs_b2QciilY5Es6GvYlS1f9i5iDMdyw9toSJ0dr1_7-6M6A0Fqvd6hZYBnXGYi5EltvxuLTPa6uPCQjV_Y-ftUuPks5x6F-3Gw5OxPuN8p3OouYsOMGgXcQ27Jd8QiE5h8yEdLHGT404z1NPy3VmyNIOFQnIynA0KEYhiMq8P7F1CEPut4em3VoiqR98bsUrfUiFajD3Yo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJawGdDesJAWARhxU_xX9sMRA",
+      "name": "Takashima Brewery",
+      "latitude": 34.9925401,
+      "longitude": 135.7609992,
+      "address": "Shimogyo Ward, Kamijuzuyacho, 334 ラシーヌホーム京都 1F",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cT_2p2dlBIzBvZiISg8nx6x-w6qxRimitDMRJcGZRfyUCvucwY5li8ucWKd7A2vLZq_6WByXKQkCt1VNL0D6wQOEqPOYoWq4umwOf1qXLHwcI5P1l2uOhkvlhnJCD65USr9zKmlatjV-lE5sUCEM575dhVSnlwV7FyQQ7nIl1fuWGfWovPjLyHRYc6w8yOuRuYUgbYXyP0l7BXlTPAnJxVVe_bPQQtAHPaoj6lp5ReEg72fLQ8vPQg7JyfOdjTUsnM3P6wqOlevJKh67v8UpdxTSESm1WDfuxDqnKguz-e0mnoiRA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJcadFDS8PAWAR23HmUJGDGOk",
+      "name": "Shelo’s Craft Fushimi",
+      "latitude": 34.9489905,
+      "longitude": 135.7587608,
+      "address": "Kyoto, Fushimi Ward, 深草泓ノ壷町32-5",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2danZvbEmhHEoLwj8ItgYepTFlm7HIm2fqtLvGi8VgSg0e3yN8d_jshN7TsVGV-V3AyXNEbRpTmOKiaXn0MEJzjECXCbfHOHSmEmCpwz2fxK1eD4cf85Un7YmEOZA5ql6zuOZBYZw7O4G_9L0TYreWeBQLJzTcklnmrrmxfPsH6pE06xm_0mPARvN6MxTPF-BeSv4agkk4nw4j5gMOIUR1PwaBD10C81h-eEmOtF9wy6Y-M1Sb1TKh-ibzCPZkH8y4oR_ztUXf5V_R10x-ftD4AvGDaQVUCJtmV1rQXIDXTsa3eZck&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbVoOmyIJAWARkTJInbZU4Hs",
+      "name": "Yamaneko Gion Craft Beer and Sake Bar Izakaya",
+      "latitude": 35.0048621,
+      "longitude": 135.7771784,
+      "address": "321-1 Gionmachi Kitagawa, Higashiyama Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2co0dJWqjfjl_cuLDHt-EGg0sovOB3m_0MAlIUQx51sRuy6oWKGc5AzytFfY6U6td_7BB8DnCTdpxPnfLXv1bIyERUdzlEFuqOyFe1qs6zHW1XeT1ARFCHqf6igckvdpoUfClp_-0e8GKkdRtpGPZMEbNNtys0-8afkgSnH4-SQFveYVZQlRH0HQEWVGIdbwyVhXvOm4SOqmIo72iRSSnFxtvdiXqdLPxXBW2fqid9INVMFhcUR6zsCufj9PjGOCmGM04dmypG6HCnIpt7i0vwogqm0TZex6koKr-AEgzx4ZfatMjY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJhfNcIKYIAWARGrB5dWtW8pY",
+      "name": "Bungalow",
+      "latitude": 35.0035301,
+      "longitude": 135.7528337,
+      "address": "Kyoto, Shimogyo Ward, Kashiwayacho, １５−15",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dk4wfWGjdjLw3-2KkPD64DLTzVRyLrTqKQvIFB9icOz07PVYyYDhcgPrF4LJECIa3gmzCV89L_gUlSwVBr-k9_A5l4CFTFr_NNXj28UaKlLbIt-r6i9nd7nBZJS1pv9xHeasEJVB3AYoaRmSZpxLXKuR50p5bI3ID3HSKSmTWba3nnN7aw3hX3BxiWMFnHsEqMAuO4Zzoui-2cOyKS-7fxtSqu2AAiVDvRoG3NyVqUEw4qSxcv0pNRgv_E6wibD4suigrzRV73W9ifOtkRmvWk7CyvesgIORfTEfmkqoT43MrMtPw04TaeJco6k--4-75T9XPQKzoXT7N50rERnT5JEIyLBw460-NZ-x2520qCeuwJjRI-86zF2wym1TOAnp8Gx7ZijzwONKmxZkY9PC2YZEflfKU-2GuH9nSHao0gMwRgnyidWr46LVxNJlPUjnT3dtBWXrrxNBb0aPbNxeXFBUfE8SQbY-IbWni2qY1tDct8TlO9X0FSzkN3rKaVTiw-kWQd_b-wOhANPbJzfZ3nbitakQt4D6QeMV2JDOmVstgopnfN1bOX_mIj0HZwR51oNg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-Y2-wc0HAWARgmzwrrKm17E",
+      "name": "A.J.ガレージ",
+      "latitude": 35.0205787,
+      "longitude": 135.7058831,
+      "address": "12-2 Tokiwakubomachi, Ukyo Ward, Kyoto",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dtaoNUmE1Cdv64B8VJsxWsQkUolFa3UEYPqqzTymghh29QTRiPAqCPY7mlJD6nqrpNn2DfOJGKOmokVatLT-vIHapuPryWJzjlwnXdpFhbjwdOMzo3Y61eccQCxkQAmC5QCA4PjImIPt0KOX_chUez7xfz7GFrGlNSE7Al0ghuIOdxRyLL238xvejyNiYusybq6VbsBDO006n9BX_NKZmsULPsUy6JQ7LovWYlYZdTNYBaHXj8q7ctraC0kD8sG_OXfXLoSP1NIulNFjDYQ9_AIeMuCUtEYuBy8crTpwNfCPjd&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJGXxdv_MJAWARXVQB7UEBVRY",
+      "name": "CAMPO su OVEST",
+      "latitude": 35.0141763,
+      "longitude": 135.7581119,
+      "address": "68 Reisencho, Nakagyo Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e8K4TURrZHtHm5fEXGF_GtP4DAUVR3wPvrndn-E8rIH1H1FbzCdx7XhhR-zslTwowlMKrgynyTOfxAzAc4yGjmRZPkZPKCSfIvTusAEutcXkDsHetidguLXiOIWZXS8lCzWFhdtMHRxJLxV2YHn7PT7ZjdF2D4yG_mKd8B_5TigL0toMr6NVx9m3kIhD8PEerrSnxXfiaZ-7DUE05tNOlFDKQyFikIx1_oScRvgxCDKdZNA5D-S0-Xdsui_F7hOyigIhPyNWTXe48vV5uazVNEIDaGwJ-n8oiVyGFaC_a6sxN7svw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJQQ2rA0JAWARDhoj4cA-xrc",
+      "name": "Kyoto Tower SANDO Bar",
+      "latitude": 34.9875514,
+      "longitude": 135.7592807,
+      "address": "Kyoto, Shimogyo Ward, Higashishiokojicho, 721-1 京都タワービル B1F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cteGdpvoQHDPvH9djKJIyxQzs6vIQ6UgJm2Ir6qUE9ybXMZaCsrtHX1B2qaYNV-MG6gVZoanfjEAkJy2G695AYju7xRBjpSlWS7kBzUwR8wWMJMCt_QYz0Bm-TPwrZwBGnD6DoQj4oP4wl47LuN9pr59Q5vIxRmfVVff8zUsWdvew60ru4HD_GDMPNQtG0xj33yL4YYHynQqWv5SSTSWXaHQoj3sqIj6SAGQ9UJ69AhvGj7LhumIJxfzbAYMTGkPI1uL80rMuCxj5Umwb0YwQOJbw6-G70HgXs7oNcefzmh0f_UhQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJH0AZGp4IAWARwRwQ3ZOGk3Q",
+      "name": "France",
+      "latitude": 34.9987531,
+      "longitude": 135.7526231,
+      "address": "Kyoto, Shimogyo Ward, Tachibanacho, 31 タチバナビル 31",
+      "rating": 4.7,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cAzYknzI5cZ6pzHTKjk7boUGJLbAUXpzHt3-Q1bJjA4axtwYTbnohYH_NuCZHHNYIzHA07t08WrbuMOtpC1BDxpiFZ1AJIDALpr-wceK6SBSk7MqPP2AByuyuf7mVspGdF1hlkHpCyb-p4C9b27hN6dWxthWfYGNCxduuoX7g_3JzmTXWgrMTxm91TfFlfov8O4i0EjzM8a9rb6ougEgKj4jrE7riABYGMJhfm-lPD9seJcZthAZlRZLrJZVlRomcFKG7NgTwcsK8FVmT4h7hwEt_WEXP7q2ox77LfJ9h1NNilcwc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJz_fCAeYJAWAR-GVEwpzqmSQ",
+      "name": "食堂 樋渡",
+      "latitude": 34.9996327,
+      "longitude": 135.761153,
+      "address": "Kyoto, Shimogyo Ward, Torocho, 579",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f1AaS_DNR8oMaq7nqgwYY5WGoaE28tv6c1KraO6ciHl4ahrxawIaJXOVcP9Bvwoz3ke0eD-Ca6PinIYPwAt_HqwmmEVIjKmNJean4qsADGoXxlrcwnTwfqGFs9U-zWwS6qAosT0u-nIh4tn4ojPiWyDdYYn0QsRGkGcakdcI9T27E2iNp6U6ILNwsquQSe3LrC6H56LyHIGuhf5YcLBxFmHwLVahW_3rZNIwCR32Y-VROTOUVQMv1JBM66h6LHVWD94E9bSoj9930JHFdd7KGzMsYZ6C9EuLWAr1ktXQ_MKJe1Mok&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJeSYO6lAJAWAROQTy2O2NO3w",
+      "name": "BALCOOK -Grill & Beer Pub",
+      "latitude": 35.0086665,
+      "longitude": 135.7597919,
+      "address": "604 Banocho, Nakagyo Ward, Kyoto",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cnPIGLu8RyjwB0KhbJODfiv_LJdiAm9kWBaGds02IOW6eP8aFGeut19pM7sRfwUqO8K-DqSH7uqyyk-LVA1xTnUY-C4Ye90H8fWlGJCxoE8PD3-q1otBUccs4PpEn09umoghU6JqEv-iaVmprpBGfZoGpCOGfCBCAGMU6Q3qigNTO6aoPIyNX-9M2VLC-9PL-Cjw_P0OU-M7ImwY8UPrl5WXClcqgoMtUuD9aEcGyilrd1o405vcZnIK5ygHWLHLCAYFe_e4i-etQRPMqYw9XIZh-vUSrKcBNZgJbROLgCgTGHmHI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJYc0aGa2nAWARHK99JrHeM2Q",
+      "name": "Ayahana",
+      "latitude": 35.0935006,
+      "longitude": 135.764775,
+      "address": "172-1 Shizuichinonakacho, Sakyo Ward, Kyoto",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cKbRZd3dg0plKjej4n87llK9YIWDO-nbw8W9b5iB3kKAIZhwH7slUlUlInMKPAa2mgvZiylMfnKLJmgrzp3UqttAyG9shGwBwVMdA9F-UMgoEx62F_OwajJI5C0EE0zCSmYFVXySFNNdA4ZsxW8N2PXYrPL76vPvsGrIqz2lquLyhNQlTxC1985wuR3nNU8E1sml46SP6IBO0qOcX9z4ujlcLmxETWBFRq5tbKjut1hLU00Wt4p8oW4wtG6Fnsaqh7CjoN0zLHVSVgXYc8718CGGcwZwtywMxr1-wDoEdRZ0-m6Dc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJhcBrLHsTAWARCsX7od3JTMU",
+      "name": "Restaurant Matsukiya",
+      "latitude": 34.973951,
+      "longitude": 135.9025975,
+      "address": "7-5 Toriigawacho, Otsu",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fcy2NZsZgt1bwVudM-2aDxMd-AQHftDFBbqQXgDpSKn1tahmEkWWONyAqoFm76ggRAdKrm1gsHg5Yab2J_OhUm7lsiTpjzoa2cMTBqp5K6geSXhO8w-FznDdsbUvPEMUqG2rbKmPqbpTOSBzR5lWqL_VIsZpsppq1hqkK6Xk7AkFKibirbdFZ7Oif-SXcVIjwup1QM1Z6jm2AprZ0PCPv9PwCakFPb2VycgHyrHaLRu9BC8Qq76FJ2lDS4jMA0nsh__Xext0hToBUFX9EOoX7oWk_jNa2PrTBLz_4mI49Beofs2WU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:16.842Z",
+  "count": 55
+}

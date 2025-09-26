@@ -1,0 +1,143 @@
+{
+  "prefecture": "群馬県",
+  "prefectureCode": "gunma",
+  "center": {
+    "lat": 36.3911,
+    "lng": 139.0608
+  },
+  "restaurants": [
+    {
+      "id": "ChIJnTgLmpuRHmARUTNGCIltTDI",
+      "name": "Joshu Tomioka Brewery",
+      "latitude": 36.2589097,
+      "longitude": 138.8927706,
+      "address": "1426-1 Tomioka",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c1ZdS_ktVr26wqXrvFt-4l5OHsL_udUXyqzcrLcXg02viqWSp9DuF9xUhZkG9o_FmBpwlvePJG9dQC64tjF8pGvwBslh-1NNL3cO-mXubRsM8HaGmBEBueNhwHM6l-I_iy6U6iJsOlMHtBwdA_CAFmTVSm4Coc85JQI6EWZdYlvj4Eo_8kECLT30V0F7sNTL910fCUZoIH3Jmd83JLBa-XLrys_1VYLyKel2a-dWTlaQ5rF1nlnNpmKYgqT2tb0uHY4s26i8DheXlfpU4MHi_HUILgukQCHJSIeYmpmETkmY1adeSh9jJdc_ui3uXKASvine1569CET6EkXGG5giyB4gR0Irv2UqDdFLQtw15jDLaIbH_-LdLb0iAltidAl3X2cMtT2xs4F-9ZECRDEFdjAYwxKgevudURv8_lwo_TBXwH0KSPTRN-oLsNuyJ-gBs7_-Kiks4a8cG_tw5Z6RokijMU4CRbJkXsXtLbft6liQ-BhLPOanFyPMgo7raL58eRWKHev5nGWzxOrWUkD5c18wiNwaXwOa9EVbUma9hB4VA6CW4i8r3e1jXFIzaF21558Ba1c0WJEw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJD-Q_kYKSHmAR0WTKWRwFuY8",
+      "name": "Craft beer bar & bottle shop BOCCA",
+      "latitude": 36.3245812,
+      "longitude": 139.0093786,
+      "address": "Takasaki, Torimachi, 90-7 ARCビル １F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eGZqBxTXaJ_uUUxm5yjaHLozXPhtPLyDcLPwmKUaLHNHHRXKMCm4yHm6GHqhFUmPrZS8OntUUpn8xNEl2_GfaeMLu4rzvC1AOkcDfka-gIf1myY_t7H8s7ygC-k0yFwR0iJHb30CAt0LQBMjkGt6kgODz_TemiqRk9uA0W1HfqDiysxHLNBQe6M5Oq4gfsnJVTiwqITqgqIenun0wu-eT_cEhzRlNYhvPfzyeWgfHbzvO3i4kq53kbfoidTnUw7EONpb6c-FkZk4SJYy1_rMONk133pYdMDxQJjIbwRkJMUZttHpw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJb4NsEYSSHmARJ7VwDLtMUGc",
+      "name": "SHINKICHI BREWERY",
+      "latitude": 36.3190837,
+      "longitude": 139.0068428,
+      "address": "2-11 Wakamatsucho, Takasaki",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cRqKeIVoEkSOeKtwInXConySn7IKT0_MuNgfgxkKLfF5YpY4MTVjszLo3Db0IIRGLVGeP6qC3lr0WnOWUZtCtseS0zgCG4UI8L8cOHsPYwsEQJ8t7Qzq0mgyRQ4WKJrOyuhDAboJfNFnnT8fbObos4rM1vRO8pTxlOonShLuj0kH4f-HOBF7ieyPf7DqnghN129JCQz60L2vfA4XJVylDttEIoVxMOK_Z00ZcS1xmycNcgjAWhTES-PWwxqfor5PKceblfbYdR56h31GlknJT05mi92b2FSVz8qlJ-cKtcS6Tkz558E396g4H2x8SEsUHyetHE0oixlBgLeUWG31_KH3wkJxvRDOGmlJouxIjGdeqkHNAymn8baV5uiIf8B23fpI4xCQ2zvFiEwXrSSIYH75ny5VWQqnSMhRWpWeKw97ubXzd0CXQreyj3hpv5dChy1PYhF_ogHclwy-XY08jNcClimlxCN4NVx6rjPPly8zC28s37P02v7IvhrWf0ccvLjpIxFVFFH7VBuf9RHVcHQ0xkx1uLkpIaQTNtm_BQvPt73Q1aVh8qzHYvD6WkKXPGos4Bi0Yauw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2QHbsj_zHmAR2uhwAUaGKBc",
+      "name": "Lu Lu Lu Na Beer",
+      "latitude": 36.39065050000001,
+      "longitude": 139.0698068,
+      "address": "2 Chome-1-12 Honmachi, Maebashi",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2epMlRiayxu7JZVqf01c012BCLdKeEPiX8j5-jJNK3MX1xYNeAjkTKp4sswKzv_54i-pa_mfxLr6uTAiA_gAF6YDbFNlvJi_5f-Yy7Sl45GNmNvS9_km6FkQLpMBgrhD4G0ulXGm9sWTaI-kWGz0SjtBFj_GIM49-2yx7kU_zSTH2UqJ1neiBzSawzJA4lNScyerRiKew_EyV_O4afmGlUyHWqqKihW4SvZvSfxu4sqKU3OzddPvSZoZnbRG0WAV5HqsOKJpTsPMe8xEOjn3Osl9M8Ta_ugK56ol79wB1GXIZFhnoc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJx4kj7J-NHmARruFkjoJPqFM",
+      "name": "Mike",
+      "latitude": 36.3259426,
+      "longitude": 139.0054822,
+      "address": "31-2 Sayacho, Takasaki",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f_SNPqxBy00YyMzWgz3E5R3UepQSHBfYyo7SIw9kZZkRgnJovOrNkugpsQRGkQwYjhoLGz63yIdpYg5CHC7vfwDZM7DMVv4led94xnYmM-7gFyBKoMK95Ry_o1RQYYCbEm4ysNN8KRazWNMD-6k2vBx-m0r8zGp35oykAG3Uh7UbC-bw8O39bGxJIICYHvYCLNZW6hV7D9uLkuaOFUTyrOzXrTZMy_qJ2OLiVD9LZAlXKHKUKjJKa5DcXnPNkq3fUmq0xfHpxDXlbfd45VDPFkrSmq65Dj4nlbwhjBUmEN9_8y8Gw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJY8so_n2NHmARVDypygDOl68",
+      "name": "Beercafe KUKULCAN【ククルカン】",
+      "latitude": 36.3242166,
+      "longitude": 139.005995,
+      "address": "121 Renjakucho, Takasaki",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c5ynZOyMiLUEGjIsfnff_RawQckitZxfHkhHiigWVOndfARqe1KbFh7iS7G2MWvKMvyWyaQxzYFkDRh08HqdENKAooVbNxvXIdRMwF89_e4U-vdO5iqQFynkbcbm26cmZ7uyydHkCD50b_fHPh0Aj69xQcLP2o6AjEDf4GpGtdQIZqlli9GU0YyiRHG3FJz95McJ22C5KBbk6PCHuFieepF_wZffGjpzn_tw2GJi4VinCqhBiGU7_pSjUxeMOkSQKKwqQi2-nRU0B9utDTKnK3Sc30hXlmlk7zQqG0QgqG7gV_bUU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJuwSEkuWTHmARJxPnSw8mO-g",
+      "name": "BEER BAR BEAR",
+      "latitude": 36.32269540000001,
+      "longitude": 139.0107432,
+      "address": "Takasaki, Yashimacho, 29 TWINSビル 2F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e0BmUTRuX6pMn19XNe8LBgJHvZyAsVR3ybVFOYN6jQP7i6Fp02ry8fHUHBh7HkqhRzMX9M4hT_eDwaJwVPdinTqhBVZ2vLxHUULS2T_hpU2ToFPPu2AMjFvIzGRtB4o-EnLWEKHdq3YZVPWdCZAiaPhBObFHHuHERla26Sd-42DKPYpgzn29VZqY0frKhVeYGXWH6oW8dVkIBwYZylRvSDOYjLGc7P2V8mFMJZutSCsgEk9pU9oocvirAsLKseD3HPUMT55eKZqJvdTG8aVu_XN182nhLZN7DvzBEPanBgFnHoeKo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVZWfl4KSHmARRvFWzYI6hfk",
+      "name": "Okirakutei",
+      "latitude": 36.3248696,
+      "longitude": 139.0096951,
+      "address": "129-2 Torimachi, Takasaki",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fLz4-6ht6lOf4Y3awNfOm_a5TO2gjiH3fxQAkIyz9X2-I1Omv0zs_NrOnlcXMoT-diXRM-2CpUCcZgFBOv4WuhNe13d4dIm1ZRVBqaFXngb9f1sXnEAp1Bw5Whjxs44RBtvPYH4fBblVWXUMWVRmjj9_VrkC2mSj_GfXlyB27ohcXLa2vWeM3OIWtcmLCF8lqvOU7n9uUZRuSKlpBjw50G23y9QD9nSAyCIUv0UhBsVBsv2ggaGr73nTiXkWUANeq7RNBBZRRZehAPVxu6UP795cfw-lXnIRMaZ9MOKvF3BsWUVSxeRoLwI9Db8yAY7oXM99jOGf4j9VaJEylISCS9g_B9FsBV51vcNr5Mc_8S8ZQGb073LVkJvPHi00eYit8TBL9YKPJr5e39AkjyVPFWLH999Y7dSbFliQnd0Gw4Q6V50NfE2vPOmleJb208Rg5dx2idoLZEfjHmDcaWzKO8GArM-W7U0tTcZSssR6hbfRdxLEq1X2fLvzXYxR_NqqhI1c0Dd2LWIT5qkCw8aLbd_MzLMopAfd9dH5IkEo3n05XpZqrlQzDBO8iqMWbDB6Y27Q&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJsw8itsjoHmARfzOAXIWRplk",
+      "name": "Smile Smile",
+      "latitude": 36.3237781,
+      "longitude": 139.1715317,
+      "address": "3026-4 Tsunatorimachi, Isesaki",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cgejeqop9vvwrb6HRuzgLR3tK8mmbywKHqWlMDTTaMbPvGC5MqfrJy5X6zEk3uypL94GAVw-pmK3ZjHqIiXzRnPiP9OPqaJMeFEqLAvVG5mH5THoAkPUAKOks3necsKfC1-7UBoZvHbYbAUYCkw_V-HHQscjG0y5XjKAJqhKbLO_Fao5rzfJDTmvOm0A9ssMF94VxVUJ5hpPDIpNrKls0-V1gn92ksCcbFBfdsKJw5iZ4fU0SZfW86lKJHrFMJ4-XcbVUwbmjjLSpn-kO7EZBlcJIS6aYxGhGytOBOk3kSY2gupFoD2tPdMOB4MAnQ2LEdA_dGKTCtkDoRNg0UVzZe21fj35Yim2YzJIWtYmjzNbY-dIkjoYX6d51oJhIn6kC9Aghh0dJPmzOIpGD80Z8CszRLHBp6HR1MCK2ZAKnW_362g4iQ0QQdWBi5wcVW95bkIdL37yCEOpZ56Fr7YCwWdly4DF2dRcTV0Yt7gE5SjsbmqAZ4zGiCxOzmOIcHrDZwKpgsGI84_15K6WF0fRKnvW4ey02K3o9TBksxiLHUiDDAwM3dPOlXadGHYK8RtrHVxA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJH4F0EXKTHmARQXdjDxU2y5Y",
+      "name": "Kibenan",
+      "latitude": 36.3178529,
+      "longitude": 139.0157519,
+      "address": "Takasaki, Sakaecho, 26−25 関口ビル 1F",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ftqBLCa7uDtC2c720n4OkOJCGiaVqzVpVfAsD_7lO6lQ6TkQFlMf4JsfIYzCikQ_M4cgG53e3ZW9lKmg0It8tQJuSfGqNJZAymb1XoITl10Gna1DypMLXF8LpEedSGVFC5Oy-pVotsP4Rs5weNYSydxQojmv9PsGQxG7SZwa_SOyBjajZJeKqk8Qb5iWZVIIzgZnq4c6KIMWqoxnC6ueEnp4F4ui561HN-NcgxKWHyo78morb2ydG8U_10qvXjYAY4Eak8SphKTu7ZhU6FRCG14gxHtSNBoyuJjBTI1JHqj2xtLmbqqP5Tkhcs36CsTf_gTWi1dXWM1hD1zOSRdZqV4WHBWgKDUH011YReJrFvT0TZ4mOngd4wYL81TrOsWgQs2peaO_aLaFOFrVpwJo9pkepm9XisUexNHZXDMphflOjzWPz0IbOKm3WWBiCa5XiOJluOmQzi-T2YZEaXc58c29lOQbSEHqffFiRBC7fdibSLj4TSnkDHLSmfT2DzQFpzHLAcTD9yrkwyMcI80bAUwBo-sCQhyGrlJgV-sddvaEzpPiUdaPek5g8PvVV08SKjdaaSwhXDNw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJE5-X5LuLHmARw81av2m5suY",
+      "name": "gurumi",
+      "latitude": 36.4144478,
+      "longitude": 139.0018922,
+      "address": "2377-1 Kanekomachi, Takasaki",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dUaBpRbBnt8Fa2bfPp2eJdVrKxi9reVXcXx57y2InGUyFZuOkm2RJbyM36ECwAbSOfyzIz6Ufb1aF53W6rpsAP6sF2xO-UayhwNapwO1yd5cq8cGPalTiTcVZyYaftWZ-LHKpvbgMsU5DmA_dUYMjWf3ujgSrQpfhjciJ2japn0OkfA0Z3LvTnUlKv20Cv2locRGZ0YNbcUnjbe9Co3G4m29ZJkDfklSUXHwmepVflH1X69EZO-f5CZXUKs5pFVHYf7LcC10X1xrqX-XjDOtvmaelPCBEQ334HILVylW4Vhp_68mo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJMWejEy6NHmARsY3MLgBbb2I",
+      "name": "Kurasu Washoku Noboru",
+      "latitude": 36.325853,
+      "longitude": 139.008982,
+      "address": "Takasaki, Torimachi, 77 ワシントンビル 1階西号",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dWC7qwMDGsfsjPTZam_JHDVOol4fVTaFB10h2SgZZ7srYbPnby8xoUkBeoKtfNFmHTPrc9D5kCdD1g8aayGA22pF0UAn3zp7UvA3CgsvBouc8QLCrpOQqpxFTi-5_rviiBl9CKJJwwtObbcvTt_ws2FULzZYlLcVy4HaChjSCk3ClF0GTX60eNo8ZbrH7ZSs23fiTu9vKzNJTmFhIo3jRzl4hkgLdL2SDAI6fO-SqZN1hhWuaqwv6k12HnEsE2AdLI6VcTU3PwZ7E6oHliz3sJ0n30ZyaIlf-pBGxWy53c9OuDK5o&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJS8l2eDLvHmAREGcaQJnAisY",
+      "name": "和みバー いいがな",
+      "latitude": 36.3232799,
+      "longitude": 139.1728562,
+      "address": "3036-14 Tsunatorimachi, Isesaki",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fSV3bF_78ywvPoMzyZhmzIIn_nrQGmn3wc2ZmY-Vl0ZU7ocvrx2GsHhLq_U6rToRHEndQM5cITneLID-rhBeZQBWF3SweOaWncpbSb3H7VAxUAsxKNxAPYqJIU2ucwlbs0AphmjUBpipdcm5lKemVCRLl5iqV8LZhfoHkMzeoOy2tfbTSffUJPRB4TAxub_iYOI44dML_K7focr67SC0d4FtrQdhbcVwQ4n6rEtwCqUiYVuVehTz8x0MrwcC7HzNZEXb7Xczx1q256HP8nDVFHWRHJMOmrLSoZrzbSPFu0da063Rc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJEXklrZiNHmAREbw7_sCX4CU",
+      "name": "Ruhmato",
+      "latitude": 36.32668779999999,
+      "longitude": 139.0063337,
+      "address": "Takasaki, Tamachi, 53-2 snark2F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e7C4ew7KdlzRoWJg33RZzLKS8tiTOV7I0J1wqjRcqaAaY2RlHx7tmZ7jDih4wc_dUDOW20s957uCsE908AKVNZaQUfIV3fJwo_tRG1_vcAz9rPTyZlhvt2J7RTE2Deu-rKIsYA7EKzjIAoXHhJWVTbmFflnYWoGfHwjKhJ-zTp-NWSHP3Quh5ln3f1_npt1gX1XYcxsCWYHLrEJzGr74N6sMt1UnMGjEUb-Vv1KvnqdY43OZ1fp6VyIm8a5epFlFbr1vUpJf_8up48c62MyeFeo3mapAMvZjcNGB0_tqyKTpaI4ic&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:22.177Z",
+  "count": 14
+}

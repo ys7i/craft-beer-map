@@ -1,0 +1,189 @@
+{
+  "prefecture": "石川県",
+  "prefectureCode": "ishikawa",
+  "center": {
+    "lat": 36.5944,
+    "lng": 136.6256
+  },
+  "restaurants": [
+    {
+      "id": "ChIJH2CAB4Az-F8R6HcMKabgmII",
+      "name": "Korinbo Jibiruba",
+      "latitude": 36.5617662,
+      "longitude": 136.6529944,
+      "address": "2 Chome-7-3 Katamachi, Kanazawa",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eZpPH6LCYj1CiFidHwnWS0ONcOHQsVg5qReSuxBYD4qXHApqgDudH8lqBfxBv7MCUMDmTrIWriJpHbJ20kEMnfPfAtgO_15Do_epVhk7A9pZ81OsuyITozruInoIYP7cGs0VBjeRX24UU384Bb4wf3OFn_GZXJcKbYRCkCI-yBaH6cF-94ARMHJYX96xjMmWTSvgsdN94i4IZaqtOx27I5ykbFx8uvV7eVV_XP06nhOQSspW-mWjpTgrXCUnrvWDckqkhPsu0_RwlERn4BkSeJxKnFeT9JuotCkxiQZMUMnaicY40&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJW5PxcXMz-F8RauR1kc_RWek",
+      "name": "Oriental Brewing",
+      "latitude": 36.5727451,
+      "longitude": 136.6646984,
+      "address": "3 Chome-2-22 Higashiyama, Kanazawa",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dIrdEaUukVLl6JTfuAjzS1O9S3o7eZGZaL4AxCR0CF2P-GbEQBC0CFMLqnfVp-pRNwqK-sBGAqLd07zkKRY_yarEPmfAAuPEb6S1zwXIZ177a7H6qhZfDO3W2jzyibif-7_4aIcnJ1JIHVqbUluRBNRDZHa0nyTSzQg-H_5M7rUjBHqji7yvYd95pC4y40UHbyB0Jqm_8-z-C3-cjlY3YX_rQFL-xVSOBJqnaxqP-1A5eXQCjObmKGrD2UwJ9d_lhFl69ucIwdT_NYTk1sgtFLkw0wJ2DIGX8WPwvdNQYvCbSo__TcKBYcCRNpVrPviFdZxZF9jBrQrSHajl7ug4f2feIbzl4fEZqXhnHWXxBtcMRA6EaQBtlwXqmXXKzndTGU001bGbGs0Q0elFVwQxJBlH4Q7I2zqZwukHD1mU2ajOG5KQhNqdsVySzRZH2MYD1kVDB7r37UniNBnDElpL7Y-DND6lX36bl0zoWtJ_M0eKHuxAjh8rxC33nZLud6YZZBZDnur3rajtf8VxThr6ZjAts1pEjjJhIFHc27dlavPFN0phxD6Y7yxj-rmUMI83UHJeWU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJx5ioSnAz-F8Rilp-1H909Ns",
+      "name": "百萬商店 近江町市場店",
+      "latitude": 36.5716632,
+      "longitude": 136.6565047,
+      "address": "88 Aokusamachi, Kanazawa",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c9uTCyyf2HB1JyvVDmq4K-7rD92Hy7RF7J0pB5epTmEyeiP4DDzAaWMkKD-WYuaFEjDTo7t_qAOtc8MqTQooKqH3AdWjoPY0BaGxk6ut8SVK4muWoUVagEd6-vevZ3dXDjhsDQUiilLamNVhk1GAsyne3JUh92NN1CMmFjdv2suin2xdbIyQ7457GwY8UKZ8O04goeZH3U3kvzQ1zCjpNcKf-08PTI-0O_Y_Gb4CnsskLiyZVPl9dr9AKAfoValYDuR5C3KX1hs2uHkyDPxJIDHdKreHsF1yEMRmvhruL70zXDsheD72cMELv_kcQA8UW1o84zz5bb1w4bKeU78F7GgLojEKSKfX0rx4KKWfzOVroZb5Ps3MsHOwFXREX3wwO_oPYbV06bdW9_QmfONiVOY6lstrZOr1giJ2mJV7x6ZxVOYNu0RN-UNVDYYXoSrs3r4lY2viKjfkea_nzQnd-T9QuKJ_ovFEZvQkxPbjPW7cnDJ2elF0NzqEwdo_MebmNpapevdQprs9OpTGqQiFpREAsBAxoVNSB9L1UgjKIhuXraW4849Zzp90DSE2hG4UJh_1cA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJGaGIuDUz-F8RneBC05GSXP0",
+      "name": "Oriental Brewing Kanazawa",
+      "latitude": 36.5783424,
+      "longitude": 136.6479828,
+      "address": "Kanazawa, Kinoshinbomachi, １−1−1 金沢駅 2F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dWsj7GxFc28uup4vxhm_CvUv2w2gqMwr9wGqv4mpMWp69xdFZddAEpY4NtVUzl055jBQ9Xk36UDQ5ZhAXu686bJJNTEccVc1zL5IDdeOMMlzvYsjO2yuX3G1qvWN2Fs7mrWyvEyM6jAHSr1rB2Ym9xqkU4xFUiY9TD8AOsNAObMp1qTb4JgXqyw0GW07dXbNV-57LZKESYvOqbXdsa_sGFnRz3uN1DoB9bMh7jlQ-vKLapnAceOhvIBIvz0S2eAnbMo6FkUisvCp-gWV196o25FHBZiTCj4bjwqvOOcxZFBP-pvk4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ3QePYgA1-F8Rsr88Kf8PK4E",
+      "name": "Craft beer freaks Sink",
+      "latitude": 36.5572193,
+      "longitude": 136.6486472,
+      "address": "Kanazawa, Nomachi, 2 Chome−1−20 安田ビル",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cRh0t7HF4kcRU83YdjIiezWzvlbq-ZPVgyPVxKHRy0B70wBeFQs_NvXZXpQ1NJgQL2Bo89Dxu0Ja3SCruCKQrNImPW6A304JOAG5kKYDqQp6v97P78QzH9_o7rGcYK23gMdmcHSNl73Zm-tmEg1Md_SZJPLV5tDV_ztURrFmNes9YuRrTIs5i91vL-SlFb5mcXgNzP1sfXYqAyrpfS5rJgJC9LiPqBsfmBdVtv3Tc35qphTZ4I_QH2T1wh642eO0raG2ejip45rnDj_d4GDAl3lule2jMIN7oUIfsD56DFvzEKK57f_SmcAoi269Q2rarnBd5RhSuIxuNFizY8penI7fbRoaDKT6AwVrGvGN0I2cJRyY0Nzbz68JmGxuEi99ou5p3YvWwjVONElCljrxNT70mhZztVEDiT1es5fT4F2JQTCV_Eek_KE0Lg609XYUQyBvjOFLclw302Kc7q6Hb24JwFvVqbX2JnT9V5eeV9Qad8kEXb3UckX_YSyzmJjoJ8H9TeCANKfxMQMpXUoxmqoHyQh2t1zAu2h0cqeqVKuiOVQMIQ8GAsgTBXr7GPkdf4Rw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJfWkiG-0z-F8R0bFa9jGIurE",
+      "name": "Bistro Oriental",
+      "latitude": 36.5800473,
+      "longitude": 136.6478362,
+      "address": "Kanazawa, Hirooka, 1 Chome−5−3 クロスゲート金沢 2F 202",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d8DdIOJCXlJBAKBwmI52qCFPuppnsM5uwCqK7UJac_waPTGAzcTxuHVZR-Fc_Pz4ruxuNOeLaDgbVKoc6FFPQwCgP-qfSaOmSDvC4upPPKVm_Q1oj9OhddR7xskzsXdqa8iCJYiGRWvLEq5ttJerR2j6SoQ1mXpLRaQktqkyGdZgV03ffeivgSdmrdiZoyxF-_lD9JyWIG-fjF4eDF-yDcxXwZuMvH6kPShP8Th83tyHltjU6YPXQeR4OuX12UyxF1qr_XoEx7Gqdq_XNXud6xLhaA3G_9XrYLTmmn8aswKHIOC5w&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJh4p2dV81-F8RjyMpQv3ub0w",
+      "name": "フロマージュ 〜チーズとお酒の楽しい空間〜",
+      "latitude": 36.5602437,
+      "longitude": 136.6506894,
+      "address": "Kanazawa, Katamachi, 2 Chome−23−3 プリンスビル 1階",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fTCqzyaNANrc6lU6tWry2bvZjAoHDpBAWlSBDhn4Hs6MlvDX42ClrHIZHfzaSMd-4yBWGKoyrUEDPgu4S7bb1hZX8OtGxQRuerLkuQg-bndnngKbLQY-aI9GwCnxDyUEsG6o2upp27dRlNkRJ_BOurDADHYb0QSgtzat3YrMQDSB7OckegUijCvJKcBSbwtUqokasfEnLDYsE1xq_2uyi7aSiGBtuusupjrXceIXzV8nX-YjJs5IzX_od_w0aPhxo910lXG4ujMRrgQ6xS36MgW1CSnClv1JPL5tM-JH8LIyxb-Rs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJBfSLiH81-F8RXOfmcIk-tto",
+      "name": "大衆ビストロNIL",
+      "latitude": 36.55991710000001,
+      "longitude": 136.6536438,
+      "address": "Kanazawa, Katamachi, 1 Chome−12−17 アーバンビル 301",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fkrkhL71gR5G9KbwEMeRz73rk1ntdibZCwmt1f8jCwRpYflufnRKGsiy2s8pbgXsAPWhekT93pCGH5O_LySIOsP2-l2yYAFVmZc630QW6nqtZMrv55bSSagP0j4yicM-2S8GsrCqx6qnMhSY_cqDaDBH_c8TGsZBYVJp3qDym9bAlduFnIRg-eRGxnvBxheRLoj9-Z9VuR49mVW5fb7wrZxklE2rT_VxZHliu0YS3EzJCiIgvr9ylohMKDkv2gVDDTOC9pEm6TyuoDRZ60FvPEywf1QK0sTTWhWa39raz_yJ_bJ58&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0WNMjqg1-F8RIlqNCxhkBkc",
+      "name": "AFTER BAR CRAFT",
+      "latitude": 36.5360195,
+      "longitude": 136.6309524,
+      "address": "3 Chome-405-1 Hisayasu, Kanazawa",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dJG5ufofavE-fHQxMhjbm8FifhnUcgKBuzmPxhmvsoDXX5ySN-QR5NYSKoZXMvkgU4lHMHCMNNNeULIEKNozeoQD23SvwdKkZm6CXEMj9_J3nQZ2sVgncanjDghRYwpYpFQFIGKn97Cl0m65QA6XE7deOcky-jn91GgQeKDefdQstVorJK_f2LtMuq23e4KKNiUNw-OMT0kdVkG3m9IGs9bWr5R_s6J9ZeMngzojylFyytf_mJjW3aPv0CdckbddbCFEgBeN35_zKMk0SHVqCDRgNyVDL7d7IBw_sU0byFMi5--ik&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJA0gdNcEz-F8R6WjMCau6l6s",
+      "name": "Beer Stand Fukuromachi",
+      "latitude": 36.5725475,
+      "longitude": 136.6568028,
+      "address": "Kanazawa, Fukuromachi, 4−25 ムサシサンビル 1F-B",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2etoYYkS5lvhOUHUsDcXOItoKevkld6MaSbyT6JDKdr8wkpls4o5x_RSprk291qc_yBNLXaJKVXs6xTNlCTfrap05Gdzfh-FfqlMjoeeu7qgyUuSxZFMHgMzHKVNocgG_HHu63NUQFBNbXlxI2Y6C03a5IuH_fAliX4to5USLReZu5lbOHv9e4J1dl32oQrHBHUYQEdAYsElrVxpcaFxsd4VzxbucCffGoYG5TezPhNFCifMNEG_MgOALfy5cCFZbmOiTmi6Z6D7UO1wn0ItpV2Jf_ucaFYoeaO46xh9m4OSCquJlUKVadao_Lb14Wz9Q7bhyBu2kilG4hSEhmU_JVpqn0Ynts0A4DdaCbPl2t2fS63Q-w8xPhorWl9lN9DaVVKwpmfucwmCTTWFmkKLk0Apqhk_Srm-a-zDuR-CNBye57b4aFbzZjXbG8AXKp7CMl-zZBpG62ue0-MIEdtmawYup3CMl1xYti8EUG6pa1BIoi_1MM-Cm3G8i3z6tuNdDL8ToWCpPl22hj-MmxygYR5Ki-NgkfmutzuDRqTYYCR8l_MAhD4hrg8iZqxe-k33y1agA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ169COWkz-F8RKben0SjTzRs",
+      "name": "Nyumba",
+      "latitude": 36.5754889,
+      "longitude": 136.6507417,
+      "address": "Kanazawa, Honmachi, 2 Chome−19−4 木の五通り",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e9obP9pFy6WlmQWR6p9AyIgm3KjEvsDs3i2nLvnoROL_LyCAQpsUKKLESOtEJd382S3-2b8MHQ8J16oeS8P7R0MIE5wMdSph0u2a2eL4VB_8zCTk3JtYIuHxnI8oxHy4ZGjBdB2JB1VMzE0_V76sCaceiFodKu-3vKXG4oT9RMmvYHwnHQQcMILYw65knA81l_GQ6OZHYoqEq7FguNFpeXO0ABfZN8sBlvMUVrMJtEaVVhcA2pOYfBGBq9NI3qd8X2P4tZVjKtzUCMD_gIKJ_bo0S-N39K0X516LKw-cOaJlUTd5A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJzVxK5H80-F8RWAZGYiJQNKo",
+      "name": "bitte!!",
+      "latitude": 36.5613988,
+      "longitude": 136.6521371,
+      "address": "2-10 Kiguramachi, Kanazawa",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fEWs1QwKsj4zNYZkGGtafKbxDj-_vtYZEJ5Hu3VCYXLahu0QCsR0bjkE3yIJ-MQgCJ1ZCoZPzbyOOb26mNgU1huxxBj-eQRU6RbARDuo54HqGW70VJfLc8E8-vsnp3h2Jw6bTDmqonu5y7wUA5sYONJKOhajvr54_H-HLV0csQE37K8PZwQ4AF_ukClLcU3UMIdltvHd-Z5T1XBZFXB04GTIhrYYormqmth3hOPr8eX6F81P04DfKc_oxcfK4vBmhSqn9wX82WEtScudbjPcq8BsNY72eTQhKX9HVKxyWp_S5BZ4I&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJxUrJSIsz-F8RxHkp_ibb38A",
+      "name": "Campagne Cucina & Bar",
+      "latitude": 36.5783628,
+      "longitude": 136.6480353,
+      "address": "1-1 Kinoshinbomachi, Kanazawa",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f_dmNXgEg9y2P9yzhriabm4KVVRQC-XalsIQ9PpcNBaq5ipp8k0vwDkyThuPHRwhTWU0D72Cx_lgZDRKfRWvR8I-nTeeqKiLUs6GT6k2Q1_RqnagGL0mCzN8ArfnDcKabIO8Sf5fNo2OWnRjVgufH70e3l47rDt3Z9MuQhjDOj7oPqkFGqMC7vWFtr4kDbt34IyRIkWGguQPRd6P6LmkpCBq2TwqG2LmQJ1mounOyHsk5H3JYHNkqu6B6WmhlRKcDKqvyTofp9RYLZg_cMyZqm3EJtK21EVSnP7is1GaAihslOOHo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJsfyP_38z-F8RZbzPjssJjbs",
+      "name": "Italian Bar Mugibata",
+      "latitude": 36.5620453,
+      "longitude": 136.6526579,
+      "address": "Kanazawa, Katamachi, 2 Chome−8−3 香ビル ４F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cHZxWeSBor46b_9tVVef-yctiK5yrcX02WOqcZJc65nG2bp9VevluBSLadBDhn8Vb4_ZnnItDwBk3_a21ifasipePcgjkGK9a0yPVAJ5CQV6dNq5mLWa7Puh3cnl9hJ1sfKgbC6lkKpDweEgPKFFnonbMI0Gw4lbnqslm_SGHWnUj8GW5ZsuGpAMb0FmgGpdxi-4rjeR97g0dWJukGeejPedc66rEOXubu7Ms49WBtMeDBTZU9P0ZF0OTsuxaymzFxtwbXRiKOu6AbVf7ZD0-8G7V6usi4beYKD7zd5yFNaxVQiyw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJye2IAX80-F8R2ObtjaxqEzU",
+      "name": "Quattro (クアトロ)",
+      "latitude": 36.5595413,
+      "longitude": 136.6528929,
+      "address": "Kanazawa, Katamachi, 1 Chome−5−8 シャトービル BF",
+      "rating": 3.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2da58iqg8uV8nY2E0m7tJMaLNKelbuKHmsMfBRNvY9kfuBfiLeCLWikMUzFRZisA8zZOY8VWz0HHijmEqq8cFG5PgGMTwcVvDjX8MNNM7f2eyTAvJrabKWBp3BvJMJwqtL6M6p9L6BuEeBbr3iLPgSnMa9UU-wyBFJUD2gSQPeARnjV9u2NhBis90DEWriOoMFoaWtajbx_VlDyOF-rRiCo_C-54SwoJjXvzAfiPyyr4XjQy7NaqBHJD6lWBk9wYekJw80SzAqN27a1DsgOk9bKROEt4cCRb7CdLkOP-OXJtfrudHE2OftNq-nZcq6ugjbk5gwzgWzaMVRaLxaSvGc-jfeuXCwPGSuoa2dfpKm_nmR1fQdT6OxNV4oojaN-1u4hTx847O2JogteoFbTiUhGXOi_WnpYG79jWHQlLMhvdd1CNnxO8yFC-iQkxGyXn4mD6JzTXmlYLudotxtdP8mkxoEZOAIvkf6KNl2lH7vcM7dmUGAofRBB-aqkNo2c5DdHEHyjHmgnoDKnLXs4Lsvj2mlmDLwN4iexTAY-YpMCeEXSDvv9TgDqWR6KncG0G5lNhnO-&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJI0fvln40-F8RFlBo6FFOKE8",
+      "name": "Pilsen bar",
+      "latitude": 36.5586181,
+      "longitude": 136.6518183,
+      "address": "1 Chome-9-21 Katamachi, Kanazawa",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dWVC7bNOdRHZFmJdMpPU4WBJx4tHDx2KxneWVteX0YJnYI5Et11eHawResEy7ZNxmiy7HDQeVrg9uo3ustzITMcik1aE9URE37y-dr0vTORIb4dGSqSEBWlxI7g2QwsI9gUaPR7pKQpOJ7iQyp7iuIogcuUBTLU4_F861Gk0h2FT0ulVE4lXZugNgeEfa7EqqGiixQml1S5fj6ep30pIrgWne64xo95bchQ8kQk7y-YZy0WMMFCjqaOpVzMwwPtBJ67rVQZoTGmyAiCvDQWsNZeNDD4joek-otIgLAI3m9I-meOos&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJgfLyf3o1-F8RNbdL0ZPc1m4",
+      "name": "CRAFEAT",
+      "latitude": 36.5617982,
+      "longitude": 136.6516114,
+      "address": "5-2 Kiguramachi, Kanazawa",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dq9EYz7vVuAG2XpOhjoFKK2Ncuuez0YAhK2wfjEn6uxB8f5xRo71z3biETS50EpUEKFzlOYcHhQeoS-cX_xiP0WFER7BCuXcRjzxKckcjQ5Hus9aYWuti_ZxN-rO36IjUNRObuZ74bl7s9P99avE3q0W1dfVoCzRluORUJa9PK29OyDVAvMn4Q2p9EG729scr3lMACuNETl-HnCS-y14WZ11ay137lt21FIBV8pKpguJSTsuUZ9-fWUdS3x7-eEOks73VeX19jM7D_DAuGZXQNG6rG68mEAvFbcxqyzHUjZMwHBiQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJI86of8_N-V8RGU5stDHyqSE",
+      "name": "calcolo（カルコロ）",
+      "latitude": 36.6037338,
+      "longitude": 136.6184471,
+      "address": "2 Chome-70 Tomizu, Kanazawa",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fFqi9GNwbpVk3f4jkXhQh75At8abA6WhgkuAKt2TcNiozlkd3nheE73nO53iQnDdAXfvHUOnMED3QXykWPVt6ERxCjxggLjWFRtOpzkDu7UrUkzXgkKpVwMQD7qtz94lsI4WjhoSY0Ry8QuT-mCZn0Pc0c2_bLNQEY_RFSbOpPshk9eBheAyDOWqgTUXnylccIKIttzA9meQOy27AwZwp_a2oN1oQWNbQbdzrpKtzHVtlV5euYKFE613cG6_--NdKyrSul7jnXrW34sQrsSTdXmMSZw2yFHLB13hmmVGAvhis1pp0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJa-gEGUgz-F8RWT73gYWRVCU",
+      "name": "Latteria3",
+      "latitude": 36.5745064,
+      "longitude": 136.6508947,
+      "address": "2 Chome-1-12 Honmachi, Kanazawa",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fQsyX7r2lNXuDFgkq8WjpSOke-z0EIiIGTHBGb2nCQJxGPHbcOslh1HeYolS6fFBGdzdYJAo0CFLCk-z9SRK3FmMjQUCyY3-m6DiOcXKNXLag0gRuGniosH3EB3-yLrlDnC9Ihg3dyjPXMcp2iwnpdYBEU7jRg1pMLkwWIysFCqHFWb2Rjwe58581zpOys_hJAr8tnokx8ZYvxBfeFSa9joUz5pbDqSTtWLFYjdP1f2HdfjIHgImTmAioCKbv-9lUCGcstZpWs2tEiVkG-o8YM7oH8joqdwOjGSCcKzhzBdvC9eiI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:49.609Z",
+  "count": 19
+}

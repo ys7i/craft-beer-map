@@ -1,0 +1,378 @@
+{
+  "prefecture": "神奈川県",
+  "prefectureCode": "kanagawa",
+  "center": {
+    "lat": 35.4478,
+    "lng": 139.6425
+  },
+  "restaurants": [
+    {
+      "id": "ChIJv8NaehFcGGARjCgFyt5TIJw",
+      "name": "Craft Beer x Mex-Italian CRAFTSMAN Yokohama",
+      "latitude": 35.4681549,
+      "longitude": 139.6229153,
+      "address": "Yokohama, Kanagawa Ward, Tsuruyacho, 2 Chome−16−4 エフテムビル 2F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d0DiP7od4pWk8HUDByJCvqWVRCepXUoiDvBdsO1cyWEAJiG3VbAWZqZDccWs9cut9u8ZF3iqwgdewO8t04xEUtf9EsWL1M-nUgGyeB_2GyK3Rhmct4Fb59GPaVo5I4IC-Fl-GjNaEyiF_xFGebU24qkZukPxQawLSFU0Jq-O1bXVsINLgq8tEZ-o8EKLROjf58pKaBopJIjlcy1oQ7oeOsRYfVqHQVdhHk6x4j71EmadoBGMbADmsuZkfsTrc3wpSC_xoqb_WCt2r6ptvqVW-0PVJCADWXgiurKZ6NQ43pRUOgMio&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJX2ghWfRcGGARppvm5lOyk2g",
+      "name": "Yokohama Bay Brewing Kannai",
+      "latitude": 35.4455797,
+      "longitude": 139.63264,
+      "address": "Yokohama, Naka Ward, Fukutomicho, Higashidori−２−15 1F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eAhS3mwnnmSP4tUcARRI9kler5bH2H4hayO9_a0Jl-JgzNRZxLFbNf7-3Uo3LirpvnJnmlWR1NMLyw2S4Ggh3RrsAQJ0UX4__BVRBRfM1VzDt-LoXN9M-VqRt1cr9IzBFLjUsklBw8fLTAhWBlBCq4gajOQppxVZrEgLQQn3ppoDUDiCUtuvNmG9fbtyGd__8GEkf5d4gcl_dHrmvR9gppMVvjdzhRHIbTmaXOqfUsXp1e1EkoPocBFz7r3IqGDJQp7vSwpgMwqQpthyjAAW1H6r7f_W9uiyTonnh3azOcn3hy8LA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ2ds0isVdGGARQ4d630wfE4Y",
+      "name": "Revo Brewing",
+      "latitude": 35.4519699,
+      "longitude": 139.6380326,
+      "address": "Yokohama, Naka Ward, Kaigandori, 5 Chome−25-3 アパホテル＆リゾート 横浜ベイタワー１F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eYMyHaKEBTPVopvI7yXKcaJaiUCyunALUVaYB9ReJJaoy5BKmYHOqSQtRTgD0WyyuBjZasSbNpt0metdraVYEvoa90tRM4ehol_qtBnllXxMOhhFGbR_GpiK_0ucl-_AkukhvoIDpl4Unh0cvGlLHhoF25Ac44heowqU-ZCh1cj1Q17Vnn8JGBgsOS-CWC9_jSwIe7uQyWymI9i1qlIP4CWIs0PpK6T4DQU4v2Xnui1OqLhfuwmOQQ_WjRIsTMSAajKE5AK801czUMfghYiEozy292xMWa0FLuVF8M-RhvyVXvIkk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQ4ERJr1gGGARQGqV_tSJTjE",
+      "name": "Great German Cook Kawasaki",
+      "latitude": 35.5296765,
+      "longitude": 139.7019469,
+      "address": "Kawasaki, Kawasaki Ward, Higashidacho, 5-1 １階",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fADAVgv_c4yFMetzZmwgWUqMRpTd0_Fg4Pp9cp1_mcpeHp5NCIqCoju5R7q5X-5z4F5_6KF_Et0B97KcSZ7M0D4qd8YtLY7FaHqnrERtVQ-Fq0aM1zxu3Z9_qvy6ALJpYb6rk6o8-dGTcUw7oFmEggGkXV7SBVdKmvOMHhiY8dfmHC_UpPxnf1khwZB4wc38kt5OaM6fYA9cY9AJWSlUeLVIXOQgk4WGek3WIn2_yVzWR05CEjYFsoeai1pUixZ3HzTuXXbACKCWbf-kC599Fo7PNIOkO6bbKLAVlKKkl7meabrh8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJNaEW_XddGGARYy9HSOROuBA",
+      "name": "Libushi Bashamichi",
+      "latitude": 35.4505785,
+      "longitude": 139.6362555,
+      "address": "Yokohama, Naka Ward, Kitanakadori, 5 Chome−57−2 KITANAKA BRICK&WHITE South 1F",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d0cPvurVAjY7Vpa085vpe37-d19POozEOBTYH8pEbcULiDHeYhEUFDe8ocFBAsxE1tTgynczpsXyaV4xuDbs5UjoTpGQ6q1L2-8Ay4rspI9B5CEfJS9h6nC22fRylfVyZa4Lqxtn6CnNGJ-9CFq7b69cRolnkcF8xzTeBYtfvZAxcGkdRwAn7pAR2GtMNGcTU1TTnTTyi_4mSkwcGfZfTVrjJB2GO-1dg4c2CPeB1bAAV4fRCdHmEfXcjYp_j91sMObKaiuotVMkQlhZXF5rwbQRo7IZ-vuwGGhxWpuDtUWO0VL0bpmWNuE0EQcYW8DmSfg13N6pSs5dIj3hRKDKXZfS56xoSgfC20vAEVxoqJhiaplO1_YCIaoN5DYFuJyjrrqbOqDuIjcZcyVtYXNUPZtFjOQFK9YWgnQA9Kwwqe-iWYAQgmIiDsdqAoOrCP5Js1IiIX4mXfK_D0GqqYC52DmZKpKowmo1BOIygANzyGXThtzye3-nsrXKpTNZ_gH9FkXZ_HrKtZ_p0UKvazJDkzLxMUqq06hsf13g6hJPL_D6b6NYQE1GQKHd0_NzofvuCGKYX922PGZw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJS3a8TaBgGGAR4rqyXzKuSI0",
+      "name": "TKBrewing",
+      "latitude": 35.5265484,
+      "longitude": 139.6934194,
+      "address": "Kawasaki, Kawasaki Ward, Nisshincho, 3−4 unicoA1F, 川崎",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2feiwQp-RwXmmORcMR1uKDvLW5lndns0THxj5OcbbQxadpYUP5o-O8KwCEEW3kMyyOHF7sa5O846JKkOrgvX_3nq8ew7V1iGM6dQcirmgMDrBKiUJDiEvIXthKC_vJw3rbpkHobdexGMTTIuzgfENJFYvypik1F2L8z8p1-tGbZGJ_MWQwCe3lOUF3skxDXeLulY1W9HYapzheMAkY9VxDej_1_lkjqsN9yyDom0C0btqarXRz7UhGpuzNT2ikjlsI3RIAphCmbolYQLDj6Nkq_B9a-4WMmdoiDv7CXPdruBQfbC1Ob2R95ELUpoxDvj9msQm2AMHwUTUBFkhDo45PZpE7VDnErAelz6OdsDkH-R2VwTjDTgOkkCHumKS20PGOUisQEBo3Oqn6QENzmddKUkDqiC-SIx7ZgakK43kifMnvm1AhS2VOfgQOODSaTRHo3baZ-27tjyKQOMUdI2Qb801dRkFXs4PQdfKfHp_WPZ4tYihACz7oMHywF65jXsddEP-_r7AX3klEaMfZJWj1sp8En3PUa2TFgRjOoe2ymLkc9VNROB5Y4vqZpthrNQjrDm2vSIrw48A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJP7kKvwFdGGARJq-c1fyvTis",
+      "name": "Antenna America Yokohama",
+      "latitude": 35.4641145,
+      "longitude": 139.6200617,
+      "address": "Yokohama, Nishi Ward, Minamisaiwai, 1 Chome−5−1 新相鉄ビル（ジョイナス・ﾌｰﾄﾞｱﾝﾄﾞﾀｲﾑｲｾﾀﾝ内） B1F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c8Th-32zuv3v3xKF0Bj75ySauEmsZ2niK5gf-hEapYOZBiTeCcNirO7DQKvK81JmcXbMfvHitZkY6KAEcEaMevAJTTYoCFc05U6mwl2h0ub81IlBGmsBwjxq4mlxDx2KuFuYn3E2JtTyMOqX6tZBg8VrTHTtiKQcHLKd1yr4aB8fK3nBqQYF5zmWDDF8WIM0jfPsf2CVAg-xAIk7y_87cFmqWC7NzA_xNBvqkTSY4_QE4Hk_BP642dZBfqjfgw9Se4HvIRNslwuM-PKRaDZqP_Ca9jCGwuOwB6rshZX0faV4YByb1NY4Qjcq10jbivSQxl5XszxGBTuQz1EhKYFzTNJe51gK5SNLPs6RGuPrJpYjqOHYQYQpKJoIt_M3__o6xTEXFKKYdjGz5IXapB4Q9LbtRBfogk8Jseq5X7jdA3eq3zP8azFeJ7ShTfBvMAT_mwk98tIf7Bv9IjVmTA9q-17MJXEAwvjlFYsG40aLKYPQ0HvJggDjgFB8zMy2cNBqQLB8PyWdLKbNEpAdMvnjPQCSJHrIvNBi1R4Jx8WqsVUAsTx3vQvQKBVoU2OoDBrZ9QtQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ7cnsQrpdGGARXdIvexN8g5o",
+      "name": "CRAFT BEER BAR IBREW YOKOHAMA NISHIGUCHI",
+      "latitude": 35.46309960000001,
+      "longitude": 139.6174892,
+      "address": "Yokohama, Nishi Ward, Minamisaiwai, 2 Chome−9−9 アネックス横浜 1F",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c13Dv18WC4qnyYBIWYFgxYISK7Sbfmii7dL_ME6LXg4qipM4Fh0cxwCTJsBkrAslxHojvdm6Bzvo7dmzhv0MAVa7oA4WfWGK5fMCUOmIoa77c6_lt-ViAKB_ELPUGV6YB7Z31as2MaOtpqLfMJQAd5bqpHW8JxCPx03LNs6yqS_9XTqb-YdqDlLCEbBCv4TvUGOGbyEm7JDLrAWeTBXEIjNwiG3EJbLSCogsEEeEPUaoPrXuGAJ3oe-riOPM1dJnbU97APc1c5VZbjeRg9V4N9F1lCXTG7ZXZW1w249StO7rQJnFw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJHTvEYfVcGGARYkTlZYnGdBQ",
+      "name": "Sakura Taps -Craft Beer & Coffee-",
+      "latitude": 35.4455559,
+      "longitude": 139.632627,
+      "address": "Yokohama, Naka Ward, Fukutomicho, Higashidori−2-15 2F",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f3Zr84jxyNPkXA9Gn0P1OAG5pWuXvjZAZC-LLeHJ8dGEqAT_KkpvHtKSXsOl0o4TQ-sn0KW-_kpLYArIWjKpfpV2swDZ1pazkJDbETNg5_xA-Du4iEMocyOi1gZCEpuSFdUrssMRq6bKOvrR-myWzXCnY_MYJmcttdvUutSgkaBsjxMaQF64ShdH5MB0fWtWDBffw-tyLwc1iSq7cWgCMNLLyDj93mzCvMkwxBv0ALtGqF9rE7ApGzAOOi_le-rDg1v7Zqlp057zR_oZszxZzamtfUmcqgS5Gm1QSLnj1on8dLYlI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJyxn8_WdgGGARL-j0cLcs0qI",
+      "name": "Craft beer shop Gokuraku",
+      "latitude": 35.5628583,
+      "longitude": 139.7112415,
+      "address": "Ota City, Nishikamata, 7 Chome−41−8 エクセルピア西蒲田 2f",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e5lMvU8k8kaoaA65Q_Up1z7E1O_I-_qA9V3O3V11TjOvd5XXoG7K01nxT_D7-fcJhti7pphmb8Qr-DqH_zLOmicj7v2c0ZzT3-ED8Pcge4LM69doujvWt3Tv4ojDrGLTzvOjx1B3Z1cQs36ZHm69VbPlRCXvQgPkTay3brWHKKtsPoHKA8J499Hp5XUyFN5xOqy1NMcuEpjBnXfBaiPiM8Vuts-QqOGm3Dt514fPk1MLVkhGMclTcBXq8blEq07Eo5T-doG-oGsPmNknzhfgrngSN1mgc5Ubax0GX3mMRJNQadKLY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJLwjkF79PGGARQiIkvTHo7UE",
+      "name": "Beer Maison",
+      "latitude": 35.3367177,
+      "longitude": 139.4885215,
+      "address": "Fujisawa, Kugenumaishigami, 1 Chome−3−13 マルミビル 2階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fU84Lmn5c7DYqmPpHAZxILqFFoakFuTrjPMkEB_cCrJ7sC0YeXk08qEcL7IH2eqlSmx-o5yU8GSvYbT1PVQMgvaoAne8KtatwXAkYIsQgV38G9uVGtfyYXOwHtqhLl6-3GQG8a6rEZYtZqYGZD4t4AnNToveoUrYH9yyRknOBq5h9OwaNhCKSmGBW6ZFYwaDWuNXgfPgWUpDEzIqag8iG3PdoJrmkL2vQbficaDXAOhRZD1SrEUG2zx_NhqzgklbyR1Ki1iI4dPtuvc5sqUmxrg9OYzwY915xLppYOrLiIcSg0Z1A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVSEvVzxfGGARwSVUvY186lw",
+      "name": "クラフトビアバー Hakuraku Mökki-ハクラクモッキ-",
+      "latitude": 35.4878994,
+      "longitude": 139.6262235,
+      "address": "1 Chome-10-11 Rokukakubashi, Kanagawa Ward, Yokohama",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d_pZTmPes8dJ-UkZFQasE8o4NdRdTl1YFRyjxY5WY7htWazLPnmj4Qxj5QvkGDISWM90xwcDhajgn247JYtaq1Wgg8XYQiYCx81xvtfk_Mx9OoAPvSiTdzrpDW0HcUIL5AaEJA-CXG89iMnwvv1LM-z_ESle5fDzTGN2Fk0gpdHAArR5zbeJsKhdDIFcvLeZfExiclKyZ_CeYhnlR-Yv9WuZ0z8nhgrNq8__zhqOBPEnzDsYvavfOyG0knYL4Zq2WVIvuCCVTML0ToCopOmlKfyGfbiYQl469MdHv8T3bWvfSM4C4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJboyufxcGGARVQXOyLiGQLc",
+      "name": "LIVING CRAFT BEER BAR",
+      "latitude": 35.4458153,
+      "longitude": 139.6463098,
+      "address": "Yokohama, Naka Ward, Yamashitacho, 24−7 シティコート山下公園 1階",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2erPoL6ZSD4oAjf3notinpumnT729RdVhxgq6oEtN4dAMCbVy2X0U0LPwR6vLM_N7OBilYFcIYEizKiNo_XgnnViUE6hLnAFYY8pZZJmrxPNGD7qdU0LvlFZ0raWyoNbOS3g40BA6uMf77AvYsNKETSY62-KzU5fZfO8M4V_RxTWPijtJFgiDGwQ4eb2frftbUSIxeX54oB4-uKEUMAVqr2GeEFy71HoOHdo2LuueHyZ_dxpfhIOH1YoNEcEuWvKy5JlzLJgcmw-9wgXf4P_Mj6-8l3ln8uzxVS1JOyqvljVlOR390c8Px45oUCFS5Wxyth6WuXEcghoeZMVttKsj002AQtfbv0_QpuodofUNr9bb8HlmtdA6nyJ4E5gI5l4kngcjAAWLcxLcXrzO5GcYBgeCz9J6O8iTk92aaJqpiM6llf79RhOvMcV62DhH7m7FecCfkRRFZ3ZR-rQDVZycWR1T5QYLC2IhsmVJXHDznNdLxRpc679e_QsjzGLgGMTTwSyjGNMcKFX6LcBmheDN_36-KCf7wakQaUEpXMQSyx-2Ji-TSQgw0eQewWck3xshOGvw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJZYRetMNFGGARS9zEHlzNT5k",
+      "name": "Neighbors",
+      "latitude": 35.317943,
+      "longitude": 139.5510911,
+      "address": "1 Chome-4-24 Komachi, Kamakura",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cp3Ho3pDElo15Px9RJ_UvCzSaT_jOnTdHKNCwb-_l-da6FDcYy8jLxO5pcbH-4ASi8kf8irSgKBWPrJ-SHgIYJQLXWmuLUM_G1g7g-ET8C11qU5EmaUnKsA_QZ8Dus24sGL6uVRo5ZefxdKqgaBSbF1TrAtGXTl-r5La7UVPRjeBlKPySroOE8OT7jI21biOEcJFRrFvqDgXWlmYHNtfSj0LqASbjud2nJ-_jQS9Ee9V604X7dtRJ7XPa3WeDJNKHtncbtNh-Z-7UmYN3JOO9HldT0n7DnswV4xgvmcLF2hHBIkxMgJ75NmVaAAgz0YiG7v-R4QD5Vb0DoOTEtH1dpYV-BiW2AamcH1iONYgcQGZJPyUMYdswjnYPIEpNMuub4Q5MAY7v53tM4I98Qw2YgCfCpseI7Hb9ixQ4BwZuHKSctrO2i2kPn1QFxI_ol__W8nGpbhjtHtTK7Rg3KoNj7UV6I2Izk7WWx-O_nv9zxa_mtrfQzfmGG0JihPZFL15ffwsNcfMNXxX6iBe2N5pSevimClM3SQh4fULjMuKyFXshAxPnqw3mGa8wNMPZ6Abf9A176Yfw8jd5eZ32ucNQ5JqA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq6rdA_VcGGAR4oqqYxHZPAQ",
+      "name": "254BeeR & Restaurant",
+      "latitude": 35.4890021,
+      "longitude": 139.6279575,
+      "address": "Yokohama, Kanagawa Ward, Hakuraku, 100-25 サーカス白楽 A棟1階",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cLCvxcckNDl197P5KtTzsyl3yLqEbkqP0WnNOf6uDnAPtWhao9UYhDCnKPavaM7CeRUwdd3S0l3hLMIrH15jMNuuazKbSudJjBDbE4Ta3skMd6tznu-VMrGKhxpYQWFi_4SrNTodPFsabSYJR1sm4-IZqynfkoYTE57mL4Tb7f5j101Gz37Y5Mc06zFEkj10I1o3Y6Ei0ExgK6EX6VW-OIwqE8TohopzwtxF_q94Mh54Obf682m2pvnaWoTRi-krmRkn28Yq-dLOSGAkFwfbjTSKm_NHMqg3KBqrsw5TtrTgoh&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ68VE_Tf1GGARfzL2K3bb35A",
+      "name": "鍵屋醸造所 CAGHIYA TAP ROOM 武蔵中原店",
+      "latitude": 35.5811891,
+      "longitude": 139.6457893,
+      "address": "Kawasaki, Nakahara Ward, Kamikodanaka, 6 Chome−27−11 小泉ビル",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dN2ZCHF_mP_dOR0b8HUkWPtY0ryUw-dA0O9MEKRV7u5zmsjgGjVIN5TxBRLVshCGPnJU4ldVZor4B35IuFxfnLV1aFpq8ecc5E4Q8otzNXNTzF9KUReYrVnp4G6JMbbRw1qMLCKuMWA5e-Va5Y27m5-WTnmVocw3JVUXZ67QmfQUGMA0Nk_es7s3EduRtGKv5dZrcZ-RVivLK0zTRz_lDvW6xl3zrTmJ5sCtb06uhKEUYb-7bBfb7AZjEyGEj5zihJ1RBcKCRCukLagHVjIRVcxxoNaTUYUI31sxJGj9QeK1cAigQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ64NDDudfGGARV0IULs2SPlc",
+      "name": "Craftbeer Sloth House / スロースハウス",
+      "latitude": 35.5315059,
+      "longitude": 139.6350701,
+      "address": "Yokohama, Kohoku Ward, Tarumachi, 2 Chome−1−20 1階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ddydHZLpkjidgT0xI6yQzB1nXZa8ffYSmYa8vXufk4TSTSeEwSSimNqXZBc0WmIpHBXYUus4Brk7u3T6fYRuKA0pM3SNFV8r4iU31YKsdWnL6sLYdOohNIbAhSuRMnTYOdUeAJ9ap9Ub5d6NgR_M9FrvZKYwtmWNmQPopqNwxySh3kR71tbDfT9Wylmp9deFrTrjXt9mn6sMVT5Mxee1Ky0FqsUrPOlofhqvTH-XLfJl2oxLME9DzGll_wbza1Fb7_PHLeuDd1I7D7jXpALNy8Cyz-jOWGf9yCDQMo4SZwr1c_oydK04XZjeqCahDzoClViZS7mwo_Sdel8ZBkapm7LOX_GI9aRsr0Ef73XFJHoYkmoiZkYzUtu9PI_ETEsFFqgAMZSIF6yFJdxOv_pfOOH8uC1tAAGvWvQS2T5kd_6WoMUgsDx3kETs0kXmaavBuY_axe96xIo4IVHPt_-cAK4KGeQfQhMZHjo5Q67hCxD9OJ_NPltJGOcPC9IUTMc3ReMAa6ggO2yfeTpAPCdUtrOFgrjP5Gt01igMXOEol2sRXDARBQyjj5aXykWt_-TL6q9Ky_&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJyQ92nItdGGARhEu3HiBsWXY",
+      "name": "800°DEGREES CRAFT BREW STAND",
+      "latitude": 35.4671442,
+      "longitude": 139.6230141,
+      "address": "Yokohama, Nishi Ward, Minamisaiwai, 1 Chome−1−1 NEWoMan YOKOHAMA 6F",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eMIQ9U9UOiCJCw57c_x4N-ByBmNQU5KaFfKBlePSq0s5sXal676tvy-qX5XkK0cSA6OM4UQJEyfW0AlK61PKM-naWM9Z4R3tPpmT8kNbqmHC9nRFJP5Bp79NvIWorKZ8lFoGplkqZ5vtdTUKKPP8YxZxKss8YMRVz0Gzngs0rM6IMsabQdBCIH_AEAZJSxdM0KDAb2snba4t16nejDmh7TFPnMvkwsb-Z2MwaZ4RAZE9qUjtkDmUMgwxHVdTo2DWK2iBq66TXVMl7FCLj93ejbeNRxKpEOBjQOPj65q_j5qYq8LCtiOINnULDn6pC5vueQR-flBxKZnxYM_eGuachFBwJ5E6Toc-aXJ2SX35X5iZBUSlC40IAY_urpe-yf8SJHj3FNZyY1O40M-ewaqccxntAEDrFVBDRSynes1ZiRrY-OZ5JNEvmRYY5IhjHDt9WEwQdrHzgFXtCGgMozUMFMLHJeH55k-YyIDK4DJP5-fwg5thjiAfz60Ad4GIMEWq4SRGNHuuGrcTs5CrslkPKi8y2Gwbc5uaw1FVvNLrBxU_3EcqdeilkKhtjRlLEiafNjp3ad&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJNxUmWU9dGGARzcJ1v0Z8IBA",
+      "name": "Craft beer kitchen 心の月",
+      "latitude": 35.4461428,
+      "longitude": 139.6281119,
+      "address": "Yokohama, Naka Ward, Miyagawacho, 2 Chome−57 LRビル 2F",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cqkPSfmCdNzyqvsEG2QL-6IPsJYOP_E9hpGxqWD1Cp5A6epv9cbaCDCnR6YuEI5X-0d22QiFuvyoep9nnqHYbw_eq80l3CB9e3bZlL61fuAoA_qfoGL_WEYILXt9ooDBtFQnWxeIIJJGvAmkDEHL1r0tyIlc04nFdWstNtLyqfChUGuPP2oJY9D2puGR3BFOlGIMY6RdNjkXFAMOaRHub-CAYPiTauMkpN7_bmOCpwNPO2SP-e036vkn559t2fardrFrZCMiv_S5ZFW_Ycj5qz97PTNaEH054HJwPg43un_h5tPbKyb4Q9_fLQrZbOvuFuNEWg2czvjg5ta0N9a9SJvOmNWBy00gmAxsegXzpccFfC1ETJ_jMeX88ImNiXfMVObvf2TrWMEN6M5MGPNFAqBIPGiTOWkdDiiB4dWldYJIuo1A9ugwHWuXOmXYRUBVUvrLrfsiZRJA1QE44K8cB9vqIUmqjISKuQJcC48z0zgteVJ6zIofYN2ExAvNCud9ldA1vMb5EJM5h0_M3z3nNLRM4HCSOXpqSPzSOY3tBB6HupHcYI5rCt9t9ZV3M-7l4b3lO_&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJO6T73MpPGGAR2D7CoolJsQY",
+      "name": "MOKICHI CRAFT BEER",
+      "latitude": 35.3371898,
+      "longitude": 139.4884163,
+      "address": "Fujisawa, Minamifujisawa, 20−19 第2ハルミビル 1F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fLrrw5NL0jSGQZMHd0f9ElGdFyIPnbxfVvvvT3WdNJtBZ9KSfwKaYnprZ4wJclf1BxajonQ0-gTJYaY2hnDZah_knkmN3Vhmgieqay8XUycsQN2lWQ4Qrxx2Qreda-rCYm2ND-zYjox6NnsOYMC6SVVE2WgfGAJOrp_y4grBkoQbbZR1-NeEl0Vj5-9rUT9G8kb9K2N-nUXAGkfStXoSKYeBuerYuOb17IMtPSf4ihQwRXpDs8C-ZfDUkZWtyx8jNfocmrlC--H_gkPcafm0nnMOwghcR7vb6N3TskS7c7V1to8yLhs31YqCtTnJym9Bw6hm2_YRcsiTY-KoSo9dcUsDF6sbcIVheQrki1zk3Ez7QXcsEUX2SqiRwozJxepZwNn5CeLG-4bgD3OKBpSRzPGCc_JFenr8hbniHF_SWQrXpX1Nroekrl6XmpM7S1j2EPlVf9QkmjgZ21LzSWUSqbawKiPzp5246adDF68KJYZ1bHQCaIRqiUVpsYpUhhjKHqv9DCdO-zPXSqUzvPcVyM99oXUYahkMYs3HRCdhry0CAHKIuxXbFvlbum4Qp64qAQBAieyZ5gpQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJbcXVRGdFGGAR3xcGNc-I4LY",
+      "name": "BEER HOUSE 福舎",
+      "latitude": 35.3532556,
+      "longitude": 139.5339165,
+      "address": "Kamakura, Ofuna, 1 Chome−24−19 カサハラビル大船Ⅳ B1F 1号",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e2F65glTfKeQ8aQQIlOWKEfvK0b1VBkAKel7dGoGEc3lfzmQcElC5YU5UUegAN-aQijcrOjaf3-90lm7Qqy7kgZXsu364AUlK84PiHlFu96lIaXZ2narppH6Do9KcE73AphP7eVpZTV681qLQ8AMwR9ImMgRIeh6lJRxH-ZdOwKRQ8dP_UlKDcxkVcyz69bvFF652hgRZTAN09NTrQf4kd2aC7JUhjm74JkW_YwinBY4GxiuEBJD6LyET3kbRgguv5l8wwfpO-XgNeGNu6Uj-asoZjCUmveclVrZC3CN0A2ae9y62D8sp57adYdWxLFUbsPKk_EsQwo4Ls-KMXntrAHx7fyWLDZfQ_XAMoEfENQPUSnAluHbtbqhH7L_hUbcmoS2y25UzsDnd8atQjwccBiNZHFdoRIfRNCPJCuQ0DD_gEIRFzck5ScJtn4xylbb8zHAF8Wsq3UyA1tCU5saIzZqVPkSKTku1EGgoVSbb9Ixox5uc4nIj_AiXZaIMCPmUQe_tCX1S3g5UIJRaqUonMIVJjxTiSuunXS2uFYGvzkZCivwuQ-vjgsHt7t3Y9KesmSAud&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJG5RJARFcGGARt3fV96BHkGY",
+      "name": "Thrash Zone",
+      "latitude": 35.4696138,
+      "longitude": 139.6224979,
+      "address": "Yokohama, Kanagawa Ward, Tsuruyacho, 2 Chome−10-7 田村ビル",
+      "rating": 4.3,
+      "priceLevel": 1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cKs_FcRVM2qHYJcIZ9xZtiVvb13NQg5vPvzuzMTeFTJVh8wBsA5JCAig58B3j9V9M8GS41nEeFO8g7Q8i-cSpKWYypKwvb_O3ej5LW9MD1FmHJPXhq45oW7ig5_QffXpFH1fQVCXMgCPGQoUzH1qQyRSk6AfSCl-jGa856S0ewjpOuft_1jDnpPp5y4I_SzzVZNkC2SOPdo29Slxq4PjgM1XdvDozL1MRl5qTfBt5Ws81U9yPykWuoBQZpd1A8EZhKDKFph0lYX9mjIVDrJyVDG7HQb-hjM3MMEzHBJvbVwCPDPN9mfETXNbVHI4sHq81fIRZMOH5FPJvj_B37FJdUpp6EEyWck-RLNgoBDQiN5J794TGgWCNEbIc1jr1AFBpbgsSo_xwI5nHzLwwir9_YwhTBDIpzkam8Qs4DDyNeGTTwReHfFLK9Rvg5d6xXy3ipp1Q-Q3E-T7Ec1aA_atQ2Gb_xoE6HPm8ZDayDRLt0IR5EfjuNSRJrwz_SupeV_0IIeAl5Rb3u3sm9yDhw5J2fFQslGGTdsQFbr_1yPv7ljgH0fdbKTzZXq9T34fVgS8LsJh1dpfIIxA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJd9QPjXtFGGARIHXdj2pMT8w",
+      "name": "EGE CRAFT BEER HOUSE & TURKISH FOOD",
+      "latitude": 35.3194004,
+      "longitude": 139.5513948,
+      "address": "Kamakura, Komachi, 1 Chome−5−6 松秀ビル3階",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cQ-LoUkcrXQ8dykgN8E0SHZOltDS-cR6VvAnr4JS_1gKbt8ZaOvgZcXsEWYugH0D12y03L30epvmwTEhDQEA3AIGuczi1syaMrqBcJ7bjLC8Mg1mLEbx5RZN6cr9me5YlnGYcTNJhm3pbRtIdZ8KiEGfHhf8WaM1KNTHed5WrJnrJJSagbopjMPMsgyyw9fUZY9PPVh2AwdE4S-GoOyvpWfk4FduTUBX5jDbngHKkPaAoPvak1NiuS9TrMFa2Hw7FN6OUsQRglIL3XcupKdXuqFuysTr0JoyeLGft4TMYRp7rW&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ873JjRX3GGARJ_LylR4aoVI",
+      "name": "Lamugiya",
+      "latitude": 35.5810508,
+      "longitude": 139.5519381,
+      "address": "Yokohama, Aoba Ward, Utsukushigaoka, 4 Chome−19−1 第３グリーンシティビル",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eTUK9HoHlZVuL8GaP7yueD1AV487HTVEkWs08M45H4hYPvVcALYH7d8Rz77OvaCBfTxfktBA7wyvnWRWAakPcZKCgcbSTTDRQ7IWDWPrw3duQ_2aoBvVE-vI-zh2Nq2-3sOrecfjwzIW4ImoGVf7L9LKsgGusLLnE1WQFy7gUSkBGbVxfKD9USnL2UZmW8l0ReLvbBm4XPX8sm8s6Qsxx1dY-pL5RE5b73ikAve0sGBvqzUGU6O8u6Ju0tit6H_UlMl_sTEoFm7OAT4mAxIym970KvOQrzrsmpCbA8jv6H8bEETqM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJy77ew7xdGGARd4Bkm0mpaH4",
+      "name": "Gather @ Eating House",
+      "latitude": 35.4534282,
+      "longitude": 139.639848,
+      "address": "1, 階, 横浜市中区新港２丁目２−１ 横浜ワールドポーターズ デッキストリート2, 2 Chome-2-1 Shinko, Naka Ward, Yokohama",
+      "rating": 3.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2esuRfXkGIe1KVJR_jBv4_SnbA5cPy3U7Z6ii7Fbd8fnp2BqeR2zQnsaWxhmKFM-HU-u6KnD8MnmyppW_UkR35NFECSjnEoPFGzOTnbjHuSUpraWqBJ-h0jSJ9fxEuGOb6OFSH5spGD6xc4wiaIMOuxQ98B4AsTR7lx1t6tXjWfNUbfna8-tO4HAL1Ms4Pl6zVNQf0y7q9K14chsEMK__6tZ3gi7ZUXsyK5Qq2Z53QbdVctnzu0z9nqWO9u8SG9wGFPScb-g-Dh8850tJFIPR3hjOJ2z8VHiKaetFqxmfZd6T40gn8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJs-_-8fVcGGAR-qOYYYFVpn4",
+      "name": "UMAYA by Yokohama Beer",
+      "latitude": 35.4486315,
+      "longitude": 139.6340913,
+      "address": "Yokohama, Naka Ward, Sumiyoshicho, 6 Chome−６８−1 横浜関内地所ビル 1階・2階",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d3pl4wfQHCPXLwlE1mcKJtSar8IKClU3lFzfKlipPEcvlHaNj5wmZRvAtJMRYhCrPtqee__Lb5YtqIIH32ugO23cByZvoZTVl6IhbGROWgxGxLApC616fs-BkgWUPo2EbmkzwnuaEiGTKKB92TnJ0m1LTMAjkPi76suXYZGgZotbXdkZyKs6IXKE2Qp0rpGJCN4uYSS5MZyPMDJanqnQdS8dytg_WgyLg5XJtNZzn7Q7iRWlowz3AN7dBmG0ibqBNfbKdSE8jhqRimoi3ikf3r-nmO8h9mGPa63myQXkEJsBaswvA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJqVEjVABdGGARkwtbS4YvQgY",
+      "name": "Yokohama Bay Brewing",
+      "latitude": 35.4685595,
+      "longitude": 139.6233415,
+      "address": "Yokohama, Kanagawa Ward, Tsuruyacho, 1 Chome−41 THE YOKOHAMA FRONT 2階",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dpZcW8s-rSFgVUi0kbqDzq7BlSHJe92IXVpm2fbk_akfaLNHK9yUGDL3cd0njeKGzDv48KS3ZyhNMLgliSaO9Qwt2HvQY8x_lezzPqctL5vEeEXP8CraeEpzRd0w1_RX6OUkMAjiU2gTiL9LlxPv5NxKN5ncxM6NxUtfmdgHQBRJ93vtWiWD9Nvgr2x80pPFbYl43cqxLiZXLET_rP3Kfq07poGhgSaVR52nGbExivy7DG1XX-wYoNs0GzMpAv3Mo1cMMFNNljb_eVJuSfqZghM1pRWeBWpUVyqnKmo05-aYoVOu4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJfxhY75hgGGARIygG12A-jGg",
+      "name": "PLATINUM FISH CRAFT BEER BAR atré Kawasaki",
+      "latitude": 35.5318282,
+      "longitude": 139.697809,
+      "address": "Kawasaki, Kawasaki Ward, Ekimae Honcho, ２６−１ アトレ川崎 3階",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fPWhodxbYvPFtnblJ3TwTa4i_q1BCFFsjz9HS8iyFqVK_bBLA8p0Kar8cJvllbzMXKe4FdW0OS31GziBs8SRMEiswwQFas9hKdaCe64gpac3Edm3MpNDKfMzXaS4hq-W0IXVtfCxLyDdCDf7poGuFl7c3UHJhQZBBXFBBK9I6XksaSakTwazL5FJT9LE1rg8GDEi7KQ9MPSKmPXohuUPeXB0UR4vP4JCu5NG03x2FZCglna4y5pbjCw3j6udspD4JKGkDTNwtZID6czUDlilGjLwLzkyVBKbEei11nckEKeyhZ4cA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJWrGevRdGGARkF-X8VVT1dM",
+      "name": "Ergo bibamus",
+      "latitude": 35.4489197,
+      "longitude": 139.6398789,
+      "address": "2 Chome-20 Kitanakadori, Naka Ward, Yokohama",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ecd_Psf2HChdXC2sbNPhJ5NJp1fb1lV-0f-c8or73ootSNjqVZL64GF6xCKCm-c7j1vYnHAurUDyEy_IBVZVYCN_DrYe1rniuAlVNtd6WLr-Q072CvHdsuz-ukBVADESu88ZQDcy392XtoOyEmGziQmjTIJfAifBQg8A8CGVAZunqRRrH-mr7EY9k-1nH1wwgOgm59BUWtYiAcFM5K1O-9hhKD8TFjxFfXr0SxasCXZus5GCuTYocZbtYsD5PDPGgKXNDIoR-OMp0zF8f_mbwo6zRbllQdlRPeBx2I8l7qr0Vg4vU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJk6ORJbldGGARVb6krwiKuSM",
+      "name": "OCTAGON横浜 Extreme BBQ & ビアガーデンテラス",
+      "latitude": 35.447287,
+      "longitude": 139.6307004,
+      "address": "Yokohama, Naka Ward, Nogecho, 1 Chome−４−1 キアラガーデン ８Ｆ",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cGbqWKrGpl6b3at5g5mOGUtpdEfzuDVG_dGZZ_SQIl2j969fAMFBHt9LQYABGzOXDCJz8zJ3lmAmChzNgJ-bq2W4zMZJPLpOTEe3mTmrNS3Vzo-eldUyCr1ASV14Lj7zJqdYZVZlWoxA7UTiv6BuaoudtIf8UBMELf0SVfsrejkA4UR5kmYKaLKqaJXNEfUDhHobvBAaJdPmit0fDQ-l5G2Q33ru7wyb6pL4x_XVktgjJ3P-mQ5JeafRif_xrEdiTXscVVV9zSJ5gsZOm47sisR2q4_9lBpy291xnLYol--oNZSvE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJgwtXDg1cGGAR0ymvVUfN6Jw",
+      "name": "Mid.Ru",
+      "latitude": 35.463022,
+      "longitude": 139.6178935,
+      "address": "Yokohama, Nishi Ward, Minamisaiwai, 2 Chome−5−4 MS254ビル 7F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dKW1NgjMPfTtQybEH9QLV12xnGZGuG6sU8ji5kqyOH0Gj2dBHyviGnPw08zKF1vOr8XCIbLybMiWJLFw3elwsbTDb-pE7C_ZR6fQ75rB_EXl6qn6kkHwKt_htlJDOQv_mqQq5KNFBC1fetaYxuaQApCVrt3z-3vARVfEG1e9BRwDD2iR6Os_-iffZXnufOQqohQlqdub6SqN-4WikPEXFnMUfIhAZAPAIuNCH5YrJevW0TJWgmuAEB0tkxN5VqmImNBlpUF0-z_iIdEp04lpWnv-4MtrQ0Gn7M3VNDXR3KeT3XMAE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ64-5CEddGGAROQmdE3PUu7o",
+      "name": "CRAFT BEER TAP9",
+      "latitude": 35.4663878,
+      "longitude": 139.6219805,
+      "address": "Yokohama, Nishi Ward, Minamisaiwai, 1 Chome−1−1 JR横浜タワー CIAL横浜 B3",
+      "rating": 3.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dvq78gnnmJqa-fRajMO5RAzrGxRKpHAgUrX7DnW93qQiuaEsyIts5WGhWf9bl5Hxqi5Y1GjrGFSJCadheqEGTV6EHaRquCdqHD4KQ2rReMAxZl9q3y0yHoGizUSTH1zPgI8nZDMgDXGD-69Y7NySgQXgyvERNG87bGECo1eWmqZtdg9fO1aHwNmb-6g2M7GSMrGF4dEBwXG-x481hBqnNYcqczO8wN7X83yBFPr6kia1j1WxJ0zv3IATIxfelqgMI_3IAt2LkyWogA73SIxxRWBmdRRhseZOHizpQKvUllYnDBaBwVALpm7jXjnYSnQbkeoNZWFcbswdyfkDCdJe-ET03trSdz7rREqxqk69YwO2H6_c-sqGBVuVMus_Lw2GUXZtz7sfstQ2szWMTF6uF9YJwOZ_uojURGdKCE0AXPCPyRpEBUUhd_vz4WLJSPo9H5uOrziD_CFEcApWTFqZqLgS2NEfwDUksUuIvUyXKFVOCwOegBewlJ9rh66-1uspByAE9QXb475aIbDV25wdXVbqJKb-aiFo4p3FppZ9Kckg6JrGS-AOyCeNfLoweOtNLZvBqq6fsRFr2mJ9uW0bGWs8Ev3g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJtRvld_ZcGGARMBZPPOgP3QM",
+      "name": "Baird’s Bashamichi Taproom",
+      "latitude": 35.4478502,
+      "longitude": 139.635039,
+      "address": "5 Chome-63-1 Sumiyoshicho, Naka Ward, Yokohama",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f9xU_Nzs-B8qSY-USu7BWPGSzWxlDZDLpMFeMY_SZpEBONN7LyUTB_bcDrGXRzMXgTzAKKHKpMbdxDUPDid8ugLYXwrY_iLQVQbmnbAYV6X3BLC4UXSS0djAtQ12SFidbN_WxlLcfgdSeEJEwq7ZIbU381AacA-z_KFCjP0ArH2b-F_OjrX1lmziHJNs5owmQR0Kw5EBjR26tREAU5LQUl8s40JrRvwlHgdfTBkgl2tJiS4fWTt9OGLt7F7p6ZKiCLbmFMHKP4ama-8JXQsOzk9jQ9UeflWSAliISftQ6iFJZbyA_Y5oic-gIPcjGJKg-naRo-HuzG6aVOovMzUKnqCmblFp7Bm9qSxePnK-tLJv3Nf19w5fHSO9z8dyd-5gxxHZcxPRCSUXMxlklyxLz1WbkUyrHnmfzsffy-TdOg4id5wQxiTZG7lpnxRvi3NK0nvoJR-srPMlZNmDIGIrxwbVLJPv04s_WpV6uHfswO6kkIiDRA2Aj6tdSbAvr3ZIJwiHgkewyJ72DJtHsBv8whelcO2wS-FfPVFXuM5rcsutFqblXJmEEZNeGhXoipgMwTsk_XZ7m9wA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJaQh6F0pFGGARQWYEb8ljl8g",
+      "name": "BEER STAND MINATO（ビールスタンド ミナト）",
+      "latitude": 35.35340300000001,
+      "longitude": 139.5324012,
+      "address": "Kamakura, Ofuna, 1 Chome−8−3 天正ビル １Ｆ",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fu19EXiLSXXT_V1jbz95h3hSuVpirCaKQ25o1AcDSStzNgj2-bLkSjZd6hUsZUPYFUVWHdIMDeCQ_3Z5i2VC4IgxMwXo5rp4zie3poV3rW-yF7UWan4mMI2TGGPDxhxEzwbfnzSxoPzXPtei7mqyYTb1iRPUhhugMekPFtXzkMNLNrAJSJtg0CTqjy-FtOmFVYG0-zQmInaaRLOPZAhmvZnyB07l-q-VeZRW6eCuk89g8cLT7qoDluHlCAbBloZ8kvn5pHJQ7OmVcocoRrF97W30Ug_3FijE9gn4EudabQ5jlUr3g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJZ1t9-11dGGAR-fSIrHmthsY",
+      "name": "Smoke&Craftbeer 伊勢佐木けむり",
+      "latitude": 35.4423882,
+      "longitude": 139.6304795,
+      "address": "Yokohama, Isezakichō, 3 Chome−102 第１中川ビル 1F",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f9qDe2a-8m1HaRNDFd4crollS7fhcK0wQDKGmXfVm9xcvrVu4jzgEmEBmAFTEMGks1_PRiXYUlDbQW5mqVrHgdXsf6yWhcMbeB3RrKLZSEm2LGTWubiAZRStU4HvgLltHBRQxbwVPry4dIQ7Ts74yABIS8tSqnU5JBwkvz-KaN-Khm_qJU1VcRQsP1w16hg1JA5D8fMMAioXvZrIeQvb7wcnl5vEATDC8d9g3bTN4M_OhMSRWxdxs01lu1UALaZpZQHqK9I4i3TJIoAzQOLMdv0UMbgV-RiBcBqE6O-IDFHHzSuns&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJifmMrl1cGGAR4FhicaeqcFk",
+      "name": "World of Beer Museum Yokohama",
+      "latitude": 35.4550122,
+      "longitude": 139.63226,
+      "address": "Yokohama, Nishi Ward, Minatomirai, 2 Chome−2−1 ランドマークプラザ ドックヤードガーデン Ｂ２Ｆ",
+      "rating": 3.4,
+      "priceLevel": 3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eVUBJznbLZMy_EwrnSRHYfsyOI95yN5sOdFHZzHHmsIz917wRAmjbxgFtWFO_igvOY07MQgHTyl1NukmlMDaZhZml1qdm_Wx2dJkwHuc3LYMS24rmTE5Kd0txQNwZrjlvfKSyA_dEy8EWNdclo2r4HaV33omqxaHEnCYKGpGJqXQ45AAshDs1SL3PnA3ghQ59XeUHIdoJ9d2TfiEkd-Dimi6YPNoCm7A7qeUwg-C_gfUf8-77YiyFrwfPkm61LFdHA2yxHwKHN2872tPBQZRxJdHNvAgvxx1P6UzX0TNdI3WWpfBk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJGT2HZKlFGGARHCnrSdY5uCg",
+      "name": "NO BEER 大船",
+      "latitude": 35.3520486,
+      "longitude": 139.5325936,
+      "address": "Kamakura, Ofuna, 1 Chome−22−19 三友第２ビル １F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dcpy2-h4ZXCy7jtsIoBeBwilTbagy9Cfot9yE_WTE0XEoWfrqGZ-feOqCHtiO9GyqnlmtM8ZJJ4aOtQtojxubjX1pC_Nsd-DLtovOv-glIXuQge4RFhsj0KexGXoRZDOpDNomP7cDCHOLB1KQTTp02uGoT8hkCaqTFY15i6PZd4HSpXP84-QbSz5f6MxBxBlm9wfgf8tdceImR7dNqnkg3A0dVViuEziCKMoQOip2JdbAy1nShVeBoCg1hZi9vW-d_0XPLQlmZhxTJLZhK1Hehoztzzua9t6wHcLO1SbkNy0P3j53dntCflW5KNeTrD-cj0Qu2QUdEZ1gy5rI3SQPH410pUVNbhUHrxxHUWNwlPHum2B8F_t9jsssO1obb0Zn4dYGxsKmbQcKFDOTRkC8tuOnBU0owG-ktZ_1VsTh9t7kmUXFo_rDUqqHJtHcBY8nzsJmUVKW1uzhpzHgPuhc7XFHK7p4yQwMPj0BYFLfDCGSB61ES4vGguPT-rCs8AG6lKHuQ656TjzUwW3lbRV1P6tGzejsSevSMrvZsYLzWIF6yX-bl_Jc7tJ9zl7xYfWKSssDp-wQbLg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ266zfetdGGARjWqe-dA0ROs",
+      "name": "Tie ONE Beer House",
+      "latitude": 35.4477921,
+      "longitude": 139.6351206,
+      "address": "Yokohama, Naka Ward, Sumiyoshicho, 5 Chome−61−1 Sumigo Building, 2階",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ckDrQQuUbCIK6xUTYfX6q4Qs2_RLbap6HSE38ypszGOMaiINXeYf4esesHK7svkCe0XDNrdRBZxeuGDItHRC1Hhg1nR9mxWuuauDvm8gMu8_J0TMuHdGblT-m50lcYx5zjRGjKDaeN31upS43e4s0pQHSmB5iyDfHNnIO5U7PyRBpj4oPGNK2ZORClgiTl4KkeK7fwxLWycSgIrVoJQsMQoNsS_SXp0xBQu2eo3c1mH32EVcUv0CYtrzpG0PRSZv4C13zI9u3YFvRjTWF8Lo9ek65-r5y0brioHEraqI2BCR5ymPg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:42.063Z",
+  "count": 38
+}

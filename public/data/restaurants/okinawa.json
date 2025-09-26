@@ -1,0 +1,345 @@
+{
+  "prefecture": "沖縄県",
+  "prefectureCode": "okinawa",
+  "center": {
+    "lat": 26.2124,
+    "lng": 127.6792
+  },
+  "restaurants": [
+    {
+      "id": "ChIJNZR6lHpp5TQRMP7E2cb6Rz4",
+      "name": "Craft Beer House Mugi BAKU",
+      "latitude": 26.2144993,
+      "longitude": 127.6812057,
+      "address": "Naha, Kumoji, 3 Chome−9−21 Ud.久茂地 ２１UD久茂地ビル２階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dmay26WdQxoXY5zc9ZQNu5zNu66P5tr_SSmnqScEm1pwaNbZWj_WfR3ikXfolbXp_j8UNO5KVSaonlVKob0R_mGa-BwGnmHajuebrcDMTFGxbqdOVoNhIug3TCV-gBLpetF2GOck0n2AY8FYlDfwmyCR63doqpdfsZjVPdzfJb_0Jt2XFpxwL4Jxf1fd9TBjoTABgZrkvdP9NzaSJKoBR6AwELt3Pf72sO_69Uuyml7ZuIuJPGFhZKN6HdrnuNpSe0VFMPEWeYB0xiys6DrmJGOcPNIMFlzpvUpqchFjt4tCLHPjkCz-jGhr3oV4eOPjdrSINJtVmr0DKyYRYRuU8yndU6ZE79N2cVi53rwhLJgYUwhSFiIFLVC62WbE6ozH8ybHYgF-IoOIqF2gXbh3sy7o82OHqASHA-cbNQS9ZPsvG7pSy_OLwYpWQd6L2gF2fypHnizxIiZ8-ZrY1ce6GUqMXJ_wVivNzXIsqQR_ftfwD2kb4yZr1Bf4Eni5k85W8bBCxlXsX-NgTjDTJPI2mISl5WHPv9nDU2RFZvGcSh_DYyZhkXOZbYDB1BK-pA8_-_iuKz&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-6P75q9r5TQRjWZjYEi0xgs",
+      "name": "Wolfbrau",
+      "latitude": 26.2201597,
+      "longitude": 127.7160125,
+      "address": "34 Shuriikehatacho, Naha",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eFTi7ge6jvOw0C1aRh6PaAl7HUjv4-Lw3DIJyt9AfehAB4vyXzCaySYQgAkv3rXN8GyY55rRJ2OhsiUciGMTPxgipre3FwuOPEuqSsTs_cnH_s-Ufg4gZuVDR4s6CzpG7QKOq36q4SkCB_mQZHvcdhr6eHEdLHWHxwqoxhEaMdeDSPZXrTk9TdbJ_QgItftCmqjYBlzOV2FfJ-1m8xin3via4Ynlja5wrBeweEAoCPwXusNvqkUK7jKA9gY34MG3Izrh_VY_uXWYRcF6F6CGo8-CIp72equRMU2p-T0ZHfS7kDLshMxPwhJaqZL_-uBTgAG0UnsRIxA5KMwy3wjSuZZnFTAb9ahk3_W1iCCdljYI0wNM3izvvZLCq0qKaDCLBl7xzAoUWBIKZ0vau2D1KccJQ6J4wD1TUdHsKjGfxjeZoW_mba4uU6pHAOODbUVryL8z998A7wj2_8hfOQxnA9CT88FOg8_TUdQOqtgwkcWXAfZHH5kod32VkqTtAPyIc-Tw3Z4L6wJvv1RuGhxJiJMWPawqQeXF-tyCdvIVpIW0AN3MjKNPG0a237_q0YL62QwkXk2G3FwQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJMUR8hQoT5TQRj7tgE7bv_pM",
+      "name": "Beer Rize",
+      "latitude": 26.3270336,
+      "longitude": 127.7471625,
+      "address": "Chatan, Miyagi, 1-464 1F",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eXPrH-LdtFcPUkJJQ8OXdZPs58ICHqxEwoKMo1lJTC8K6SEAHeSymxol8DwdtwVTRk_j-oo0PJpYRY64By85qqKWMKDSdmWj2qmucar3dtWdTemdgC1ZtITModBQPbz5h6-GOAJbhjObS0hfv42fDr3TS7XyatWNRSANpQGgifxVVACDcu-BPDlhCStUlZvXX5EJZQ1V73vOQMiemyU6T1hB8d3ky5qOWRLJiokB78sPhrpbqJHOys8RYgv3DHsuSQRQlRBO33t7Hl_vwGA3bVqnCt2nTJ6kV_x17CAuySArUvkdU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJoafcCg4S5TQRG_rKN5ybXiE",
+      "name": "Koza Beer Brewery",
+      "latitude": 26.3368289,
+      "longitude": 127.7993621,
+      "address": "Okinawa, Central, 1 Chome−24−13 当山ビル 2F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c8jNYllV_U0lLAceWIQsvfCjG3auQ6rLUe9VyM11aXL5-frDOdvLAgt9uXQiBa_Sef5XHivDq07fvAN9H-6P3t0i7xQ-X8DheuoEtJg_NSKuSBlhzx-UGpIa7MuHaRNlyi-299tmPwd0axfYFl3oQqQTYlOZuZ9TCAAUiL2gAcPH9kQn9-LOx2e00egPX-WMR5fXTHbgTMUknp6uqGYIW2gWm6ttO5YbzJcn8RykhWToC8L152fotmQeqQ6lKWvS0k5aUpolSNJ3JMMMTghifaaRnYoA8pDumY96mZNZFv4AN91eJaqiROFVHTWokDlZKsuwocL--Fw9VHCYTCbhPxkdeo4Qq55GLHZQvHEZismK68NZt349-UMZjkkSvFuj1gvoDCnSCBpCjvawdZE-RnzcA3CJ3ecOTM8o03-Ct0McKsJP-DEYkkaHyp04p8LEj0QWMZB4EIuyYbwBusD_9nQuW4UwrHyVmiLEeHa4ikjSgUNUq9P5SJ6h1ftxHTpl7BUCsleRUvpmHYmg4L-n8qgTsr4LrANNvvTZBaP55bZIZXp_sxtCtJvx9fXor9aJN-Suf_m1_0ZMeAAiNcU2DWsiCm3g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ92LBTgxt5TQRldvsNlpOOpk",
+      "name": "Agarihama Brewery",
+      "latitude": 26.2094013,
+      "longitude": 127.7639199,
+      "address": "Yonabaru, Agarihama, ２−4",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cL0bs-gHIhDU4-eH9--5tkJh5pCPQH02iW6BiOM0CZU03a5GWHYWD5wlrCowku1diTMijdwhViHAzXpHXhjddbtyvg4eC0Wyg6B-kDzCN_bUanqTzrLjVjkTegJFQf9KUt8xKRxFnRnUqfBYiZ7EBbfLBBGqQBjJhOXysag2mEJFqcv-T2eX55nFfPfJTHwMI5UztRTayu-lzs-s8JYmLqu1eF-xknFrProtnmMdPljda279gt2gyPWMCyJxSfOLnWuQJQex6Yyx2MxFWddOPWeuA3AS0WNO4x00qJJF1sprmaIr4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJs43e5hpp5TQR_ZLpsAh3gbA",
+      "name": "Ukishima Brewing",
+      "latitude": 26.2135948,
+      "longitude": 127.6887833,
+      "address": "Naha, Makishi, 3 Chome−3−1 水上店舗第二街区3F",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fFM57RGu5-EEnf0cD-P10DXMr6D2dpt3vWlyuhKpxYwH9IiPVSQRpfgH380NmJGhfvZ2Feh-UoLOWJKjsTpQ4Uc-iaIV-4EhmD2msJK9lL9tJtspkHp_J5iACJ3UpYIsRTChkBD7i0ur9OpzpNnzbnigFs57wfTsy7Y041MTHT6EjU43AWLBRdBz7hPua-dhszKSgj2BB8jwZZ6ZS0ufepRvZ6P9Fw5FylOVBNr-yxMmH_o5Xch5l9m9--xmPRT6mlOm5rwH_0y8sPS0EFVN1hrg44cn8nf2zqC6RTCPUlRYn7KHkZVw_FlZuWOt3ifQJOdCQgU0rj5WfnfQZ9POgtRjwHOvmM6xeO88iwXExiDArpVDzpbn5Uml4UICS-psn3dk-s2e0gkreRA2ZYvd9GLBy5Ys92HxzfujJOpA5_62uBWKaJxeGGmEhh6hA9FJHlQvT8UtQ0S7YAYZRXrw-s3ZwpNX942Srepi7rbtWgrpbd4-rBKN-CLCEO0gQ-gJotKdJN9UAF7af6Tk0_Q-uOOFOkxJtGeVEhVEVGpiniMULV7OXoGu0-JIstGol2JwWBZ-Od25XxevRdBOxLLXlg7Y4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJTx1tFl1p5TQRPL_fHEfr2IQ",
+      "name": "MAHOWBREW",
+      "latitude": 26.2125161,
+      "longitude": 127.6937726,
+      "address": "2 Chome-4-3 Tsuboya, Naha",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c_IU8m4Xzy7RvzSrSNzXKT2rVwhdwFHti2bok2DCh8BA-XtuAd2IvnIf-Heogry4Z6h4uf4-CtK_uOH4lnLCjTPme4_JP0GhoUCRzvCQV6kz7LJJTYHVkn0SCW9xOR8YOOFr77NUiCXpN8QLlS1-Am5Nd9zWWd2rLCkxcaykk6RkwRCa-yDgIOX_EGy2P_wJ8VB9Gh9Dyovyxf4iUe9o4cn0nhoPF25DsQcbg3BbxVZTlQ7AN4VHoYC3ks1a9IJ2VomfcJt9SHgw7i25RCj8fNe85r6FVKwwX3OSFK5LlllUFaTa0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJm51UlXBp5TQRmR_q_y8_wBw",
+      "name": "BEER THE CORNER",
+      "latitude": 26.2142861,
+      "longitude": 127.6861125,
+      "address": "Naha, Matsuo, 2 Chome−5−27 2階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fNHvEb1Vz3M8f94EycXhnjoHAauB82UKkbSSuuUgrPIn0WJwZgJ6FiRVaSXu_HcKw7J_poJVjScL2qts-bzzoipsZjRZ_heexzuI64Kqo2KVTh8pIZk6MwIm0F147KCS8ogAGy_2aMe-KFPDZTouHKm6mBnuOJ1H7HgNDtFBYn4mLsJlnIkXtx0ICk4eqg8qMJYDy4Mhof0N6HVLH3tcAkAUNhwjf4CJ1L0DjM2ETPzARQfvEVnPdFhRjtEk0KqONl6ahgLUl7fYP_RPaRHAbeQBLRMCe-mHZHbK1NpJ77McuoGPo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJd1PJsFBp5TQRbDYQUXvuIjs",
+      "name": "MIL COMIDAS",
+      "latitude": 26.216694,
+      "longitude": 127.6833632,
+      "address": "Naha, Makishi, 1 Chome−9−13 セリーヌ 一銀 1F",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d-euOiqKE8TxLrekZLLDFqRVHeSe0mckJGFqohK6BroyteeU7ShNFM68_vVD73BLh0jM1FeOMx6rVJ4-te_oNU8PdaDhevYtOFyFXF-A1x8gq5cO0_p-UZ8AP3rKufg0lmWbPl5KSGYEXxd6RGlgCa1GQ1EQtAnOSDRnpu4EkGHfzuGee11ox8HdEiyuZpZqwc3r49Go_DaRZcGTZ1qVTbZLvo4FltR4fJqWtktycfcle-rxhOSofIbhpKKOUIpCbhQ30Vfc0Ysrp2cr0djf52NUI2mQZ3KiyLBpR4hIE7BN3ciIc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJs4hxDwBp5TQRYQmU2y6iJFs",
+      "name": "THE ORION BEER DINING",
+      "latitude": 26.2182608,
+      "longitude": 127.6936332,
+      "address": "1 Chome-2-21 Asato, Naha",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2clBOPuJxFfhSajNWEgZEhhHWbvWLwlC9LIyiMf-QzaCQstHhIV2Q10S_MiBBt_lTl3NrNZ4J6tMikkoGw-UxHa5qjpZpuJ_h0DaISQ5mOgl6Ddy9fL7jLoImfUFpBO0mbrfDud73k9TFIptR7GEg-0Udz-44OmIGcDdOTUGtOuYy5FeTonwmy0C9Fv2M72_50xf3Iuh1F0i_9JthRmPAMwdeWc-pbDvgNkZIHze96MarIH7eo0eg8KPiYdQ7u1da9lSVU9AsUR1ARaXt_ERgTbx4LfS4KmbSlREqrcNsXQP9JpdzM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJvcblZiNp5TQRCUMrmf6hkqU",
+      "name": "LIQUID THE STORE",
+      "latitude": 26.2118088,
+      "longitude": 127.689593,
+      "address": "Naha, Tsuboya, 1 Chome−1−21 1F",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cMidwe3K4knUJmwBtb9yRBbV8J4yGfvTQ6Q9T-h27N3Xxr9_3hJJrtThihWHmslLp8orXBENf81U2WQMlAqyZGBLeKYaQOkRZLfD27T8Um_o2311ki5LUo9ZrdEz2TbadCXgaeHjzSd-OvU2_clVIUuiJNs6erCGZZNZXEXukaUTdlJENiDCO1KTWXDa1eovKfxmklEj8wgZxBdlSUTY0UB90JWMkYNVl63tKYZ2oN_AN62ulmqRsO_37i8G2gWKPDvwSs1SlejTk4xTB4yZwTMWrve-LG9u7h206atFuuO6Vey0AHOGq7pIGVwnIixlGIEAwF3qMvGAxJMZUdDJtSpk7Jjd6QFGbs0FolSGlKaJbFZ8kuDAhexhc8cWsBYcGwRPy0fQovLK5EZqXMy18e3bDqFjCGSQkRoB9Sfzm9RR2bdSb28aeE2KkhE97hsZboXg8ap2QWIEDeBx9Dp3SOGmlIY33xfV78SWwtFVFHx34TqIhS0Dchr79pe83fqO1b0Hxx9q2oerJnq1rKcdpQw3blu4kd-n6MJHBLtMWYy8_sd_SWkl2LOytlJB63NtEMTr8D&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ1YXLztZp5TQRXsnZOQN2wa8",
+      "name": "Kanehide Craft Brewery",
+      "latitude": 26.2097001,
+      "longitude": 127.6781936,
+      "address": "Naha, Asahimachi, １１２−1",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d4GetXB0cWhWRol2uWHx-AoPzBqxmTcNVQ3N7u5JGLcnDxtbLd2CErPzHM9ASsormpEN8zfsPz9gVOxYpfc_T53aKCOp__khp97N5BUoJ01Zj2wp8s93jgkBN6fVVRus-LyGfr1geYddQ-iQwA1cLi86HsOhnIoDmEaq3wELqOA4bruGnQlkPRA138Yn6eTcI78hx9HpeEl8UEZeRGFjqqm_lrjBBnaWQ5lPf5oeVYjnaBJmpq5LyNTNVkhEue00wnUyMZJn56mUa2_WXLbHLWJeUZerbCn9eAWNDHVjcpsUUMoR_Pfik372sQVXGVBruL9VRxxT4nFsZvC4u3_OlwYEPBZ3BnkZlCTYaSQdD3e5jC29yxDxQD9OBmDdn9jQgZQcKE-e-_z0vBUrxdS8RdE0XlMaqmof9Raq4s8VlWYdoD_MKnEGjldP9MtYje7wTqXV2gG-rWGmSPfZzeKFa7r4lHCus1-TDOdnhkqHmqheEBi55s_oGuqE5s0pNqFjOppAhVctut79FyTdWjYcIXF-Yxxu5F7lWQIyLJ5uWGY29xUJTV8u0C-Qsk9uqXiJ-KEiqJNJxCuw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJsc4vyQgT5TQR2C9h8ELASNQ",
+      "name": "Chatan Harbour Brewery Restaurant",
+      "latitude": 26.3210495,
+      "longitude": 127.754014,
+      "address": "53-1 Mihama, Chatan",
+      "rating": 4.2,
+      "priceLevel": 3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eK4RGpFdvuwOKNzbxKnzXddZnLD-qVWcqJkkN2wl9jGjoOBx94hETUUKELioSFLEcEAyKHtzXT3sNPuf1aA-daEWT0y-2VjWqkpwkjdIgNYkKFes0qlgEABaGa-dJ62v-kCQQX6X2IF2Vs62uYX_aGtY28FKkgWkEy-A3xBQ3rRU2-ZfLMyrGPaMVVacPKxE2RyR0lrkS6nrI4i9LMHE1PwDEgnuYg19xUDf8myS4jXcHDB7oUJixNKJXcFhlXTy7din4D7x5pUXkFAMrRiJPtsRgeoUx6QunMW_xBQOZ1bkEVQO4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJn3SN8R1r5TQRCCoEnW_2nL8",
+      "name": "Beer Bear",
+      "latitude": 26.2269957,
+      "longitude": 127.6964654,
+      "address": "Naha, Omoromachi, 4 Chome−6−22T MAXビル １F",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c5OKnQGuI60cKFltZ7ZY92wWnWTxQEBqcv3Ls1ealNg12cw6XCvD9faCzzcaGBEXdl1ZiUuUXNpxOHl6WFi6gGoXQnwFpL3vwMrkVFZZF7PQHPDqY6OFHh0wboc2-V4bvcmKeeqNkt-Zl9JsD7Pjbw3N0qscSxfMmPPkDK_T_fXxeyjzRlUKsprK53A_u1bHHcck88WhI8HAG_X1JlgoYQLwQrYG5BW7FekG2E4mN2NNXj3B1gUhj3oFvA_nR_LfjorppD5ou76Bdda7Hok2ikN61e7jm3TG_gj8LLnMYHEkPHbhs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJX5kAF1pp5TQR4uPyVRyVJ4w",
+      "name": "Bar RISE",
+      "latitude": 26.2180095,
+      "longitude": 127.6930252,
+      "address": "Naha, Asato, 1 Chome−1−58 光生ビル 2F",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eVWZ9iFElLwtUi75xVK5_ZFUNM99PSKoSClEc213KQHN-OmkhWqlAJp7v3_mtbUWgIWFqBsSvedE0s8VETqFJuCqbyvoOqlNJZJQjQtA4k6XqB4p6KbqJD-Kll_xePm5ZUSi6a-GNaMpjh0oHdN2Uvmg4aN3iiImifT-1ZXfFN3bZTi74-EIPnSjDk-O3HsLRYslE_iO3UBTTWcdGsZAxvFVlFr48XUpzt1766alUET8Zpqt7DxX3pvri1csJXPj9_E4ioTyYPlSOlbfeLErs2WC3_shPq5zU5jFAA4dc4aNGhdxI&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJry3befJt5TQRya9UMURzZss",
+      "name": "【エンパナーダ食堂 Decir】デシール",
+      "latitude": 26.2420086,
+      "longitude": 127.7627319,
+      "address": "101 1-chome-21-2 Uehara, Nishihara",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cGLmjEBvh3LaU6wlFP_kC-pkaFWpcSUGsgWFvzCfeLig53XK4iRWJwyaVaGGEttFIwCktp_RkFUpl7HMKk69wiC1fgN6WkS8cGSWLb7EISW--Yq2A9Xi0hH49bm17_Z4WJFeiIMC95eLndGuIyghvxT2ICFs2LsUGn0C9Vw6Njh5SYTZaADfiL4xYdSvCR3cppRvirsnbsVKQlu_LD5gPaX3ES__rl6AnSvjwbroceUBlL5426E7VNPo4FkONHbK3-fh53CyqwCwOkRxYEhghYYK3-2rljY3jmIp9kZOQUwP9cdl8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJiUngM4tp5TQRrKC1KrOPYaI",
+      "name": "PASTAIONE OKINAWA パスタイオーネオキナワ",
+      "latitude": 26.2169703,
+      "longitude": 127.6766738,
+      "address": "Naha, Kume, 2 Chome−18−11 1階",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fsibylzQo9JZoqqWvgca-0CFG7Hfc6RPEo47AdoAkArcfFXpca_Tdsjq6cus5WSpHlNAEc9K1f7cG2_a0sKNzsuSZDsdfgKCe0K49krYUcgZs8KQ79E1ygXGzk9G-Y-a7s6127ye57rBYVbZPf8WUegXOBHkeXDTlOe99r5OfrO_ajSHNwHDHni6Hw4fs7uRni6G8LChkbvLsPV5M4PgswGpixg2ISpihk3lUGAO9Rby8pw--L5Xt5EGkmsG1DubYwZTYQr2a6LRoULPRkmP-_8s7Ey9xyOxwMAwUuRUQN35IEgFo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJf-7ma-dr5TQRbDJJSoukKoo",
+      "name": "Beer Para Dining",
+      "latitude": 26.2270248,
+      "longitude": 127.7035378,
+      "address": "2 Chome-2-18 Makabi, Naha",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2faPR26eU1ze9rtNxmpr6wrPYyT-6YhGf9qdVZTm0TCxwQ5NJ4fE1p-E8-Q8Z8wCZ02D4sommNdkyn7wgg5XJ4JZCwaOrwtMX3Z1Wv_LN094EqAVnMy9ko7UTaUS-9xsrhLzqfdvPyol_2i9Ca2SjBG3JZbMa4XWCoEhIdALU7Tb7oUj9kCD4E4xjFtrcsxWhp6UipOW8C09dE91voIoBw91iZ-VrnHLjFjk_67Es5BqOrCgD388_pE5fstMFQwW0WHEWodPCcIx-mm3bOuFC45TBNL1S3tjqRT08ONyR6gkd-_&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJOzLpOkhp5TQRIjKTOPRJA5U",
+      "name": "BAR bise Naha Matsuyama store",
+      "latitude": 26.2186931,
+      "longitude": 127.6793867,
+      "address": "Naha, Matsuyama, 1 Chome−14−19 松樹ペアシティビル 204",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eG4A1Al6b-x4AuFmyqr_lCExVjrn8Pw3dd9izkeOkeLoP4Jg61sE2jLoOpY3J0H5Nnmw7-wQjxeM6cpZjTF_lae7Orb04wXr1x_azoKC54lHelQn0GmHnHxJBhZAV3hvq5IqBZv8w-gXEF-lqp6p6uxw3VLDmKYs3eJsjqd-M1Mdy2LQ7KAJm2ZzYb8ebTIGUVBjQ3rKZdaxAhGXa8cB0x5Hg-BTJGd6dGZBlqquTcE6o23PFJG2GkKkxvghsxCz07hGLw2iRSiSM3ZdF0ZvbrI8x3ry3aQf3AhXKEmZ76xnqy42g&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJJ1Y2nGpp5TQRypDXkUzXZC0",
+      "name": "石垣牛専門店 肉匠 将【すき焼き・しゃぶしゃぶ・焼肉】",
+      "latitude": 26.2155195,
+      "longitude": 127.6796163,
+      "address": "Naha, Kumoji, 2 Chome−1−12 大田マンション 1F-B",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2expTnQ_iuaYLqhGjeFWie1FazaIxeiNL9bKeLwgSkrBmFagk75_vpZdQYUOEvYI8p9SKyTT8bFZE9I5eEQt0GWK1aad7L_R1meM5R2mCXeipx8dzsuVTzab1hltd209yp5qh86YIcEp2S9a-COzKOnY6B-8vjbD5NGEpZZzCC__dIkxIbySZR8E3PXn42-s4q8ppty_AxQZyskb_gb9r4Eo65JbL3MGmZSm_yLjiMij5V14i8CA2Y1y75bWz9Ckp3JXwDukggNthpuY9NWysUqV1eMX8h3jx2_m1mlkWW9GYFcb-o&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ63pm7hFp5TQRFWCfNEGaDbs",
+      "name": "Sam (Sun and Moon）",
+      "latitude": 26.2161323,
+      "longitude": 127.6799646,
+      "address": "Naha, Kumoji, 2 Chome−4−18 エグゼクティブステイ 1F",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c066koDi-0A40MAs-Pq0F9C0wGhvHLLnsnOakDymk8okIxQawXSBIzUIdn2-rcTkk8MCrZG-eZ1p5VnpU1rf5b4Kqp-wBE_B43ofizrHQLAPLyXneRtIYzgdb8fPImRHuvQK-Q6OVGzL8ElmwTIYxc1XM1ryDy4nyNMgeFTgxCjgVA39rDoz3ZyRYqmUj0qFlqrHeBh9iFj-eIGPYosK-CYZ3VyR3EdBXWZaFbp3PlPoW-w9USqaKb-DsbKvjte13vp8-M3koBZoh8S0MqUvuxeOAyqMysGDmVPSjOdBCgokXw6EE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ9dJOQ51p5TQR5PfUi27lsAY",
+      "name": "COLOSSEO 262",
+      "latitude": 26.2164756,
+      "longitude": 127.6805431,
+      "address": "Naha, Kumoji, 2 Chome−6−2 ガーデンビル １F－C",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fFcJ5l-kt1af0bPOQLE_k65oLILvGVUr3A1kGBU1FCFqe33LM1qvqt0oW_jiW5ut2QY2svoFLX8YZlZu62mcqC0hK7Ta2ng4To267NiNDzIeK9MON9J8DhD3_AXscrnc6AZP9ejM-KeLADJ3tEN8vCEGimGa2paGS6bw56apt4Wl29R0IAlGqf7r7fJDoJ-7KBC1gGZkiUzQLK8CAj8XXNNcwuuYIUyLtuCFtbZSGpH8Id0GN5AxyICitz2XKxvIEX6jmQmABSrG6-Y2QntBwPjccYxQfnf6Sz14Ljn8AqwReLZFA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJK4m2egxp5TQRVWDXsZw08ns",
+      "name": "KIITOS",
+      "latitude": 26.2022667,
+      "longitude": 127.6872336,
+      "address": "Naha, Sobe, 2 Chome−32−3 1 階",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dKBYFfOIoS-6QtB37N79-IpTjj-OPsDXNZKh1mPowJLY7zOJeJR-gi9MSqYvUHQGGPgwwWfN4PDwEoHiHKXRyqFAUmnjHn0PadShT42B8E_emEQthIY3cUaOveidgRZwq15oVTT0wxDS0ISe6SI_qpILLFjw1tI3bwJIffPb9PCTpIq3iF9IJxifrvy3VrFucVLV0Z_cqTYW4iaCNIe4T7R9OCYx5FPK2gmNTo1upTANLseFyvo28XLxgz_ReSsWQqd5nFvCCMumoaMQZR5pQ_zLwEq9QhK4mmNy8rBbkGEtnW23E&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJX8QvDSZp5TQRHZSHJEodCmk",
+      "name": "Italian restaurant EMPORIO ISHIZAKI Naha Okinawa",
+      "latitude": 26.2164409,
+      "longitude": 127.6798448,
+      "address": "Naha, Kumoji, 2 Chome−3−16 上原マンション 1f",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dFl41WYn7kuJH9mh46wlMXpIvbnTQGdzt3ZD8vxWW4ANgCVSBMxKDEzTKMtAHeMow48ja2lxJCky5Ok72UISSs799WaPVO1s1I9KZI0gizQK9ydDJiqpYENugAVdXKUfANxpvjaE0hpymgVhH1h4wdkk6YR68wBiItPW6QA2z6-RSkC3Jb9EDPGesaU3apTvh-ghooFwSf6t9ZS0XdUf6mkDTvzgHKYIMolKkBq9mcW3l_PUa21CYdymsJXDro3A2mWIJ2OG6sz4BGDSkXi4d8Or9w-KF5_IgwgnKbl86UdhT3Yl8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJT5z2LG1p5TQR1xVkEGRK2UM",
+      "name": "HELIOS NAHA Airport Brewery",
+      "latitude": 26.2092022,
+      "longitude": 127.6504851,
+      "address": "Naha, Kagamizu, 150 ４F 際内連結ターミナル",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f9SOMMqfOS4g7GVoNAyusjKGwHtG07zRydUKBbZGqEOvKdoTtx8w47oKAvE-1-D7WJ1JxD7AQAQ5_qXzPwX6IMrF6D2h7c--l8nfR3Vat4hkB9D2aoEZZiK7kzyUFr8mnoHIyGLFhpf_TPmPCYX8aYCIH0-zd42DVcJxhMinBndsutay530JfyX5ZcR6yjAJLgKwhZTZIy9W0JB872ZPkdPZQ6yx-yKCuYfeLFrKVAqAZ9LnJ5eCLwc0Boec8piylIZ6cGWCiFOmQnZCrkX-T9rfu5dV3h6zDM77FYniMO9-GAVtWM9f1xPdg_E25mbhwpDK5VurfM_2nDFJdzyi0WPk9lPDZFwA7WJdM-Q0bVOCByyJibjwj37AECvvgaT5MJPlRK3O0qolLd8aijE4_MePRjaFRN37JVjZPx71yNpRKUJ7kxcj8941Cw_qwmoGMeslxfvhyzi26SC1Xx2W0vhv-O2FHbvKJjvpzlK4LIRBZyUN5c88QLDKYFTHXih0EqsQI-XWj9C7tV9grgqn8BaOwR7DNgLuuWLihrugJWkKnqPkUB6MPWlS6gybUlchaD2uEhjppAdq2A1-jSW6Ps4nGXqg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJibyYTXxr5TQRNYbUfK2-Wak",
+      "name": "SHIKINONE",
+      "latitude": 26.2536396,
+      "longitude": 127.7082961,
+      "address": "Urasoe, Yafuso, 4 Chome−3−5 ２Ｆ",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dwmCVrkGPVTLQj-pi5ZMBrHtJ_xbpXxti2dx6XLp6eVreQpGc5C7wItCaniyqyaEnSRm7qmQyzNqns3dEB_DlHnGWQd8kq09cjJ4oA9ljg8dP9D8v8WPeo1yEGFf6_UCzQfjWk-Xk8_owEWAlsjj7UBQBXwRNxw1oVnp9vmkhO5_P5kd3vHNEWrIiXv1aI2f0BA9l6vN6T4iOOmIm7_ZKbDZYhnFgeJ3MDZ4os8B6kmeE0QWOFKXTwmEJ1vRGGeYb9bQenUBSM5rwb0gXKdE1n7RhOT0I3w5LVkBhMITWFZtG75uM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJlZ12eFoT5TQRzgmVJwNpR1Q",
+      "name": "Shiro's Shop",
+      "latitude": 26.2984492,
+      "longitude": 127.7584055,
+      "address": "Chatan, Kitamae, 1 Chome−１６−9 1F",
+      "rating": 5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ebx8WLJzkmBIWq445qy2KWlB-mKM7YDZbl_-cPp5Xwv89b-Bsr8l0eQHxrZ6XWRwtIbyOJTTjaoOdBNmIGvG-U-hP3C61k3460oRdADlU2OUZiWzAHxBYYkVfa87wOa6oEly-FgxU4w7ER8jObYuyz98TASZOCvyJwufyudEDLWEzAuC8eunMKksjZ1vTgpA3NJnyZ7oQ3PIM9AxhzudXy3iZFYBuOKpktQK6jvfwogZPy-Jffv-O-F44Y2QAc_mhVNb-3fs5UNhS9LkPVesgBKZ__jxS9aYq4eNi4TOPCcnXvGzo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJMSszAXlp5TQR4gatZFExNzs",
+      "name": "Bartender's cafe Vigorous （バーテンダーズ カフェ ヴィゴラス）",
+      "latitude": 26.2189753,
+      "longitude": 127.6842152,
+      "address": "Naha, Makishi, 1 Chome−20−13 SO牧志ビル2F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dOGHvmAkKuYNTva_l48IhUo8O_vJUXq5Bpsl03_ujJvXtClwK7ZkmrZT6XoUoEN6Ev0yANCg1vaNrcUuXi3YPg7hgr-UuN5FUsStmlJqCmzItphKq7KUnIhHXLos7HAPZ_lvKBulezOUFjBUuyu9nuOhBsef7NJ_lBiexBPEDsagUJeIJHe4OQh4Uk0frLEPHLv0T_1O4QPjqwZN5RkBTXebEEMpgKXLolqzqkowO8CTgdCPJ9fFWMMqeSLlTo51c1ZttH2C1Znt5-JVw01hKdddfOrI_sRDf9lqwvgf7VVJdMynY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJS1-ZcE9p5TQRnS5jfUsMJ7A",
+      "name": "カフェバーノラリ",
+      "latitude": 26.213624,
+      "longitude": 127.6814755,
+      "address": "1 Chome-2-18 Matsuo, Naha",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ftIe7GO1QQr9qkNCCroZaUEosOHVclbEnN4vn12i3-KbrPISgVOadK0mKwd767CIM6VeRntC3WHfAtB1cf4fAHhjmH7QiUQq7kEeXjAd5UhZOQIEtcinY6z8rG-GV_r8yFa_ik0qnWTm_x5x0EFhQ0hBgoctMIjrpqLyvdGVJWhAh7-VCJcg1X5-LK_xvJZ4Wjyjobd-EBiRxAZV1Hrj86gt6HEDtOwa02zh-WtLkrBaxriC0LARJ1ZSU73GaMEDPMLQ7AoNFWQXgR5rToM8IW2bGIxmvQx74lpBkdcG8KBqiC7Uc&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJPxz_f_pr5TQRWWkuaqVHaAc",
+      "name": "Cucina Kiyo",
+      "latitude": 26.2284295,
+      "longitude": 127.6994356,
+      "address": "Naha, Mekaru, 1 Chome−2−17 クレセントビル ２F",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cQZPsUrILrhJKOTXJOZqlKoYi0aXBuX0uV1gA1Y6YLwh3-LUhFEvuSOAigPCKA481AKrRj1P0tIqLCOKReOHUtJhLR5PEPJrmhtvv30rDxoyiPbAnqcN7cmgO_YRq9uvV7gjONBp7vyTr_O9pEX-FW9KMeK4v1TPo2mTr8xa9yEFVOtTOPorZBM9gOwb6XdELeEvXYKUJoGvzOhNGoyeMqyq1PZGgJAmWKLjd3l_sHmC3rpTpXOKX69mcUwzabgyXqg_E-TocT9f8OCx1q2WKl4NmKIeFFrp2gFKWHJrcj8_zhPqg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJEVW09M9p5TQRDZPQvzxNa9U",
+      "name": "KIRIN Beer & Snack",
+      "latitude": 26.2065616,
+      "longitude": 127.6508027,
+      "address": "Naha, Kagamizu, 150 Naha Airport Domestic Passenger Terminal Building, 4F",
+      "rating": 3.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c2UYAVNL7XdOASyC0g6QBR1RsZE8WkmbmMcI590weMDD38g8T1Ws3GxVAKE-QElxaPfVChTiqyQu7ctQIG-OzCKS6CsnlFaP3x0DUs8nnWCeJhBG-7qFOaU58r1ZwqD1jSc_kRy6SjS-N_1ijxyiaNkzb7B2TQrXjArza6mAATq-DLBAvb3FzWvKRh_0_SHT7PeuC5jdPZqp8kIuzdrM1rfG3Alpy0mkFb-sfg_AzFdcJAVSHn3yioLOma1XtOZ6YAqZkC5OSjmAUGhZVfxTNahl7xuq6cUipYpD_RpP_pyyCOOePxxFpUdKmTkMcvIoCMkvnwLbBD0IjH3k7i-wxC68V5CTxXiO-s_1W-AicVn1yMMmUP9P3lrO-xmkAzYINtJ-WrFEn6SxiqalAW5TAJ47Jx6OhlVXbgCeM6dVZChGSaTpmSksOUvCUqLSwMX4O5l-SjKfDtq21ZGJQx__sbDCw7vqOm6xuq602mqLCVQ3gDoqpzEa420B0-_ksHKMEzeWWCPWP5kx8iHvinUyWsyr_s6U29f8zsbsLJm-5Fz67h9NODFtvJUcoo49O1GVPsZiFXzCA15A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJB6Md9bRr5TQRN8R2voGACEU",
+      "name": "Once a week coffee Garden",
+      "latitude": 26.2356603,
+      "longitude": 127.6832093,
+      "address": "1003 Ameku, Naha",
+      "rating": 4.9,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dwHEbU08bd9N_VplsXjN7yjE95hKct1jEQp3kBnri-rduxdCnkc-8hZxb7fWjZ2OUtJOzjYkggAH7-nHDy5wcWHTPM9fVjzF91PVWfcYkn536jq7mcG0G5FVFWLJGGT9ts5tmtA021vA4jZVPgCSeOfIUC21wj4Mv7o0gkZZ-XnDTojjLb9kylKFCE3Lu3f24LNpTVmiEEQ84eGVRlbSrJ7l9XNz7Skr9a6N8n6GdiqVPn2sMuooHWkXx8zUh-z1MgtyZVXNbP4NVDIsGgvp0FiCjsOfATnDUj6ZtKg_WotfJru24&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJXx9D7rxv5TQRrZEFqTU14rg",
+      "name": "ten ten ten ...",
+      "latitude": 26.1936451,
+      "longitude": 127.7281311,
+      "address": "Haebaru, Kanegusuku, 112 ラフィーネヴァン 103",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2etfZ9RqpjOjg4FehIH44INI5PK7D203yCiazyv4Cl7nxX0TEI8gL_hp2CjtjE9HJk7RaeeMEulD0tKe6gfTcTQ3Of9LmVdOLtdyYPyiAF-2tHo86Hz-ER2iGQXoMvz_0_XCkYqxft9lrfJ1xDBt0CaFnCQbcn8QXuN_zYESZbBGiy3-lJ_yxVbQw2810UYh-GSpQ7K-mMIaIPYBA0McaG8LHVKPeDYeJXGWMresbJ4OYpMgZ-MrEwSij32jnDZUlWv1G9YLowfBGwK0FZeW0r1Tzbd9mfgthyS2rbRFoYMLnZuiAg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJe3Pzm2Fp5TQR-jMhLvFFt0U",
+      "name": "Tonkatsu Yamashiro",
+      "latitude": 26.2197216,
+      "longitude": 127.7260316,
+      "address": "Naha, Shuriteracho, 3 Chome−38−2 ホープハウス 1A",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eH9h7eR-fUMOxZrCV_IsBRr9qVK3q9WdCquXrv-N5MqINgLpWVOXhUlRT3fLozqGxtMsd6rWPXo9TfKPteCmp33VncUjG6kl4d_Hq4EV9jL_xsOcc7KOpVMJEGyKoz3F9XtxkF1CeLvE92i9ZnxGmPkergA5PeNDhkxvjUL0wyKfxsExQSEvbxrbUKGeaEG9JHDiAnzxWxLgMLH4uztNegvhONOppyNZQSuKBIMOQDhWUzMxQ0Ku9MYfLrgAqpZHa07UBL1Xq0zuD1vz_BxdVy6IxsHffysCL9W7HIh8kFI4wCpkScis-bZ3I6dvzS3bTCMabNtbDyy9oYr2NGXSqoqHsAKHAzXisezYoYb8u0xk98jyfbRUjK50JWw1wWLMkdf0XD-D8_eWBhGJL-wUKHF9m-0gQMAn7lVsEI8PY8Df4AVc9sc_4StSsR6i18KhnfxDwRpozwIQRLu1BxVfGOhgTbFbTak2_i_VN2DAXtvxr6uGj1780uVsvDPSXoqdLd7c1tVbPiBS__w2z3qpfxq8huQz7wAFJviXmzFaViTWWRW8ZZePDCv55CJv3-HPXT657h7qDVxg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJad7zsnBp5TQRiAeRx5r1y_I",
+      "name": "baraque",
+      "latitude": 26.2148022,
+      "longitude": 127.6867003,
+      "address": "2 Chome-6-10 Matsuo, Naha",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fZqSO4PIU---NF2XThUbmzWyUVCCVFnA95p8J4VvJtzm25h0TFwq2HpqrOQfKQL73TNgQaLoBunL4Yn1rQg108W30yBhgVMSodvkVa2NrTudJiOFmx-5k9TZ2eoNbeflE9eEV3U7eEyfN8pQZ4Uz2QZN9gKqAAhTLfJkxzwOzTLox5cnAXj3mdTPQlrUt5bAoqNwIn6lS5Noqh-sv-ManAoimrltf3IFc2t-Fj3qfzB13QfnI42GZEM5PM6wMfpnf-Nlp10qASZK497dZYwi402VYmk0aTeb8z1ku2drQArCAAmEM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJB0kzZHBp5TQREJ6ZXCIAjWo",
+      "name": "RESTAURANT & BAR VERY",
+      "latitude": 26.2137809,
+      "longitude": 127.6897078,
+      "address": "Naha, Tsuboya, 1 Chome−7−5 民衆ビル １階",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c93pS3mvqia0DHMxZZVNzgZGZoDR_XrU0XkgmkBIoQSx9-74KtNCqRs8FpFxT-nRW_M5uFSsJdn5CpEHckPu64CeQhFRw8fBR9TR5eauRRQxnQ5YsFL6PhrCSqzSuhKQLoABdpOT_XtHW2ek5H1L-l7nGBQkELdXa2RMDdt7rfpUEq_YYg0ekj7LEYDvidJXxiuhPhMiwtWhThGQxlxYmxDKTcBQXgFxrflf97pIgGdO4KFNJG_5vnMxrD_ZLyZtG6vbJ7e5p2woMS1QirNlODqzRqsQS7-uuL8fzwrsA-Qi02vvY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:58.576Z",
+  "count": 36
+}

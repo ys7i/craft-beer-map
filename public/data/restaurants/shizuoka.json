@@ -1,0 +1,146 @@
+{
+  "prefecture": "静岡県",
+  "prefectureCode": "shizuoka",
+  "center": {
+    "lat": 34.9756,
+    "lng": 138.3829
+  },
+  "restaurants": [
+    {
+      "id": "ChIJ5_B3rvdJGmARAqqjpW0kQ6c",
+      "name": "12 - twelve (West Coast Brewing)",
+      "latitude": 34.9732944,
+      "longitude": 138.3864334,
+      "address": "Shizuoka, Aoi Ward, Koyamachi, 7−14 小梳神社 第2ビル1F",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eHNU9okm-dx43ycJz_fac67Sh8zTmIfWUMA8337STn7Mv7RhLCY64F0Bj54BcGqDRlMKTg5SwSY-afG5-UwlMYWuY-1jrA5QdJ9USYVSG_2dYzCgEVjAgeHkXNxV5P653HpCDNr50lXrVu4yXf4m5yfi-0T6X13J7O0ODIIth17Qo_C3LGM7hfFFdjtYOmq3QrZrGAgd8Y-xIWdV3DgBE0n7YzGadCMeq_UOGi41KGuTH3UHIddnGqfmhmOxcP-tLEYWL-Ir9p7WGDJ4ATlo-wBvrU4cwfU-RXfNKG03t8zKAL4Fw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJVVUp9vZJGmARV6fhDs17dOs",
+      "name": "Craft Beer Station",
+      "latitude": 34.9724442,
+      "longitude": 138.3855445,
+      "address": "Shizuoka, Aoi Ward, Koyamachi, 5-7 2F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fd95mAdh3UtoQ_r--VwFUh8mudaAK3_2jnVqLumYDhYBJGC2cn_R6m-HFUPBV0nOPs8eQMU5rsATN-iOEa3RJJL_cTrii5trwcM5T_6bbpovQM8xT68H-mjnySzHqUndT5FOqddN8f_FojcbkiYA15z4-is0rCEuszG93kg17Sk3F3QikgqUNCzMUPMBrGhDhjseQW0NlrMEcwarSxrggK_cH52tcYIZH7EHLnkh_AObHMiCXUtRBTt-tBZQnNnN7gzLSOO2oCuo1wLjkBWH7ZTPVWTHT2Xm0DSJJJiRJ499CRMeEiEDBJWtVvg_bZHOWbX1agK_mnQuwjsLNaanZdlRG_45iZdXEDJG4-U2NUcK8QOcOY7Va4F7hyGQ66aLexQBGLt3aeD7_tPeaiJyekTQRU0yx3yesOXt5HuIZgbsX8sgrfe-KiEd75R2WwEktYJGvftGH_W71JDSnJe8CSduMPsAs4kCmcMJLprb1PzLYoEsSOOHFxo6HQtBqxkGCIZX2wJxwbrRvJK7Bs5vB-mr8eZ24uYwXcGgnD8KTTgpZW5D4ixdCC6SiXhIaHNOdjqVO7XoCJmK816BRKpYp59r-Aeg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ87pzy_VPGmARmmNgWaBFDrw",
+      "name": "麦酒酒場 The Ale House",
+      "latitude": 34.8494464,
+      "longitude": 138.2552414,
+      "address": "1 Chome-4-12 Tanuma, Fujieda",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fqK6Yy07r1pMsg-5YOBeg_0Tg4GrEuQ8qARhyqiQ-jAou1JYdTCFiOUHtMjLYW7YVpTQa0pD4EW8VVpZ1ynWnqVWkE2nvHb9YSyR-W5nYl1UCysFAmJhy5HwtOkrzpE369zZIQ6nFbEflZcMueIfryFOiz_93hsRuObDgc-cH3Jb0y1AiCax3BmssDQTrtzEQ_0eGm51mM4YJNmqFFl4e7khosntk3KfLywgaUA513AK-fNaDzXbXHaZ04MKpYZSVzXmRm290s-X157NS9fht_mpsE-9lhnP5yG_3QdV1ZMLwoga8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJOQ6gBx5KGmARwsdD8SP3cFI",
+      "name": "Baird Taproom Gofukumachi",
+      "latitude": 34.974411,
+      "longitude": 138.3837808,
+      "address": "Shizuoka, Aoi Ward, Gofukucho, 2 Chome−5-22 ソシアル カドデ ２F",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cwMmxKlyN4paGKxJXqF-KZbSuk8Ioi18Vu6bjHT1RkLhcz_b0ImibFb9Nmla3P0Cc8rK6N13_lpglST20L3RBocTwBpFsg0TjKybHxdxmz8Vb_KKPk9TDg13olVC46b-WCE-bffyqItQh3TqVjCQ8cFClTVEtmAkGfeBmK3-a1n3ZOh8oJ8_x4EpTGBiCg1HqpYN6WWamK5eW0Q6iepg_2iUrXl__1o2LC_AMzLuyMpIZmF_XnuR28RgwE1nSQDL1BhiYJunMCbWaz1x_BDt568XPVC6G1NxNK08sQsFpGD8rb1jY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJq6p-4jxKGmARRzgk084auFQ",
+      "name": "BEER GARAGE",
+      "latitude": 34.9816236,
+      "longitude": 138.3763957,
+      "address": "28-3 Miyagasakicho, Aoi Ward, Shizuoka",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2evgdKoCzK1GWujv8ULXz237gBmYcXcQUjYlvSCzhXGnecFhzIlDXfBGq-pKOyUd8Qn9nybl-hEe0Vm5I7HwQ_IDk4ZqrV7iYVwTv2SDOvI8anoyCK17xZZJaA1qDse2pbGLGcLrKUJ3p6p94YEWTO7ex4WRFBK74XY0b2E7ytBCI1u0WIaXz4V174dN4R94QJFRn_neCkM3oi54gnRCLM7FP08syztaNAz6T2B5_DPASrb350DAgBRhsnwumzg4iSFY4Hxt4I9LMfgIxyddkaCVSA0bqDnL4pUUHU4HUMPUIRw-5o&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJHy8vW_ZJGmARmpjR1HiwMc8",
+      "name": "Grow Stock",
+      "latitude": 34.9730347,
+      "longitude": 138.3854654,
+      "address": "Shizuoka, Aoi Ward, Koyamachi, 6-9 紺屋町中ビル 5F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eN-Ej3GVcc4Qv9lYZRfwBbECq7zK4lHy9oQTRcjJyrN40gfGb-oP3Rk4S1xPCmtNoyLxYie7TO9JVY50GzxKtSUpStrbXV7d7cwENqkyK0P-FzZsBJy7axD2R5ferlWCOd8P3lPRw1IwhPFEC87n8rGFm49Ktqbw4X8rpoWqOqDF2mpVVWDm_znzQfJSSvA98ipXWjqVpnC69XpEZi29lElUhQSPLfO6MImOGBsG5ebFXb3wYgvhIa-9PmDvXcl7zifg5erx9E6Yuap_ZbWi0UkpJJNu7EXcIqjdNxyH9a0HtgYNM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJo7tIvmaNGGARYywTZEFsGME",
+      "name": "Banji Kaichō",
+      "latitude": 34.8584791,
+      "longitude": 138.3118683,
+      "address": "Yaizu, 2 Chome−16−3 ゼンセイビル1F",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e88JZtzOEQPtAZJjH2lGGeL5QY6aBr9CxFSyARMHqm3VrEjtaAuaFERqoNbn5SGWricM0dyTKpi1XJZyWLQ3DGaDnvoLKVLQqz4N5x8TR_jyh-qtQ8szGv-Gio85z6YvPHuVNXKDx0KtClsRjJKS-fqZCblo_HLakJqwHJo4IM1qSkxghdU_EFZMsPAXdSD9GRT_-pdtIDmexIJ-GXJYdw0DcHGeJo1OrfyIoRJ8jKp5073vZcQQ87JOZpqNcxODgtSfPkP3PesmmHea1dSWHOeuoZdS1cxj57MICOqYJUfh4Ob984z9fZ3gNZm5RDqxnlPnE_zFIIbM9RCaKu1pS4JvW-YZt5aXKBEeq7cFOEsZT9yIvyH6RJkjNb2k2aX1aN3TEyttYWzfnnq71rfTdsJ8qaWQVAAZkDA0dI9AgDiBlP4dHNc0WO-UgPVdFUn27m50WpcwuevBkZUq468py6wPEI9qWS3OJKfVgnx7ImXCeRGDsrEymuGxrcn0AFd8J68ByYM12PYs_jZtwKhFoMDYgBhC3iQdj4mYLdnnKIV3t3MuP_tgNxo9vjefROXoN-Tw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJa6JH29VLGmARd5qlL110fxU",
+      "name": "静岡醸造 人宿タップルーム",
+      "latitude": 34.97213139999999,
+      "longitude": 138.3786428,
+      "address": "Shizuoka, Aoi Ward, Hitoyadocho, 2 Chome−３−2 マート １階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2euMFIuzWXAxBmb6Wnarzi0buROxK9Fbj_w-sM_Tz1o3NczG0ldTCYC2SoQN5VXu072ETr6nAvijeE9w5abnfGCatDa_lOoAroXBx0qOC-1e7jjrlp86VnCuA8snIZO-Wp_8ilwONQnZ8Y6WwKHs5OvAnq4jGm083BCcXLMZDV7noW0ucDFDFcqZ995hHOThvZd6O8thmpxoEXBL3DSEOFjXC9VYx7eVcT300D1L5iLhIDssv_wZ2iHUkfC49JmAKtA-rbwx_cuL3frMZid6tLeGNHdOMrOQnzOr3Dj0TodcbqV4nE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJcVQkwh9KGmARPeW_mV_lbu8",
+      "name": "FIESTA GARCIA",
+      "latitude": 34.97321170000001,
+      "longitude": 138.3800601,
+      "address": "12号室, 11-5 Shichikencho, Aoi Ward, Shizuoka",
+      "rating": 4.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dUQpXUWpgxWfZ_7tJNZ1Ac-h9_sBEjNjttxxwhRcVpyjjn27urKRZinBm1nsRymIKqFhCC31Op3Fs4h91qrsLMAGT5EOMAIxtfMEtkBhHC49gUsab4wQ8K0cVUsMXIHN-c5eRDdp_cLCt1ddfWNzo7ETRzxOVkgdjaVSYHqgtm8sMUx6C-vYYe2rSUZn_M2-FUQ48VmVQ8d6e-wcXiRegr1hVC4K0cEQZk0AX7_zji9D0DX1VtlwuQQOTjQH6aJJZJetzs-vDX9uAIPMIbwh1g3nbX67p627tiScD4QdjFbekrsKU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJO48cH_0zGmARN7DiwyK2JWs",
+      "name": "Deeply Do 清水 飲み屋",
+      "latitude": 35.019253,
+      "longitude": 138.4874009,
+      "address": "1-1 Ginza, Shimizu Ward, Shizuoka",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cSAnQhblYvZgrpUkGnmAUGq3r1Gpuije3aJDoI44Ew_zcsOb_wAfPMIq40ymDILDq-6RM70iDcgGoeVs9oygIUpR4DIP7NqkZ9bzNgflXePmuAeVSqZqFqcCBH9qxZ8STtT47xquctzzKA62l4nNgl-pn_hSZAyHqeDz3qQHSiZBOUvRP7qR-g-YFPb7XpSyQnuhZKwOZIkZjgm3YW7SzyTXZNdvU9I756MUj-_5Aeao9SpO4HptvLWvXFBhn3Sm6szTU0-0kJfKXiO7gC3bOGxEXa9felA4BVrGZOzGjWacUFcuk&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJTeAOwh9KGmARg-2_raaYTN8",
+      "name": "13Anchorz",
+      "latitude": 34.9732651,
+      "longitude": 138.3800802,
+      "address": "11-5 Shichikencho, Aoi Ward, Shizuoka",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2euJrlvDNkvAuFqRe4Esx1IxY2wVrd9pP8UgPw9Q-MPIt3YT4R_IBv5sErDG8vf91pGCt8x1CM8Lm9RvAToY8QET9eA9kC8jwgmw2ThuCbhnhX6dxxncyHLCbbWzn-sRWuPOqqmVL9Eu62l9WgO0SRwq4WHExU8hBQRUI5XHec2nJTdNwzycYVVtfr9rW0WBtzGhOyRBV6qA6d6w6UieONcoq1qgIUQztuXg-SjglRI47WLiEE5iEo85WdNMCrKoBZFrWoQbChPjm7Y8L-VE4odm5DAPioGokR4aIR-jTkfNM4Fd92XRKef33DHy7WDBY8OKuWtg-Kg8t3GIwjU2Xp_fyL1ERtZcYHWT4bPYmkbKW3qPA97ZRRdUmK-s2hiShXznDe7JWmkNJmrS_wc6tK8czV4B65yL0DFa6dCBDxWYbvN9ED5ztsPGeN0A7IMERtSh4T0spG4G--5CBbtQ0qagEZOBp23xHulXjgUMyiKRDjGtBM1aatLq64nrJ0DN6CABjfzPlxIN0F2N5UvjWCZQam4ocBbY8q-jWrmEiLlAkh6X75hmqSAFKvBovYfUAMlTLY8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJj7l9W_ZJGmARTv7lgD-zqK4",
+      "name": "Bona Dea -restaurant bar-",
+      "latitude": 34.972857,
+      "longitude": 138.385415,
+      "address": "Shizuoka, Aoi Ward, Koyamachi, 6-6 ミツヒサビル ６Ｆ",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c9iTDuje6-uEdWO3ze5rkWhfIEsBYwn8bSxLfu8le_uLvoBZGIWFZdwiGLvgF5MXHUHVzNtLDnC8TW4s1EZSkI7XZi_Ep1q9Alb1vKC8e8dTgsvXvI5dorHbtzFZgt3pFkdQx-_RS4ovP5pFgBCFrhsU-JXE8GceFXvSYr7q-llAqFwt14rZ0C6PnF1PwuQvJ1jQkrAMEsjEq1F5cd-tg0mpQwmZW0meB86XyUn7lNckWdJlHUTQwiGEJYAwPWdtRdEBzxdDiu1HpvXvZFlyhJYbMmWGJOMiLo7_oHGTvW_sQWT5I&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJyeGRkCJKGmARR3u-e9Q_9lE",
+      "name": "Simples",
+      "latitude": 34.9549801,
+      "longitude": 138.3323579,
+      "address": "3262-1 Mariko, Suruga Ward, Shizuoka",
+      "rating": 4.5,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e4WlW943xZrGlDsHGRH5vLzh3c3uTDUS5coFXmVAUCH4k2n1Ayd9-gdFgbIJo0vCLcUQlOaj3e9T_M9uc6QkaKC4M7PUl1-j8r4R12BCAj4q5B4JhLhNQnqSAHvIjdcz62CkhiOxZrU0_G8DQtpZBv-SAvNwI_ErEHC2aGltlJKPNGwojgYpg8s87Cd8SEGTHLvC81F276CSbsb4ynptRFr6ALZ3sVjou14-U28skg1yDD3PhUdSC_HN4RMbDOY8nEtTNX41xYHLgjlfJZRmf2Ivbkx5-t5EEzt-1RzKMw3OZtPRw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJyQFngQZKGmARxsxhbjD4t5E",
+      "name": "Castagno",
+      "latitude": 34.9211492,
+      "longitude": 138.361901,
+      "address": "4 Chome-8-24 Mochimune, Suruga Ward, Shizuoka",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cv7psfgzLmo6gJ1-DEuAJ79orBIdcEQ1ix50TcmKPs3-EkfrWlsY0o93jWAJCJmAZYxlftTUmt5YnsjEBw7wJrhn3lbj3PxyAqd0xYvOAC0I8OZNsqDswKQIW5CZmiaXx6vTdkOQJLM2eOTpfneS2uexdymwTQ8DSf-aFOsb6YcDUjTylhOiEHGcrFnjuF-lZtL9ZZdUdkqZh7c_RjbSW48V2hqL1lRwVVGk8ye_6OpEefGfKlmPjdhv3opta7-s7UMXYZe-naN1gDi6Pe1e1MGqgfldhranYfg0Nm2PJKWY5mByDe51SzqrmPECyjKDN8e7V7NPJSU_zOyJzuv-6wz1oc5YyjezKOYGRZEtqG4kyU2J8GrcJJocxlsiuUIiLYSLNsDKz7n4v9w9HORXlYRFb14siBULIFO4MCw_qruuE4GDWwHaTMwr4-inb0by7-k-ywYEH4cTeBRU6L-lIvp6MN0pGkwjd9oP0CyKQVJL4oOuBXIctFVeMs248ywiAS5BU-1uKbKuHVpvzcE41PsR230emKavb2heOow3FEG1Y1qnTTYpyJM3lTlUCkZKv0BNQdnU5JPw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:57.394Z",
+  "count": 14
+}

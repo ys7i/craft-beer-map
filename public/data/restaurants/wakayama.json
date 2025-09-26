@@ -1,0 +1,108 @@
+{
+  "prefecture": "和歌山県",
+  "prefectureCode": "wakayama",
+  "center": {
+    "lat": 34.2261,
+    "lng": 135.1675
+  },
+  "restaurants": [
+    {
+      "id": "ChIJbdPymMKyAGARhUbvVfrSkm8",
+      "name": "Wakayama Brewery",
+      "latitude": 34.2319475,
+      "longitude": 135.1746163,
+      "address": "Wakayama, Juichibancho, ５４−54 NTT京橋別館",
+      "rating": 3.7,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fVPIvgNf0ibBSowDCnNfUU28ZEyhbBtUx6FZdWLRIGoeGIWIDYvAzbeLGvrx2Xmubx1FutrWsqFmV3FFzO7JSS37vF3jg0oAtI9_R7GLMa0rJT_tEIRb_R_GZCmKnvsl-39C4NFzH1w4jzbt2eIDhpQh9cMqeLBS4GbPEQREzC2E1nchU7roLkR2rsOdIFsxRJ0GYYekW-TjBR3p4RLwt40aQWcUoX9rwwBtE97BCl75x2t_jX-MbuHQoL8U6guvOvmKn1zC9Q0aij1-dJc856ztLho8IuWMQRlZv8cXgMcaYmAS0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJk61sJiezAGARv7mMF76upNk",
+      "name": "The Castle Bar",
+      "latitude": 34.2326095,
+      "longitude": 135.1890006,
+      "address": "4 Chome-91 Tomodacho, Wakayama",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f8YQeoM3CSzfs48BCO9l70yJiKJBvjk7wd5KfgX4IMXz1-X2Xbz2m0x06EbJnpgAP2f3tx-Ho11rx0jRG_xOjg0WHW-umtIKC2f5U1a31esXyoduc61SnwtJr03CNveSpmhdJs8ZF4_MrlRSeSnIZeUiBShnMTjLRQOaEb9_4EW2xrZeMPwCbpQax7v1K8892IoMx2q8s7Ea3vMxVjjNuBwowNZrDzE260xVvIkm5OAU7orddEWf4gdIIy_8YoEMFMdJSyhFiJLF4T6H3Fq_jzY5MQwdPG4Ico1l6I8r7F9sHZNIo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJi2c3udNLB2ARnKC_3zG_O8Q",
+      "name": "CAMP78",
+      "latitude": 34.2156213,
+      "longitude": 135.2984815,
+      "address": "102-2 Kishigawacho Nagahara, Kinokawa",
+      "rating": 4.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2emuKZm0tUaOhdnvKDjPUSMpWyS4S7aC8OlY0pCMXmUGsPC0jQeSHNK_4IPuQN3XvhfLXMdybkIpTVOwIEhEpsfEwZMkc_pQmlynx9S8Hd6lgOYzNr36g1AMvaPjXVC3wViWmwEuoO4luKzA_eQcWLfiOtCcFfFdaBg9ikyCIq__XRxjp1EYAZpbyln8CwIYpbzV8eUXxfFByjsWVrxnHOsAsdUPTQDqbUvPf77C6DJrVIdpTCvtbGJdFOG7kw2W2316VqT6MtXGMsOYxaE7HBgh0Ir5cLPm9VV4NOVsqjzUn261XE&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQWkrFSazAGARlFTcNy9-Lvk",
+      "name": "Misonobaru",
+      "latitude": 34.2305355,
+      "longitude": 135.1905528,
+      "address": "5 Chome-8-7 Misonocho, Wakayama",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dBLtI5qRd90LlAl2S5XAe_3ymD6etGt2ux4BTJ46JbhCTwS46oQZTHSwk_K0Qqrf8eKyAPt7cQR_tWROfPLVSft89pzxavTYMDVSlx0yPFZXrJ2LKTinGaSM--YPVrlSzjsT3lN7KLxzGEdkJqPGfPan_CfYhffFg9Uw5WBoCIady_6X7r7MhGELH_QxmFJSxb36tpWvy5KmJK7QNFy4R1DES1Gr2XNJWClwbgVyoCX01-U4qa1DMiYv0qo-wfImu5M1SrNgrIEcfj_6AFUTjnlPlsmNmh1iTL4f9_hpi2XQ0pO1H59U0hKdbKcFvuuy0B6qoSh3eawbEGjYiSSwrPA0xFlKGuyGhAyvKUGEPQ4zYciYBFBAFh_4Ve5aeep1Qyc26h_3Gm39RhD_T_oHbxq9dQF-HCGA5lerA5deWOzmqkrQgrZb0fKq89ryAVDgATzXL0DqmZvaTQnCe44izVXKDVVvfk5B19nFWCg5KG5aGRKYuRASK6u8-mhv9RtVT752x4k1Oe-Wx_BRvfmWxVx5dB_F_dcmhdERLs-aJkmcFALaXZqkaN8fQPuAoCqOlqoItH&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQebo9wKzAGAR75VsWQc7lho",
+      "name": "Mushidainingu Musu Musu",
+      "latitude": 34.236232,
+      "longitude": 135.1662269,
+      "address": "Wakayama, Higashikuramaecho, 39 キーノ和歌山 2階",
+      "rating": 3.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fcdoQ-KOKh5YtPJu5TMRdbt0sYZknzkbAA9uoMhUuD82ljTtIPrd0XaO8MH0cjxuIYUznZI5p3GiZDdwQ9GH47rLk8zjBE3ovj_Qd-M5CVB6jwc1RESLg-Lud4jOo-Rq3U_vG8DBEmiv9yEI-JLfD40tj8dHQj8Udt3i0zjGh4QI8gBdEVsysCf95mf7PJHUi-QZYxOm4-Le1Y7GE5qRpFd3qyg5U8_vV2o1MmUOIMGP2YQoQKWL6WJvMRsJmaHhlGX3njz0fCdcwBNssK_w-J1HABbW3Z7AZtqKvhlnONSPexzQo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJA-Z4JYC1AGARUuzibOONQFY",
+      "name": "BottleHouse Bitte",
+      "latitude": 34.2731225,
+      "longitude": 135.2873335,
+      "address": "428-1 Kanaike, Iwade",
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fZPuOtX1bENqZg__OTYrK08oc5Scx9BWgof_nRT1tdK6Gib_qw3Neu-BfxKuvHqLw20H0qXBdrCucYUo9cNESd2Q92GRz_SS8hQW0FTeYImJzUwK6yxg8E5Z5lAc40f8DcDRskPaq0rhy2ISBGBqKtajVyaJkERU1VVsp8ytWZj0Yw2v7FFs0YOH4uNRlyeiR5GQurcupTcW-iuy37LCXvT-3UgbjWlDw2_g9qj8uSkjOh5aCJpygi6zxXeZtfB7nMX2ox1rM2xR3vUF62pL9yv9VG-1JW9ffBvjAt9a1iSKNNKPQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdWuMN1OzAGARVttJn6LhP-Q",
+      "name": "菜乃屋",
+      "latitude": 34.2308429,
+      "longitude": 135.1901076,
+      "address": "5 Chome-6-5 Misonocho, Wakayama",
+      "rating": 3.9,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dpwPxogcGJ78RvVK1As9S5FYD7L9IwnIWvxOymShKvUiVaWPeVxOKrvDAKJq8W9Qhc33UwTvIBvnj8FndcZHfNIkjPJ5sCRDQfIugYDnykAkqJ3wmhQc5-YFbt8SfNp9lmNeyuDNEIgo8yntQPMBy5izF0E0mnui9VxIN9jk4apWAiLYA6_iOnRsoWyjF3-WJdxLzVNPPydw8DBPR_x85kWY_z9eFWdlHvtdyxjh3XxpSxWweu9K3R2ztXbAtvzG-rkzRjk136QUf3VHsZQTJL8spMKga70wCkb8MtD00Hx4sxd3TiWpOvRLgJpSLNN5GD685ElOdQkjytJw6g-a9cg0fkam_56Im6tlEs6rcYstOGyPpU1-dMI5VBZesHkFH5VFTSIfsj0hTavZJIbohDccasQjdEPv854x7HXHgYqhOzRHjr32k0hUppx-6JqiOvQU2bCQFMH4jyBc6Wx1hJgWTpEbtBMB12BHh70MWsQTtN7EC8UxA81pSK9O6XDJFZwsaIlneSMbfWSVApRVVPoCM7caimzzPqR6m-Ql-IKhBCyIBbIpNIqXNYfL9iSQn0srWyCa7Fg8dvSn1brcLKy-8Gmw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ0W1lI7uyAGARBtqQkSxiRUw",
+      "name": "Billboard",
+      "latitude": 34.2179349,
+      "longitude": 135.1597152,
+      "address": "2 Chome-7-18 Sunayamaminami, Wakayama",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fd7GKXPexMu_WIP0UfuyIjOqQWPDVxvSHxDlTz9P8ihZACROHKRyokiiXEWyvrEZeoZOwZXJQ3y1AiS7n4kUOXaWrSje0SK2Li6F8q3N0kWtFbqa2Umi-JcLJe0VNhcEUcZV_S8CWitwWQIZi1tOd5f4crv82i0EvsTZSzKSp9LBVkYOfqWRxXzRmiOAGv0C4pe5caxZzpZxtoWOxGBJvR8QBsRsJgbmbitW-D1Q2XGEekkhDZLY0ohH4gG6TiFHXHgAcoLoyv9GGWDU8k0cO_k5qLNgeOROu0SqTiLvoRRB31HcEomGfEft1vErU7ChcT1i8tab5sNCjNsNaIsoUL1ivoIFtMel-IPCxB4dWdUKIf3RW1EVEFJ4aR9e8ik8Yd_FJbome1brTRIZCPh_yYHYkUAy543ydu0_1BRfW1IJCMD06vr3LGPb699ah0yoZRC6c8yeNp5CaPiPm-TbhKV2HUor_o1VVppH0lGZesmKcG4-jI0qgmvpFOmvqt1fa6zhzEys7VfiQ2Sv78ME-U_MXKIjigBN2SBAP7Pn71SPwN80B8eL7sBs0kPZxwxNTY5BF9zcKHFg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJm6GKEyWzAGARVzeXOs6Nekc",
+      "name": "BONAPPETIT",
+      "latitude": 34.2327762,
+      "longitude": 135.1947769,
+      "address": "2 Chome-2-4 Kuroda, Wakayama",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fMkmgv_F1yrYWavSvigF0FnkDSBkOp0NcpVj1L9DMkNLS3dMJ9vusU67QC0QxByFVRWyyCOyn07D7ni_aUEA9G62p8DZP5ToPuCjUo2bQHxI42WJDO_rdfwfB-gYOSO_Dl8MnvbecmIvahUejlI8CWAU2Iah8ECe_2tTyTmeM71mGH_l4kshn0Ua33jaJwrsg2ZcnQJe0AItqM58F0dKkWNgtEam-D2hTbJ6HUQJXAJIHN16aVwu-_WEp5KFP9Murjszl8JZgI-n5Pb81vse_hTcMlt4UFg5Gb0FqbfNlU_qiKXEYni5Nd0Fi0hDs2cBufYWVzgOF29h1qxKFMCyWexU7ellIOJKQ_1hKZtrEcjZ-SpuyVXGnW1unmTXQ6hx3N8UV_qVd7xVCfnBa-tnw0rUZxWOYJ_jq99_jKXhpR7FAG-d_E5clpbY8br6ND0inpXRhzPCkHDJBMcX70BDnSyi11lOZm5gb6FfAgIWy80oXQCj0uQV2TGG5sp6EWHA2umYCSw-rlKsv4Z-WGVopzSGSmOrKWAgM_RPU1zCkMInTNnRe4UFIDADM8EbhRy1aQDZiZdWT7RA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ8ZtbaCazAGARyogVYPUJBcU",
+      "name": "MIRAIZAKA JR-Wakayamaekimae",
+      "latitude": 34.2311151,
+      "longitude": 135.1905101,
+      "address": "Wakayama, Misonocho, 5 Chome−７−8 パーク美園町ビル B1・1F",
+      "rating": 3.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eWD2Jxvk60Glqt454jRLyVs0Vhl57_MmhIWVn9YbinAA1p3vapn-pQSEtDRbLaUJmyx20yOI3zdovBpvF01BBcUfm4XnafrFjBj-4xCNY2x8b_3vy7XWTjmUwArEhgQLiTr3yWBr5CdAan1-E6Em0mhkAn04lwpGifS5K4DM4aG3eLYkuLQUEIyQjiTdqeFIKx_Y34o8VcDLLTDRj_CHKNQUYQQyxDD-rpps893jud7avs_2Ln3EjVCAp-KQF9c5evIfU5JlTk2SJPRJ5DLH7Jbu6l9EbZDap5dFDzfCXMgjbHxZY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:28.796Z",
+  "count": 10
+}

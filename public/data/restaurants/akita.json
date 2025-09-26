@@ -1,0 +1,197 @@
+{
+  "prefecture": "秋田県",
+  "prefectureCode": "akita",
+  "center": {
+    "lat": 39.7186,
+    "lng": 140.1024
+  },
+  "restaurants": [
+    {
+      "id": "ChIJDVPRmOrCj18RQwP29E6NGWU",
+      "name": "Aqula Beer Cafe",
+      "latitude": 39.7192338,
+      "longitude": 140.1179121,
+      "address": "1 Chome-2-40 Omachi, Akita",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cVpbwhgDFs--Tz6dJfnMkS_SHJeGOJj3dNQ2VZMUX9-V5S-c_DjcY6daU-P_g-cIog9zNt3RSnwMzbLtHPeyTWEyeCbUhVQCYIMOmvMBUmSKiGLLX8xSwEf6Gv5dhp9awJJYABCRMi_kc0BxcjFNKCYFi8Ju-fd86sA_UMLB4CnX2e0JOmMBns3ukROmUm96O7UVJj8hgCiClNksBp1NT5r242PV_N9_o3eX4rRQMydju41_L_rgEm7yKDSGdGrm03558_1sNtlF40Pn7K3OM1q9TjvdljJ1JqFXpnazbTkzoUmW4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJByKl4LrDj18RhUA8qMVIDkQ",
+      "name": "BREWCCOLY PUB",
+      "latitude": 39.7131556,
+      "longitude": 140.1230277,
+      "address": "Akita, Nakadori, 6 Chome−1−24 菅兼ビル 1F",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fl698X2aKx2cnmaEuOoR6bKuRZ2OaEPlefxUBX9P1mzAmQY6M81DzYSbD2NkqXqepZ6zuspIX7uyo5RKuPCoKMYYYg5vDhEFcQpFSYBOnKPQjUjjMwbafoQYX60CIHE2dCHhV-YidtpJy_BVaNDX7ARUGxcfC6CF5-qpjJNKMbHqtxZ8pg3SHyr6pjsEzU8JdiYppmpMq74uWTCmtWAJgF7EVvuSPpfCblJ-GiceHFKJF6Xts7LFO2BIMS0SlGKI17LmqFCaewr18btUsBsfQ_ZS7xy3au09Gee0ROlcKDmUArSDcywyQqgIPF7EPrpQvDsQ_TJgbb1V0GT-mnVxvd7X9yYiGjzEPOIBqbj42UGFUquEtRNmcaPSS-c5VAUhqc576sQt0RYCOPk2n1UwxYaEkvLm1r3djVPUWbw1l8llfUWVqBIRlFXd7YFYrCRzr2jzMdnX2-quhrS5oU3enC9DNbiveHED38jz7spt5uflRobw0Xc4m0ygVi78ppV6FfHyuNz5FujZAQvHdusxrWF4uIQUfMaUMk3vbzBu4ET_4rJaZF1pot7jt5cmGSfCojBNkUDyFDrfRXbbwnWpgahzFoFw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-b-Iue_Cj18REm8QTOdceno",
+      "name": "BEER FLIGHT",
+      "latitude": 39.7116486,
+      "longitude": 140.1183511,
+      "address": "4-15 Minamidorikamenocho, Akita",
+      "rating": 4.4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eVHPnrD8xq8yQcqXlZoY9LCjCL0Xhihk1oL-LqzxPsOy-x-m9AZCarZORrwLWs3a9UrOUoDTCMuQduLWxHgGpMyLILldyHtTAhKen3C-VcC5o5NugNxcTAfhS45tFqhAyQOCPL2rB7Juzr4CoREh6tRiZge-O2BQyvV78rUgZBl36SzDgNNYYGPz9XimALpu7yMvyk0llSHY2R1uSKBowfRX3iIVc8zAH-gOzYxlyLKid9RKXXpOSuxQgOl_Q8NGijQvQtbF8a5TR_U7bWi4ybRDDMiX77_vaUSAylCB0XuB_tyjq4iD0l1SNLpz2fx4OI_l6LDhOVm5kcjh-gGKK7F24J_Rrx7P92V4sYAN5mkf33pZGt-FBT7YzzPWl-h9zbjsLnVFMRAsBxubrKt3-8xffGFfy-X459jwKqsidLel8nCs1Cbzhl00BFUlmrRe2camBrTwaMy2My4W4QIq8sf6ZO6VjBZkw_Hkpxiwec2VM3CZwmGRMMxS9D0NtQFzjGICP5PE8VXXLqw53R7kPBF1X9U8NSzoVkJ-iSiY5c52HxNgzzbox1tQUtNhHn3py_kbCY&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJA7KvTe3Cj18Rw-PsjwyIY_w",
+      "name": "ベルジャンビアバーゾット",
+      "latitude": 39.7146834,
+      "longitude": 140.1277074,
+      "address": "4 Chome-17-30 Nakadori, Akita",
+      "rating": 4.5,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2f4iGQBanyk5slogZ03Ry9I-Kjrl1w3NIP7gI5q91WF91nvaXLnoLIOkVrF_rg_HNcOTaubftYRjy-lVPnx84DU8qeIJLQmOTeTRNXjanhYX-oDc7OCPmC73g3bj2owOQPs5wq-hWBWEcZ-d3ugrVWdF34M_M-YmeBRgro7qubfCbGFOjrTVODe3AJBFpXZGffgp_KoJttz-Dl7rn-sQkMJJydHDVeFFJjTKkHwJ2i1Q2fiIxGjqw_xG-I9DXRE9ytxb0LU6oJEypGb2e9UgIptcTEJBKEeKp13-Miyl3jY_G-C_O4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJCUHm4DbDj18Rv5fgPRWYJzw",
+      "name": "YA-YA Stazione B",
+      "latitude": 39.71684,
+      "longitude": 140.1292969,
+      "address": "Akita, Nakadori, 7 Chome−1−2 3F",
+      "rating": 4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fTwLT76iBp6FOscATY21XAhOyxVdC2ccgo9jHgEm01U5mg65iWznEHUSp9ePrZ2FJWXgP9PXaH0p7Hc4duf0OGvi-EsMepIPAVJQY-fWShC43ryuRG1RLGSCeR4Y6xFz13_TxVpayi9bqRF_aXBfU6YWOfmfs7VTm97MemG3Vmz2m9k1mfIrW5SbOXhrLyynSFMrneAFCz2sL-n5R5VxrnS2aC6M9h6k_CrZmlHybym4Lo9lPYSG5H4W90t2zI8N5sc3DxmHuXGaaT3kMr9snXp4jBFavdT2iA4Ixirg43wzHikb4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ-wEVmcXCj18R-6RAfOMUyWs",
+      "name": "SUMMIT",
+      "latitude": 39.7220606,
+      "longitude": 140.1026796,
+      "address": "1 Chome-9-15 Sanno, Akita",
+      "rating": 4.1,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ft9a4btfBxoFmtzArE0_rgg7DDoDqHJNh4l5qwW1sPwBcJ_haL3mausVg8py09NJRJmBMLi0YY8emdpwxFCwQ7NEhgA7EFFXgAASZKjeier_DJkaFy_xqCuBUrpnwwhaHZvSrJl7sZWAaP82lYXEE4H3OE9zyQ3AayZI7fvnK42vwN6k6k-F1-FeMsK8ZVXrJQtYS7w-pMhVcO85wkBCYclqWeD689do9yIMxuIPUn84_IFhKbQI8wBVLeAzQYr92dPCGTm4St2-9XYV19G-xI1rLGO3FGJOPftj-f2QHUII5C&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJr5M-ywjDj18RhJywkrowi8A",
+      "name": "Cho･Ra･Bi",
+      "latitude": 39.7163556,
+      "longitude": 140.1163308,
+      "address": "3 Chome-2-31 Omachi, Akita",
+      "rating": 3.8,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d5XGg6pPioVKsy5SXx3nbfAd0ioIO9HCgc0vuCVbzNwRXua7rcQXtfmXgMqSogmEHt9hqbDImV_o_vkm-3h9AvWzl0gctTknSkNuTBxgfhTHzLpEEdGZ4JTsWsGSOfcB_6RoI8z03dv9d44elIIuLxngW3O83RhvcPDv-2wb-ByVGkiJBFqTs_mSuUwWz8H93b1akIrRzuegq2pYZwpybKGXmkP81tav6Sn3TrclKMF70WrEAaWRBlxW7t0w0Y5-cAHA9x1vA9FNq6Ry0WxeW-WElcvL4heVH5Ch4h_iybapEOQUj7tDCgZInhUUTS3Pwyk3oUVbW1yUJJJb-XT17isR4L2BQAfpz39Dauy18tgGsIsYGhUDCf4ZyNHeNefyBK0SqbnFK75duuGZA1vxqotHBuLR1LC1fitldmDN86gxK4hiY3S7MZqtTIo9htvvIqTiJJtDfM2z64Xb_76iauFRqjaalY6LApUI0OdRpr4ysS_1_EcAP-DPh3oMfsui9fwI_myv2p7Yn52SSWdNhssWw3jsVqzMoAD2gC2nINLyvXdLX1mn8M8jYQbwRUk6Kf0qpoQdpMhA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ__9Pq5PCj18RvDHTAk6k6aU",
+      "name": "えきのビアバルMANMA(マンマ)",
+      "latitude": 39.7171073,
+      "longitude": 140.1292129,
+      "address": "Akita, 1, 中通７－１－２ トピコ ３Ｆ",
+      "rating": 3.8,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eJMm7OsN_ulcvmAGODUx9nvHDlWWnESJm7k44TGSgU4wmlpX_R0v_S6zy7yW9SAPuXH0wLHT1zD-2jfGb88i4s4bDFwhWntWH17r_KaegL1H67c3EkUbl_drR5pRF52qXhDh-GAATev0blMJ1jmnE_7IZfDGSen7c5LRJ7CGaGhLB9UnfvpYUtwEA2QViwqNig918rBYW2_g0kLXZ5V-fW7Drr9rq3v11fLza6xzZL5K1I80Uk2ssbxOT2TcYBGkjpvoGyQbdU8ZUB2AApecBGeZcD1I76GSLMmf4CXe4NxqNn3_n5IZR5Bz5nTINfjDJX61jgh9XD4EtyG353pOb91Ty45BNclgiL55GZbAiN7L2Nmr7M1NNfAgMa5MaXkQGH760zLETtSAQh8yxsgefht7q28YKubmlF2DvqU1nOvKaomnWIRC6UpeL8RxHea4M2LUEGhHqTAnpoe1eLv-6RWfBUEVU9fCy3PHlPm5GSRywn5fI3t8tBCNTdypzGoEVTBhMZvJjok9U4GXkG8DuNkwdEbBx6QmGr2ixqQgnXkZo2952RUQtkviVmZjVBSYBcMsxRquLHUA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJG1uYHyzDj18RHpbg8R32jzE",
+      "name": "ブランジーノ アキタ Branzi-no Akita",
+      "latitude": 39.7166746,
+      "longitude": 140.1244921,
+      "address": "Akita, Nakadori, 2 Chome−2−7 トラストワンビル２１ B1階",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dV2JkFSX6OJCGorg_Nslc3yr1yrusw7Y5Wfss_mwOmaSIrHaN6tEg3xA7I6AMBa4nrDDXMoyf17HUXmKE2XJr5f5cCXycvWE50ZfW0ji4Sns1m_WKC4mQZnLYB5s7NiApimq0u-xYjGKCruvKWudQnvEeFgqTePCAHrdad8fJc8pYsMIX5NsAC1DHTFl5RgZWMec7IBd4TwbK4bv24-vWiI73yhuBriDPq6Pt5NYvCT9HcCjZk8zFIeFJqzTwhnz4bwIyMoI4HYzuWmHwHDxezOtCsgVDw5pPuFvpwAQftWu4w81k&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJheagDwDDj18RLRGwdzAboT0",
+      "name": "カメレオンタップルーム",
+      "latitude": 39.7120002,
+      "longitude": 140.1179193,
+      "address": "Akita, Minamidorikamenocho, 5−11 金子ビル"
+    },
+    {
+      "id": "ChIJR7rlRgbDj18R64TwKrg-51g",
+      "name": "Akita Kurasu",
+      "latitude": 39.7168173,
+      "longitude": 140.1293187,
+      "address": "Akita, Nakadori, 7 Chome−1−2 秋田駅ビル トピコ2F",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2d9io5g0vk3QB0MLa9wcYaxGOKJGLftDYeCTMFbpFreoRa6XVR2QCVXmFbpup-g9ZHBGJkN0RttmQKLE0PAeerTygilnf5uKz3fHoZXiw-2QkaNkn1T3PoYfadR4slXEocRXElUOEa3E_xVaT-lEgavgNULOrMUmGwFCYr2CTXWV1cG1PB3ElLWW9ONavAe4xzQS5LW8vhqisVKrffPfN8eDDg0mJWWyTqJpehxxHxE3Q0cpQRiX6qgRWueSNtAR07U4rE7eWq4F3UApJfx_CBCO6stjDNECrO3DdOzdjaPCOsqHjygdEr615u2vN7T3BQWJJeEPeCEtS7HxP1UI2tOFbVXuOmikaG1k2q61U7n_E8vzFdFkUv5NuCJhZHpHboS99ao6JtQ9xIEcN29IafhfMgWky6fTIqXJfMUO_YqO0mhysR9Y-enkUXSOzLxiYam8olPerVDKMh3_1RAZKv3Ltk2lTp5o3BaPGurEp_JnvT7Hl0HYPZl0_VRdNFmpyz-M_QwFWuh9hLPK1kJBOSgT2slCONrLFAMueXE1mVG6ggS4P0GTelTb3E_meB_4AlgkYRBMFWy6Pn8B94ytJzrCW0&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJAyUivj3Dj18RdQWpUfJXpMM",
+      "name": "Jeera",
+      "latitude": 39.7143241,
+      "longitude": 140.1164698,
+      "address": "5 Chome-1-7 Omachi, Akita",
+      "rating": 4.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2emQ_fWEwIjrPO1MqqDd044Z-Rq4xjXNnZiTn3r72yNeOm1-RJ0xxdhyi3jVWJE63Eb1313-WZ8DQkJ79gRWKgQ2uUnyQvYfkPgUiXaJVipkbkNPpdRp3UKDP0W2GmW8xAx0oNiDXI8fS5_xt01YKW8tzY6wCAdRsdPOWeeStB8jaV2e-75_S_ruzyuLWOTVYqzU9K2rwKD7b7HAW1-wp4VgVKuzM0mK_bhHkeJqXRIG6XBNwRE3jwaUKauD1oMxBM34MLQksMNAzt4iLsXxSVvolGlHvgTwgftoXZA0OKt4fE-zH7dk3Wgfrxp5RTZI7BtiJm7mVGeJuddgbwrqL1taOdadr5F-dbJDXdt-GSpGNBndUZ60v3o1aKJ4-g9hZsrmhL0RoJKDDj4QxGEgO9xfteDJvC4ZJasNBDHVlkl7RGnHXEs47dzQZ3zZ5gVxY6RFdbiGyPkqDRqYQBQ70Ep4ELhPtU-7SSBge5DQUIdXr2NXbH3lS1Mud2e7WROpLUPgeck3N9lQq-CUObECgfuYyKTA_bmjwGnakEcES6HVzWR_U-ZCIccykxBCj5g01Q27gNLfI39gLKeMByU9y9c9b1HoQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJY04gNuzCj18Rxd27ycza5Qk",
+      "name": "Nakadori Chill Out",
+      "latitude": 39.7143321,
+      "longitude": 140.1217821,
+      "address": "5 Chome-8-12 Nakadori, Akita",
+      "rating": 4,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eKvLeNy-MNZsTAXEmVuXe2ilttzx6pvj_Oymegncl3CclwXkUtxgoF7H6qVvUlGZbWFnPEPcHRrzPpCUN7hfn7a-Not3ndFj9sLClutZQc0WBRThmnmUdgZ51KUEFrrSguTe2digY_CUAjLdeBVsG6VwbIGHEI1bDnRsoXXYsbYngC6dgV6wlKE1twwAxCOHa0zt-93MUdtsD7WQA5baTAH9Q5WiOs4OjBcOc45ZyL4NkNRclBjSQwNZQBt6WFzykGjkhH8R8QWEZjFt9-6GC_4Z3B4lKGO22waN97LxDfjq3uJD2oSQiSKXCes0CDUP0nlhq7oKAK8Ne8v2hDLQH_jSdMp500ITlKwQcO1Xm-LLYwJp6G4I-2JoygiMwFGk77RQr8FXLJVpGq6xzfY0_HmPzkiZ3LlX1TwxCJJylO_bCxPz2zcL2Ixbblv_490T4FFMqCu6zaNeQW9NHDbJ5FOmK2cqXYj9VDWKEY6ODlo_f6eanoubauXShdSp6OtXz5ji9XtBuNaCXn-mnLC4do7OrHcRbKSa6EzPZWCNPeI_rSArvNgc87p_Gvml6-Gvewgl6_-cmEVA&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJdW1J4rPDj18RWJxcNNsJJFk",
+      "name": "Oshaberi Kinoko",
+      "latitude": 39.7167758,
+      "longitude": 140.0910592,
+      "address": "7-22 Sannonakajimamachi, Akita",
+      "rating": 4.4,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dVUUi7EfE2ouhlvPik3qcuBP9DVuJ4uIR8LEAIXCS_YHSraBVjTaW-R7Qcwn8ezYZJ0yAp_Tyo_WR6dNO74NJJME8VWvfK7ovBExURPEjwJ308vMPILvMmqJNlPytncbjyfc5lWanyGQAeQagSve84DUgXwgHIQn_7ejBzG0y0-bCgl5znkrX_aQABKRaHq3t-sfqmDxN30eL1cG6h5mGqotg6gz_adn9ubTtQh625maO5x9vzDpx9dHwH8g9vXLaRE-tpsaCySZELa8KEwX-ftLlJZfsBLYkF5XGwrHIZ1MujEnBOzq84cYswQQ-qWB7D2_TVx-qrdlJk4839S5xBR6WiHHfNQy9Udmj56rZzjbVwTIf2C1w4qpwzc7nbnqCksud46ryDK44jHJvA22K99lTRXC2IbptzO4cDD91WS6ilF6EVtUXYEKuOtY2D7RTRAZ9Q8Ka-PXmRXQxAxeNSeqkU0FPZbnkk_1ItVbOTFVK_jJWimU5U1Gss6UdWQcm-EhirZzNFg8oq2yI6ZtJYpHBG91NrqL0XL4tekCoSe43mgyfcD6mi58xyXfrsVwb4SUWw&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJ7V9VDenCj18R63Gw0Qtas68",
+      "name": "ＷＩＬＤＨＥＡＲＴ",
+      "latitude": 39.715595,
+      "longitude": 140.115272,
+      "address": "4 Chome-3-20 Omachi, Akita"
+    },
+    {
+      "id": "ChIJX8dvSO_Cj18RP5D6m2Jqg8A",
+      "name": "Kuro",
+      "latitude": 39.7130283,
+      "longitude": 140.114898,
+      "address": "Akita, Omachi, 5 Chome−3−31 清水ビル 2F",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ec27BiRWrlhNat3GecRfO-1PvVTGSHpJPh3COgSxGo0og7RJc_ojPXJ4YF135C3oHXFbJaX911XBNj-JOYrOUEy1Ue09MjzQB6QwoNrX3gk2zQDPmhgnjf0pLACaW6VkjzJFnrUMYuYRS7_bgZvtgE_KpwrJp_O1Mf8FldbGAoPJkFKxL1R6zfDIzTCFuzyFj3BY5sQv0vJ9RuP5VzVlol-so1HHo3HuY92yI6lIFf2B8N-DsE6UUALKHxHccqnhOcVpkNMD4aT-ZIMIB0V7NzCmFHRdzwFWfTGPXhgdx3sTV4JrcspZblS4HzzlTcbWOHtkTy9uxL7q7sW4D_4rDkNqA5W9i0LOZKOjBBLT2nRRxd5vF0avzu9FtZ6EJ7p_b2VLbEwzaxf8qrALLou3Fek3XRVl3Fq6QTbFe0v6HEW44GaBvQlIW7D2kcvZhdxm4ec_AH43LNYzvjOCZCtIkoAMAcwRjd2ty48WrUow6SqVMJHGJtWjy4ScqMjiZgXPgQnFnjK82zVjpZzPI0-Gb_ovqOolKTq1knzhmK06vscYprcebjsyGAAUulJAQFwnmoRzi-IshxF_VRkAfOh5Gfni8&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJjblsitLDj18R0bt0Uxu8MS8",
+      "name": "比内地鶏串 Sot l'y laisse〜ソリレス〜",
+      "latitude": 39.71121369999999,
+      "longitude": 140.1165943,
+      "address": "Akita, Minamidorikamenocho, 3−44 川原田ビル 1F",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2et-21kt98JuRLt1oTyTfBCro7WHVRxHNm0YkQOGSqwlUjV81cd9cLAuda3YyktQIq_EULx05uPseidUvon06_e8iN-0AOWgXfosJ_Yh0B-mwcnUWCopjbEyqRcmyojrIU1SIMC4nqLn8k5e-BE1nLH0EKPK_zhB_HVmp2qIogVs3793bLHCvdFn0aut_gtkwXBSapdIUaHJqY5_baE-4FvQCvoIeDtmXhkjbXt9bXiQakO2ONzNQOAlaDAS0qexosLz-qVSBAvkv8q5Bh_Y015zbzjSzo0mtKs7q6OEj1bT5DExaU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJQSWBNY7Dj18ROv1jJSsvb24",
+      "name": "Local Kitchen Rails Akita",
+      "latitude": 39.71725259999999,
+      "longitude": 140.1291271,
+      "address": "Akita, Nakadori, 7 Chome−1−2 トピコ 1階",
+      "rating": 3.6,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2c5ec5wsdNfWdOTNgVwWcGUfWcd3eJia1aW8-WKjHbvA7FtPSTSXh8yQlIXk4DeQxCoKoIb-TkyEA-Z-Gnfb66Rz6vdGdQm9b3Tj8zKZBF2ixRRQRBWhgDM4fs9fKApV5TT3H5ZbVeZ3xvC26iK6gtSSop7-shWjNTBM3XC_DEXhfgSMZTjl6VqSKsBLTWl1JdInQ8nAdNGbBjaVhTSCz28LKKdAracDCy8ZbCRCpjdSb70X5g1h9Yqem03Kg3_a656OUPJuiBCNu4yGXQUIMzpqBWiWUigfs2XtdknXtUh_7zCt_A&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJhS9SQe_Cj18R-G-6ZUHPyTQ",
+      "name": "横町酒場熊猫",
+      "latitude": 39.71281219999999,
+      "longitude": 140.1149558,
+      "address": "6 Chome-2-3 Omachi, Akita",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cM-wWHpO5qms0kl34EDZ4Zeimf5-gvPTu3b8WdefgtZCV41EBhuv70zCZhf-KWqazdEuPxJtdLu-ARcXmNKvUGqR5aqAzuU9uv3RFwFkd7259n07BFQ6BeolqgxWOikPhksUh3NI0I7EjIxXxJcTZx2ABk10LK_m1PleS01cxG71ulsK4vh5xElTk2koE2W5WU80VO-GoN8V58dYmXSS4VKn6ctaepBr7YGo3F38FvXv53pmARtUp9_ppUATDoOQlmOE19vAAIybM8E5zvOlCYp7Vll3gXmXrT2nyKMhDGTDtb4201MTKkP8A5jcciKntYOKt0NsoFrkRGQ7bdQJezsuiugCJ5AMrnh6K3CpCyF03o1kv7JY71nXXbpg1Zf3Oi4Dn_eDzcWscdyRPZApOotZrN7twt8kAS0gMeHMZ6g1-5YFol4QZILYtDtHLjvEH0PUed0GNPBD7zvjWkFy3BpYsWQfQBrNiDnAyKW2xhFXQ4oCM53hh6mnjImOj26ltsd92uy1by_pE2lg96zJCgIbUcxZITMk_p0IA31D6CQFxrqq0qP5DFNsruOQF9k1bIAeu6&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJSQg_NT3Dj18RqJjqITuFo0A",
+      "name": "Isabaya",
+      "latitude": 39.7174179,
+      "longitude": 140.1292888,
+      "address": "Akita, Nakadori, 7 Chome−1−2 トピコ １階",
+      "rating": 4.1,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2eUaNdvMgM6DPtFDc0zYWhr-1iepgVq8l-CR5HqlttFv5aISgfRK5exquu9Q-QTyuvfUxo9c43UG4s_pVTTM1DjaaMs9TBH-CKSjTrS0qj3O7jZ9f95TIjDer6NgzQKPYik_7BpbAAf9dsnYWRyWPhcd0HqMVFjnS-soGf0ZSb7FwiyrG9CshyaNS-7_v626ja9whq9eqbzqr22kcYzOoB6Hdo-Suxo959yAgxXA6-iQgDBsjPLM3ch8BmjvNfT0WFEs2G_Qn_ueGqrNOBvinhAl2_N-JJ4_sqlsc710Kfackzc9a4&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:07:14.677Z",
+  "count": 20
+}

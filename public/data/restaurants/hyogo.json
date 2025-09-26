@@ -1,0 +1,69 @@
+{
+  "prefecture": "兵庫県",
+  "prefectureCode": "hyogo",
+  "center": {
+    "lat": 34.6913,
+    "lng": 135.183
+  },
+  "restaurants": [
+    {
+      "id": "ChIJoSSxDACPAGARhnuEppKSLMU",
+      "name": "TOTTEI Brewery",
+      "latitude": 34.6802021,
+      "longitude": 135.1965328,
+      "address": "2-1 Shinkocho, Chuo Ward, Kobe",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fy0yZyRJJKLQ0UY9csVPvN_2AtzACzKC_lblbDt5jS0Yj0B49I-RibzkV24Xgc0D2qASfwcIyfLedB7qRZpbEAUFNYL1agH0RUwsztlpkmDzfnjqnu95kYQXelw8RJ2E-V3IYIMt7LC9lo9hJGWN8__MucqA3yq8kbZjHJZhXEwkjxOnzJGDxWeQvofpZ2sywVTMvdgOifuUwatPCZtwzdIyncqUvfYWaMRiyF3ixbA9qU3lVy_XezU0k3akm5Xh549AU64nQG2qdmkrpN5_UQJ9jbtrvlxq2NRVQDyOuqj4oGvFQtaFa0RphqzK4hMMzMFHbQYeH3bafAHw9PiyhArMIVrXs46zZzkTaoK8apNexM1dD6jVAbxXOZIIulfgb7gwvjE_g6tLVJqssZ62hJTWHBR1RHVMCG7Zcykdcfa65WOgzluFX4T_NagOtfWriUk9zuZp3oYP8foCgiX110WREIkLyIp5Sbs8Jf_yNDjfAUIW9UvwiaGMobglrrxhtRTejFpgkBG0IOZeVbsRQ2y-4KlUJqWbqDUomhj8oxQ_2ntwi_3Ex1zcOr5N_Avf8u84eOszQ8Gx5CUGkpaWMdrojBPQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJU9OUrUePAGARKou6mOGB41o",
+      "name": "PERFECT BEER KITCHEN KOBESANNOMIYA",
+      "latitude": 34.692227,
+      "longitude": 135.1903089,
+      "address": "Kobe, Chuo Ward, Kitanagasadori, 2 Chome−8−3 １階",
+      "rating": 4.6,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dnJ5-2Pl8D-6qmBf7onpqrfijV7efNUURutFwSe3_ZqNfKimDKQURdNgFhaXL-TJO7-vZbq70Zwcqt3lKX0GIhb5KsAUFRmCHt52TTPkZIMdzYOdZ0XpBDTRayCjNFKsoMg7auyUORwfK0Tv0BZTPZORM6Z_PC5nc57bBdv6VK3KnDS6VaIw8NXXUJc3b822eQf1a27XD7gD82pNsM1pEHSfUShS--pjjCfyBbX3cO9vLGx7chVsNzUCtUIeR16KWv0PMeDN2siNeo8yeTg0tjsTWMMWunnsNRVRcmnj9uqmCqSfyHa4f3-SD2dMnBaEzqOnz7EmPfREdy4PTvdLoSd4bFZsTEE_WSIaZVImDOeWWWbnPN4dz4hgN6vQsNZZMyM1JwI7ldgCPn6CjcTfdlEe1i0VDmrs9Lrtp4qGGRIQWVf7lB-birTk5RR2GSilCN7eTlUtgVy5wrm7YaOy3TrBSZyFudyGdSFvv8Zr-5drPhFl7hL0pgpaph3VwNXhB-EGah4oBEvtsdKCY_Fgx5pwkXKO9lyiQdDt6X0EUtCtIc2NL9Dho9w7rlacnqrcGqVoucP4KCwEVGWJn2GuRh-4JGMQ&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJTRP6POOOAGARg9_jrArNf8E",
+      "name": "BrewPub Starboard",
+      "latitude": 34.69220019999999,
+      "longitude": 135.1899899,
+      "address": "Kobe, Chuo Ward, Kitanagasadori, 2 Chome−7−12 ＰＭＰＴビル ２F",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2e0DyOdVwmNjatO4STSoNk8_uMTJrdViN1ydErbc9z3EdRZywAx7SigosOLQ-kRJkom-H-frVXvhC2Jb-7U4FQgFwDAv3BXB9xeE4m-8ZgDeU_G9hWXnm1YuM5rxWx_Ka9uIq6-caWz3Z5HWEXBTIYi3iLd0hbh-MotD-VYSitZ-3539GOGhNFiNViduc5X_4n2SiWS2sMf7U4oUbuYgFBtCWaifemX7-5CrVnzqpSYPDJJy3S4MHv-BmvUpKpstMnT6JMuL9nKeqsjPZ4wBcWE4pOCJkbtY6XmZvvokqMw6kJwE0I&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJWzxJ7uWOAGAR8lhcdLNoGIA",
+      "name": "In Tha Door Brewing",
+      "latitude": 34.6800185,
+      "longitude": 135.2702119,
+      "address": "9 Chome-5 Koyochonaka, Higashinada Ward, Kobe",
+      "rating": 4.2,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2cvgRefaG5W7tZcPB-RFNIkS2zUiEWkNXFMJDBFFP6o9-eSXlLdLWHiBroc4q22AVgQ6D--ubPOu1HNVEoMk7ggqraKClM38XGyCi4Zov3ineI7S-lbCwZGW1-avOdc36A5DU7KHXaMXxneG4AiDudG1MWsxoj3NegwhGcunNg5B1TI7Y4EHbQf-hubjXOg3cZ2c7Oe8J63oQxJ7Bn_v9I9aDyBhLqwK-6KA5xxt5AF_KWxeKOiSoPaX2pO_sDfLFFQxPrgDsn5iR3QHNBWdywPqpUmKLIBx5rTYILmR4q4JunCjLg&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJw3IPBxyPAGAR4ueoFuplGhA",
+      "name": "open air 神戸元町店",
+      "latitude": 34.6896555,
+      "longitude": 135.1904982,
+      "address": "3 Chome-2-2 Sannomiyacho, Chuo Ward, Kobe",
+      "rating": 4.3,
+      "priceLevel": 2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2ckrjRMcvbrlaXnHUkooo3ElKFdQuK2JumMTFu7y2HqMJIk9kxZDb6Mj2sw_OXN8xadn1qWiMY0BL8rEV5iGrYMR951fpXob5vRUOg6ZY0Qf5IFFXjKCP3dTi5rhJ1s2XaUnm94jhAQ1bGv_h0cGbQIel4C0YfbmyMYp9eoQRZFPrRqYwCQgWVW6QcX9bbb2FnE6DTXzwdCx_hsMt77JWd_HMXqZ5ft0mNQIL8EQUqZpMkfTYEVkyvFuh4VMdzJf_ss4coPkKHX62rf-dQiJk0zeXtmN9VU4M5weLGXT-WBraTfpgs&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJjc7LK56PAGAR34APKZyqjmc",
+      "name": "BEER＆GRILL Kobe Beer Howzit",
+      "latitude": 34.6933455,
+      "longitude": 135.1929743,
+      "address": "4 Chome-2-1 Kanocho, Chuo Ward, Kobe",
+      "rating": 3.7,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2dsES9dpYPIkda1fCs9bEaBp5UNOAW370oKpNefZPipOtiaeOPVj-TEqUBIKXX_bdIAV4hI6ZkXzMqmmbJbLOuRaRSLjJA7uHLKsUPHAFQ3jwauvwXMO87rPagF1v8Ks8Ar8HU8uOGc1RMEq1che2ehRmqKNIGyRWNM6iWNuoTa0FajTFHKOP34aPKkW-MSaf4wYJEykM2BwYAN6ARus0kBXTUT7LQrDNNHNZRqr7yOIpP3ZSDLNvzjTznyDy9UORYAOcpLiHG2uzFyJ0ceZ57KZ9mTvOFlTtxGeVKX_CdLKrHsTqo&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:25.792Z",
+  "count": 6
+}

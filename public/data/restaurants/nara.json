@@ -1,0 +1,30 @@
+{
+  "prefecture": "奈良県",
+  "prefectureCode": "nara",
+  "center": {
+    "lat": 34.6851,
+    "lng": 135.8048
+  },
+  "restaurants": [
+    {
+      "id": "ChIJS5KhYQA7AWAR01JxaWa2N74",
+      "name": "YAMATO Craft Beer Table Nara Sanjodori",
+      "latitude": 34.6820778,
+      "longitude": 135.8236193,
+      "address": "36 Shimosanjocho, Nara",
+      "rating": 4.3,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fLb-Ti-yevaQDpZhIVoLEkpZTgwTn4nnPjy1JsNwFvHLHxQtk2g8Bv738LFQgLU6FxLIGJT897GrPZzsl284qG_yowvq7TxXGUkt9oqYGWlPGgdQe7YOQQHaIIAdjNFPqdSjnMlBU5IudSx7pkajOUQGeTGMaA3NzPpdxnAJYzOhlDtKejUHywZan_UpGuYQ97sQlAPjO-me0ApTsQayo2KvW724S2nUELLoc2DHxWzQJkQX7U_CXslEFKJcZSRkW3r8gJI0Xx-gXV1pC2WpQD6Zl-BHunROSx2le0OU18y12aLoM&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    },
+    {
+      "id": "ChIJM1PCgX85AWARSiJqGkHZ7-U",
+      "name": "GOLDEN Rabbit Beer",
+      "latitude": 34.6798702,
+      "longitude": 135.8310667,
+      "address": "30 Higashiterabayashicho, Nara",
+      "rating": 4.2,
+      "photoUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=AciIO2fxvz71UCPdI2lxgBoYhLy9frNeAUL0WxYAssXj3u-fi8TRG3z8QUBYbZ6mn4QRAXhBIKbqNRLhrdUuJdDjBtd0Q76kANw8G44XB9oztEZfEFDcXDouQPJIsC4pSORQhxhyXK2Kqt82XesiaLDpwolw39DhxX7oZ6X1RuAGYpXjNlC8ZNYe8WZWj5sZdc6EBoxtd1jFlzWu8vhUcfusklDtS4Vg5Zx2gz12-cjIekY9Q4CDbGPd180rySsUdaae-qYJRR3EEfaLjqvrtwncR38_B1a3boVYBRUWaj8PTBzInqOo3OU&key=AIzaSyCgBRHWlWKwpGytHcJJ6j-md6tRGxTpRj8"
+    }
+  ],
+  "lastUpdated": "2025-09-26T17:08:27.298Z",
+  "count": 2
+}
