@@ -15,7 +15,7 @@ const createBeerIcon = () => {
   const iconHtml = renderToString(
     <div className="w-8 h-8 bg-amber-500 rounded-full border-2 border-white shadow-lg flex items-center justify-center">
       <Beer size={18} color="white" strokeWidth={2.5} />
-    </div>,
+    </div>
   );
 
   return new L.DivIcon({

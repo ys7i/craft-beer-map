@@ -1,7 +1,15 @@
 import withPWA from "next-pwa";
 
 const nextConfig = {
-  // Next.js configuration options here
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "maps.googleapis.com",
+        pathname: "/maps/api/place/photo/**",
+      },
+    ],
+  },
 };
 
 export default withPWA({
