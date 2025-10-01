@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Restaurant } from "@/entities/restaurant";
+import { createGistClient } from "@/shared/api/gist";
 
 interface RestaurantData {
   prefecture: string;
@@ -81,6 +82,8 @@ export function useRestaurants(prefectures: string[]) {
         setError(null);
 
         const allRestaurants: Restaurant[] = [];
+
+        // 既存の都道府県データを読み込み
         const loadPromises = prefectures.map(async (prefecture) => {
           const prefectureCode = PREFECTURE_CODE_MAP[prefecture];
           if (!prefectureCode) {
@@ -107,6 +110,18 @@ export function useRestaurants(prefectures: string[]) {
         });
 
         await Promise.all(loadPromises);
+
+        // ユーザー追加のレストランを読み込み
+        const gistClient = createGistClient();
+        if (gistClient) {
+          try {
+            const userRestaurants = await gistClient.fetchRestaurants();
+            allRestaurants.push(...userRestaurants);
+          } catch (err) {
+            console.warn("Error loading user restaurants:", err);
+          }
+        }
+
         setRestaurants(allRestaurants);
       } catch (err) {
         setError(err instanceof Error ? err.message : "Unknown error occurred");
